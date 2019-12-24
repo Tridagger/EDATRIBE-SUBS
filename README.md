@@ -1,8 +1,6 @@
-SweetSub
+英配部落
 
-![](logo.png)  
-
-欢迎关注 SweetSub 的 [telegram 频道](https://t.me/SweetSub)
+欢迎加入英配部落的[QQ群](https://jq.qq.com/?_wv=1027&k=5kCsfB9)
 
 ### TV 动画
 
