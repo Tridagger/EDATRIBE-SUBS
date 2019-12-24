@@ -19,7 +19,7 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
 
-**英配部落** 的字幕在二次使用时默认遵从<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a> （Creative Common BY-NC-ND 4.0） ，在遵循规则的情况下可以自由转载、使用。
+**英配部落** 的字幕在二次使用时默认遵从<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a> （Creative Common BY-NC-ND 4.0），在遵循规则的情况下可以自由转载、使用。
 
 但是，对于调整时间轴用于匹配自己的不同片源的小伙伴，可以例外在署名、非商业使用的情况下，调整时间轴，自由转载、使用。
 
