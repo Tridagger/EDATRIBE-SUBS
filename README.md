@@ -4,17 +4,19 @@
 
 ### **TV 动画**
 
-| 英文名                                                                                                        | 中文名             | 集数 | 状态   |
-| ------------------------------------------------------------------------------------------------------------- | ------------------ | ---- | ------ |
-| [Teasing Master Takagi san](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Teasing_Master_Takagi-san) | 擅长捉弄的高木同学 | 12集 | 完成   |
-| [Puella Magi Madoka Magica](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Puella_Magi_Madoka_Magica) | 魔法少女小圆       | 12集 | 完成   |
+| 英文名                                                                                                        | 中文名             | 集数 | 状态 |
+| ------------------------------------------------------------------------------------------------------------- | ------------------ | ---- | ---- |
+| [Teasing Master Takagi san](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Teasing_Master_Takagi-san) | 擅长捉弄的高木同学 | 12集 | 完成 |
+| [Puella Magi Madoka Magica](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Puella_Magi_Madoka_Magica) | 魔法少女小圆       | 12集 | 完成 |
 | Fate/Zero                                                                                                     | 命运之夜前传       | 25集 | 进行 |
-| No-Rin                                                                                                              |      农林              |  12集    |    计划    |
+| No-Rin                                                                                                        | 农林               | 12集 | 计划 |
+| No Game No Life                                                                                                              |   游戏人生                 |    12集  |   计划   |
 
 ### **剧场版**
-| 英文名     | 中文名   | 上映年份 | 状态 |
-| ---------- | -------- | -------- | --- |
+| 英文名                                                                         | 中文名   | 上映年份 | 状态 |
+| ------------------------------------------------------------------------------ | -------- | -------- | ---- |
 | [Your Name.](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Your_Name) | 你的名字 | 2016     | 完成 |
+|  No Game No Life: Zero                                                                            |   游戏人生Zero         |    2017      |   计划   |
 
 
 ### 转载及再利用说明
