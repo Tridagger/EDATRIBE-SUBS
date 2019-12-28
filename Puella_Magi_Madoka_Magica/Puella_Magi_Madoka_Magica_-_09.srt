@@ -1,1635 +1,1634 @@
-﻿WEBVTT FILE
-
-1
-00:03.430 --> 00:04.210
+﻿1
+00:00:03,430 --> 00:00:04,210
 Ah!
 
 2
-00:04.790 --> 00:09.330
+00:00:04,790 --> 00:00:09,330
 For all the happiness you wish for someone,
 someone else gets cursed with equal misery.
 
 3
-00:09.850 --> 00:14.000
+00:00:09,850 --> 00:00:14,000
 That's how it works for magical girls,
 and that's how it is for me.
 
 4
-00:16.990 --> 00:18.030
+00:00:16,990 --> 00:00:18,030
 I was stupid...
 
 5
-00:18.870 --> 00:20.180
+00:00:18,870 --> 00:00:20,180
 so stupid...
 
 6
-00:32.940 --> 00:34.420
+00:00:32,940 --> 00:00:34,420
 Ah, Sayaka!
 
 7
-00:47.440 --> 00:48.390
+00:00:47,440 --> 00:00:48,390
 What the hell...?
 
 8
-00:48.960 --> 00:49.970
+00:00:48,960 --> 00:00:49,970
 What are you?
 
 9
-00:50.560 --> 00:52.220
+00:00:50,560 --> 00:00:52,220
 What have you done to Sayaka?!
 
 10
-00:56.390 --> 00:57.510
+00:00:56,390 --> 00:00:57,510
 No, get back.
 
 11
-01:03.500 --> 01:04.860
+00:01:03,500 --> 00:01:04,860
 Take my hand.
 
 12
-01:05.220 --> 01:06.300
+00:01:05,220 --> 00:01:06,300
 What are you gonna do?
 
 13
-01:07.730 --> 01:08.600
+00:01:07,730 --> 00:01:08,600
 Just do it!
 
 14
-01:15.880 --> 01:16.740
+00:01:15,880 --> 00:01:16,740
 It's stopped!
 
 15
-01:17.040 --> 01:18.610
+00:01:17,040 --> 00:01:18,610
 Do not let go of my hand.
 
 16
-01:18.820 --> 01:20.550
+00:01:18,820 --> 00:01:20,550
 You'll be frozen in time if you do.
 
 17
-01:20.750 --> 01:21.600
+00:01:20,750 --> 00:01:21,600
 Hurry!
 
 18
-01:21.880 --> 01:23.160
+00:01:21,880 --> 00:01:23,160
 What the hell is going on?
 
 19
-01:23.350 --> 01:24.640
+00:01:23,350 --> 00:01:24,640
 Where did that witch come from?
 
 20
-01:24.900 --> 01:26.580
+00:01:24,900 --> 00:01:26,580
 That witch used to be Sayaka Miki.
 
 21
-01:27.290 --> 01:29.630
+00:01:27,290 --> 00:01:29,630
 You saw, it happened right in front of you.
 
 22
-01:29.780 --> 01:31.090
+00:01:29,780 --> 00:01:31,090
 We're just gonna run away?
 
 23
-01:31.290 --> 01:33.230
+00:01:31,290 --> 00:01:33,230
 We could stop her now and kill it.
 
 24
-01:33.350 --> 01:35.350
+00:01:33,350 --> 00:01:35,350
 Just drop that useless baggage and we'll go back.
 
 25
-01:35.830 --> 01:36.800
+00:01:35,830 --> 00:01:36,800
 Shall we?
 
 26
-01:36.890 --> 01:37.810
+00:01:36,890 --> 00:01:37,810
 Teal, like hell!
 
 27
-01:38.150 --> 01:39.650
+00:01:38,150 --> 00:01:39,650
 You can't fight and carry her.
 
 28
-01:39.900 --> 01:41.040
+00:01:39,900 --> 00:01:41,040
 You'll get us both killed.
 
 29
-01:41.310 --> 01:42.490
+00:01:41,310 --> 00:01:42,490
 We're leaving for now.
 
 30
-03:47.520 --> 03:48.270
+00:03:47,520 --> 00:03:48,270
 Huh?
 
 31
-03:51.440 --> 03:52.240
+00:03:51,440 --> 00:03:52,240
 Sayaka!
 
 32
-03:53.620 --> 03:55.380
+00:03:53,620 --> 00:03:55,380
 Sayaka! What happened?
 
 33
-03:57.140 --> 03:58.180
+00:03:57,140 --> 00:03:58,180
 Where's her Soul Gem?
 
 34
-03:59.060 --> 04:00.240
+00:03:59,060 --> 00:04:00,240
 Wh-What happened to her?
 
 35
-04:01.120 --> 04:02.510
+00:04:01,120 --> 00:04:02,510
 Her Soul Gem disappeared.
 
 36
-04:02.800 --> 04:04.640
+00:04:02,800 --> 00:04:04,640
 It transformed into a Grief Seed.
 
 37
-04:05.210 --> 04:06.960
+00:04:05,210 --> 00:04:06,960
 A witch hatched and it vanished.
 
 38
-04:11.310 --> 04:12.210
+00:04:11,310 --> 00:04:12,210
 No...
 
 39
-04:12.490 --> 04:13.530
+00:04:12,490 --> 00:04:13,530
 It can't be...
 
 40
-04:14.100 --> 04:14.910
+00:04:14,100 --> 00:04:14,910
 It is.
 
 41
-04:15.170 --> 04:17.900
+00:04:15,170 --> 00:04:17,900
 That's the final secret of the Soul Gems.
 
 42
-04:18.250 --> 04:21.810
+00:04:18,250 --> 00:04:21,810
 When our gems get too tainted and turn completely black,
 
 43
-04:21.970 --> 04:23.670
+00:04:21,970 --> 00:04:23,670
 we transform into Grief Seeds.
 
 44
-04:24.360 --> 04:26.220
+00:04:24,360 --> 00:04:26,220
 Then we are reborn as witches.
 
 45
-04:27.670 --> 04:28.540
+00:04:27,670 --> 00:04:28,540
 See?
 
 46
-04:28.930 --> 04:32.730
+00:04:28,930 --> 00:04:32,730
 This is the destiny which no magical girl can escape.
 
 47
-04:34.990 --> 04:36.160
+00:04:34,990 --> 00:04:36,160
 It's not true.
 
 48
-04:36.740 --> 04:38.150
+00:04:36,740 --> 00:04:38,150
 It can't be true.
 
 49
-04:38.430 --> 04:39.270
+00:04:38,430 --> 00:04:39,270
 Right?
 
 50
-04:46.750 --> 04:47.520
+00:04:46,750 --> 00:04:47,520
 But...
 
 51
-04:48.080 --> 04:49.000
+00:04:48,080 --> 00:04:49,000
 how...?
 
 52
-04:49.470 --> 04:50.320
+00:04:49,470 --> 00:04:50,320
 She...
 
 53
-04:50.660 --> 04:53.540
+00:04:50,660 --> 00:04:53,540
 She only wanted to protect people from witches.
 
 54
-04:54.250 --> 04:55.980
+00:04:54,250 --> 00:04:55,980
 She wanted to be a hero.
 
 55
-04:56.700 --> 04:59.420
+00:04:56,700 --> 00:04:59,420
 That's why she became a magical girl.
 
 56
-05:00.200 --> 05:01.100
+00:05:00,200 --> 00:05:01,100
 Why?
 
 57
-05:01.880 --> 05:04.320
+00:05:01,880 --> 00:05:04,320
 Her curse became as powerful as her wish.
 
 58
-05:04.440 --> 05:06.110
+00:05:04,440 --> 00:05:06,110
 It was only a matter of time, really.
 
 59
-05:06.650 --> 05:09.450
+00:05:06,650 --> 00:05:09,450
 And from now on, for each person she saved,
 
 60
-05:09.690 --> 05:11.420
+00:05:09,690 --> 00:05:11,420
 she'll curse another in return.
 
 61
-05:23.160 --> 05:24.240
+00:05:23,160 --> 00:05:24,240
 Why you...!
 
 62
-05:24.610 --> 05:26.030
+00:05:24,610 --> 00:05:26,030
 What the hell is your problem?
 
 63
-05:26.550 --> 05:29.130
+00:05:26,550 --> 00:05:29,130
 You're trying to impress us with
 your big brain or something?
 
 64
-05:29.860 --> 05:32.490
+00:05:29,860 --> 00:05:32,490
 How can you stand there talking crap like that?!
 
 65
-05:32.810 --> 05:34.090
+00:05:32,810 --> 00:05:34,090
 She was Sayaka's...
 
 66
-05:35.850 --> 05:37.480
+00:05:35,850 --> 00:05:37,480
 She was her best friend!
 
 67
-05:39.670 --> 05:41.480
+00:05:39,670 --> 00:05:41,480
 You understand now, don't you?
 
 68
-05:42.130 --> 05:44.200
+00:05:42,130 --> 00:05:44,200
 The thing you wanted so much to be.
 
 69
-05:44.860 --> 05:45.810
+00:05:44,860 --> 00:05:45,810
 This is it.
 
 70
-05:47.200 --> 05:51.430
+00:05:47,200 --> 00:05:51,430
 Oh, and the body you brought along,
 it's your responsibility now.
 
 71
-05:52.010 --> 05:55.790
+00:05:52,010 --> 00:05:55,790
 You better be careful getting rid of it
 though, or it'll cause problems later.
 
 72
-05:56.030 --> 05:57.740
+00:05:56,030 --> 00:05:57,740
 And do you dare call yourself human?!
 
 73
-05:57.950 --> 05:59.340
+00:05:57,950 --> 00:05:59,340
 No, of course I don't.
 
 74
-06:01.070 --> 06:02.050
+00:06:01,070 --> 00:06:02,050
 Neither should you.
 
 75
-06:02.170 --> 06:03.010
+00:06:02,170 --> 00:06:03,010
 Ugh.
 
 76
-06:19.970 --> 06:20.890
+00:06:19,970 --> 00:06:20,890
 May I come in?
 
 77
-06:21.230 --> 06:22.300
+00:06:21,230 --> 00:06:22,300
 I'd like to talk with you.
 
 78
-06:23.470 --> 06:24.720
+00:06:23,470 --> 00:06:24,720
 You're still alive...
 
 79
-06:27.490 --> 06:30.600
+00:06:27,490 --> 00:06:30,600
 That stuff Homura was saying, is it true?
 
 80
-06:31.050 --> 06:33.160
+00:06:31,050 --> 00:06:33,160
 It's true enough that I can't deny it.
 
 81
-06:35.610 --> 06:36.580
+00:06:35,610 --> 00:06:36,580
 Then...
 
 82
-06:36.810 --> 06:40.350
+00:06:36,810 --> 00:06:40,350
 you turned us into magical girls,
 so...we become witches?
 
 83
-06:40.870 --> 06:43.130
+00:06:40,870 --> 00:06:43,130
 Please don't misunderstand our intentions.
 
 84
-06:43.420 --> 06:47.420
+00:06:43,420 --> 00:06:47,420
 We don't do what we do because we
 harbor ill will towards the human race.
 
 85
-06:47.730 --> 06:51.090
+00:06:47,730 --> 00:06:51,090
 Everything we've done is to
 prolong the life of the universe.
 
 86
-06:51.460 --> 06:55.260
+00:06:51,460 --> 00:06:55,260
 Madoka, do you know what the word "entropy" means?
 
 87
-06:56.280 --> 06:57.480
+00:06:56,280 --> 00:06:57,480
 Here's an example.
 
 88
-06:58.000 --> 07:03.350
+00:06:58,000 --> 00:07:03,350
 The energy a bonfire gives off is not equal to
 the energy it took to grow the wood that fuels it.
 
 89
-07:03.750 --> 07:06.510
+00:07:03,750 --> 00:07:06,510
 When energy changes form, some of it gets lost.
 
 90
-07:07.370 --> 07:10.680
+00:07:07,370 --> 00:07:10,680
 We found that the amount of energy
 in the universe is decreasing.
 
 91
-07:10.980 --> 07:16.340
+00:07:10,980 --> 00:07:16,340
 So we began searching for a form of energy that
 wasn't limited by the laws of thermodynamics.
 
 92
-07:17.200 --> 07:20.590
+00:07:17,200 --> 00:07:20,590
 And then we found the energy,
 created by magical girls.
 
 93
-07:23.150 --> 07:24.140
+00:07:23,150 --> 00:07:24,140
 What are you...
 
 94
-07:24.920 --> 07:25.840
+00:07:24,920 --> 00:07:25,840
 really?
 
 95
-07:26.560 --> 07:28.900
+00:07:26,560 --> 00:07:28,900
 My civilization created a technology that
 
 96
-07:29.000 --> 07:32.170
+00:07:29,000 --> 00:07:32,170
 converts the emotions of a
 sentient lifeform's into energy.
 
 97
-07:32.610 --> 07:37.540
+00:07:32,610 --> 00:07:37,540
 Unfortunately, our species doesn't possess
 the capacity to experience emotions.
 
 98
-07:37.740 --> 07:41.480
+00:07:37,740 --> 00:07:41,480
 So we searched the universe
 and studied all the various species,
 
 99
-07:41.840 --> 07:44.130
+00:07:41,840 --> 00:07:44,130
 until we finally found you humans.
 
 100
-07:47.610 --> 07:51.170
+00:07:47,610 --> 00:07:51,170
 With the size of your population
 and the rate at which you reproduce,
 
 101
-07:51.420 --> 07:55.240
+00:07:51,420 --> 00:07:55,240
 we saw how the amount of emotional
 energy produced by a single human
 
 102
-07:55.420 --> 07:58.890
+00:07:55,420 --> 00:07:58,890
 is greater than the amount used
 between its birth and growth.
 
 103
-07:59.070 --> 08:03.310
+00:07:59,070 --> 00:08:03,310
 The human soul is the energy source we need
 that counteracts the effects of entropy.
 
 104
-08:04.350 --> 08:08.660
+00:08:04,350 --> 00:08:08,660
 The most effective energy came from females
 in their second stage of development,
 
 105
-08:08.910 --> 08:12.420
+00:08:08,910 --> 00:08:12,420
 when they have the most intense
 fluctuations of hope and despair.
 
 106
-08:12.620 --> 08:16.520
+00:08:12,620 --> 00:08:16,520
 At the precise moment when your Soul
 Gems flare out and become Grief Seeds,
 
 107
-08:16.830 --> 08:19.140
+00:08:16,830 --> 00:08:19,140
 an enormous amount of energy is created.
 
 108
-08:19.450 --> 08:23.260
+00:08:19,450 --> 00:08:23,260
 As an incubator, my job is to
 gather up that expended energy.
 
 109
-08:24.990 --> 08:26.790
+00:08:24,990 --> 00:08:26,790
 That's all we are to you...
 
 110
-08:27.040 --> 08:28.060
+00:08:27,040 --> 00:08:28,060
 disposable?
 
 111
-08:28.720 --> 08:30.120
+00:08:28,720 --> 00:08:30,120
 You want us to die for you.
 
 112
-08:30.420 --> 08:31.550
+00:08:30,420 --> 00:08:31,550
 And you don't even care.
 
 113
-08:32.300 --> 08:35.030
+00:08:32,300 --> 00:08:35,030
 Do you know how many civilizations
 there are in the universe?
 
 114
-08:35.280 --> 08:38.370
+00:08:35,280 --> 00:08:38,370
 Can you even comprehend the amount
 of energy they use each second?
 
 115
-08:38.760 --> 08:42.680
+00:08:38,760 --> 00:08:42,680
 There will come a day when you humans
 figure out how to leave this planet,
 
 116
-08:42.910 --> 08:44.820
+00:08:42,910 --> 00:08:44,820
 and you'll join the rest of the universe.
 
 117
-08:45.010 --> 08:49.130
+00:08:45,010 --> 00:08:49,130
 When you do, you wouldn't wanna find the
 universe empty and desolate, would you?
 
 118
-08:49.440 --> 08:52.230
+00:08:49,440 --> 00:08:52,230
 If you consider the long term, this is a good deal,
 
 119
-08:52.610 --> 08:53.950
+00:08:52,610 --> 00:08:53,950
 for you and everyone else.
 
 120
-08:55.600 --> 08:57.170
+00:08:55,600 --> 00:08:57,170
 How can you say that?
 
 121
-08:57.650 --> 09:00.020
+00:08:57,650 --> 00:09:00,020
 Do you think it's okay for Mami to die...
 
 122
-09:00.320 --> 09:02.070
+00:09:00,320 --> 00:09:02,070
 and Sayaka to suffer...
 
 123
-09:02.500 --> 09:04.730
+00:09:02,500 --> 00:09:04,730
 some crazy reason like that?
 
 124
-09:05.000 --> 09:06.580
+00:09:05,000 --> 00:09:06,580
 That's not right!
 
 125
-09:07.000 --> 09:08.330
+00:09:07,000 --> 00:09:08,330
 That's so mean!
 
 126
-09:09.290 --> 09:14.190
+00:09:09,290 --> 00:09:14,190
 But we always ask for and make sure to receive
 your consent before making the contract.
 
 127
-09:14.420 --> 09:17.430
+00:09:14,420 --> 00:09:17,430
 That alone should show you that
 we don't mean you any ill will?
 
 128
-09:17.540 --> 09:19.700
+00:09:17,540 --> 00:09:19,700
 But you do it by tricking us into it!
 
 129
-09:20.060 --> 09:22.900
+00:09:20,060 --> 00:09:22,900
 We don't understand this concept of "tricking you."
 
 130
-09:23.180 --> 09:26.350
+00:09:23,180 --> 00:09:26,350
 Why is it that when humans regret a decision they made
 
 131
-09:26.510 --> 09:30.360
+00:09:26,510 --> 00:09:30,360
 based on their own misunderstanding,
 they feel resentment toward the other party?
 
 132
-09:31.360 --> 09:32.730
+00:09:31,360 --> 00:09:32,730
 I can't do this.
 
 133
-09:33.000 --> 09:34.780
+00:09:33,000 --> 00:09:34,780
 You're not saying anything.
 
 134
-09:34.950 --> 09:36.810
+00:09:34,950 --> 00:09:36,810
 I don't understand you at all.
 
 135
-09:37.230 --> 09:41.270
+00:09:37,230 --> 00:09:41,270
 We've had such a hard time understanding
 you humans and your values system too.
 
 136
-09:41.580 --> 09:46.770
+00:09:41,580 --> 00:09:46,770
 With a current population of 6.9 billion
 which increases by a rate of 10 every 4 seconds,
 
 137
-09:47.040 --> 09:51.480
+00:09:47,040 --> 00:09:51,480
 it's a mystery why you would care so
 much about the loss of a tiny handful?
 
 138
-09:52.020 --> 09:55.550
+00:09:52,020 --> 00:09:55,550
 If that's how you think about us, then I guess...
 
 139
-09:56.180 --> 09:57.800
+00:09:56,180 --> 00:09:57,800
 you really are our enemy.
 
 140
-09:58.500 --> 10:01.410
+00:09:58,500 --> 00:10:01,410
 I came here try to explain ourselves to you.
 
 141
-10:01.650 --> 10:06.960
+00:10:01,650 --> 00:10:06,960
 I was genuinely hoping you'd understand how much
 good humanity sacrifices have done for this universe.
 
 142
-10:07.240 --> 10:09.030
+00:10:07,240 --> 00:10:09,030
 I guess I wasn't successful.
 
 143
-10:09.450 --> 10:10.640
+00:10:09,450 --> 00:10:10,640
 Of course, you weren't!
 
 144
-10:10.960 --> 10:15.430
+00:10:10,960 --> 00:10:15,430
 I still believe that one day,
 you'll become the greatest of all magical girls,
 
 145
-10:15.650 --> 10:17.910
+00:10:15,650 --> 00:10:17,910
 and then the worst of all witches.
 
 146
-10:18.330 --> 10:22.670
+00:10:18,330 --> 00:10:22,670
 And when that happens, we'll have access
 to an unbelievable amount of energy.
 
 147
-10:23.030 --> 10:27.150
+00:10:23,030 --> 00:10:27,150
 So if you ever feel like dying for
 the sake of the universe, call me.
 
 148
-10:27.540 --> 10:28.510
+00:10:27,540 --> 00:10:28,510
 I'll be waiting.
 
 149
-10:48.390 --> 10:52.020
+00:10:48,390 --> 00:10:52,020
 What are you hoping for by using all
 that energy just to keep her body fresh?
 
 150
-10:59.040 --> 11:01.540
+00:10:59,040 --> 00:11:01,540
 Is there a way to get her Soul Gem back, the way it was?
 
 151
-11:02.010 --> 11:04.280
+00:11:02,010 --> 00:11:04,280
 If there is a way, I'm not aware of it.
 
 152
-11:06.430 --> 11:07.380
+00:11:06,430 --> 00:11:07,380
 That's funny.
 
 153
-11:07.630 --> 11:10.740
+00:11:07,630 --> 00:11:10,740
 It looks like even you don't
 have all the answers, do ya?
 
 154
-11:11.080 --> 11:14.000
+00:11:11,080 --> 00:11:14,000
 The existence of magical girls defies logic.
 
 155
-11:14.190 --> 11:16.180
+00:11:14,190 --> 00:11:16,180
 So I wouldn't be surprised if you turned out
 
 156
-11:16.230 --> 11:18.910
+00:11:16,230 --> 00:11:18,910
 you were capable of doing all kinds of amazing things.
 
 157
-11:19.180 --> 11:20.620
+00:11:19,180 --> 00:11:20,620
 Then it is possible.
 
 158
-11:20.950 --> 11:24.610
+00:11:20,950 --> 00:11:24,610
 It hasn't happened before so I'm not
 really sure how you'd go about it.
 
 159
-11:24.970 --> 11:27.530
+00:11:24,970 --> 00:11:27,530
 Unfortunately, I can't advise you on the matter.
 
 160
-11:32.280 --> 11:33.450
+00:11:32,280 --> 00:11:33,450
 Hell like I needed.
 
 161
-11:34.840 --> 11:35.870
+00:11:34,840 --> 00:11:35,870
 Who'd ask...
 
 162
-11:36.200 --> 11:37.640
+00:11:36,200 --> 00:11:37,640
 for your...
 
 163
-11:37.900 --> 11:38.760
+00:11:37,900 --> 00:11:38,760
 advice...
 
 164
-11:39.050 --> 11:39.820
+00:11:39,050 --> 00:11:39,820
 now?!
 
 165
-11:46.580 --> 11:49.640
+00:11:46,580 --> 00:11:49,640
 Madoka, you're looking a bit under the weather today.
 
 166
-11:50.290 --> 11:51.250
+00:11:50,290 --> 00:11:51,250
 Are you okay?
 
 167
-11:51.910 --> 11:52.690
+00:11:51,910 --> 00:11:52,690
 Mm-hm.
 
 168
-11:53.000 --> 11:54.710
+00:11:53,000 --> 00:11:54,710
 I just didn't get enough sleep.
 
 169
-11:55.520 --> 11:56.550
+00:11:55,520 --> 00:11:56,550
 That's too bad.
 
 170
-11:56.840 --> 11:58.870
+00:11:56,840 --> 00:11:58,870
 And it looks Sayaka's staying home again.
 
 171
-11:59.950 --> 12:02.440
+00:11:59,950 --> 00:12:02,440
 Maybe we should go and see how she's doing.
 
 172
-12:02.720 --> 12:05.760
+00:12:02,720 --> 00:12:05,760
 Although, I don't think she'll be too happy to see me.
 
 173
-12:06.080 --> 12:07.260
+00:12:06,080 --> 00:12:07,260
 Things've been...
 
 174
-12:07.440 --> 12:09.650
+00:12:07,440 --> 00:12:09,650
 a little bit awkward between us lately.
 
 175
-12:22.700 --> 12:23.700
+00:12:22,700 --> 00:12:23,700
 Madoka?
 
 176
-12:28.280 --> 12:29.120
+00:12:28,280 --> 00:12:29,120
 Mm...
 
 177
-12:30.750 --> 12:32.620
+00:12:30,750 --> 00:12:32,620
 Hitomi, sorry.
 
 178
-12:32.840 --> 12:33.930
+00:12:32,840 --> 00:12:33,930
 I can't go to school.
 
 179
-12:34.260 --> 12:35.560
+00:12:34,260 --> 00:12:35,560
 I-I better go back home!
 
 180
-12:36.390 --> 12:38.130
+00:12:36,390 --> 00:12:38,130
 But, Madoka, wait!
 
 181
-12:47.440 --> 12:49.360
+00:12:47,440 --> 00:12:49,360
 Um, you wanted to talk?
 
 182
-12:49.760 --> 12:50.750
+00:12:49,760 --> 00:12:50,750
 Uh-huh.
 
 183
-12:51.150 --> 12:52.780
+00:12:51,150 --> 00:12:52,780
 You wanna save Sayaka Miki?
 
 184
-12:52.880 --> 12:56.070
+00:12:52,880 --> 00:12:56,070
 Ah? Do you think there a way, really?
 
 185
-12:56.320 --> 12:58.600
+00:12:56,320 --> 00:12:58,600
 If there wasn't, you just gonna leave her like that?
 
 186
-12:58.950 --> 12:59.990
+00:12:58,950 --> 00:12:59,990
 Um...
 
 187
-13:01.280 --> 13:03.270
+00:13:01,280 --> 00:13:03,270
 That came out the wrong way, my bad.
 
 188
-13:03.500 --> 13:05.860
+00:13:03,500 --> 00:13:05,860
 I know this sounds kinda crazy but...
 
 189
-13:06.050 --> 13:07.650
+00:13:06,050 --> 00:13:07,650
 the thing is...
 
 190
-13:07.870 --> 13:09.720
+00:13:07,870 --> 00:13:09,720
 we don't know she can be saved yet or not.
 
 191
-13:09.870 --> 13:12.380
+00:13:09,870 --> 00:13:12,380
 So if there's still hope for that,
 I'm not gonna give up.
 
 192
-13:16.180 --> 13:18.130
+00:13:16,180 --> 00:13:18,130
 Even if she was turned into a witch,
 
 193
-13:18.370 --> 13:21.240
+00:13:18,370 --> 00:13:21,240
 maybe she'd be able to remember the voice of her friend.
 
 194
-13:21.610 --> 13:22.410
+00:13:21,610 --> 00:13:22,410
 I was thinking,
 
 195
-13:22.670 --> 13:25.640
+00:13:22,670 --> 00:13:25,640
 maybe if you call out to her,
 she'll remember being human.
 
 196
-13:25.930 --> 13:29.990
+00:13:25,930 --> 00:13:29,990
 If anyone could get through to her,
 it'd have to be you.
 
 197
-13:32.230 --> 13:34.030
+00:13:32,230 --> 00:13:34,030
 You think that'll really work?
 
 198
-13:34.400 --> 13:35.780
+00:13:34,400 --> 00:13:35,780
 Oh, how the hell should I know?
 
 199
-13:37.430 --> 13:38.310
+00:13:37,430 --> 00:13:38,310
 Hehe.
 
 200
-13:38.450 --> 13:40.430
+00:13:38,450 --> 00:13:40,430
 Nobody knows, that's what I wanna try!
 
 201
-13:40.740 --> 13:42.050
+00:13:40,740 --> 00:13:42,050
 Hell, it's worth the shot!
 
 202
-13:42.290 --> 13:44.830
+00:13:42,290 --> 00:13:44,830
 Check it out, what if when I cut that witch in half,
 
 203
-13:45.070 --> 13:47.600
+00:13:45,070 --> 00:13:47,600
 instead of getting the usual Grief Seed out of it,
 
 204
-13:47.800 --> 13:50.590
+00:13:47,800 --> 00:13:50,590
 what if Sayaka's Soul Gem comes
 popping out of it instead!
 
 205
-13:51.530 --> 13:52.880
+00:13:51,530 --> 00:13:52,880
 Wouldn't that be something?
 
 206
-13:53.110 --> 13:56.550
+00:13:53,110 --> 00:13:56,550
 It'd be like one of those stories where
 love and courage triumph and stuff.
 
 207
-13:59.680 --> 14:00.790
+00:13:59,680 --> 00:14:00,790
 Wanna know something?
 
 208
-14:01.080 --> 14:02.370
+00:14:01,080 --> 00:14:02,370
 And this is between us,
 
 209
-14:02.690 --> 14:06.370
+00:14:02,690 --> 00:14:06,370
 the reason I became a magical girl
 was 'cause I love stories like those.
 
 210
-14:06.760 --> 14:08.440
+00:14:06,760 --> 00:14:08,440
 Can't believe I forgot that.
 
 211
-14:08.650 --> 14:11.410
+00:14:08,650 --> 00:14:11,410
 And Sayaka was the one who reminded me.
 
 212
-14:13.430 --> 14:16.210
+00:14:13,430 --> 00:14:16,210
 It's cool if you don't wanna come,
 I'm not gonna force you.
 
 213
-14:16.510 --> 14:19.450
+00:14:16,510 --> 00:14:19,450
 I mean, it's gonna be pretty dangerous for sure.
 
 214
-14:20.060 --> 14:23.340
+00:14:20,060 --> 00:14:23,340
 And you know, if things start
 getting super hairy in there,
 
 215
-14:23.430 --> 14:25.430
+00:14:23,430 --> 00:14:25,430
 I can't promise I'll be able to protect you.
 
 216
-14:25.790 --> 14:26.620
+00:14:25,790 --> 00:14:26,620
 Uh-uh.
 
 217
-14:27.270 --> 14:28.130
+00:14:27,270 --> 00:14:28,130
 I'll help.
 
 218
-14:28.390 --> 14:30.070
+00:14:28,390 --> 00:14:30,070
 I really wanna help.
 
 219
-14:34.760 --> 14:36.970
+00:14:34,760 --> 00:14:36,970
 My name is Madoka Kaname.
 
 220
-14:38.670 --> 14:39.940
+00:14:38,670 --> 00:14:39,940
 Oh, seriously?
 
 221
-14:40.260 --> 14:42.710
+00:14:40,260 --> 00:14:42,710
 Man, you're so cramping my style.
 
 222
-14:42.710 --> 14:43.360
+00:14:42,710 --> 00:14:43,360
 Huh?
 
 223
-14:43.900 --> 14:45.090
+00:14:43,900 --> 00:14:45,090
 I'm Kyoko Sakura.
 
 224
-14:45.700 --> 14:46.990
+00:14:45,700 --> 00:14:46,990
 Pleased to meet ya.
 
 225
-14:47.530 --> 14:48.690
+00:14:47,530 --> 00:14:48,690
 Uh?
 
 226
-14:50.620 --> 14:51.710
+00:14:50,620 --> 00:14:51,710
 Uhh...
 
 227
-14:58.590 --> 14:59.500
+00:14:58,590 --> 00:14:59,500
 Excuse me.
 
 228
-14:59.850 --> 15:01.430
+00:14:59,850 --> 00:15:01,430
 May I go to the nurse's office?
 
 229
-15:01.770 --> 15:02.750
+00:15:01,770 --> 00:15:02,750
 I'm not feeling well.
 
 230
-15:03.090 --> 15:04.160
+00:15:03,090 --> 00:15:04,160
 Hmm?
 
 231
-15:04.300 --> 15:06.160
+00:15:04,300 --> 00:15:06,160
 Okay. Who's the nurse's aide for this class.
 
 232
-15:06.570 --> 15:07.630
+00:15:06,570 --> 00:15:07,630
 Miss Kaname is.
 
 233
-15:07.840 --> 15:08.870
+00:15:07,840 --> 00:15:08,870
 But she's not here today.
 
 234
-15:09.260 --> 15:10.070
+00:15:09,260 --> 00:15:10,070
 Hmm...
 
 235
-15:10.180 --> 15:12.270
+00:15:10,180 --> 00:15:12,270
 I guess we'll have the class rep take you then, uh...
 
 236
-15:20.680 --> 15:22.870
+00:15:20,680 --> 00:15:22,870
 Maybe Homura would wanna help.
 
 237
-15:23.280 --> 15:24.270
+00:15:23,280 --> 00:15:24,270
 What do you think?
 
 238
-15:24.740 --> 15:25.390
+00:15:24,740 --> 00:15:25,390
 Doubt it.
 
 239
-15:25.550 --> 15:26.770
+00:15:25,550 --> 00:15:26,770
 Not really her style.
 
 240
-15:27.060 --> 15:28.390
+00:15:27,060 --> 00:15:28,390
 Aren't you guys friends?
 
 241
-15:31.030 --> 15:31.970
+00:15:31,030 --> 00:15:31,970
 Not really.
 
 242
-15:32.740 --> 15:35.390
+00:15:32,740 --> 00:15:35,390
 Well, we sort of got the same goals, I guess.
 
 243
-15:35.680 --> 15:39.750
+00:15:35,680 --> 00:15:39,750
 We kinda teamed up so could beat
 whatever we couldn't beat by ourselves.
 
 244
-15:40.880 --> 15:44.910
+00:15:40,880 --> 00:15:44,910
 In a couple of days,
 Walpurgisnacht is gonna come to this town.
 
 245
-15:47.770 --> 15:49.140
+00:15:47,770 --> 00:15:49,140
 Walpurgis...?
 
 246
-15:49.900 --> 15:52.040
+00:15:49,900 --> 00:15:52,040
 It's an insanely powerful witch.
 
 247
-15:54.760 --> 15:58.020
+00:15:54,760 --> 00:15:58,020
 This one's so nasty, neither of us could beat it alone.
 
 248
-15:58.400 --> 16:00.810
+00:15:58,400 --> 00:16:00,810
 That's why we decided to team up to kill it.
 
 249
-16:01.210 --> 16:03.270
+00:16:01,210 --> 00:16:03,270
 I guess that's how it is between us.
 
 250
-16:11.550 --> 16:12.600
+00:16:11,550 --> 00:16:12,600
 This is it.
 
 251
-16:21.210 --> 16:23.250
+00:16:21,210 --> 00:16:23,250
 Are you sure it's really Sayaka?
 
 252
-16:23.580 --> 16:25.730
+00:16:23,580 --> 00:16:25,730
 I mean it might be another witch or something?
 
 253
-16:26.130 --> 16:28.630
+00:16:26,130 --> 00:16:28,630
 The magic residue is the same as yesterday.
 
 254
-16:28.730 --> 16:29.560
+00:16:28,730 --> 00:16:29,560
 It's her.
 
 255
-16:29.610 --> 16:30.670
+00:16:29,610 --> 00:16:30,670
 No doubt about it.
 
 256
-16:45.920 --> 16:48.210
+00:16:45,920 --> 00:16:48,210
 Okay, "point of no return" time.
 
 257
-16:48.660 --> 16:50.430
+00:16:48,660 --> 00:16:50,430
 Are you sure you're ready for this?
 
 258
-16:50.920 --> 16:53.190
+00:16:50,920 --> 00:16:53,190
 Actually, I'm used to this part.
 
 259
-16:53.560 --> 16:57.210
+00:16:53,560 --> 00:16:57,210
 The thing is, all I ever did was tag along before.
 
 260
-16:57.590 --> 16:59.950
+00:16:57,590 --> 00:16:59,950
 I've never really been able to help much.
 
 261
-17:00.270 --> 17:03.050
+00:17:00,270 --> 00:17:03,050
 But I'm ready, so take me with you.
 
 262
-17:03.840 --> 17:06.420
+00:17:03,840 --> 00:17:06,420
 You are such a weird girl, ain't ya?
 
 263
-17:15.440 --> 17:17.290
+00:17:15,440 --> 00:17:17,290
 Hey, Kyoko?
 
 264
-17:17.570 --> 17:18.370
+00:17:17,570 --> 00:17:18,370
 Yeah?
 
 265
-17:18.750 --> 17:20.390
+00:17:18,750 --> 00:17:20,390
 I feel bad I can't help.
 
 266
-17:20.840 --> 17:23.470
+00:17:20,840 --> 00:17:23,470
 Everyone else's always done the fighting for me.
 
 267
-17:23.970 --> 17:26.740
+00:17:23,970 --> 00:17:26,740
 Anyway, I sort of feel like a coward.
 
 268
-17:26.910 --> 17:29.430
+00:17:26,910 --> 00:17:29,430
 Why the heck would you ever wanna become a magical girl?
 
 269
-17:29.600 --> 17:30.300
+00:17:29,600 --> 00:17:30,300
 Why?
 
 270
-17:30.330 --> 17:31.200
+00:17:30,330 --> 00:17:31,200
 Um...
 
 271
-17:32.090 --> 17:33.270
+00:17:32,090 --> 00:17:33,270
 Uh-uh.
 
 272
-17:33.560 --> 17:35.230
+00:17:33,560 --> 00:17:35,230
 Don't underestimate this stuff.
 
 273
-17:35.460 --> 17:37.090
+00:17:35,460 --> 00:17:37,090
 This ain't a job anybody can do.
 
 274
-17:37.360 --> 17:38.100
+00:17:37,360 --> 00:17:38,100
 But...
 
 275
-17:38.320 --> 17:41.730
+00:17:38,320 --> 00:17:41,730
 If you get to eat good food every day
 and live a happy life with your family,
 
 276
-17:41.920 --> 17:44.950
+00:17:41,920 --> 00:17:44,950
 why would you give that up
 if you're not sure it's what you really want?
 
 277
-17:45.230 --> 17:49.050
+00:17:45,230 --> 00:17:49,050
 You thinking about becoming a
 magical girl on some stupid whim?
 
 278
-17:49.170 --> 17:50.940
+00:17:49,170 --> 00:17:50,940
 I'd never allow that to happen.
 
 279
-17:51.320 --> 17:53.650
+00:17:51,320 --> 00:17:53,650
 Hell, like I kick your ass before you could.
 
 280
-17:56.440 --> 17:58.990
+00:17:56,440 --> 00:17:58,990
 If you do this, then you're putting your life in danger.
 
 281
-17:59.240 --> 18:02.360
+00:17:59,240 --> 00:18:02,360
 The only people who should do this are
 the ones who's got no other choice.
 
 282
-18:02.690 --> 18:06.070
+00:18:02,690 --> 00:18:06,070
 Anybody else who sticks their
 nose in it is just messing around.
 
 283
-18:06.380 --> 18:07.590
+00:18:06,380 --> 00:18:07,590
 And that's dumb.
 
 284
-18:07.930 --> 18:09.260
+00:18:07,930 --> 00:18:09,260
 You think so, huh?
 
 285
-18:09.670 --> 18:11.170
+00:18:09,670 --> 00:18:11,170
 But you never know, right?
 
 286
-18:11.390 --> 18:12.740
+00:18:11,390 --> 00:18:12,740
 Maybe there will come a time
 
 287
-18:12.840 --> 18:16.060
+00:18:12,840 --> 00:18:16,060
 when your back's gonna be up against the wall
 and you have to stand up and fight.
 
 288
-18:16.690 --> 18:19.160
+00:18:16,690 --> 00:18:19,160
 If that day ever comes,
 you can think about it then.
 
 289
-18:19.460 --> 18:20.360
+00:18:19,460 --> 00:18:20,360
 Mm...
 
 290
-18:32.850 --> 18:34.420
+00:18:32,850 --> 00:18:34,420
 Hey, Kyoko, why did you...
 
 291
-18:35.200 --> 18:35.630
+00:18:35,200 --> 00:18:35,630
 Ah!?
 
 292
-18:35.630 --> 18:36.550
+00:18:35,630 --> 00:18:36,550
 She knows we're here!
 
 293
-18:36.650 --> 18:37.400
+00:18:36,650 --> 00:18:37,400
 She's coming!
 
 294
-18:54.090 --> 18:54.780
+00:18:54,090 --> 00:18:54,780
 Okay.
 
 295
-18:54.970 --> 18:56.240
+00:18:54,970 --> 00:18:56,240
 Do it just like we planned.
 
 296
-18:57.180 --> 18:57.800
+00:18:57,180 --> 00:18:57,800
 Right.
 
 297
-18:58.900 --> 18:59.830
+00:18:58,900 --> 00:18:59,830
 Hey, Sayaka.
 
 298
-19:00.040 --> 19:02.370
+00:19:00,040 --> 00:19:02,370
 It's me, it's Madoka.
 
 299
-19:02.880 --> 19:05.130
+00:19:02,880 --> 00:19:05,130
 Can...can you here me?
 
 300
-19:05.700 --> 19:07.250
+00:19:05,700 --> 00:19:07,250
 Do you recognize my voice?
 
 301
-19:10.710 --> 19:12.720
+00:19:10,710 --> 00:19:12,720
 Don't be scared! Keep talking to her!
 
 302
-19:14.850 --> 19:16.760
+00:19:14,850 --> 00:19:16,760
 Sayaka, please stop!
 
 303
-19:17.060 --> 19:18.570
+00:19:17,060 --> 00:19:18,570
 Try to remember, please!
 
 304
-19:18.880 --> 19:21.310
+00:19:18,880 --> 00:19:21,310
 I know you never wanted to hurt anyone.
 
 305
-19:22.330 --> 19:25.300
+00:19:22,330 --> 00:19:25,300
 You said you wanted to be a hero, remember?
 
 306
-19:25.620 --> 19:29.340
+00:19:25,620 --> 00:19:29,340
 Please, Sayaka, turn back into your old self!
 
 307
-19:33.520 --> 19:35.040
+00:19:33,520 --> 00:19:35,040
 Man, you're really stubborn.
 
 308
-19:35.290 --> 19:36.490
+00:19:35,290 --> 00:19:36,490
 Come on, Sayaka!
 
 309
-19:36.910 --> 19:37.820
+00:19:36,910 --> 00:19:37,820
 Snap out of it!
 
 310
-19:40.790 --> 19:41.500
+00:19:40,790 --> 00:19:41,500
 Ah!
 
 311
-19:47.250 --> 19:48.140
+00:19:47,250 --> 00:19:48,140
 Kyoko!
 
 312
-19:50.240 --> 19:51.060
+00:19:50,240 --> 00:19:51,060
 I'm okay.
 
 313
-19:51.740 --> 19:52.680
+00:19:51,740 --> 00:19:52,680
 This is nothing.
 
 314
-19:52.830 --> 19:53.790
+00:19:52,830 --> 00:19:53,790
 I have worse...
 
 315
-19:54.400 --> 19:55.650
+00:19:54,400 --> 00:19:55,650
 Just keep talking to her.
 
 316
-19:56.130 --> 19:57.240
+00:19:56,130 --> 00:19:57,240
 Come on, Sayaka!
 
 317
-19:58.200 --> 19:59.050
+00:19:58,200 --> 00:19:59,050
 Stop it!
 
 318
-19:59.380 --> 20:00.490
+00:19:59,380 --> 00:20:00,490
 Please just stop!
 
 319
-20:00.730 --> 20:01.640
+00:20:00,730 --> 00:20:01,640
 Sayaka!
 
 320
-20:01.830 --> 20:03.870
+00:20:01,830 --> 00:20:03,870
 Please try to remember!
 
 321
-20:08.770 --> 20:09.490
+00:20:08,770 --> 00:20:09,490
 Heh.
 
 322
-20:09.780 --> 20:11.080
+00:20:09,780 --> 00:20:11,080
 Oh, I get what you're doing.
 
 323
-20:11.370 --> 20:12.760
+00:20:11,370 --> 00:20:12,760
 This is payback, ain't it?
 
 324
-20:13.160 --> 20:14.180
+00:20:13,160 --> 00:20:14,180
 Funny...
 
 325
-20:14.530 --> 20:16.970
+00:20:14,530 --> 00:20:16,970
 When we met, we tried to kill each other then, too.
 
 326
-20:17.260 --> 20:19.290
+00:20:17,260 --> 00:20:19,290
 I thought you were a wuss.
 
 327
-20:19.930 --> 20:21.800
+00:20:19,930 --> 00:20:21,800
 But no matter how hard I beat you,
 
 328
-20:22.010 --> 20:25.120
+00:20:22,010 --> 00:20:25,120
 man, you just kept getting right back up, didn't ya?
 
 329
-20:26.040 --> 20:27.190
+00:20:26,040 --> 00:20:27,190
 I know you're mad.
 
 330
-20:27.450 --> 20:29.860
+00:20:27,450 --> 00:20:29,860
 You can't forgive anyone for what happened to you.
 
 331
-20:31.720 --> 20:32.630
+00:20:31,720 --> 00:20:32,630
 I get it.
 
 332
-20:34.300 --> 20:38.030
+00:20:34,300 --> 00:20:38,030
 Once you get over that stuff, come back to us, okay?
 
 333
-20:49.370 --> 20:50.270
+00:20:49,370 --> 00:20:50,270
 Sayaka...
 
 334
-20:50.630 --> 20:51.680
+00:20:50,630 --> 00:20:51,680
 Please...
 
 335
-20:51.940 --> 20:52.900
+00:20:51,940 --> 00:20:52,900
 Stop it...!
 
 336
-20:54.710 --> 20:55.830
+00:20:54,710 --> 00:20:55,830
 Dammit, Sayaka!
 
 337
-20:59.550 --> 21:00.300
+00:20:59,550 --> 00:21:00,300
 Come on!
 
 338
-21:00.550 --> 21:02.560
+00:21:00,550 --> 00:21:02,560
 You told me you believed in your power!
 
 339
-21:02.860 --> 21:05.980
+00:21:02,860 --> 00:21:05,980
 You said you were only gonna
 use it to help people, remember?
 
 340
-21:33.800 --> 21:34.870
+00:21:33,800 --> 00:21:34,870
 Huh?
 
 341
-21:35.060 --> 21:36.170
+00:21:35,060 --> 00:21:36,170
 Kyoko!
 
 342
-21:39.700 --> 21:40.810
+00:21:39,700 --> 00:21:40,810
 Hey...
 
 343
-21:41.460 --> 21:42.350
+00:21:41,460 --> 00:21:42,350
 Are you...?
 
 344
-21:42.930 --> 21:44.610
+00:21:42,930 --> 00:21:44,610
 Me and my stupid ideas.
 
 345
-21:44.900 --> 21:46.050
+00:21:44,900 --> 00:21:46,050
 She shouldn't have come.
 
 346
-21:46.420 --> 21:47.480
+00:21:46,420 --> 00:21:47,480
 Take care of her.
 
 347
-21:48.190 --> 21:49.400
+00:21:48,190 --> 00:21:49,400
 Uh...
 
 348
-21:50.400 --> 21:53.560
+00:21:50,400 --> 00:21:53,560
 You can't fight and carry her 'cause
 you'll just get us both killed.
 
 349
-21:53.710 --> 21:55.040
+00:21:53,710 --> 00:21:55,040
 It's okay.
 
 350
-21:55.570 --> 21:56.930
+00:21:55,570 --> 00:21:56,930
 And you were right.
 
 351
-21:57.980 --> 22:01.140
+00:21:57,980 --> 00:22:01,140
 You've gotta focus on the one
 thing that means the most to you,
 
 352
-22:01.230 --> 22:02.760
+00:22:01,230 --> 00:22:02,760
 and protect it to the end.
 
 353
-22:03.230 --> 22:05.650
+00:22:03,230 --> 00:22:05,650
 Heh, it's kinda funny.
 
 354
-22:06.450 --> 22:08.000
+00:22:06,450 --> 00:22:08,000
 You know, this whole time...
 
 355
-22:08.830 --> 22:10.820
+00:22:08,830 --> 00:22:10,820
 that is exactly what I thought I was doing.
 
 356
-22:11.240 --> 22:14.640
+00:22:11,240 --> 00:22:14,640
 Get out of here.
 
 357
-22:15.410 --> 22:16.140
+00:22:15,410 --> 00:22:16,140
 Don't worry.
 
 358
-22:16.610 --> 22:17.850
+00:22:16,610 --> 00:22:17,850
 I'll take care of her.
 
 359
-22:21.560 --> 22:22.650
+00:22:21,560 --> 00:22:22,650
 I know, Sayaka.
 
 360
-22:24.720 --> 22:26.060
+00:22:24,720 --> 00:22:26,060
 It sucks to be alone.
 
 361
-22:26.550 --> 22:27.830
+00:22:26,550 --> 00:22:27,830
 Believe me, I know.
 
 362
-22:29.050 --> 22:30.230
+00:22:29,050 --> 00:22:30,230
 But it's okay now,
 
 363
-22:30.580 --> 22:31.600
+00:22:30,580 --> 00:22:31,600
 'cause I'm here with you,
 
 364
-22:32.200 --> 22:33.080
+00:22:32,200 --> 00:22:33,080
 ...Sayaka.
 
 365
-22:57.020 --> 22:58.200
+00:22:57,020 --> 00:22:58,200
 Kyoko...
 
 366
-23:09.420 --> 23:10.800
+00:23:09,420 --> 00:23:10,800
 I want to know the truth.
 
 367
-23:11.150 --> 23:14.480
+00:23:11,150 --> 00:23:14,480
 Was there any chance for Kyoko
 Sakura to save Sayaka Miki?
 
 368
-23:14.750 --> 23:15.780
+00:23:14,750 --> 00:23:15,780
 Of course not.
 
 369
-23:15.990 --> 23:17.930
+00:23:15,990 --> 00:23:17,930
 She should have known that was impossible.
 
 370
-23:18.420 --> 23:19.230
+00:23:18,420 --> 00:23:19,230
 Really?
 
 371
-23:19.420 --> 23:21.390
+00:23:19,420 --> 00:23:21,390
 Then, why didn't you try to stop her?
 
 372
-23:21.730 --> 23:24.490
+00:23:21,730 --> 00:23:24,490
 I would've stopped her if I
 thought her dying was pointless.
 
 373
-23:25.510 --> 23:29.620
+00:23:25,510 --> 00:23:29,620
 But the fact is, her death actually
 serves a more important purpose.
 
 374
-23:30.360 --> 23:31.680
+00:23:30,360 --> 00:23:31,680
 Walpurgisnacht is coming,
 
 375
-23:32.050 --> 23:36.040
+00:23:32,050 --> 00:23:36,040
 and you're the only magical
 girl left to stand in its way.
 
 376
-23:36.160 --> 23:38.650
+00:23:36,160 --> 00:23:38,650
 There's no way you can beat it all by yourself.
 
 377
-23:39.090 --> 23:43.790
+00:23:39,090 --> 00:23:43,790
 So, if Madoka wants to protect this city,
 she'll have to become a magical girl.
 
 378
-23:46.310 --> 23:47.320
+00:23:46,310 --> 00:23:47,320
 That won't happen.
 
 379
-23:47.810 --> 23:48.840
+00:23:47,810 --> 00:23:48,840
 I swear it.
 
 380
-25:27.960 --> 25:30.140
+00:25:27,960 --> 00:25:30,140
 No one will believe me about the future.
 
 381
-25:31.310 --> 25:34.330
+00:25:31,310 --> 00:25:34,330
 No one will accept the truth about the future.
 
 382
-25:36.510 --> 25:39.090
+00:25:36,510 --> 00:25:39,090
 I won't rely on anyone anymore.
 
 383
-12:35.510 --> 12:36.190
+00:12:35,510 --> 00:12:36,190
 Huh?
 
 384
-12:09.990 --> 12:12.620
+00:12:09,990 --> 00:12:12,620
 <i>Hitomi, There's something...</i>
 
 385
-12:12.710 --> 12:13.760
+00:12:12,710 --> 00:12:13,760
 <i>Seriously?</i>
 
 386
-12:14.050 --> 12:16.620
+00:12:14,050 --> 00:12:16,620
 <i>After all that's happened,
 you're gonna go to school today?</i>
 
 387
-12:23.960 --> 12:25.520
+00:12:23,960 --> 00:12:25,520
 <i>Think you could meet me somewhere?</i>
 
 388
-12:25.910 --> 12:27.330
+00:12:25,910 --> 00:12:27,330
 <i>I need to talk to you.</i>
 
 389
-21:16.940 --> 21:20.740
+00:21:16,940 --> 00:21:20,740
 <i>Hey, God, if you're there, my life sucked.</i>
 
 390
-21:21.230 --> 21:22.250
+00:21:21,230 --> 00:21:22,250
 <i>So, for once...</i>
 
 391
-21:22.690 --> 21:23.550
+00:21:22,690 --> 00:21:23,550
 <i>please...</i>
 
 392
-21:24.310 --> 21:25.960
+00:21:24,310 --> 00:21:25,960
 <i>let me have a happy dream...</i>
+
