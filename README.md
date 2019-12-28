@@ -8,8 +8,8 @@
 | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---- | ---- |
 | [Teasing Master Takagi san](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Teasing_Master_Takagi-san) | 擅长捉弄的高木同学                       | 12集 | 完成 |
 | [Puella Magi Madoka Magica](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Puella_Magi_Madoka_Magica) | 魔法少女小圆                             | 12集 | 完成 |
-| Fate/Zero                                                                                                     | 命运之夜前传                             | 25集 | 进行 |
-| No-Rin                                                                                                        | 农林                                     | 12集 | 计划 |
+| [Fate/Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Fate_Zero)                                                                                                     | 命运之夜前传                             | 25集 | 完成 |
+| No-Rin                                                                                                        | 农林                                     | 12集 |进行 |
 | No Game No Life                                                                                               | 游戏人生                                 | 12集 | 计划 |
 | Death Note                                                                                                    | 死亡笔记                                 | 37集 | 计划 |
 | Assassination Classroom                                                                                       | 暗杀教室                                 | 47集 | 计划 |
