@@ -1,1554 +1,1553 @@
-﻿WEBVTT FILE
-
-1
-00:33.465 --> 00:34.449
+﻿1
+00:00:33,465 --> 00:00:34,449
 Irisviel.
 
 2
-00:37.841 --> 00:38.873
+00:00:37,841 --> 00:00:38,873
 Are you all right?
 
 3
-00:39.660 --> 00:41.520
+00:00:39,660 --> 00:00:41,520
 They waited for Kiritsugu to leave
 
 4
-00:41.805 --> 00:43.933
+00:00:41,805 --> 00:00:43,933
 before launching a frontal assault.
 
 5
-00:44.355 --> 00:48.599
+00:00:44,355 --> 00:00:48,599
 That sudden lightning and that
 unscrupulous appearance of his.
 
 6
-00:49.174 --> 00:50.082
+00:00:49,174 --> 00:00:50,082
 The enemy.
 
 7
-00:51.025 --> 00:52.453
+00:00:51,025 --> 00:00:52,453
 His likely Rider.
 
 8
-02:26.481 --> 02:28.161
+00:02:26,481 --> 00:02:28,161
 Whoa!
 
 9
-02:33.941 --> 02:34.888
+00:02:33,941 --> 00:02:34,888
 Huh?
 
 10
-02:35.488 --> 02:36.854
+00:02:35,488 --> 00:02:36,854
 Hello, Saber.
 
 11
-02:40.199 --> 02:41.179
+00:02:40,199 --> 00:02:41,179
 Rider?
 
 12
-02:41.666 --> 02:43.861
+00:02:41,666 --> 00:02:43,861
 I came because I wanted to see your castle.
 
 13
-02:45.440 --> 02:48.524
+00:02:45,440 --> 00:02:48,524
 It's kind of gloomy here, don't you think, hmm?
 
 14
-02:49.304 --> 02:51.012
+00:02:49,304 --> 00:02:51,012
 And what's with the tasteless armor?
 
 15
-02:51.365 --> 02:53.380
+00:02:51,365 --> 00:02:53,380
 Are you going out to fight someone right now?
 
 16
-02:54.162 --> 02:57.639
+00:02:54,162 --> 00:02:57,639
 Why aren't you wearing your
 fashionable clothes like I am tonight?
 
 17
-02:58.036 --> 02:58.583
+00:02:58,036 --> 00:02:58,583
 Rider.
 
 18
-02:59.007 --> 03:00.303
+00:02:59,007 --> 00:03:00,303
 What are you doing here?
 
 19
-03:01.010 --> 03:02.689
+00:03:01,010 --> 00:03:02,689
 You mean you can't tell?
 
 20
-03:04.866 --> 03:08.074
+00:03:04,866 --> 00:03:08,074
 I've come to drink, what else does
 it look like I've come here to do?
 
 21
-03:08.421 --> 03:11.927
+00:03:08,421 --> 00:03:11,927
 So stop standing there like statue
 and show me around this place.
 
 22
-03:13.041 --> 03:15.921
+00:03:13,041 --> 00:03:15,921
 Surely you have a garden here suitable for a banquet.
 
 23
-03:16.638 --> 03:19.927
+00:03:16,638 --> 00:03:19,927
 Honestly, this castle is far too dusty to be in.
 
 24
-03:36.780 --> 03:40.847
+00:03:36,780 --> 00:03:40,847
 The Grail is said to be fated for the
 hands of the one most worthy to possess it.
 
 25
-03:41.695 --> 03:44.337
+00:03:41,695 --> 00:03:44,337
 And the epic battle taking place here in Fuyuki
 
 26
-03:44.523 --> 03:47.070
+00:03:44,523 --> 00:03:47,070
 will determine exactly who that person is.
 
 27
-03:47.705 --> 03:52.395
+00:03:47,705 --> 00:03:52,395
 And if it's simply a means to decide that
 fact, there's hardly a need for bloodshed.
 
 28
-03:52.921 --> 03:57.333
+00:03:52,921 --> 00:03:57,333
 After all, if the heroic spirits
 can agree on our rankings,
 
 29
-03:58.033 --> 04:00.419
+00:03:58,033 --> 00:04:00,419
 then the matter can simply settle itself.
 
 30
-04:09.747 --> 04:10.598
+00:04:09,747 --> 00:04:10,598
 Oh.
 
 31
-04:12.222 --> 04:16.852
+00:04:12,222 --> 00:04:16,852
 Then I assume you wish to compare
 your rank against my own, Rider.
 
 32
-04:17.957 --> 04:19.065
+00:04:17,957 --> 00:04:19,065
 Indeed I do.
 
 33
-04:19.342 --> 04:23.547
+00:04:19,342 --> 00:04:23,547
 As one who also claims the title of king,
 you can not refuse this opportunity.
 
 34
-04:23.879 --> 04:27.498
+00:04:23,879 --> 00:04:27,498
 You might consider this a Grail
 dialog, rather than a Grail War.
 
 35
-04:27.904 --> 04:31.718
+00:04:27,904 --> 00:04:31,718
 And the matter of who among us who is
 most suited to claim the Holy Grail
 
 36
-04:34.253 --> 04:37.692
+00:04:34,253 --> 00:04:37,692
 will become clear to us as we
 drink our fill and converse.
 
 37
-04:40.567 --> 04:43.966
+00:04:40,567 --> 00:04:43,966
 I believe that is quite enough nonsense.
 
 38
-04:44.819 --> 04:46.536
+00:04:44,819 --> 00:04:46,536
 You mongrels.
 
 39
-04:48.527 --> 04:50.462
+00:04:48,527 --> 00:04:50,462
 Archer, what are you doing here?
 
 40
-04:50.828 --> 04:52.219
+00:04:50,828 --> 00:04:52,219
 Ah, yes, well,
 
 41
-04:52.501 --> 04:56.905
+00:04:52,501 --> 00:04:56,905
 I saw him in town so I thought I might as
 well invite him to our little gathering.
 
 42
-04:57.551 --> 04:59.987
+00:04:57,551 --> 00:04:59,987
 You're a little late don't you think, goldie,
 
 43
-05:00.073 --> 05:03.724
+00:05:00,073 --> 00:05:03,724
 though it stands to reason since
 you traveled by foot unlike myself.
 
 44
-05:03.985 --> 05:08.742
+00:05:03,985 --> 00:05:08,742
 You actually chose to hold a banquet of
 kings in a depressing place like this?
 
 45
-05:08.969 --> 05:12.419
+00:05:08,969 --> 00:05:12,419
 How will you recompense me for
 the rudeness of calling me here?
 
 46
-05:12.906 --> 05:15.212
+00:05:12,906 --> 00:05:15,212
 Oh, why don't you just relax yourself.
 
 47
-05:16.107 --> 05:17.820
+00:05:16,107 --> 00:05:17,820
 Here, start with a little drink.
 
 48
-05:27.121 --> 05:28.901
+00:05:27,121 --> 00:05:28,901
 What is this disgusting swill?
 
 49
-05:29.309 --> 05:33.186
+00:05:29,309 --> 00:05:33,186
 You really thought we could discern a
 hierarchy of heroic spirits with this?
 
 50
-05:33.613 --> 05:34.748
+00:05:33,613 --> 00:05:34,748
 You don't like it?
 
 51
-05:35.301 --> 05:39.167
+00:05:35,301 --> 00:05:39,167
 This cask was among the very best I could
 find at the city marketplace this afternoon.
 
 52
-05:39.540 --> 05:42.095
+00:05:39,540 --> 00:05:42,095
 You are pitifully ignorant of true drink.
 
 53
-05:42.602 --> 05:44.137
+00:05:42,602 --> 00:05:44,137
 Of course you believe that.
 
 54
-05:44.377 --> 05:46.123
+00:05:44,377 --> 00:05:46,123
 Stupid mongrel.
 
 55
-05:54.427 --> 05:55.235
+00:05:54,427 --> 00:05:55,235
 Ah!
 
 56
-05:55.517 --> 05:58.341
+00:05:55,517 --> 00:05:58,341
 Now behold and acknowledge your folly.
 
 57
-05:58.527 --> 06:00.702
+00:05:58,527 --> 00:06:00,702
 This is the beverage of a true king.
 
 58
-06:01.949 --> 06:03.588
+00:06:01,949 --> 00:06:03,588
 A fine treasure, indeed.
 
 59
-06:07.407 --> 06:08.827
+00:06:07,407 --> 00:06:08,827
 Aaahhh.
 
 60
-06:15.820 --> 06:17.900
+00:06:15,820 --> 00:06:17,900
 Ah, magnificent.
 
 61
-06:19.556 --> 06:24.349
+00:06:19,556 --> 00:06:24,349
 My treasury houses only the very finest
 of drinks and the finest of swords.
 
 62
-06:28.154 --> 06:32.402
+00:06:28,154 --> 00:06:32,402
 This alone should indicate which
 among us is the greatest of kings.
 
 63
-06:33.293 --> 06:38.849
+00:06:33,293 --> 00:06:38,849
 Archer, your finest drink is indeed worthy
 of the finest vessel in all of history.
 
 64
-06:39.438 --> 06:42.227
+00:06:39,438 --> 00:06:42,227
 But the Holy Grail is not a drinking cup.
 
 65
-06:42.634 --> 06:44.774
+00:06:42,634 --> 00:06:44,774
 First, we must hear what wish
 you would have the Grail grant
 
 66
-06:44.804 --> 06:45.974
+00:06:44,804 --> 00:06:45,974
 should you win it.
 
 67
-06:46.433 --> 06:49.028
+00:06:46,433 --> 00:06:49,028
 The wish is what gives the Grail its purpose.
 
 68
-06:49.428 --> 06:51.117
+00:06:49,428 --> 00:06:51,117
 You are not ruler here, mongrel.
 
 69
-06:51.410 --> 06:54.591
+00:06:51,410 --> 00:06:54,591
 Already you wantonly disregard
 the time honored rules
 
 70
-06:54.664 --> 06:56.750
+00:06:54,664 --> 00:06:56,750
 which dictate we fight for the Grail.
 
 71
-06:57.490 --> 06:58.105
+00:06:57,490 --> 00:06:58,105
 Hmm?
 
 72
-06:58.745 --> 07:02.102
+00:06:58,745 --> 00:07:02,102
 Besides all that, the Grail already belongs to me.
 
 73
-07:02.369 --> 07:07.112
+00:07:02,369 --> 00:07:07,112
 All of this world's treasures without exception
 trace their origin to my treasure house.
 
 74
-07:07.265 --> 07:08.374
+00:07:07,265 --> 00:07:08,374
 They do, do they?
 
 75
-07:08.620 --> 07:11.124
+00:07:08,620 --> 00:07:11,124
 Then I assume that means you once held the Holy Grail,
 
 76
-07:11.417 --> 07:13.130
+00:07:11,417 --> 00:07:13,130
 you can identify it by sight.
 
 77
-07:13.632 --> 07:14.325
+00:07:13,632 --> 00:07:14,325
 No.
 
 78
-07:14.677 --> 07:15.190
+00:07:14,677 --> 00:07:15,190
 Huh?
 
 79
-07:15.272 --> 07:17.432
+00:07:15,272 --> 00:07:17,432
 Do not consider me as you would a lesser being.
 
 80
-07:17.958 --> 07:21.477
+00:07:17,958 --> 00:07:21,477
 The amount of wealth in my treasury
 long ago surpassed my own knowledge.
 
 81
-07:22.122 --> 07:25.738
+00:07:22,122 --> 00:07:25,738
 But that the Holy Grail is a treasure
 also means that it belongs to me.
 
 82
-07:26.431 --> 07:28.811
+00:07:26,431 --> 00:07:28,811
 And any who would take it for themselves
 
 83
-07:29.477 --> 07:32.634
+00:07:29,477 --> 00:07:32,634
 is not but a filthy scoundrel and a common thief.
 
 84
-07:32.821 --> 07:37.004
+00:07:32,821 --> 00:07:37,004
 Your words are no different than
 Caster's senseless and insane rants.
 
 85
-07:37.651 --> 07:41.016
+00:07:37,651 --> 00:07:41,016
 It appears he isn't the only
 Servant to have gone completely mad.
 
 86
-07:42.151 --> 07:43.999
+00:07:42,151 --> 00:07:43,999
 Come, let's not go that far.
 
 87
-07:45.526 --> 07:50.164
+00:07:45,526 --> 00:07:50,164
 However, I believe I now have a clue
 as to what goldie's actual identity is.
 
 88
-07:50.995 --> 07:56.727
+00:07:50,995 --> 00:07:56,727
 So then, Archer, you suggested if we desire
 the Grail we must first get your permission?
 
 89
-07:56.987 --> 08:03.634
+00:07:56,987 --> 00:08:03,634
 Indeed, however there is no reason whatsoever
 for me to reward lowly mongrels of your ilk.
 
 90
-08:04.494 --> 08:07.446
+00:08:04,494 --> 00:08:07,446
 Wait a minute, you're going to be stingy?
 
 91
-08:07.612 --> 08:12.502
+00:08:07,612 --> 00:08:12,502
 Fool, my magnanimity is limited to
 my vassals and to my loyal subjects.
 
 92
-08:12.927 --> 08:17.041
+00:08:12,927 --> 00:08:17,041
 Which means, Rider, if you were to swear fealty to me,
 
 93
-08:17.969 --> 08:19.657
+00:08:17,969 --> 00:08:19,657
 I could lend you a Grail or two,
 
 94
-08:20.267 --> 08:21.867
+00:08:20,267 --> 00:08:21,867
 whenever you felt the need for one.
 
 95
-08:22.282 --> 08:24.919
+00:08:22,282 --> 00:08:24,919
 Sorry, that is totally out of the question.
 
 96
-08:25.292 --> 08:30.748
+00:08:25,292 --> 00:08:30,748
 But tell me, Archer, surely you have no special
 interest in the Holy Grail itself, do you?
 
 97
-08:30.848 --> 08:34.614
+00:08:30,848 --> 00:08:34,614
 Of course not, but I must render my judgment upon those
 
 98
-08:34.854 --> 08:36.807
+00:08:34,854 --> 00:08:36,807
 who would dare to steal treasure from me.
 
 99
-08:37.286 --> 08:39.254
+00:08:37,286 --> 00:08:39,254
 It's simply a matter of principle.
 
 100
-08:39.996 --> 08:42.733
+00:08:39,996 --> 00:08:42,733
 Hmm, I'm curious, Archer.
 
 101
-08:43.306 --> 08:46.885
+00:08:43,306 --> 00:08:46,885
 On what morals and reasoning are
 these principles of yours based?
 
 102
-08:47.139 --> 08:51.693
+00:08:47,139 --> 00:08:51,693
 It is the law, my law which I
 set down as the rightful king.
 
 103
-08:52.346 --> 08:53.459
+00:08:52,346 --> 00:08:53,459
 Perfect.
 
 104
-08:54.159 --> 08:57.080
+00:08:54,159 --> 00:08:57,080
 Living by one's own law is the epitome of kingship.
 
 105
-09:00.846 --> 09:05.602
+00:09:00,846 --> 00:09:05,602
 Nevertheless, I desire the Holy Grail
 so badly I could almost taste it.
 
 106
-09:05.986 --> 09:09.209
+00:09:05,986 --> 00:09:09,209
 And it has always been my
 style to just take what I want.
 
 107
-09:09.822 --> 09:11.829
+00:09:09,822 --> 00:09:11,829
 After all, the Great Iskandar
 
 108
-09:12.640 --> 09:14.948
+00:09:12,640 --> 00:09:14,948
 is the King of Conquerors, is he not?
 
 109
-09:15.550 --> 09:17.243
+00:09:15,550 --> 00:09:17,243
 Right and wrong are irrelevant.
 
 110
-09:17.663 --> 09:19.860
+00:09:17,663 --> 00:09:19,860
 You break the law and I will punish you.
 
 111
-09:20.380 --> 09:22.531
+00:09:20,380 --> 00:09:22,531
 There is no place for discussion.
 
 112
-09:23.097 --> 09:23.679
+00:09:23,097 --> 00:09:23,679
 Hmm.
 
 113
-09:24.703 --> 09:27.138
+00:09:24,703 --> 00:09:27,138
 Which means that all we have left to us
 
 114
-09:27.293 --> 09:29.602
+00:09:27,293 --> 00:09:29,602
 is to meet on the field of combat.
 
 115
-09:31.551 --> 09:35.975
+00:09:31,551 --> 00:09:35,975
 So then, Archer, would you still like
 us to help you finish this off tonight?
 
 116
-09:36.375 --> 09:38.397
+00:09:36,375 --> 00:09:38,397
 There'll be plenty of time to kill each other after.
 
 117
-09:38.877 --> 09:45.111
+00:09:38,877 --> 00:09:45,111
 Indeed, or do you dare sit there and cast aspersions
 on the superior drink I did you the honor of providing?
 
 118
-09:45.712 --> 09:49.759
+00:09:45,712 --> 00:09:49,759
 No, of course not, I wouldn't dream
 of letting this drink go to waste.
 
 119
-09:52.992 --> 09:54.312
+00:09:52,992 --> 00:09:54,312
 King of Conquerors.
 
 120
-09:54.412 --> 09:54.992
+00:09:54,412 --> 00:09:54,992
 Hmm?
 
 121
-09:55.480 --> 10:00.437
+00:09:55,480 --> 00:10:00,437
 A moment ago you agreed that the Holy Grail's
 rightful ownership lies with another and not yourself.
 
 122
-10:00.944 --> 10:03.059
+00:10:00,944 --> 00:10:03,059
 And yet you would just take it by force?
 
 123
-10:03.600 --> 10:06.560
+00:10:03,600 --> 00:10:06,560
 What makes the Grail so important to you?
 
 124
-10:18.044 --> 10:19.371
+00:10:18,044 --> 00:10:19,371
 Reincarnation.
 
 125
-10:19.704 --> 10:20.444
+00:10:19,704 --> 00:10:20,444
 Huh?
 
 126
-10:20.657 --> 10:21.546
+00:10:20,657 --> 00:10:21,546
 What?
 
 127
-10:21.827 --> 10:24.567
+00:10:21,827 --> 00:10:24,567
 Wait a minute, wasn't your goal
 supposed to be world conquest?
 
 128
-10:24.688 --> 10:25.393
+00:10:24,688 --> 00:10:25,393
 Ah!
 
 129
-10:27.733 --> 10:31.754
+00:10:27,733 --> 00:10:31,754
 Idiot, as if I would leave the
 conquering to some mere cup.
 
 130
-10:32.201 --> 10:35.058
+00:10:32,201 --> 00:10:35,058
 Conquering the world is my dream to make true.
 
 131
-10:35.524 --> 10:37.626
+00:10:35,524 --> 00:10:37,626
 The wish I would ask of the Holy Grail
 
 132
-10:38.512 --> 10:40.494
+00:10:38,512 --> 00:10:40,494
 is the first step towards that goal.
 
 133
-10:41.081 --> 10:44.755
+00:10:41,081 --> 00:10:44,755
 Mongrel, you would dare challenge me for my treasure
 
 134
-10:44.989 --> 10:46.782
+00:10:44,989 --> 00:10:46,782
 over something so trivial?
 
 135
-10:47.243 --> 10:49.843
+00:10:47,243 --> 00:10:49,843
 Even in magic lends us form in this world,
 
 136
-10:50.109 --> 10:52.442
+00:10:50,109 --> 00:10:52,442
 ultimately we remain Servants.
 
 137
-10:54.554 --> 10:57.407
+00:10:54,554 --> 00:10:57,407
 I wish to live as flesh and blood
 
 138
-10:57.874 --> 11:00.768
+00:10:57,874 --> 00:11:00,768
 within this world in which I find myself.
 
 139
-11:01.295 --> 11:02.990
+00:11:01,295 --> 00:11:02,990
 And with nothing but my body
 
 140
-11:03.230 --> 11:05.085
+00:11:03,230 --> 00:11:05,085
 I shall defy both heaven and Earth,
 
 141
-11:05.472 --> 11:08.908
+00:11:05,472 --> 00:11:08,908
 succeeding in that endeavor is
 the true meaning of conquest.
 
 142
-11:09.588 --> 11:10.621
+00:11:09,588 --> 00:11:10,621
 Thus it begins.
 
 143
-11:11.236 --> 11:14.477
+00:11:11,236 --> 00:11:14,477
 Then proceeds onward and finally is finished.
 
 144
-11:16.977 --> 11:19.272
+00:11:16,977 --> 00:11:19,272
 Such is the path of my conquest.
 
 145
-11:19.900 --> 11:22.675
+00:11:19,900 --> 00:11:22,675
 Hmm, then the matter is settled.
 
 146
-11:23.381 --> 11:26.296
+00:11:23,381 --> 00:11:26,296
 I shall take great pleasure in killing you myself.
 
 147
-11:27.399 --> 11:29.210
+00:11:27,399 --> 00:11:29,210
 You don't have to remind me of the obvious.
 
 148
-11:30.004 --> 11:35.649
+00:11:30,004 --> 00:11:35,649
 I have every intention of plundering your abundant
 storehouse until it's been laid bare, so get ready.
 
 149
-11:36.202 --> 11:40.179
+00:11:36,202 --> 00:11:40,179
 That is hardly fitting of how a true king should behave.
 
 150
-11:40.745 --> 11:45.337
+00:11:40,745 --> 00:11:45,337
 Oh, well then, let us hear what
 you would ask of the Grail,
 
 151
-11:45.850 --> 11:47.037
+00:11:45,850 --> 00:11:47,037
 if you were to win it.
 
 152
-11:51.783 --> 11:54.663
+00:11:51,783 --> 00:11:54,663
 I wish for my homeland's salvation.
 
 153
-11:55.829 --> 11:58.429
+00:11:55,829 --> 00:11:58,429
 With the omnipotent wish granting device,
 
 154
-12:00.053 --> 12:02.526
+00:12:00,053 --> 00:12:02,526
 I shall avert Britain's fate of destruction.
 
 155
-12:07.836 --> 12:10.350
+00:12:07,836 --> 00:12:10,350
 They're having a drinking party of all things?
 
 156
-12:10.846 --> 12:14.307
+00:12:10,846 --> 00:12:14,307
 Shall I continue to leave Archer to his own devices?
 
 157
-12:14.806 --> 12:16.544
+00:12:14,806 --> 00:12:16,544
 Hmm, it can't be helped.
 
 158
-12:17.037 --> 12:23.293
+00:12:17,037 --> 00:12:23,293
 After all, when one is King of Kings, it simply wouldn't
 do to turn one's back on an interesting invitation.
 
 159
-12:24.428 --> 12:30.584
+00:12:24,428 --> 00:12:30,584
 Incidentally, Kirei, how do you judge the
 relative strengths of Rider and Archer?
 
 160
-12:31.718 --> 12:36.064
+00:12:31,718 --> 00:12:36,064
 Rider may very well possess a trump
 card that surpasses the gordius wheel.
 
 161
-12:36.866 --> 12:39.312
+00:12:36,866 --> 00:12:39,312
 I believe we should put this to the test.
 
 162
-12:39.734 --> 12:43.640
+00:12:39,734 --> 00:12:43,640
 Hmm, with Rider and his Master
 drinking and their guard's down,
 
 163
-12:43.879 --> 12:47.249
+00:12:43,879 --> 00:12:47,249
 a better chance to attack them
 will never again present itself.
 
 164
-12:47.742 --> 12:50.736
+00:12:47,742 --> 00:12:50,736
 The odds of victory don't matter to our overall plan.
 
 165
-12:51.156 --> 12:52.946
+00:12:51,156 --> 00:12:52,946
 Even if Assassin is defeated,
 
 166
-12:53.306 --> 12:55.881
+00:12:53,306 --> 00:12:55,881
 as long as he can gauge their relative strengths,
 
 167
-12:56.096 --> 12:57.934
+00:12:56,096 --> 00:12:57,934
 our objective will be accomplished.
 
 168
-12:58.726 --> 13:00.049
+00:12:58,726 --> 00:13:00,049
 We do have the option
 
 169
-13:00.356 --> 13:03.072
+00:13:00,356 --> 00:13:03,072
 of launching an attack right now, Kirei.
 
 170
-13:03.668 --> 13:05.396
+00:13:03,668 --> 00:13:05,396
 I have no objections.
 
 171
-13:06.062 --> 13:10.265
+00:13:06,062 --> 00:13:10,265
 I believe it will take roughly ten
 minutes to summon all the Assassins.
 
 172
-13:11.446 --> 13:13.258
+00:13:11,446 --> 00:13:13,258
 Fine, give the order.
 
 173
-13:14.008 --> 13:16.368
+00:13:14,008 --> 00:13:16,368
 It is a large gamble, but even if it fails,
 
 174
-13:16.536 --> 13:17.945
+00:13:16,536 --> 00:13:17,945
 we stand to lose nothing.
 
 175
-13:19.072 --> 13:22.069
+00:13:19,072 --> 00:13:22,069
 Use a command seal to give Assassin the following order.
 
 176
-13:22.916 --> 13:25.946
+00:13:22,916 --> 00:13:25,946
 Be victorious no matter the cost, got it?
 
 177
-13:30.676 --> 13:35.601
+00:13:30,676 --> 00:13:35,601
 Hey, King of Knights,
 did you just say that you would change fate?
 
 178
-13:36.056 --> 13:39.328
+00:13:36,056 --> 00:13:39,328
 Does that mean that you wish to change events long past?
 
 179
-13:39.488 --> 13:43.868
+00:13:39,488 --> 00:13:43,868
 Indeed, even if it is a wish that
 a miracle alone can not fulfill.
 
 180
-13:44.436 --> 13:46.783
+00:13:44,436 --> 00:13:46,783
 If the Holy Grail is truly omnipotent,
 
 181
-13:47.147 --> 13:48.233
+00:13:47,147 --> 00:13:48,233
 then surely...
 
 182
-13:51.012 --> 13:54.841
+00:13:51,012 --> 00:13:54,841
 Um, Saber, just so I am clear on this,
 
 183
-13:55.261 --> 14:00.626
+00:13:55,261 --> 00:14:00,626
 it was back during your time that his country
 you call Britain was conquered and fell?
 
 184
-14:01.076 --> 14:02.896
+00:14:01,076 --> 00:14:02,896
 When it was under your rule?
 
 185
-14:03.063 --> 14:06.084
+00:14:03,063 --> 00:14:06,084
 Correct, that is why I can not allow it.
 
 186
-14:06.686 --> 14:08.486
+00:14:06,686 --> 00:14:08,486
 And that is why I regret it.
 
 187
-14:08.546 --> 14:10.472
+00:14:08,546 --> 00:14:10,472
 Why I want to alter that outcome,
 
 188
-14:10.856 --> 14:14.109
+00:14:10,856 --> 00:14:14,109
 for it was I and none other who was to blame.
 
 189
-14:17.130 --> 14:18.933
+00:14:17,130 --> 00:14:18,933
 Archer, what's so amusing?
 
 190
-14:20.040 --> 14:23.757
+00:14:20,040 --> 00:14:23,757
 You call yourself a king and are praised by all as such,
 
 191
-14:24.272 --> 14:25.958
+00:14:24,272 --> 00:14:25,958
 and yet you feel regret.
 
 192
-14:27.936 --> 14:30.768
+00:14:27,936 --> 00:14:30,768
 How can I not laugh at such nonsense?
 
 193
-14:31.446 --> 14:35.089
+00:14:31,446 --> 00:14:35,089
 Saber, surely you do not really mean
 
 194
-14:36.197 --> 14:40.185
+00:14:36,197 --> 00:14:40,185
 that you would erase the marks that
 you yourself have left on history?
 
 195
-14:40.286 --> 14:42.336
+00:14:40,286 --> 00:14:42,336
 I do, and what of it?
 
 196
-14:42.576 --> 14:43.662
+00:14:42,576 --> 00:14:43,662
 Why do you laugh?
 
 197
-14:43.836 --> 14:47.727
+00:14:43,836 --> 00:14:47,727
 My beloved country to which I
 devoted my whole life was destroyed.
 
 198
-14:47.842 --> 14:49.893
+00:14:47,842 --> 00:14:49,893
 Why is my sadness about that strange?
 
 199
-14:50.093 --> 14:51.866
+00:14:50,093 --> 00:14:51,866
 Did you hear that drivel, Rider?
 
 200
-14:52.126 --> 14:55.480
+00:14:52,126 --> 00:14:55,480
 Did you hear what this little girl who
 calls herself King of Knights said?
 
 201
-14:55.600 --> 14:58.977
+00:14:55,600 --> 00:14:58,977
 Her beloved country to which she devoted her whole life.
 
 202
-14:59.176 --> 15:01.046
+00:14:59,176 --> 00:15:01,046
 Why is that humorous to you?
 
 203
-15:02.846 --> 15:04.276
+00:15:02,846 --> 00:15:04,276
 For their country's prosperity,
 
 204
-15:04.489 --> 15:07.575
+00:15:04,489 --> 00:15:07,575
 a true king should be willing to make any sacrifice.
 
 205
-15:08.041 --> 15:09.087
+00:15:08,041 --> 00:15:09,087
 You are wrong.
 
 206
-15:10.486 --> 15:12.358
+00:15:10,486 --> 00:15:12,358
 The king does not devote himself.
 
 207
-15:12.628 --> 15:14.077
+00:15:12,628 --> 00:15:14,077
 It is the nation and the people
 
 208
-15:14.303 --> 15:16.423
+00:15:14,303 --> 00:15:16,423
 who must devote themselves to the king.
 
 209
-15:16.656 --> 15:18.258
+00:15:16,656 --> 00:15:18,258
 You have reversed the concept.
 
 210
-15:18.636 --> 15:19.391
+00:15:18,636 --> 00:15:19,391
 I what?
 
 211
-15:19.813 --> 15:21.995
+00:15:19,813 --> 00:15:21,995
 Those are the words of a brutal tyrant.
 
 212
-15:22.143 --> 15:22.937
+00:15:22,143 --> 00:15:22,937
 Just so.
 
 213
-15:23.674 --> 15:26.536
+00:15:23,674 --> 00:15:26,536
 We are heroes precisely because we are tyrants.
 
 214
-15:26.809 --> 15:32.758
+00:15:26,809 --> 00:15:32,758
 However, Saber, if a king regrets his rule or
 regrets the manner in which his rule came to an end,
 
 215
-15:33.086 --> 15:36.895
+00:15:33,086 --> 00:15:36,895
 that king is nothing but a fool,
 worse than the tyrant you disdain.
 
 216
-15:37.388 --> 15:40.658
+00:15:37,388 --> 00:15:40,658
 Iskandar, your reign ended with all your heirs slain
 
 217
-15:40.993 --> 15:43.988
+00:15:40,993 --> 00:15:43,988
 and your great empire broken up by civil war.
 
 218
-15:44.282 --> 15:48.127
+00:15:44,282 --> 00:15:48,127
 Do you mean to say you have no regrets about that end?
 
 219
-15:48.302 --> 15:49.111
+00:15:48,302 --> 00:15:49,111
 None at all.
 
 220
-15:50.855 --> 15:57.008
+00:15:50,855 --> 00:15:57,008
 Not if it came to pass by my own decisions and by
 the considerable sacrifices of my many retainers.
 
 221
-15:57.526 --> 15:59.100
+00:15:57,526 --> 00:15:59,100
 Its destruction was inevitable.
 
 222
-15:59.866 --> 16:02.149
+00:15:59,866 --> 00:16:02,149
 I shall mourn it and shed tears over it,
 
 223
-16:02.696 --> 16:04.410
+00:16:02,696 --> 00:16:04,410
 but I shall never regret it.
 
 224
-16:05.073 --> 16:05.983
-But you... 
+00:16:05,073 --> 00:16:05,983
+But you...
 
 225
-16:06.030 --> 16:07.989
+00:16:06,030 --> 00:16:07,989
 Let alone undo it all!
 
 226
-16:08.326 --> 16:13.796
+00:16:08,326 --> 00:16:13,796
 Such an act would be an insufferable insult to all
 those who fought and bled and died alongside me.
 
 227
-16:13.947 --> 16:16.771
+00:16:13,947 --> 00:16:16,771
 It is only a warrior who can find glory in destruction,
 
 228
-16:16.887 --> 16:19.568
+00:16:16,887 --> 00:16:19,568
 worthless is a king who fails to protect the weak.
 
 229
-16:19.756 --> 16:22.703
+00:16:19,756 --> 00:16:22,703
 A just rule guided by just laws,
 
 230
-16:23.030 --> 16:25.113
+00:16:23,030 --> 00:16:25,113
 those are the true duties of a king.
 
 231
-16:26.226 --> 16:28.830
+00:16:26,226 --> 00:16:28,830
 So you, the king of your realm,
 
 232
-16:29.056 --> 16:30.727
+00:16:29,056 --> 00:16:30,727
 are a slave to what is right?
 
 233
-16:31.066 --> 16:32.002
+00:16:31,066 --> 00:16:32,002
 I am.
 
 234
-16:32.577 --> 16:34.912
+00:16:32,577 --> 00:16:34,912
 Kings are martyrs to their ideals.
 
 235
-16:36.265 --> 16:38.678
+00:16:36,265 --> 00:16:38,678
 That is not the way a person should live.
 
 236
-16:39.793 --> 16:41.623
+00:16:39,793 --> 00:16:41,623
 If I rule a nation as king,
 
 237
-16:41.883 --> 16:43.965
+00:16:41,883 --> 00:16:43,965
 I can not expect to live as a person.
 
 238
-16:44.996 --> 16:49.339
+00:16:44,996 --> 00:16:49,339
 King of Conquerors, you seek the
 Grail merely for your own benefit.
 
 239
-16:49.572 --> 16:51.969
+00:16:49,572 --> 00:16:51,969
 And as such, you could never understand that.
 
 240
-16:52.996 --> 16:57.363
+00:16:52,996 --> 00:16:57,363
 You, who became a ruler only
 to satisfy your endless greed.
 
 241
-16:57.426 --> 17:00.012
+00:16:57,426 --> 00:17:00,012
 A king without greed is even worse than a figurehead!
 
 242
-17:01.419 --> 17:05.532
+00:17:01,419 --> 00:17:05,532
 Saber, you said you would
 martyr yourself for your ideals.
 
 243
-17:05.926 --> 17:10.057
+00:17:05,926 --> 00:17:10,057
 In life you must have been something
 akin to the purest of all the saints.
 
 244
-17:10.452 --> 17:13.621
+00:17:10,452 --> 00:17:13,621
 A proud and noble figure at the very least.
 
 245
-17:14.167 --> 17:19.375
+00:17:14,167 --> 00:17:19,375
 But who can truly admire the rough and thorny
 path that a martyr must follow in life?
 
 246
-17:19.983 --> 17:22.291
+00:17:19,983 --> 00:17:22,291
 Who actually dreams of such an ending?
 
 247
-17:24.642 --> 17:27.990
+00:17:24,642 --> 00:17:27,990
 A king must be greedier than any other.
 
 248
-17:28.156 --> 17:31.684
+00:17:28,156 --> 00:17:31,684
 He must laugh more loudly and rage for much longer
 
 249
-17:32.086 --> 17:35.454
+00:17:32,086 --> 00:17:35,454
 and embody the very extreme of all things good and evil.
 
 250
-17:36.121 --> 17:39.051
+00:17:36,121 --> 00:17:39,051
 That is why his retainers envy his very existence.
 
 251
-17:39.426 --> 17:40.764
+00:17:39,426 --> 00:17:40,764
 And adore him as well.
 
 252
-17:41.231 --> 17:43.261
+00:17:41,231 --> 00:17:43,261
 And why the flames of aspiration
 
 253
-17:43.736 --> 17:45.729
+00:17:43,736 --> 00:17:45,729
 to be just as the king is
 
 254
-17:45.842 --> 17:47.415
+00:17:45,842 --> 00:17:47,415
 can burn within his people.
 
 255
-17:52.356 --> 17:54.195
+00:17:52,356 --> 00:17:54,195
 Proud king of chivalry,
 
 256
-17:55.016 --> 17:58.221
+00:17:55,016 --> 00:17:58,221
 the righteousness and ideals you embraced in life
 
 257
-17:58.396 --> 18:00.627
+00:17:58,396 --> 00:18:00,627
 may have indeed saved your nation
 
 258
-18:00.760 --> 18:02.489
+00:18:00,760 --> 00:18:02,489
 and her people once.
 
 259
-18:03.610 --> 18:07.667
+00:18:03,610 --> 00:18:07,667
 However, surely you must know what became of those
 
 260
-18:07.902 --> 18:09.535
+00:18:07,902 --> 00:18:09,535
 who were saved by you.
 
 261
-18:10.029 --> 18:13.007
+00:18:10,029 --> 00:18:13,007
 But then were left to fend for themselves.
 
 262
-18:13.376 --> 18:14.327
+00:18:13,376 --> 00:18:14,327
 What are you saying?
 
 263
-18:25.567 --> 18:27.473
+00:18:25,567 --> 00:18:27,473
 You may indeed have saved them,
 
 264
-18:28.266 --> 18:29.721
+00:18:28,266 --> 00:18:29,721
 but you never led them.
 
 265
-18:31.056 --> 18:34.313
+00:18:31,056 --> 00:18:34,313
 You never showed them all
 what a king should really be.
 
 266
-18:34.647 --> 18:37.364
+00:18:34,647 --> 00:18:37,364
 You abandoned your men when they lost their way.
 
 267
-18:37.617 --> 18:40.096
+00:18:37,617 --> 00:18:40,096
 Then alone and untroubled by that fact,
 
 268
-18:40.362 --> 18:44.341
+00:18:40,362 --> 00:18:44,341
 you went on to follow your own
 pretty little ideals to the end.
 
 269
-18:46.263 --> 18:48.942
+00:18:46,263 --> 00:18:48,942
 Thus, you are no true king.
 
 270
-18:49.433 --> 18:55.450
+00:18:49,433 --> 00:18:55,450
 You spent your life enraptured by a false idol
 of a humble king who always serves others.
 
 271
-18:56.166 --> 18:57.745
+00:18:56,166 --> 00:18:57,745
 You're just a little girl.
 
 272
-19:01.946 --> 19:02.746
+00:19:01,946 --> 00:19:02,746
 I...
 
 273
-19:06.022 --> 19:06.773
+00:19:06,022 --> 00:19:06,773
 I...
 
 274
-19:18.646 --> 19:20.600
+00:19:18,646 --> 00:19:20,600
 What are you laughing at, Archer?
 
 275
-19:20.729 --> 19:21.953
+00:19:20,729 --> 00:19:21,953
 Oh, nothing.
 
 276
-19:22.310 --> 19:25.953
+00:19:22,310 --> 00:19:25,953
 I simply felt that your anguished
 face was a rather lovely sight.
 
 277
-19:26.736 --> 19:30.787
+00:19:26,736 --> 00:19:30,787
 It was the face of the virgins who
 showered me with flower pedals in my bed.
 
 278
-19:31.483 --> 19:33.334
+00:19:31,483 --> 00:19:33,334
 A woman after my own heart.
 
 279
-19:33.646 --> 19:34.500
+00:19:33,646 --> 00:19:34,500
 Bastard!
 
 280
-19:38.432 --> 19:39.066
+00:19:38,432 --> 00:19:39,066
 Huh?
 
 281
-19:40.266 --> 19:41.080
+00:19:40,266 --> 00:19:41,080
 Hmm.
 
 282
-19:41.803 --> 19:42.591
+00:19:41,803 --> 00:19:42,591
 Ah.
 
 283
-19:45.746 --> 19:46.513
+00:19:45,746 --> 00:19:46,513
 Ahhh.
 
 284
-19:51.010 --> 19:52.216
+00:19:51,010 --> 00:19:52,216
 Assassin.
 
 285
-20:00.726 --> 20:03.735
+00:20:00,726 --> 00:20:03,735
 So is this all your doing, goldie?
 
 286
-20:04.303 --> 20:07.617
+00:20:04,303 --> 00:20:07,617
 Tokiomi, what a shameful cur.
 
 287
-20:08.472 --> 20:12.176
+00:20:08,472 --> 00:20:12,176
 This isn't fair. Why are there
 so many Assassins surrounding us?
 
 288
-20:12.576 --> 20:15.046
+00:20:12,576 --> 00:20:15,046
 We are one divided into many.
 
 289
-20:15.286 --> 20:17.407
+00:20:15,286 --> 00:20:17,407
 An army and also one.
 
 290
-20:17.666 --> 20:19.988
+00:20:17,666 --> 00:20:19,988
 A Servant with many shadows.
 
 291
-20:20.126 --> 20:21.108
+00:20:20,126 --> 00:20:21,108
 And one.
 
 292
-20:24.666 --> 20:28.979
+00:20:24,666 --> 00:20:28,979
 A Servant with separate bodies for
 each of his multiple personalities?
 
 293
-20:31.492 --> 20:33.545
+00:20:31,492 --> 00:20:33,545
 Rider, um, I...
 
 294
-20:33.716 --> 20:34.853
+00:20:33,716 --> 00:20:34,853
 Oh, calm yourself.
 
 295
-20:35.346 --> 20:37.050
+00:20:35,346 --> 00:20:37,050
 Nothing to worry about, boy.
 
 296
-20:37.516 --> 20:39.894
+00:20:37,516 --> 00:20:39,894
 Even those rude enough to interrupt our banquet
 
 297
-20:40.427 --> 20:42.875
+00:20:40,427 --> 00:20:42,875
 may yet show us which is the greatest king.
 
 298
-20:43.263 --> 20:47.576
+00:20:43,263 --> 00:20:47,576
 So I suppose you'll invite them all to our
 little banquet as well, King of Conquerors?
 
 299
-20:47.960 --> 20:52.195
+00:20:47,960 --> 00:20:52,195
 But of course, a king's words are
 meant for all to hear and absorb.
 
 300
-20:52.562 --> 20:56.651
+00:20:52,562 --> 00:20:56,651
 If they have come here to listen,
 it matters not if they are friend or foe.
 
 301
-20:59.646 --> 21:01.239
+00:20:59,646 --> 00:21:01,239
 Now then, don't hold back.
 
 302
-21:01.779 --> 21:04.837
+00:21:01,779 --> 00:21:04,837
 Any who would speak with us, come forth and take a cup.
 
 303
-21:05.377 --> 21:08.195
+00:21:05,377 --> 00:21:08,195
 This drink is as your blood.
 
 304
-21:16.358 --> 21:17.220
+00:21:16,358 --> 00:21:17,220
 Very well.
 
 305
-21:18.007 --> 21:21.137
+00:21:18,007 --> 00:21:21,137
 As I said, this drink is as your blood.
 
 306
-21:21.959 --> 21:24.723
+00:21:21,959 --> 00:21:24,723
 If you insist on spilling it here tonight,
 
 307
-21:25.221 --> 21:26.351
+00:21:25,221 --> 00:21:26,351
 then so be it.
 
 308
-21:40.460 --> 21:44.966
+00:21:40,460 --> 00:21:44,966
 Saber, Archer, here is our banquet's final question.
 
 309
-21:45.405 --> 21:48.482
+00:21:45,405 --> 00:21:48,482
 It is, does a king always stand alone?
 
 310
-21:49.660 --> 21:54.170
+00:21:49,660 --> 00:21:54,170
 The king must indeed be alone, always.
 
 311
-21:54.343 --> 21:57.602
+00:21:54,343 --> 00:21:57,602
 No, no, you obviously don't understand.
 
 312
-21:58.044 --> 22:00.779
+00:21:58,044 --> 00:22:00,779
 I suppose I'll just have to show you both right now
 
 313
-22:00.860 --> 22:05.209
+00:22:00,860 --> 00:22:05,209
 exactly what a real king is all about when
 faced with an adversary like this one.
 
 314
-22:17.412 --> 22:18.515
+00:22:17,412 --> 00:22:18,515
 Huh?
 
 315
-22:19.428 --> 22:20.181
+00:22:19,428 --> 00:22:20,181
 Huh?
 
 316
-22:29.805 --> 22:31.352
+00:22:29,805 --> 00:22:31,352
 A reality marble?
 
 317
-22:31.765 --> 22:32.974
+00:22:31,765 --> 00:22:32,974
 That's impossible.
 
 318
-22:33.455 --> 22:36.580
+00:22:33,455 --> 00:22:36,580
 A mental image materialized into the real world.
 
 319
-22:38.558 --> 22:42.309
+00:22:38,558 --> 00:22:42,309
 My glorious armies once rode across these sands.
 
 320
-22:42.589 --> 22:48.165
+00:22:42,589 --> 00:22:48,165
 A place that all the heroes who stood with
 me through joy and sorrow will never forget.
 
 321
-22:54.409 --> 22:57.955
+00:22:54,409 --> 00:22:57,955
 I can make this world as real as real can ever be.
 
 322
-22:58.295 --> 23:01.290
+00:22:58,295 --> 00:23:01,290
 Because it still exists deep within our hearts.
 
 323
-23:04.335 --> 23:06.697
+00:23:04,335 --> 00:23:06,697
 Behold my endless armies.
 
 324
-23:07.130 --> 23:12.986
+00:23:07,130 --> 00:23:12,986
 Their bodies utterly destroyed and their souls
 offered to the current world as heroic spirits of old.
 
 325
-23:13.126 --> 23:17.627
+00:23:13,126 --> 00:23:17,627
 And still, these legendary heroes
 pledge their loyalty to me.
 
 326
-23:18.820 --> 23:21.215
+00:23:18,820 --> 00:23:21,215
 My bond with them is my greatest treasure.
 
 327
-23:21.455 --> 23:22.985
+00:23:21,455 --> 00:23:22,985
 My path to kingship.
 
 328
-23:23.230 --> 23:25.738
+00:23:23,230 --> 00:23:25,738
 The ultimate noble phantasm that I possess!
 
 329
-23:25.905 --> 23:28.764
+00:23:25,905 --> 00:23:28,764
 I order in Haitari.
 
 330
-23:34.655 --> 23:37.906
+00:23:34,655 --> 00:23:37,906
 Wait a minute, so each of these is a Servant?
 
 331
-23:39.165 --> 23:41.276
+00:23:39,165 --> 00:23:41,276
 It has been a long time, partner.
 
 332
-23:44.526 --> 23:45.612
+00:23:44,526 --> 00:23:45,612
 Hear me!
 
 333
-23:45.835 --> 23:50.391
+00:23:45,835 --> 00:23:50,391
 A king must live a grand life and
 embody his people's image of admiration.
 
 334
-23:50.612 --> 23:53.192
+00:23:50,612 --> 00:23:53,192
 Aye, aye, aye.
 
 335
-23:55.555 --> 24:00.792
+00:23:55,555 --> 00:24:00,792
 He who is worthy of all heroes envy and
 he who leads their way, that is a king!
 
 336
-24:01.385 --> 24:04.074
+00:24:01,385 --> 00:24:04,074
 Therefore, the king is not alone,
 
 337
-24:04.682 --> 24:09.996
+00:24:04,682 --> 00:24:09,996
 for his will equals that of all who would
 follow him to his ultimate glory combined!
 
 338
-24:10.279 --> 24:13.525
+00:24:10,279 --> 00:24:13,525
 Aye, aye, aye!
 
 339
-24:13.922 --> 24:18.023
+00:24:13,922 --> 00:24:18,023
 Now then, shall we begin our battle, Assassin?
 
 340
-24:18.902 --> 24:26.104
+00:24:18,902 --> 00:24:26,104
 As you can see, what we have created is a vast plane
 and with our superior numbers, we hold the advantage.
 
 341
-24:27.047 --> 24:29.028
+00:24:27,047 --> 00:24:29,028
 Annihilate them!
 
 342
-25:15.455 --> 25:18.393
+00:25:15,455 --> 00:25:18,393
 Aaarggh!
 
 343
-25:39.796 --> 25:42.603
+00:25:39,796 --> 00:25:42,603
 That ending wasn't as much fun as I'd hoped for.
 
 344
-25:44.092 --> 25:45.903
+00:25:44,092 --> 00:25:45,903
 We have said all there is to say.
 
 345
-25:46.720 --> 25:50.069
+00:25:46,720 --> 00:25:50,069
 I suppose that will do for today.
 
 346
-25:50.505 --> 25:52.808
+00:25:50,505 --> 00:25:52,808
 Wait, Rider, I have not finished.
 
 347
-25:52.885 --> 25:53.997
+00:25:52,885 --> 00:25:53,997
 You may keep silent.
 
 348
-25:54.672 --> 25:57.289
+00:25:54,672 --> 00:25:57,289
 Tonight was for a conversation amongst kings.
 
 349
-25:58.472 --> 26:02.869
+00:25:58,472 --> 00:26:02,869
 But I no longer recognize you as a king, Saber.
 
 350
-26:08.348 --> 26:13.046
+00:26:08,348 --> 00:26:13,046
 Little girl, you must wake from
 your sad dream and see the truth.
 
 351
-26:13.433 --> 26:19.047
+00:26:13,433 --> 00:26:19,047
 If you don't, you'll someday lose even that
 modicum of pride you retain as a heroic spirit.
 
 352
-26:19.540 --> 26:24.831
+00:26:19,540 --> 00:26:24,831
 The dream of a king you spoke of earlier is a
 curse and a burden which blinds and cripples you.
 
 353
-26:25.012 --> 26:25.825
+00:26:25,012 --> 00:26:25,825
 A what?
 
 354
-26:35.672 --> 26:38.156
+00:26:35,672 --> 00:26:38,156
 Pay that base mongrel no heed, Saber.
 
 355
-26:39.144 --> 26:42.514
+00:26:39,144 --> 00:26:42,514
 You are correct, follow the path you believe in.
 
 356
-26:43.864 --> 26:46.542
+00:26:43,864 --> 00:26:46,542
 Your agonizing pain and terrible sorrow
 
 357
-26:46.831 --> 26:50.581
+00:26:46,831 --> 00:26:50,581
 as you bear a burden of kingship
 that is too heavy a weight for any
 
 358
-26:51.296 --> 26:54.873
+00:26:51,296 --> 00:26:54,873
 is quite a splendid and
 marvelous thing to look upon.
 
 359
-26:55.445 --> 26:58.316
+00:26:55,445 --> 00:26:58,316
 Keep at it, oh great King of Knights.
 
 360
-26:58.556 --> 27:03.408
+00:26:58,556 --> 00:27:03,408
 It is possible you may prove worthy
 of still more of my magnificent love.
 
 361
-27:13.162 --> 27:14.051
+00:27:13,162 --> 00:27:14,051
 Saber.
 
 362
-27:15.208 --> 27:16.400
+00:27:15,208 --> 00:27:16,400
 I remember now.
 
 363
-27:17.372 --> 27:20.230
+00:27:17,372 --> 00:27:20,230
 There was once a knight who left Camelot
 
 364
-27:20.675 --> 27:23.704
+00:27:20,675 --> 00:27:23,704
 claiming the king didn't
 understand how others felt.
 
 365
-27:24.938 --> 27:32.837
+00:27:24,938 --> 00:27:32,837
 Well, perhaps that... that sentiment was shared by all
 of the knights who sat with me at the round table.
+

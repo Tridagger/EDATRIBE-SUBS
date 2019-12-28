@@ -1,1428 +1,1427 @@
-﻿WEBVTT FILE
-
-1
-00:06.985 --> 00:08.631
+﻿1
+00:00:06,985 --> 00:00:08,631
 Fionn mac Cumhaill,
 
 2
-00:08.829 --> 00:12.004
+00:00:08,829 --> 00:00:12,004
 hero of Ireland and leader of the Knights of Fianna,
 
 3
-00:12.198 --> 00:13.590
+00:00:12,198 --> 00:00:13,590
 and my daughter, Grainne,
 
 4
-00:13.778 --> 00:16.785
+00:00:13,778 --> 00:00:16,785
 are pleased to announce their engagement!
 
 5
-00:17.269 --> 00:21.458
+00:00:17,269 --> 00:00:21,458
 Everyone, this night, I want you all to celebrate!
 
 6
-00:22.628 --> 00:25.121
+00:00:22,628 --> 00:00:25,121
 That striking man with the mole beneath his eye,
 
 7
-00:25.708 --> 00:26.676
+00:00:25,708 --> 00:00:26,676
 what is his name?
 
 8
-00:28.378 --> 00:31.550
+00:00:28,378 --> 00:00:31,550
 He is a knight of Fianna, Diarmuid Ua Duibhne.
 
 9
-00:33.548 --> 00:34.604
+00:00:33,548 --> 00:00:34,604
 Diarmuid...
 
 10
-00:46.900 --> 00:48.116
+00:00:46,900 --> 00:00:48,116
 Traitor.
 
 11
-00:48.533 --> 00:51.057
+00:00:48,533 --> 00:00:51,057
 You will suffer for this, Diarmuid.
 
 12
-00:51.568 --> 00:52.643
+00:00:51,568 --> 00:00:52,643
 Take me with you.
 
 13
-00:54.068 --> 00:55.576
+00:00:54,068 --> 00:00:55,576
 We must run away.
 
 14
-01:08.357 --> 01:09.594
+00:01:08,357 --> 00:01:09,594
 Rejoice, Grainne!
 
 15
-01:09.851 --> 01:11.949
+00:01:09,851 --> 00:01:11,949
 Fionn has recognized our marriage.
 
 16
-01:19.955 --> 01:23.908
+00:01:19,955 --> 00:01:23,908
 Did you believe I'd forgotten
 what happened with Grainne?
 
 17
-01:29.824 --> 01:31.168
+00:01:29,824 --> 00:01:31,168
 A dream?
 
 18
-03:03.202 --> 03:04.862
+00:03:03,202 --> 00:03:04,862
 That dream I had...
 
 19
-03:05.372 --> 03:08.270
+00:03:05,372 --> 00:03:08,270
 It was the legend of Diarumuid.
 
 20
-03:08.752 --> 03:11.827
+00:03:08,752 --> 00:03:11,827
 Could those have been the memories of my servant?
 
 21
-03:16.342 --> 03:17.607
+00:03:16,342 --> 00:03:17,607
 Where am I?
 
 22
-03:19.302 --> 03:21.542
+00:03:19,302 --> 00:03:21,542
 I see that you're awake now.
 
 23
-03:26.262 --> 03:28.700
+00:03:26,262 --> 00:03:28,700
 Sola‐Ui!
 
 24
-03:28.892 --> 03:30.702
+00:03:28,892 --> 00:03:30,702
 What is a meaning of this?
 
 25
-03:30.862 --> 03:33.460
+00:03:30,862 --> 00:03:33,460
 Wh... what am I doing this place?
 
 26
-03:34.732 --> 03:39.012
+00:03:34,732 --> 00:03:39,012
 So I gather that you have no memory
 at all of what happened to you?
 
 27
-03:40.202 --> 03:43.062
+00:03:40,202 --> 00:03:43,062
 I... I was shot.
 
 28
-03:43.469 --> 03:47.872
+00:03:43,469 --> 00:03:47,872
 I defended myself with the Volumen Hydragyrum, but...
 
 29
-03:49.280 --> 03:51.655
+00:03:49,280 --> 00:03:51,655
 ...what happened to my body?
 
 30
-03:52.088 --> 03:55.990
+00:03:52,088 --> 00:03:55,990
 Your body's magic circuits have misfired somehow.
 
 31
-03:56.451 --> 03:58.480
+00:03:56,451 --> 00:03:58,480
 You're lucky you didn't die instantly.
 
 32
-04:00.172 --> 04:03.881
+00:04:00,172 --> 00:04:03,881
 For now, I've only been able to regenerate your organs.
 
 33
-04:07.501 --> 04:10.281
+00:04:07,501 --> 00:04:10,281
 But your magic circuits were utterly destroyed.
 
 34
-04:10.542 --> 04:13.822
+00:04:10,542 --> 00:04:13,822
 I'm afraid you'll never use magic again.
 
 35
-04:15.890 --> 04:17.345
+00:04:15,890 --> 00:04:17,345
 But I can't...
 
 36
-04:18.532 --> 04:19.407
+00:04:18,532 --> 00:04:19,407
 I can't...
 
 37
-04:21.402 --> 04:23.308
+00:04:21,402 --> 00:04:23,308
 Don't cry, Kayneth.
 
 38
-04:24.992 --> 04:26.917
+00:04:24,992 --> 00:04:26,917
 It's too soon to give up.
 
 39
-04:28.162 --> 04:29.612
+00:04:28,162 --> 00:04:29,612
 It will be all right.
 
 40
-04:29.937 --> 04:31.465
+00:04:29,937 --> 00:04:31,465
 We haven't lost yet.
 
 41
-04:32.832 --> 04:33.771
+00:04:32,832 --> 00:04:33,771
 Sola‐Ui.
 
 42
-04:34.575 --> 04:38.227
+00:04:34,575 --> 00:04:38,227
 If the Holy Grail is truly an
 omnipotent wish‐granting device,
 
 43
-04:38.450 --> 04:43.144
+00:04:38,450 --> 00:04:43,144
 then healing you completely and making you
 whole again should be more than possible for it.
 
 44
-04:43.457 --> 04:44.957
+00:04:43,457 --> 00:04:44,957
 We need only to win.
 
 45
-04:45.352 --> 04:49.678
+00:04:45,352 --> 00:04:49,678
 If we succeed and claim the Grail,
 everything will return to how it was.
 
 46
-04:50.773 --> 04:54.419
+00:04:50,773 --> 00:04:54,419
 So, with that in mind, Kayneth,
 
 47
-04:54.934 --> 04:57.449
+00:04:54,934 --> 00:04:57,449
 why don't you give the Command Seals to me?
 
 48
-04:58.297 --> 05:01.608
+00:04:58,297 --> 00:05:01,608
 That way, I can take over as Lancer's master.
 
 49
-05:02.543 --> 05:05.025
+00:05:02,543 --> 00:05:05,025
 I'll win the war and bring the Grail to you.
 
 50
-05:05.202 --> 05:05.918
+00:05:05,202 --> 00:05:05,918
 No.
 
 51
-05:06.202 --> 05:07.288
+00:05:06,202 --> 00:05:07,288
 I won't.
 
 52
-05:07.803 --> 05:09.696
+00:05:07,803 --> 00:05:09,696
 Oh, you don't believe in me then?
 
 53
-05:10.456 --> 05:13.415
+00:05:10,456 --> 00:05:13,415
 Me, who will marry into Archibald family?
 
 54
-05:14.002 --> 05:15.604
+00:05:14,002 --> 00:05:15,604
 No, I just...
 
 55
-05:18.792 --> 05:22.220
+00:05:18,792 --> 00:05:22,220
 Sola‐Ui, do you think...
 
 56
-05:23.361 --> 05:28.306
+00:05:23,361 --> 00:05:28,306
 ...Lancer would actually just abandon
 me and then swear fealty to you?
 
 57
-05:28.777 --> 05:29.726
+00:05:28,777 --> 00:05:29,726
 I do.
 
 58
-05:30.052 --> 05:33.250
+00:05:30,052 --> 00:05:33,250
 He is a Heroic Spirit here by the Grail's invitation.
 
 59
-05:33.522 --> 05:37.062
+00:05:33,522 --> 00:05:37,062
 He desires the Holy Grail just as we do,
 
 60
-05:37.459 --> 05:40.081
+00:05:37,459 --> 00:05:40,081
 even if he must take on a new master.
 
 61
-05:40.760 --> 05:43.135
+00:05:40,760 --> 00:05:43,135
 He will accept it for the sake of his goal.
 
 62
-05:43.232 --> 05:44.284
+00:05:43,232 --> 00:05:44,284
 He won't!
 
 63
-05:44.717 --> 05:47.790
+00:05:44,717 --> 00:05:47,790
 Lancer isn't the fine man you think he is!
 
 64
-05:48.305 --> 05:50.131
+00:05:48,305 --> 00:05:50,131
 And why do you say that, Kayneth?
 
 65
-05:50.372 --> 05:54.281
+00:05:50,372 --> 00:05:54,281
 When I asked him what he would wish
 for if he had the Grail, he said to me,
 
 66
-05:54.598 --> 05:57.260
+00:05:54,598 --> 00:05:57,260
 "I have no interest in the Holy Grail."
 
 67
-05:58.013 --> 06:00.897
+00:05:58,013 --> 00:06:00,897
 A servant with no desire for the Grail is impossible!
 
 68
-06:01.263 --> 06:03.510
+00:06:01,263 --> 00:06:03,510
 He's hiding something important from me.
 
 69
-06:03.916 --> 06:07.104
+00:06:03,916 --> 00:06:07,104
 But no matter. What deep,
 dark secret he's trying to keep hidden,
 
 70
-06:07.312 --> 06:11.483
+00:06:07,312 --> 00:06:11,483
 as long as I bear these Command Seals,
 he must obey me unconditionally.
 
 71
-06:11.602 --> 06:12.250
+00:06:11,602 --> 00:06:12,250
 Kayneth?
 
 72
-06:13.600 --> 06:16.466
+00:06:13,600 --> 00:06:16,466
 I won't give you the Command Seals.
 
 73
-06:19.692 --> 06:22.495
+00:06:19,692 --> 00:06:22,495
 Oh, Kayneth, you still don't get it.
 
 74
-06:23.272 --> 06:24.442
+00:06:23,272 --> 00:06:24,442
 Don't you see?
 
 75
-06:24.487 --> 06:27.951
+00:06:24,487 --> 00:06:27,951
 We must win this war no matter what the cost.
 
 76
-06:47.824 --> 06:49.340
+00:06:47,824 --> 00:06:49,340
 Listen, Kayneth.
 
 77
-06:50.059 --> 06:52.572
+00:06:50,059 --> 00:06:52,572
 With my limited skills as a healer,
 
 78
-06:52.932 --> 06:57.173
+00:06:52,932 --> 00:06:57,173
 it is quite impossible
 to remove any Command Seals by force.
 
 79
-06:57.720 --> 07:02.692
+00:06:57,720 --> 00:07:02,692
 The bearer's willing consent is the sole
 way for me to take them without resistance.
 
 80
-07:02.845 --> 07:06.692
+00:07:02,845 --> 00:07:06,692
 If you truly cannot accept this,
 you will leave me no choice.
 
 81
-07:07.152 --> 07:09.445
+00:07:07,152 --> 00:07:09,445
 I will have to amputate your right arm.
 
 82
-07:09.638 --> 07:10.771
+00:07:09,638 --> 00:07:10,771
 What's your answer?
 
 83
-07:23.457 --> 07:24.360
+00:07:23,457 --> 00:07:24,360
 How is she?
 
 84
-07:24.537 --> 07:26.167
+00:07:24,537 --> 00:07:26,167
 She's going to be all right.
 
 85
-07:26.411 --> 07:29.857
+00:07:26,411 --> 00:07:29,857
 Magical healing can put a
 tremendous stress on the patient.
 
 86
-07:30.230 --> 07:33.174
+00:07:30,230 --> 00:07:33,174
 I think it will take some time yet before she wakes up.
 
 87
-07:35.440 --> 07:37.288
+00:07:35,440 --> 00:07:37,288
 Watch her for a while, okay?
 
 88
-07:38.174 --> 07:40.198
+00:07:38,174 --> 00:07:40,198
 You're going to report to Kiritsugu now?
 
 89
-07:41.209 --> 07:41.986
+00:07:41,209 --> 00:07:41,986
 Yes, Saber.
 
 90
-07:42.280 --> 07:43.966
+00:07:42,280 --> 00:07:43,966
 I'm sure he's worried too.
 
 91
-07:44.450 --> 07:47.041
+00:07:44,450 --> 00:07:47,041
 Irisviel, I have a request.
 
 92
-07:48.302 --> 07:50.091
+00:07:48,302 --> 00:07:50,091
 I'd like you to speak to him for me.
 
 93
-07:50.851 --> 07:54.075
+00:07:50,851 --> 00:07:54,075
 Tell him I feel that we must pursue Caster immediately.
 
 94
-07:55.232 --> 07:56.498
+00:07:55,232 --> 00:07:56,498
 But, Saber.
 
 95
-07:57.415 --> 08:02.374
+00:07:57,415 --> 00:08:02,374
 Inaction on our part will mean the
 deaths of many more innocent children.
 
 96
-08:05.964 --> 08:07.990
+00:08:05,964 --> 00:08:07,990
 May I come in?
 
 97
-08:14.026 --> 08:16.319
+00:08:14,026 --> 00:08:16,319
 How long before Maiya's back?
 
 98
-08:16.803 --> 08:20.658
+00:08:16,803 --> 00:08:20,658
 Not too long, but she has to stay
 in bed for another day or two.
 
 99
-08:21.055 --> 08:22.095
+00:08:21,055 --> 00:08:22,095
 I see.
 
 100
-08:23.808 --> 08:25.312
+00:08:23,808 --> 00:08:25,312
 You and Saber stay here.
 
 101
-08:27.022 --> 08:28.819
+00:08:27,022 --> 00:08:28,819
 I'm going to go follow Kayneth.
 
 102
-08:29.946 --> 08:32.034
+00:08:29,946 --> 00:08:32,034
 No, Kiritsugu, wait a minute.
 
 103
-08:32.381 --> 08:33.647
+00:08:32,381 --> 00:08:33,647
 Did Saber tell you?
 
 104
-08:33.822 --> 08:36.353
+00:08:33,822 --> 00:08:36,353
 She thinks we should go after Caster right away.
 
 105
-08:37.781 --> 08:39.015
+00:08:37,781 --> 00:08:39,015
 Apparently so.
 
 106
-08:40.178 --> 08:44.091
+00:08:40,178 --> 00:08:44,091
 Are you angry at Saber for not interfering with Lancer?
 
 107
-08:45.770 --> 08:48.440
+00:08:45,770 --> 00:08:48,440
 Iri, saving a few children,
 
 108
-08:49.013 --> 08:50.773
+00:08:49,013 --> 00:08:50,773
 or even a few dozen for that matter,
 
 109
-08:51.280 --> 08:52.581
+00:08:51,280 --> 00:08:52,581
 is not our goal.
 
 110
-08:53.403 --> 08:56.825
+00:08:53,403 --> 00:08:56,825
 Saber probably never doubted that
 Lancer would spare me that day,
 
 111
-08:57.735 --> 09:00.204
+00:08:57,735 --> 00:09:00,204
 but if Lancer had betrayed her, then what?
 
 112
-09:01.483 --> 09:04.380
+00:09:01,483 --> 00:09:04,380
 Our Grail War would have ended right then and there.
 
 113
-09:06.991 --> 09:09.030
+00:09:06,991 --> 00:09:09,030
 There's no need to tell her where I'm going.
 
 114
-09:15.504 --> 09:18.490
+00:09:15,504 --> 00:09:18,490
 Lancer, please show yourself.
 
 115
-09:23.548 --> 09:26.605
+00:09:23,548 --> 00:09:26,605
 Mistress Sola‐Ui, how fares Master Kayneth?
 
 116
-09:27.868 --> 09:29.481
+00:09:27,868 --> 00:09:29,481
 Not well, I'm afraid.
 
 117
-09:30.221 --> 09:32.765
+00:09:30,221 --> 00:09:32,765
 But I've done everything I can for him.
 
 118
-09:35.505 --> 09:37.553
+00:09:35,505 --> 00:09:37,553
 This isn't your fault, Lancer.
 
 119
-09:37.695 --> 09:39.570
+00:09:37,695 --> 00:09:39,570
 Kayneth brought it upon himself.
 
 120
-09:40.155 --> 09:42.130
+00:09:40,155 --> 00:09:42,130
 All it means is that the Grail War
 
 121
-09:42.325 --> 09:44.595
+00:09:42,325 --> 00:09:44,595
 was far too much for him to handle.
 
 122
-09:45.191 --> 09:47.152
+00:09:45,191 --> 00:09:47,152
 It's not that, I just...
 
 123
-09:48.810 --> 09:52.953
+00:09:48,810 --> 00:09:52,953
 Diarmuid, don't you see?
 He isn't worthy of being your master.
 
 124
-09:58.885 --> 10:00.804
+00:09:58,885 --> 00:10:00,804
 Kayneth has abandoned the battle,
 
 125
-10:01.305 --> 10:03.796
+00:10:01,305 --> 00:10:03,796
 giving his right as your master to me.
 
 126
-10:07.645 --> 10:11.858
+00:10:07,645 --> 00:10:11,858
 As a knight, my loyalty is
 eternally pledged to Master Kayneth.
 
 127
-10:13.145 --> 10:16.985
+00:10:13,145 --> 00:10:16,985
 Mistress Sola‐Ui, I'm sorry, but I cannot consent.
 
 128
-10:17.404 --> 10:18.425
+00:10:17,404 --> 00:10:18,425
 You what?
 
 129
-10:18.695 --> 10:23.233
+00:10:18,695 --> 00:10:23,233
 As a servant, do you not manifest
 physically in this world using my mana?
 
 130
-10:23.400 --> 10:27.105
+00:10:23,400 --> 00:10:27,105
 And now I also have Kayneth's
 consent, as well as the Command Seals.
 
 131
-10:27.232 --> 10:29.664
+00:10:27,232 --> 00:10:29,664
 Before I am a servant of the Grail War,
 
 132
-10:29.998 --> 10:31.450
+00:10:29,998 --> 00:10:31,450
 I am foremost a knight,
 
 133
-10:31.875 --> 10:35.451
+00:10:31,875 --> 00:10:35,451
 and a knight can only serve but one master.
 
 134
-10:35.665 --> 10:37.970
+00:10:35,665 --> 00:10:37,970
 Am I so unworthy of being your master?
 
 135
-10:38.252 --> 10:40.412
+00:10:38,252 --> 00:10:40,412
 I have already told you that is not the issue.
 
 136
-10:40.545 --> 10:42.396
+00:10:40,545 --> 00:10:42,396
 Look me in the eye when you speak!
 
 137
-10:48.585 --> 10:51.726
+00:10:48,585 --> 00:10:51,726
 Lancer, fight beside me.
 
 138
-10:52.105 --> 10:53.783
+00:10:52,105 --> 00:10:53,783
 Please, you must protect me.
 
 139
-10:54.202 --> 10:55.598
+00:10:54,202 --> 00:10:55,598
 Lend me your support.
 
 140
-10:55.870 --> 10:58.540
+00:10:55,870 --> 00:10:58,540
 Come and help me win the Holy Grail!
 
 141
-10:59.985 --> 11:01.065
+00:10:59,985 --> 00:11:01,065
 I cannot.
 
 142
-11:02.575 --> 11:05.391
+00:11:02,575 --> 00:11:05,391
 If Master Kayneth has given up his quest for the Grail,
 
 143
-11:05.640 --> 11:07.710
+00:11:05,640 --> 00:11:07,710
 then I no longer have any interest in it.
 
 144
-11:10.875 --> 11:14.779
+00:11:10,875 --> 00:11:14,779
 We require a miracle to heal him.
 He has no chance otherwise!
 
 145
-11:15.295 --> 11:18.238
+00:11:15,295 --> 00:11:18,238
 We need the Grail for that miracle.
 
 146
-11:18.547 --> 11:21.528
+00:11:18,547 --> 00:11:21,528
 If you're feeling responsible for all this,
 
 147
-11:22.045 --> 11:25.383
+00:11:22,045 --> 00:11:25,383
 if you desire to give him back his life and his dignity,
 
 148
-11:25.947 --> 11:29.002
+00:11:25,947 --> 00:11:29,002
 you must win the Holy Grail for your master.
 
 149
-11:31.765 --> 11:35.417
+00:11:31,765 --> 00:11:35,417
 Mistress Sola‐Ui, do you speak as Master Kayneth's wife
 
 150
-11:35.895 --> 11:38.766
+00:11:35,895 --> 00:11:38,766
 and seek the Holy Grail only on his behalf?
 
 151
-11:39.355 --> 11:40.829
+00:11:39,355 --> 00:11:40,829
 Is that what you're saying?
 
 152
-11:41.735 --> 11:43.133
+00:11:41,735 --> 00:11:43,133
 Uh, well, yes.
 
 153
-11:43.258 --> 11:44.268
+00:11:43,258 --> 00:11:44,268
 Yes, of course.
 
 154
-11:45.115 --> 11:46.725
+00:11:45,115 --> 00:11:46,725
 That is your only desire?
 
 155
-11:47.138 --> 11:48.176
+00:11:47,138 --> 00:11:48,176
 You'll swear to it?
 
 156
-11:49.698 --> 11:50.844
+00:11:49,698 --> 00:11:50,844
 Yes, I swear.
 
 157
-11:51.430 --> 11:54.310
+00:11:51,430 --> 00:11:54,310
 As the wife of Lord Kayneth El‐Melloi,
 
 158
-11:54.625 --> 11:56.609
+00:11:54,625 --> 00:11:56,609
 I shall bring my husband the Grail.
 
 159
-12:06.391 --> 12:07.852
+00:12:06,391 --> 00:12:07,852
 That look in her eyes.
 
 160
-12:09.385 --> 12:11.296
+00:12:09,385 --> 00:12:11,296
 It is the same as Grainne had.
 
 161
-12:15.294 --> 12:17.125
+00:12:15,294 --> 00:12:17,125
 I don't hate them for what happened.
 
 162
-12:18.025 --> 12:22.230
+00:12:18,025 --> 00:12:22,230
 However, fate was simply too cruel
 to allow it to happen any other way.
 
 163
-12:25.641 --> 12:27.433
+00:12:25,641 --> 00:12:27,433
 What I seek from this life
 
 164
-12:27.825 --> 12:30.150
+00:12:27,825 --> 00:12:30,150
 is the loyalty denied me in my last.
 
 165
-12:30.995 --> 12:33.898
+00:12:30,995 --> 00:12:33,898
 I wish to keep that sad fate from happening again.
 
 166
-12:34.662 --> 12:35.308
+00:12:34,662 --> 00:12:35,308
 But...
 
 167
-12:37.335 --> 12:41.136
+00:12:37,335 --> 00:12:41,136
 In my previous life, I threw myself into many battles...
 
 168
-12:42.533 --> 12:45.950
+00:12:42,533 --> 00:12:45,950
 ...oftentimes, ignoring the lives that would be lost,
 
 169
-12:46.505 --> 12:49.772
+00:12:46,505 --> 00:12:49,772
 and, so, I understand Kiritsugu's reasoning.
 
 170
-12:51.595 --> 12:55.800
+00:12:51,595 --> 00:12:55,800
 However, the Holy Grail War has very clear rules.
 
 171
-12:56.355 --> 12:59.528
+00:12:56,355 --> 00:12:59,528
 It is supposed to be a proxy war conducted by servants
 
 172
-13:00.038 --> 13:02.118
+00:13:00,038 --> 00:13:02,118
 to avoid unnecessary bloodshed.
 
 173
-13:02.904 --> 13:04.929
+00:13:02,904 --> 00:13:04,929
 Isn't that true, Irisviel?
 
 174
-13:08.838 --> 13:10.605
+00:13:08,838 --> 00:13:10,605
 If Kiritsugu and Lancer's master
 
 175
-13:11.170 --> 13:13.175
+00:13:11,170 --> 00:13:13,175
 had not engaged in a secret battle,
 
 176
-13:13.441 --> 13:15.012
+00:13:13,441 --> 00:13:15,012
 we could have struck down Caster.
 
 177
-13:16.075 --> 13:19.704
+00:13:16,075 --> 00:13:19,704
 We would no longer have to worry about
 more innocent children being killed.
 
 178
-13:20.545 --> 13:23.649
+00:13:20,545 --> 00:13:23,649
 Lancer and I could have finished
 our duel in an honorable fashion.
 
 179
-13:26.362 --> 13:29.599
+00:13:26,362 --> 00:13:29,599
 Is there no chance of Kiritsugu changing his mind?
 
 180
-13:46.325 --> 13:48.953
+00:13:46,325 --> 00:13:48,953
 If you believe only one thing, believe this:
 
 181
-13:50.235 --> 13:53.561
+00:13:50,235 --> 00:13:53,561
 For Kiritsugu and me to make our ideal world a reality,
 
 182
-13:53.999 --> 13:55.820
+00:13:53,999 --> 00:13:55,820
 you are absolutely essential.
 
 183
-14:02.944 --> 14:11.385
+00:14:02,944 --> 00:14:11,385
 Uh...
 
 184
-14:12.523 --> 14:15.612
+00:14:12,523 --> 00:14:15,612
 You know, it does a man good to watch you drink.
 
 185
-14:15.799 --> 14:16.559
+00:14:15,799 --> 00:14:16,559
 Here.
 
 186
-14:16.919 --> 14:18.102
+00:14:16,919 --> 00:14:18,102
 Oh, thank you.
 
 187
-14:18.602 --> 14:22.679
+00:14:18,602 --> 00:14:22,679
 You should have told us you had a guest coming over.
 I'd have cooked something special for you.
 
 188
-14:22.759 --> 14:24.723
+00:14:22,759 --> 00:14:24,723
 No, no, don't trouble yourself.
 
 189
-14:25.063 --> 14:29.030
+00:14:25,063 --> 00:14:29,030
 The simple pleasures of home and hearth
 are what are truly best in this world.
 
 190
-14:29.124 --> 14:32.128
+00:14:29,124 --> 00:14:32,128
 Oh, my, you are such a flatterer, aren't you?
 
 191
-14:35.131 --> 14:39.816
+00:14:35,131 --> 00:14:39,816
 We couldn't help but worry over how
 Waver was doing at his school in England,
 
 192
-14:40.176 --> 14:46.277
+00:14:40,176 --> 00:14:46,277
 but if he's managed to make friends with a strapping man
 like you, well, I guess we were worried over nothing.
 
 193
-14:46.554 --> 14:47.907
+00:14:46,554 --> 00:14:47,907
 Hm, not at all.
 
 194
-14:48.182 --> 14:50.495
+00:14:48,182 --> 00:14:50,495
 It is I who am in his debt.
 
 195
-14:51.290 --> 14:53.772
+00:14:51,290 --> 00:14:53,772
 See, he even picked out these fine pants.
 
 196
-14:54.012 --> 14:54.939
+00:14:54,012 --> 00:14:54,939
 Look at the craftsmanship.
 
 197
-14:55.285 --> 14:56.565
+00:14:55,285 --> 00:14:56,565
 They're fit for a king.
 
 198
-14:57.315 --> 15:00.408
+00:14:57,315 --> 00:15:00,408
 So, how long will you be in Japan, Alexei?
 
 199
-15:00.881 --> 15:04.978
+00:15:00,881 --> 00:15:04,978
 Oh, I should have all my work here
 wrapped up in about a week or so.
 
 200
-15:05.749 --> 15:09.885
+00:15:05,749 --> 00:15:09,885
 Well, I was just thinking that, if you
 like, you could stay right here with us.
 
 201
-15:10.219 --> 15:14.313
+00:15:10,219 --> 00:15:14,313
 I'm pretty sure that there's space enough
 to put another futon in Waver's room.
 
 202
-15:14.966 --> 15:16.036
+00:15:14,966 --> 00:15:16,036
 Right, Waver?
 
 203
-15:16.396 --> 15:17.234
+00:15:16,396 --> 00:15:17,234
 Futon?
 
 204
-15:17.496 --> 15:20.180
+00:15:17,496 --> 00:15:20,180
 Oh, yes, the bedding that they sleep on in this land.
 
 205
-15:21.795 --> 15:24.810
+00:15:21,795 --> 00:15:24,810
 Sleeping on a futon does take some getting used to.
 
 206
-15:25.209 --> 15:27.884
+00:15:25,209 --> 00:15:27,884
 It's strange to sleep on the floor instead of a bed.
 
 207
-15:28.284 --> 15:31.872
+00:15:28,284 --> 00:15:31,872
 I think that is what is best about
 traveling to distant foreign lands.
 
 208
-15:32.192 --> 15:35.289
+00:15:32,192 --> 00:15:35,289
 My favorite thing in life is
 the surprise of the unknown.
 
 209
-15:35.635 --> 15:38.788
+00:15:35,635 --> 00:15:38,788
 Surely, Asia gives me the most enjoyment in any age.
 
 210
-15:38.901 --> 15:41.209
+00:15:38,901 --> 00:15:41,209
 I couldn't agree with you more.
 
 211
-15:45.256 --> 15:46.863
+00:15:45,256 --> 00:15:46,863
 I've told you!
 
 212
-15:47.090 --> 15:51.179
+00:15:47,090 --> 00:15:51,179
 Take the spiritual form
 when you come and go!
 
 213
-15:51.286 --> 15:54.652
+00:15:51,286 --> 00:15:54,652
 Yes, well, had I done so,
 I would not have been able to retrieve this.
 
 214
-15:55.005 --> 15:57.905
+00:15:55,005 --> 00:15:57,905
 I even managed to procure this fine pair of pants.
 
 215
-15:58.324 --> 16:02.332
+00:15:58,324 --> 00:16:02,332
 And anyway, boy, it was you who ordered me to do it.
 
 216
-16:05.804 --> 16:11.698
+00:16:05,804 --> 00:16:11,698
 Why must I, the King of Conquerors,
 go forth to draw water from some country river?
 
 217
-16:11.845 --> 16:16.312
+00:16:11,845 --> 00:16:16,312
 Because it's a lot more productive than eating
 junk food and watching all those videos.
 
 218
-16:17.629 --> 16:18.274
+00:16:17,629 --> 00:16:18,274
 Hmm.
 
 219
-16:22.832 --> 16:25.783
+00:16:22,832 --> 00:16:25,783
 What is this, are you playing at being an alchemist?
 
 220
-16:25.929 --> 16:27.180
+00:16:25,929 --> 00:16:27,180
 I'm not playing.
 
 221
-16:27.486 --> 16:29.501
+00:16:27,486 --> 00:16:29,501
 I am an alchemist, idiot.
 
 222
-16:32.272 --> 16:34.300
+00:16:32,272 --> 00:16:34,300
 How interesting, what is that?
 
 223
-16:34.644 --> 16:36.233
+00:16:34,644 --> 00:16:36,233
 Spell casting residue,
 
 224
-16:36.632 --> 16:38.652
+00:16:36,632 --> 00:16:38,652
 remnants of magic left in the water.
 
 225
-16:39.532 --> 16:43.069
+00:16:39,532 --> 00:16:43,069
 And that means someone was recently
 using magic near the river.
 
 226
-16:44.541 --> 16:45.850
+00:16:44,541 --> 00:16:45,850
 If we follow the trail,
 
 227
-16:46.250 --> 16:48.758
+00:16:46,250 --> 00:16:48,758
 it may be able to show us where to look for Caster.
 
 228
-16:49.704 --> 16:53.490
+00:16:49,704 --> 00:16:53,490
 Hey, boy, did you know ahead of time that
 you were gonna find something like that
 
 229
-16:53.663 --> 16:54.999
+00:16:53,663 --> 00:16:54,999
 lurking out there in the water?
 
 230
-16:55.198 --> 16:59.593
+00:16:55,198 --> 00:16:59,593
 Of course not, but this town is unique in
 that water flows straight through its center,
 
 231
-17:00.319 --> 17:02.952
+00:17:00,319 --> 00:17:02,952
 so water was the obvious place to look.
 
 232
-17:10.813 --> 17:14.697
+00:17:10,813 --> 00:17:14,697
 Rider, was there anything between here and here?
 
 233
-17:15.519 --> 17:18.649
+00:17:15,519 --> 00:17:18,649
 A sewage pipe, or maybe an irrigation channel?
 
 234
-17:18.987 --> 17:22.144
+00:17:18,987 --> 00:17:22,144
 Oh, yes, there was one of considerable size down there.
 
 235
-17:22.609 --> 17:23.439
+00:17:22,609 --> 00:17:23,439
 That's it.
 
 236
-17:23.952 --> 17:27.516
+00:17:23,952 --> 00:17:27,516
 If we follow it, it will probably
 lead us right to Caster's hideout.
 
 237
-17:28.046 --> 17:28.991
+00:17:28,046 --> 00:17:28,991
 Hmm.
 
 238
-17:29.601 --> 17:34.300
+00:17:29,601 --> 00:17:34,300
 Boy, are you certain you aren't a
 mage of not inconsiderable skill?
 
 239
-17:34.567 --> 17:37.671
+00:17:34,567 --> 00:17:37,671
 Look, a truly skilled mage
 wouldn't have to do it this way.
 
 240
-17:38.252 --> 17:40.554
+00:17:38,252 --> 00:17:40,554
 As a skill, it's pretty basic.
 
 241
-17:40.969 --> 17:43.711
+00:17:40,969 --> 00:17:43,711
 Wait a minute, you're making fun of me, aren't you?
 
 242
-17:44.035 --> 17:45.682
+00:17:44,035 --> 00:17:45,682
 No, boy, quite the opposite.
 
 243
-17:45.949 --> 17:48.202
+00:17:45,949 --> 00:17:48,202
 To accomplish something so impressive
 
 244
-17:48.514 --> 17:52.858
+00:17:48,514 --> 00:17:52,858
 using a simple method outshines those
 who use a more complex technique.
 
 245
-17:53.284 --> 17:55.641
+00:17:53,284 --> 00:17:55,641
 As your servant, I am proud.
 
 246
-17:55.994 --> 17:56.952
+00:17:55,994 --> 00:17:56,952
 Right.
 
 247
-17:57.434 --> 18:00.309
+00:17:57,434 --> 00:18:00,309
 Now that we have his location, he's as good as ours.
 
 248
-18:00.562 --> 18:03.810
+00:18:00,562 --> 00:18:03,810
 Shall we go give him a good beating right away, boy?
 
 249
-18:05.319 --> 18:06.472
+00:18:05,319 --> 00:18:06,472
 Wait a second.
 
 250
-18:06.824 --> 18:09.431
+00:18:06,824 --> 00:18:09,431
 We're talking about engaging Caster here.
 
 251
-18:09.657 --> 18:10.358
+00:18:09,657 --> 00:18:10,358
 I know.
 
 252
-18:10.383 --> 18:11.443
+00:18:10,383 --> 00:18:11,443
 No, you don't.
 
 253
-18:11.956 --> 18:13.829
+00:18:11,956 --> 00:18:13,829
 When it comes to defending his lair,
 
 254
-18:14.057 --> 18:16.522
+00:18:14,057 --> 00:18:16,522
 he has a tremendous advantage over any attacker.
 
 255
-18:16.909 --> 18:20.230
+00:18:16,909 --> 00:18:20,230
 What kind of moron would just
 go bursting in the front door?
 
 256
-18:21.481 --> 18:27.584
+00:18:21,481 --> 00:18:27,584
 Listen here, in a combat situation, enemy and ally
 positions can practically change by the second.
 
 257
-18:28.043 --> 18:31.275
+00:18:28,043 --> 00:18:31,275
 If you fail to attack the enemy
 when you know his location,
 
 258
-18:31.724 --> 18:34.699
+00:18:31,724 --> 00:18:34,699
 it will be too late for regrets
 once you've missed your chance.
 
 259
-18:35.059 --> 18:38.218
+00:18:35,059 --> 00:18:38,218
 Really, and what's made you so eager today?
 
 260
-18:38.478 --> 18:39.679
+00:18:38,478 --> 00:18:39,679
 Shouldn't I be?
 
 261
-18:39.891 --> 18:43.999
+00:18:39,891 --> 00:18:43,999
 My master has finally contributed
 something of worth to our great endeavor.
 
 262
-18:44.262 --> 18:48.041
+00:18:44,262 --> 00:18:48,041
 As your loyal servant, I must also do my sacred duty.
 
 263
-18:48.215 --> 18:49.609
+00:18:48,215 --> 00:18:49,609
 Seek out and defeat the enemy
 
 264
-18:49.609 --> 18:51.643
+00:18:49,609 --> 00:18:51,643
 and bring back his head to you.
 
 265
-18:52.407 --> 18:56.341
+00:18:52,407 --> 00:18:56,341
 Ha‐ha, do not be so quick to give
 up before we have even begun.
 
 266
-18:56.781 --> 18:59.150
+00:18:56,781 --> 00:18:59,150
 Let us go and see what we can find.
 
 267
-18:59.960 --> 19:02.607
+00:18:59,960 --> 00:19:02,607
 It may well work out better than you imagine.
 
 268
-19:04.289 --> 19:05.783
+00:19:04,289 --> 00:19:05,783
 Ah!
 
 269
-19:07.051 --> 19:08.811
+00:19:07,051 --> 00:19:08,811
 You see, I was right, wasn't I?
 
 270
-19:09.025 --> 19:11.042
+00:19:09,025 --> 00:19:11,042
 Everything has worked out splendidly!
 
 271
-19:18.353 --> 19:22.072
+00:19:18,353 --> 00:19:22,072
 Hmm, unfortunately, Caster appears to be away.
 
 272
-19:24.518 --> 19:27.221
+00:19:24,518 --> 00:19:27,221
 Is this some kind of water storage system?
 
 273
-19:27.896 --> 19:31.751
+00:19:27,896 --> 00:19:31,751
 Hey, boy, I think it would be
 best if you didn't see this.
 
 274
-19:32.069 --> 19:33.644
+00:19:32,069 --> 00:19:33,644
 What are you talking about?
 
 275
-19:34.084 --> 19:37.699
+00:19:34,084 --> 00:19:37,699
 If Caster isn't here, we should at least
 search for clues to his whereabouts.
 
 276
-19:37.823 --> 19:39.271
+00:19:37,823 --> 00:19:39,271
 It'd be dumb not to.
 
 277
-19:39.644 --> 19:42.439
+00:19:39,644 --> 00:19:42,439
 That may be so, but don't do it.
 
 278
-19:42.839 --> 19:45.223
+00:19:42,839 --> 00:19:45,223
 Boy, this is far too much for you.
 
 279
-19:45.629 --> 19:46.940
+00:19:45,629 --> 00:19:46,940
 Oh, shut up.
 
 280
-20:18.598 --> 20:20.314
+00:20:18,598 --> 00:20:20,314
 I warned you, didn't I?
 
 281
-20:20.989 --> 20:22.743
+00:20:20,989 --> 00:20:22,743
 I told you not to look.
 
 282
-20:22.949 --> 20:23.926
+00:20:22,949 --> 00:20:23,926
 Shut up!
 
 283
-20:24.431 --> 20:27.297
+00:20:24,431 --> 00:20:27,297
 Damn it, stop making fun of me.
 
 284
-20:28.169 --> 20:29.439
+00:20:28,169 --> 00:20:29,439
 Damn it.
 
 285
-20:29.926 --> 20:32.696
+00:20:29,926 --> 00:20:32,696
 This is no time for pride, foolish boy.
 
 286
-20:33.186 --> 20:34.770
+00:20:33,186 --> 00:20:34,770
 Your reaction is natural.
 
 287
-20:35.310 --> 20:41.522
+00:20:35,310 --> 00:20:41,522
 If I saw someone who could look on all of this
 and still remain unmoved, I would punch them hard.
 
 288
-20:42.146 --> 20:45.392
+00:20:42,146 --> 00:20:45,392
 What do you mean you'd punch them, you idiot.
 
 289
-20:45.889 --> 20:47.269
+00:20:45,889 --> 00:20:47,269
 What about you?
 
 290
-20:47.649 --> 20:51.191
+00:20:47,649 --> 00:20:51,191
 You look fine, just like you always do.
 
 291
-20:52.479 --> 20:56.377
+00:20:52,479 --> 00:20:56,377
 That's because now is not the time for emotion.
 
 292
-20:56.819 --> 20:57.610
+00:20:56,819 --> 00:20:57,610
 Huh?
 
 293
-21:03.144 --> 21:06.339
+00:21:03,144 --> 00:21:06,339
 Because my young master is in mortal peril!
 
 294
-21:08.629 --> 21:09.449
+00:21:08,629 --> 00:21:09,449
 Assassin?
 
 295
-21:09.669 --> 21:11.324
+00:21:09,669 --> 00:21:11,324
 But that's impossible.
 
 296
-21:11.669 --> 21:12.999
+00:21:11,669 --> 00:21:12,999
 Assassin's dead.
 
 297
-21:13.092 --> 21:14.623
+00:21:13,092 --> 00:21:14,623
 I saw him die.
 
 298
-21:15.919 --> 21:18.626
+00:21:15,919 --> 00:21:18,626
 We can't afford to be surprised, boy.
 
 299
-21:35.819 --> 21:36.756
+00:21:35,819 --> 00:21:36,756
 But how?
 
 300
-21:37.242 --> 21:40.329
+00:21:37,242 --> 00:21:40,329
 The how of it is totally irrelevant to us now.
 
 301
-21:40.979 --> 21:43.226
+00:21:40,979 --> 00:21:43,226
 However, one thing here is for certain.
 
 302
-21:43.623 --> 21:49.451
+00:21:43,623 --> 00:21:49,451
 Anyone in this war who believed in Assassin's untimely
 demise, as we did, has been thoroughly deceived.
 
 303
-21:55.326 --> 21:56.160
+00:21:55,326 --> 00:21:56,160
 They ran.
 
 304
-21:56.509 --> 21:57.439
+00:21:56,509 --> 00:21:57,439
 Didn't they?
 
 305
-21:57.748 --> 21:59.334
+00:21:57,748 --> 00:21:59,334
 Do not let your guard down.
 
 306
-21:59.889 --> 22:00.789
+00:21:59,889 --> 00:22:00,789
 We killed two,
 
 307
-22:01.204 --> 22:03.098
+00:22:01,204 --> 00:22:03,098
 but there appeared to be an additional two.
 
 308
-22:03.744 --> 22:08.229
+00:22:03,744 --> 00:22:08,229
 At this rate, who can say how many
 assassins there truly are out there?
 
 309
-22:09.124 --> 22:11.191
+00:22:09,124 --> 00:22:11,191
 This is Assassin's preferred terrain.
 
 310
-22:11.753 --> 22:13.874
+00:22:11,753 --> 00:22:13,874
 We should withdraw from here at once.
 
 311
-22:14.507 --> 22:17.684
+00:22:14,507 --> 00:22:17,684
 Should we really leave it like this?
 
 312
-22:18.257 --> 22:20.486
+00:22:18,257 --> 00:22:20,486
 Perhaps you'd find something if you were to look,
 
 313
-22:20.979 --> 22:21.929
+00:22:20,979 --> 00:22:21,929
 but let it go.
 
 314
-22:24.111 --> 22:26.679
+00:22:24,111 --> 00:22:26,679
 For now, we'll just have to break what we can.
 
 315
-22:27.119 --> 22:30.245
+00:22:27,119 --> 00:22:30,245
 If nothing else, it will serve to slow Caster down.
 
 316
-22:57.799 --> 23:00.327
+00:22:57,799 --> 00:23:00,327
 With his hideout destroyed and completely in ruins,
 
 317
-23:00.654 --> 23:02.780
+00:23:00,654 --> 00:23:02,780
 Caster will no longer be able to hide.
 
 318
-23:03.126 --> 23:07.052
+00:23:03,126 --> 00:23:07,052
 He'll be forced to come out of the
 shadows, into the open, and show himself.
 
 319
-23:08.259 --> 23:10.227
+00:23:08,259 --> 00:23:10,227
 Then after that, it won't be too long
 
 320
-23:10.567 --> 23:12.571
+00:23:10,567 --> 00:23:12,571
 before we put an end to him and his master.
 
 321
-23:13.788 --> 23:15.248
+00:23:13,788 --> 00:23:15,248
 All right.
 
 322
-23:15.339 --> 23:16.511
+00:23:15,339 --> 00:23:16,511
 I get it!
 
 323
-23:16.919 --> 23:18.131
+00:23:16,919 --> 00:23:18,131
 Quit doing that!
 
 324
-23:21.199 --> 23:22.792
+00:23:21,199 --> 00:23:22,792
 Let us be off, boy.
 
 325
-23:30.280 --> 23:32.154
+00:23:30,280 --> 00:23:32,154
 Do not let it trouble you, Kirei.
 
 326
-23:32.642 --> 23:36.297
+00:23:32,642 --> 00:23:36,297
 Indeed, it is unfortunate that
 Assassin was exposed to them
 
 327
-23:36.617 --> 23:39.704
+00:23:36,617 --> 00:23:39,704
 before we could discern the
 nature of Rider's ultimate weapon.
 
 328
-23:40.189 --> 23:41.571
+00:23:40,189 --> 00:23:41,571
 But from this encounter,
 
 329
-23:41.824 --> 23:45.384
+00:23:41,824 --> 00:23:45,384
 we found out that Rider's master
 is a mere third‐rate mage.
 
 330
-23:45.577 --> 23:48.659
+00:23:45,577 --> 00:23:48,659
 Yes, but had they not been discovered...
 
 331
-23:48.816 --> 23:51.922
+00:23:48,816 --> 00:23:51,922
 You think that other options would
 have become available to you?
 
 332
-23:52.159 --> 23:53.148
+00:23:52,159 --> 00:23:53,148
 Yes.
 
 333
-23:53.789 --> 23:54.501
+00:23:53,789 --> 00:23:54,501
 Hm.
 
 334
-23:55.163 --> 23:57.211
+00:23:55,163 --> 00:23:57,211
 While your plans are certainly important,
 
 335
-23:57.731 --> 24:01.726
+00:23:57,731 --> 00:24:01,726
 you must see to it that you remain
 refined and relaxed in all matters.
 
 336
-24:02.450 --> 24:05.265
+00:24:02,450 --> 00:24:05,265
 Dignity is required even during battle.
 
 337
-24:05.759 --> 24:09.235
+00:24:05,759 --> 00:24:09,235
 But I never expected that he'd
 be such a dull and boring person.
 
 338
-24:11.840 --> 24:15.331
+00:24:11,840 --> 00:24:15,331
 We will certainly have another chance
 to see Rider's ultimate attack.
 
 339
-24:16.039 --> 24:18.359
+00:24:16,039 --> 00:24:18,359
 Have Assassin to continue to monitor Rider,
 
 340
-24:18.641 --> 24:21.382
+00:24:18,641 --> 00:24:21,382
 but remind them to take great care as they do.
 
 341
-24:22.386 --> 24:25.194
+00:24:22,386 --> 00:24:25,194
 Yes, my teacher, it will be done.
+

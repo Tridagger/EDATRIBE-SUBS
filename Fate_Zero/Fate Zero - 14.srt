@@ -1,1046 +1,1045 @@
-﻿WEBVTT FILE
-
-1
-00:03.847 --> 00:07.994
+﻿1
+00:00:03,847 --> 00:00:07,994
 If there really is a giant monster out there,
 do you think they'll authorize us to attack?
 
 2
-00:08.409 --> 00:12.529
+00:00:08,409 --> 00:00:12,529
 If this was a monster movie,
 I guarantee we'd be the first to get killed off.
 
 3
-00:13.337 --> 00:16.701
+00:00:13,337 --> 00:00:16,701
 You know, curtain raisers to set things
 up till the main character shows up.
 
 4
-00:17.087 --> 00:19.027
+00:00:17,087 --> 00:00:19,027
 Uh, that's not even funny, sir.
 
 5
-00:19.169 --> 00:21.222
+00:00:19,169 --> 00:00:21,222
 Whatever it is, we'll find out soon enough.
 
 6
-00:58.357 --> 01:01.332
+00:00:58,357 --> 00:01:01,332
 Didn't work, it's just restoring itself.
 
 7
-01:02.595 --> 01:04.737
+00:01:02,595 --> 00:01:04,737
 What incredible regenerating power.
 
 8
-01:04.888 --> 01:07.521
+00:01:04,888 --> 00:01:07,521
 It's all they can do to keep it from coming ashore.
 
 9
-01:08.747 --> 01:10.094
+00:01:08,747 --> 00:01:10,094
 Well, at this rate,
 
 10
-01:10.457 --> 01:12.837
+00:01:10,457 --> 00:01:12,837
 I'll never get through to Caster.
 
 11
-01:14.700 --> 01:16.826
+00:01:14,700 --> 00:01:16,826
 Awesome, so awesome.
 
 12
-01:17.541 --> 01:20.405
+00:01:17,541 --> 00:01:20,405
 That is so totally awesome, big guy!
 
 13
-01:22.202 --> 01:23.492
+00:01:22,202 --> 00:01:23,492
 The Lord has come.
 
 14
-01:23.807 --> 01:27.214
+00:01:23,807 --> 00:01:27,214
 The Lord has come!
 
 15
-02:57.500 --> 02:59.915
+00:02:57,500 --> 00:02:59,915
 It's terrible, how could this have happened?
 
 16
-03:01.410 --> 03:04.736
+00:03:01,410 --> 00:03:04,736
 In the long and winding history of the Holy Grail Wars,
 
 17
-03:04.940 --> 03:07.729
+00:03:04,940 --> 00:03:07,729
 a foul up like this is unprecedented.
 
 18
-03:08.066 --> 03:10.450
+00:03:08,066 --> 00:03:10,450
 According to our observers' reports,
 
 19
-03:10.703 --> 03:13.921
+00:03:10,703 --> 00:03:13,921
 even though the Mion River area is blanketed in mist,
 
 20
-03:14.209 --> 03:17.781
+00:03:14,209 --> 00:03:17,781
 a large number of onlookers have
 already begun to gather there.
 
 21
-03:18.706 --> 03:22.107
+00:03:18,706 --> 00:03:22,107
 I fear we can no longer handle this by ourselves.
 
 22
-03:22.493 --> 03:26.072
+00:03:22,493 --> 00:03:26,072
 We must petition the Mage's Association for assistance.
 
 23
-03:30.716 --> 03:32.978
+00:03:30,716 --> 00:03:32,978
 What is Tokiomi doing right now?
 
 24
-03:33.386 --> 03:35.731
+00:03:33,386 --> 00:03:35,731
 My master left for the scene with Archer
 
 25
-03:35.898 --> 03:38.601
+00:03:35,898 --> 00:03:38,601
 immediately after Caster's monster appeared.
 
 26
-03:39.836 --> 03:43.480
+00:03:39,836 --> 00:03:43,480
 In that case, I will see to the
 arrangements for the cover up.
 
 27
-03:44.465 --> 03:48.296
+00:03:44,465 --> 00:03:48,296
 Go to Tokiomi immediately and
 assist him in any way you can.
 
 28
-03:48.816 --> 03:51.210
+00:03:48,816 --> 00:03:51,210
 I understand, Father.
 
 29
-03:59.746 --> 04:02.672
+00:03:59,746 --> 00:04:02,672
 This sight has begun to turn my stomach.
 
 30
-04:03.876 --> 04:09.201
+00:04:03,876 --> 00:04:09,201
 Mongrels though they may be,
 they are still figures of at least some slight renown.
 
 31
-04:09.989 --> 04:15.206
+00:04:09,989 --> 00:04:15,206
 Yet here they are working together with all
 their might to finish off that disgusting thing.
 
 32
-04:15.806 --> 04:18.669
+00:04:15,806 --> 00:04:18,669
 Surely there are limits to which one may sink.
 
 33
-04:20.440 --> 04:23.606
+00:04:20,440 --> 00:04:23,606
 Do you not agree with that, Tokiomi?
 
 34
-04:25.566 --> 04:27.537
+00:04:25,566 --> 00:04:27,537
 We must destroy that monster
 
 35
-04:27.751 --> 04:30.295
+00:04:27,751 --> 00:04:30,295
 before there are any more witnesses to the battle.
 
 36
-04:31.347 --> 04:34.078
+00:04:31,347 --> 00:04:34,078
 The honor of the Tohsaka family is at stake.
 
 37
-04:35.310 --> 04:39.643
+00:04:35,310 --> 00:04:39,643
 My king, that monster is a vermin
 that is ravaging your garden.
 
 38
-04:40.589 --> 04:43.310
+00:04:40,589 --> 00:04:43,310
 I humbly beseech you to slay it yourself.
 
 39
-04:44.345 --> 04:47.134
+00:04:44,345 --> 00:04:47,134
 Dealing with pests is the job of a gardener,
 
 40
-04:47.727 --> 04:50.800
+00:04:47,727 --> 00:04:50,800
 or is your intent to mock my Noble Phantasms,
 
 41
-04:51.000 --> 04:54.385
+00:04:51,000 --> 00:04:54,385
 putting them on the level of a gardener's hoe, Tokiomi.
 
 42
-04:55.252 --> 04:57.097
+00:04:55,252 --> 00:04:57,097
 I would never dream of such a thing,
 
 43
-04:57.249 --> 05:01.516
+00:04:57,249 --> 00:05:01,516
 but as you can see, Majesty,
 this creature is beyond the ability of the others.
 
 44
-05:01.677 --> 05:05.159
+00:05:01,677 --> 00:05:05,159
 It's the perfect opportunity
 to demonstrate your true might.
 
 45
-05:05.436 --> 05:07.737
+00:05:05,436 --> 00:05:07,737
 I beg you, please take action.
 
 46
-05:12.762 --> 05:13.362
+00:05:12,762 --> 00:05:13,362
 Hm.
 
 47
-05:46.726 --> 05:47.708
+00:05:46,726 --> 00:05:47,708
 It can't be.
 
 48
-05:49.186 --> 05:50.735
+00:05:49,186 --> 00:05:50,735
 We're leaving, Tokiomi.
 
 49
-05:51.066 --> 05:54.343
+00:05:51,066 --> 00:05:54,343
 I've grown weary of watching that disgusting creature.
 
 50
-05:54.596 --> 05:57.686
+00:05:54,596 --> 00:05:57,686
 No, King of Heroes, wait, I beg you.
 
 51
-05:58.881 --> 06:03.991
+00:05:58,881 --> 00:06:03,991
 Tokiomi, I sacrificed four swords
 thinking it might duty towards you.
 
 52
-06:05.057 --> 06:10.522
+00:06:05,057 --> 00:06:10,522
 Having been defiled by touching that filthy
 thing, I have no interest in retrieving them.
 
 53
-06:11.173 --> 06:13.641
+00:06:11,173 --> 00:06:13,641
 Do not presume upon my generosity.
 
 54
-06:13.921 --> 06:16.091
+00:06:13,921 --> 00:06:16,091
 You are the only heroic spirit alive
 
 55
-06:16.358 --> 06:17.924
+00:06:16,358 --> 00:06:17,924
 able to defeat that thing.
 
 56
-06:18.615 --> 06:23.945
+00:06:18,615 --> 00:06:23,945
 Given its regenerative abilities, the sole way
 to defeat it is to annihilate it in one strike.
 
 57
-06:24.359 --> 06:28.697
+00:06:24,359 --> 00:06:28,697
 Only your Sword of Dissociation is
 capable of accomplishing that so‐-
 
 58
-06:28.722 --> 06:29.630
+00:06:28,722 --> 00:06:29,630
 You fool!
 
 59
-06:30.936 --> 06:33.646
+00:06:30,936 --> 00:06:33,646
 You dare suggest that I draw forth Ea here!
 
 60
-06:34.133 --> 06:37.526
+00:06:34,133 --> 00:06:37,526
 Don't forget your place, I should have your head
 
 61
-06:37.663 --> 06:39.778
+00:06:37,663 --> 00:06:39,778
 for being so impertinent to your king!
 
 62
-06:44.920 --> 06:50.991
+00:06:44,920 --> 00:06:50,991
 I could use a Command Seal, but if I did, it would
 shatter my relationship with the King of Heroes.
 
 63
-06:51.829 --> 06:55.849
+00:06:51,829 --> 00:06:55,849
 Father Risei and I had originally arranged
 for this Caster hunting expedition
 
 64
-06:56.114 --> 06:58.745
+00:06:56,114 --> 00:06:58,745
 so that I could recover
 the Command Seal I lost.
 
 65
-06:59.574 --> 07:02.942
+00:06:59,574 --> 00:07:02,942
 How could my plan be backfiring so badly?
 
 66
-07:10.170 --> 07:10.968
+00:07:10,170 --> 00:07:10,968
 Damn.
 
 67
-07:14.735 --> 07:16.507
+00:07:14,735 --> 00:07:16,507
 What the hell is that?
 
 68
-07:17.255 --> 07:19.914
+00:07:17,255 --> 00:07:19,914
 There's a weird light hovering
 in the sky at six o'clock.
 
 69
-07:20.959 --> 07:22.372
+00:07:20,959 --> 00:07:22,372
 It's not a helicopter.
 
 70
-07:22.692 --> 07:24.844
+00:07:22,692 --> 00:07:24,844
 Is it a UFO or something?
 
 71
-07:26.357 --> 07:28.104
+00:07:26,357 --> 00:07:28,104
 Control to Diablo One,
 
 72
-07:28.399 --> 07:29.961
+00:07:28,399 --> 00:07:29,961
 we need a situation report.
 
 73
-07:31.562 --> 07:32.756
+00:07:31,562 --> 00:07:32,756
 The situation is,
 
 74
-07:33.490 --> 07:35.590
+00:07:33,490 --> 00:07:35,590
 uh, well...
 
 75
-07:36.899 --> 07:39.214
+00:07:36,899 --> 00:07:39,214
 Diablo Two, gonna go down to get a closer look.
 
 76
-07:41.040 --> 07:42.617
+00:07:41,040 --> 00:07:42,617
 Wait, Kobayashi!
 
 77
-07:43.776 --> 07:46.065
+00:07:43,776 --> 00:07:46,065
 Diablo Two, get back here!
 
 78
-07:47.719 --> 07:51.010
+00:07:47,719 --> 00:07:51,010
 Official inspection from up close
 will tell us what that thing is.
 
 79
-07:53.010 --> 07:53.891
+00:07:53,010 --> 00:07:53,891
 Kobayashi.
 
 80
-08:11.860 --> 08:13.930
+00:08:11,860 --> 00:08:13,930
 Kobayashi!
 
 81
-08:18.330 --> 08:20.291
+00:08:18,330 --> 00:08:20,291
 A fearsome creature indeed.
 
 82
-08:21.368 --> 08:23.151
+00:08:21,368 --> 00:08:23,151
 It... it ate it.
 
 83
-08:30.760 --> 08:32.260
+00:08:30,760 --> 00:08:32,260
 Control to Diablo One.
 
 84
-08:32.920 --> 08:34.166
+00:08:32,920 --> 00:08:34,166
 What's going on over there?
 
 85
-08:34.979 --> 08:35.606
+00:08:34,979 --> 00:08:35,606
 Report!
 
 86
-08:36.923 --> 08:39.198
+00:08:36,923 --> 00:08:39,198
 Eyes, it has eyes.
 
 87
-08:39.818 --> 08:42.015
+00:08:39,818 --> 00:08:42,015
 It's absolutely covered with eyes!
 
 88
-08:43.163 --> 08:45.294
+00:08:43,163 --> 00:08:45,294
 Eyes, what do you mean it has eyes?
 
 89
-08:46.491 --> 08:48.893
+00:08:46,491 --> 00:08:48,893
 Shit, that thing wants to eat me too.
 
 90
-08:50.326 --> 08:51.359
+00:08:50,326 --> 00:08:51,359
 Captain Ogi.
 
 91
-08:52.736 --> 08:54.587
+00:08:52,736 --> 00:08:54,587
 Diablo One engaging.
 
 92
-08:55.193 --> 08:57.388
+00:08:55,193 --> 00:08:57,388
 Wait, Ogi, engaging what?
 
 93
-08:58.021 --> 08:59.712
+00:08:58,021 --> 00:08:59,712
 I'll kill it before it gets me.
 
 94
-09:01.040 --> 09:02.554
+00:09:01,040 --> 00:09:02,554
 This is for Kobayashi.
 
 95
-09:03.475 --> 09:05.628
+00:09:03,475 --> 00:09:05,628
 I'm gonna pump you with missiles, ya bastard.
 
 96
-09:11.750 --> 09:12.964
+00:09:11,750 --> 00:09:12,964
 Berserker?
 
 97
-09:13.084 --> 09:15.007
+00:09:13,084 --> 00:09:15,007
 Oh man, what's he doing here?
 
 98
-09:15.294 --> 09:18.060
+00:09:15,294 --> 00:09:18,060
 You fool, stay down!
 
 99
-09:18.666 --> 09:20.657
+00:09:18,666 --> 00:09:20,657
 Now he decides to join us?
 
 100
-09:29.360 --> 09:30.285
+00:09:29,360 --> 00:09:30,285
 Isn't that...
 
 101
-09:32.525 --> 09:35.630
+00:09:32,525 --> 00:09:35,630
 Ah, so that mad dog has turned up again.
 
 102
-09:35.990 --> 09:37.478
+00:09:35,990 --> 00:09:37,478
 This should be amusing.
 
 103
-09:40.682 --> 09:43.637
+00:09:40,682 --> 00:09:43,637
 My king, allow me to deal with his master.
 
 104
-09:44.412 --> 09:47.107
+00:09:44,412 --> 00:09:47,107
 Very well, merely toy with him.
 
 105
-09:47.691 --> 09:49.877
+00:09:47,691 --> 00:09:49,877
 Then good luck to us both, Your Majesty.
 
 106
-10:06.612 --> 10:09.683
+00:10:06,612 --> 00:10:09,683
 Dogs like you belong prostrated on the ground.
 
 107
-10:10.563 --> 10:12.653
+00:10:10,563 --> 00:10:12,653
 Yet you dare to climb into my sky.
 
 108
-10:14.426 --> 10:17.568
+00:10:14,426 --> 00:10:17,568
 Don't put on airs, you mongrel!
 
 109
-10:34.247 --> 10:35.773
+00:10:34,247 --> 00:10:35,773
 Such impertinence.
 
 110
-11:04.925 --> 11:06.019
+00:11:04,925 --> 00:11:06,019
 How amusing.
 
 111
-11:06.632 --> 11:09.432
+00:11:06,632 --> 00:11:09,432
 I've not played a game like this in quite some time.
 
 112
-11:09.914 --> 11:12.220
+00:11:09,914 --> 00:11:12,220
 For a lowly animal, you're providing me
 
 113
-11:12.654 --> 11:14.895
+00:11:12,654 --> 00:11:14,895
 with no shortage of entertainment.
 
 114
-11:22.201 --> 11:23.828
+00:11:22,201 --> 00:11:23,828
 I hardly recognize you,
 
 115
-11:24.985 --> 11:26.691
+00:11:24,985 --> 00:11:26,691
 Kariya Matou.
 
 116
-11:29.039 --> 11:33.001
+00:11:29,039 --> 00:11:33,001
 Though you turned your back on
 magecraft, you still desired the Grail.
 
 117
-11:33.920 --> 11:36.984
+00:11:33,920 --> 00:11:36,984
 To think you'd slink back in such a sorry state.
 
 118
-11:37.464 --> 11:40.259
+00:11:37,464 --> 00:11:40,259
 The very sight of you is enough to invite whispers
 
 119
-11:40.705 --> 11:43.449
+00:11:40,705 --> 00:11:43,449
 that the Matou family has fallen from grace.
 
 120
-11:46.568 --> 11:49.807
+00:11:46,568 --> 00:11:49,807
 Tokiomi Tohsaka, answer me a question.
 
 121
-11:50.395 --> 11:53.532
+00:11:50,395 --> 00:11:53,532
 Why did you hand your daughter Sakura over to Zouken?
 
 122
-11:54.721 --> 11:55.290
+00:11:54,721 --> 00:11:55,290
 What?
 
 123
-11:56.374 --> 11:59.381
+00:11:56,374 --> 00:11:59,381
 You really think that's what you should
 be worrying about at this moment?
 
 124
-11:59.514 --> 12:01.960
+00:11:59,514 --> 00:12:01,960
 Answer me, Tokiomi!
 
 125
-12:04.015 --> 12:05.556
+00:12:04,015 --> 00:12:05,556
 Do you even need to ask?
 
 126
-12:06.663 --> 12:10.157
+00:12:06,663 --> 00:12:10,157
 I did it because I wished to give
 my beloved daughter a happy future.
 
 127
-12:11.485 --> 12:12.297
+00:12:11,485 --> 00:12:12,297
 You what?
 
 128
-12:13.655 --> 12:17.213
+00:12:13,655 --> 00:12:17,213
 All mages who have two children
 eventually suffer for it.
 
 129
-12:17.728 --> 12:21.226
+00:12:17,728 --> 00:12:21,226
 The family's secret arts can
 be passed to only one child.
 
 130
-12:22.167 --> 12:27.134
+00:12:22,167 --> 00:12:27,134
 They suffer over the issue that one of them
 must be cast down into the common masses.
 
 131
-12:28.694 --> 12:31.942
+00:12:28,694 --> 00:12:31,942
 The simple fact is that my wife
 is superior breeding stock.
 
 132
-12:32.629 --> 12:38.269
+00:12:32,629 --> 00:12:38,269
 Both Rin and Sakura were born with equally
 rare natural gifts and magical abilities.
 
 133
-12:39.369 --> 12:45.061
+00:12:39,369 --> 00:12:45,061
 And so both my daughters were in need of the
 protection and nurturing attention of a mage family.
 
 134
-12:45.969 --> 12:51.126
+00:12:45,969 --> 00:12:51,126
 For the future of one daughter I must waste the
 vast potential lurking deep inside the other?
 
 135
-12:52.914 --> 12:56.617
+00:12:52,914 --> 00:12:56,617
 What father would wish such a
 woeful tragedy upon his children?
 
 136
-12:59.514 --> 13:00.862
+00:12:59,514 --> 00:13:00,862
 Common masses.
 
 137
-13:01.815 --> 13:05.128
+00:13:01,815 --> 00:13:05,128
 The memory of his children and their mother on that day.
 
 138
-13:06.118 --> 13:10.078
+00:13:06,118 --> 00:13:10,078
 This heartless man is writing it off
 as something for the common masses.
 
 139
-13:11.635 --> 13:14.872
+00:13:11,635 --> 00:13:14,872
 If I was to preserve the hopes I
 had for both sisters' abilities,
 
 140
-13:15.285 --> 13:17.440
+00:13:15,285 --> 00:13:17,440
 my only option would be to send one away.
 
 141
-13:18.908 --> 13:21.966
+00:13:18,908 --> 00:13:21,966
 That is why the Matou family's offer was such a godsend.
 
 142
-13:23.549 --> 13:26.086
+00:13:23,549 --> 00:13:26,086
 If she were to be adopted by a mage family,
 
 143
-13:26.500 --> 13:29.565
+00:13:26,500 --> 00:13:29,565
 it would give her that much greater
 chance of reaching the root.
 
 144
-13:31.091 --> 13:33.713
+00:13:31,091 --> 00:13:33,713
 A mage is someone who is born with great power,
 
 145
-13:34.580 --> 13:38.176
+00:13:34,580 --> 00:13:38,176
 and before he knows it,
 he will attain even greater heights of power.
 
 146
-13:40.046 --> 13:42.705
+00:13:40,046 --> 00:13:42,705
 Even before a mage embraces his destiny,
 
 147
-13:42.899 --> 13:45.676
+00:13:42,899 --> 00:13:45,676
 his responsibility to do so is in his blood.
 
 148
-13:46.418 --> 13:49.717
+00:13:46,418 --> 00:13:49,717
 That is what it means to be born the child of a mage.
 
 149
-13:51.755 --> 13:54.586
+00:13:51,755 --> 00:13:54,586
 If I fail, it falls to my daughter, Rin,
 
 150
-13:55.560 --> 13:58.954
+00:13:55,560 --> 00:13:58,954
 and even if Rin fails in her quest, then Sakura
 
 151
-13:59.368 --> 14:02.487
+00:13:59,368 --> 00:14:02,487
 may yet fulfill the dream of the Tohsaka family.
 
 152
-14:05.565 --> 14:09.203
+00:14:05,565 --> 00:14:09,203
 You bastard, you want them to fight each other?
 
 153
-14:09.525 --> 14:11.018
+00:14:09,525 --> 00:14:11,018
 Sister against sister?
 
 154
-14:11.565 --> 14:14.388
+00:14:11,565 --> 00:14:14,388
 Even if such a development were to come to pass,
 
 155
-14:14.861 --> 14:17.718
+00:14:14,861 --> 00:14:17,718
 it is still best for the future of my descendents.
 
 156
-14:17.995 --> 14:18.555
+00:14:17,995 --> 00:14:18,555
 What?
 
 157
-14:19.455 --> 14:21.188
+00:14:19,455 --> 00:14:21,188
 Glory will go to the victor,
 
 158
-14:21.313 --> 14:24.514
+00:14:21,313 --> 00:14:24,514
 and to the loser, honor to the family of her forbearers.
 
 159
-14:24.988 --> 14:27.403
+00:14:24,988 --> 00:14:27,403
 The best outcome I could possibly hope for.
 
 160
-14:27.736 --> 14:30.758
+00:14:27,736 --> 00:14:30,758
 You bastard, you're insane!
 
 161
-14:31.175 --> 14:33.999
+00:14:31,175 --> 00:14:33,999
 It is a waste of time to try to explain it to you.
 
 162
-14:34.883 --> 14:37.502
+00:14:34,883 --> 00:14:37,502
 You don't comprehend magecraft's grandeur,
 
 163
-14:37.809 --> 14:40.330
+00:14:37,809 --> 00:14:40,330
 and even turned your back and walked away from it.
 
 164
-14:40.637 --> 14:41.848
+00:14:40,637 --> 00:14:41,848
 A lowly traitor.
 
 165
-14:41.873 --> 14:43.494
+00:14:41,873 --> 00:14:43,494
 Screw you, bastard!
 
 166
-15:50.653 --> 15:53.006
+00:15:50,653 --> 00:15:53,006
 I'll make all you bastards pay.
 
 167
-15:53.825 --> 15:56.494
+00:15:53,825 --> 00:15:56,494
 You filthy rotten mages.
 
 168
-15:57.365 --> 15:58.840
+00:15:57,365 --> 00:15:58,840
 I'll kill you all.
 
 169
-15:59.340 --> 16:01.539
+00:15:59,340 --> 00:16:01,539
 Zouken and you.
 
 170
-16:02.335 --> 16:04.061
+00:16:02,335 --> 00:16:04,061
 Every last one of you.
 
 171
-16:04.480 --> 16:06.340
+00:16:04,480 --> 00:16:06,340
 I'll kill you all.
 
 172
-16:07.206 --> 16:09.419
+00:16:07,206 --> 00:16:09,419
 When you turned down the family leadership,
 
 173
-16:10.236 --> 16:13.267
+00:16:10,236 --> 00:16:13,267
 the Matou's magic secrets were passed on to Sakura.
 
 174
-16:14.608 --> 16:17.292
+00:16:14,608 --> 00:16:17,292
 In spite of the fact that I
 really should be thanking you
 
 175
-16:17.838 --> 16:19.485
+00:16:17,838 --> 00:16:19,485
 for my Sakura's future,
 
 176
-16:20.618 --> 16:23.298
+00:16:20,618 --> 00:16:23,298
 you are one man that I simply cannot abide.
 
 177
-16:25.590 --> 16:28.689
+00:16:25,590 --> 00:16:28,689
 The weakness revealed by shirking of your obligations,
 
 178
-16:29.111 --> 16:32.561
+00:16:29,111 --> 00:16:32,561
 the deficient character revealed
 by your lack of indebtedness to it.
 
 179
-16:33.223 --> 16:35.598
+00:16:33,223 --> 00:16:35,598
 You, Kariya Matou, are a disgrace.
 
 180
-16:36.541 --> 16:41.421
+00:16:36,541 --> 00:16:41,421
 Having crossed paths with you again I
 have no choice but to put you to death.
 
 181
-16:41.875 --> 16:45.844
+00:16:41,875 --> 00:16:45,844
 Don't talk so high and mighty, you inhuman bastard.
 
 182
-16:46.266 --> 16:51.637
+00:16:46,266 --> 00:16:51,637
 You're mistaken, shouldering one's responsibilities
 is the first requisite of being human.
 
 183
-16:52.757 --> 16:55.021
+00:16:52,757 --> 00:16:55,021
 It is those who fail to do so...
 
 184
-16:59.265 --> 17:01.030
+00:16:59,265 --> 00:17:01,030
 ...that are subhuman dogs.
 
 185
-17:01.810 --> 17:02.604
+00:17:01,810 --> 00:17:02,604
 Kariya.
 
 186
-17:02.793 --> 17:06.124
+00:17:02,793 --> 00:17:06,124
 Hear me now, bugs.
 Devour this bastard.
 
 187
-17:07.518 --> 17:09.583
+00:17:07,518 --> 00:17:09,583
 Eat him alive!
 
 188
-17:13.224 --> 17:15.530
+00:17:13,224 --> 00:17:15,530
 Oh yeah, go get 'em, Bluebeard!
 
 189
-17:15.737 --> 17:18.030
+00:17:15,737 --> 00:17:18,030
 Crush 'em down, tear 'em apart!
 
 190
-17:18.356 --> 17:20.717
+00:17:18,356 --> 00:17:20,717
 This place is God's toy box!
 
 191
-17:21.915 --> 17:23.264
+00:17:21,915 --> 00:17:23,264
 Saber!
 
 192
-17:36.135 --> 17:37.946
+00:17:36,135 --> 00:17:37,946
 I am much obliged, Saber.
 
 193
-17:47.315 --> 17:49.895
+00:17:47,315 --> 00:17:49,895
 I'll never be bored again as long as I live.
 
 194
-17:50.375 --> 17:53.005
+00:17:50,375 --> 00:17:53,005
 I won't have to go through all
 the trouble of murdering people.
 
 195
-17:53.164 --> 17:55.612
+00:17:53,164 --> 00:17:55,612
 They'll die in droves
 without me lifting a finger.
 
 196
-17:56.595 --> 18:01.259
+00:17:56,595 --> 00:18:01,259
 They'll be flattened,
 chopped to bits, smashed, eaten.
 
 197
-18:01.596 --> 18:04.431
+00:18:01,596 --> 00:18:04,431
 They'll die and die and die left and right.
 
 198
-18:04.811 --> 18:10.965
+00:18:04,811 --> 00:18:10,965
 I'll be able to see one kind of guts and gore
 after another that I've never seen before.
 
 199
-18:11.212 --> 18:15.944
+00:18:11,212 --> 00:18:15,944
 All day, every day, all around the
 world, everywhere I look!
 
 200
-18:16.085 --> 18:18.512
-It'll be nonstop, never‐end... 
+00:18:16,085 --> 00:18:18,512
+It'll be nonstop, never‐end...
 
 201
-18:24.292 --> 18:25.741
+00:18:24,292 --> 00:18:25,741
 It stopped moving.
 
 202
-18:25.960 --> 18:26.600
+00:18:25,960 --> 00:18:26,600
 Hm?
 
 203
-18:29.605 --> 18:32.885
+00:18:29,605 --> 00:18:32,885
 What the... hey, what happened?
 
 204
-18:35.485 --> 18:36.282
+00:18:35,485 --> 00:18:36,282
 Huh?
 
 205
-18:44.245 --> 18:46.397
+00:18:44,245 --> 00:18:46,397
 That's so pretty.
 
 206
-18:50.295 --> 18:51.860
+00:18:50,295 --> 00:18:51,860
 Now I get it.
 
 207
-18:52.335 --> 18:54.997
+00:18:52,335 --> 00:18:54,997
 No wonder I never realized it before.
 
 208
-18:55.755 --> 18:59.951
+00:18:55,755 --> 00:18:59,951
 Oh man, talk about not being able
 to see the forest for the trees.
 
 209
-19:01.055 --> 19:02.301
+00:19:01,055 --> 00:19:02,301
 It was in me.
 
 210
-19:02.965 --> 19:05.292
+00:19:02,965 --> 00:19:05,292
 I was looking for my own guts.
 
 211
-19:05.885 --> 19:08.606
+00:19:05,885 --> 00:19:08,606
 I didn't have to go searching for it.
 
 212
-19:09.225 --> 19:11.822
+00:19:09,225 --> 00:19:11,822
 It was hiding right there all along.
 
 213
-19:13.178 --> 19:14.844
+00:19:13,178 --> 00:19:14,844
 Ryuunosuke!
 
 214
-19:17.905 --> 19:19.545
+00:19:17,905 --> 00:19:19,545
 I finally found you.
 
 215
-19:20.275 --> 19:23.033
+00:19:20,275 --> 00:19:23,033
 I've been looking for you my whole life.
 
 216
-19:25.075 --> 19:26.427
+00:19:25,075 --> 00:19:26,427
 What the hell, man?
 
 217
-19:27.415 --> 19:29.557
+00:19:27,415 --> 00:19:29,557
 If you were inside me all along,
 
 218
-19:30.075 --> 19:31.332
+00:19:30,075 --> 00:19:31,332
 I wish you would've
 
 219
-19:32.576 --> 19:35.798
+00:19:32,576 --> 00:19:35,798
 just told me so in the first place.
 
 220
-19:54.622 --> 19:57.802
+00:19:54,622 --> 00:19:57,802
 Ryuunosuke, my master.
 
 221
-19:58.624 --> 20:02.174
+00:19:58,624 --> 00:20:02,174
 How could you die and leave me here all alone?
 
 222
-20:02.916 --> 20:06.073
+00:20:02,916 --> 00:20:06,073
 But never you fear, dear Ryuunosuke,
 
 223
-20:06.606 --> 20:11.836
+00:20:06,606 --> 00:20:11,836
 for I, Gilles de Rais,
 will fulfill the solemn promise I made to you.
 
 224
-20:15.957 --> 20:20.953
+00:20:15,957 --> 00:20:20,953
 Ryuunosuke, watch closely!
 Behold my offering to you!
 
 225
-20:21.153 --> 20:24.763
+00:20:21,153 --> 00:20:24,763
 I shall give you the greatest "cool!" ever!
 
 226
-20:31.360 --> 20:34.573
+00:20:31,360 --> 00:20:34,573
 I just put down the man I believe to be Caster's master.
 
 227
-20:35.588 --> 20:38.034
+00:20:35,588 --> 00:20:38,034
 It looks like I was right about him.
 
 228
-20:38.808 --> 20:44.008
+00:20:38,808 --> 00:20:44,008
 While all the other servants are being distracted
 by the monster, shall I eliminate the next target?
 
 229
-20:44.190 --> 20:47.754
+00:20:44,190 --> 00:20:47,754
 Wait, Maiya, that's no ordinary monster.
 
 230
-20:48.534 --> 20:50.957
+00:20:48,534 --> 00:20:50,957
 It's a creature with limitless regenerative ability.
 
 231
-20:51.730 --> 20:54.818
+00:20:51,730 --> 00:20:54,818
 It's still possible that it could
 reach the shore before it dissipates.
 
 232
-20:55.204 --> 20:57.648
+00:20:55,204 --> 00:20:57,648
 If it does and begins to feed, it's all over.
 
 233
-20:58.388 --> 21:01.753
+00:20:58,388 --> 00:21:01,753
 Caster will have a new source of
 mana to maintain his physical form.
 
 234
-21:02.056 --> 21:04.633
+00:21:02,056 --> 00:21:04,633
 If that happens, the damage will spread even further,
 
 235
-21:04.915 --> 21:08.148
+00:21:04,915 --> 00:21:08,148
 and there's a risk that the Holy
 Grail War itself will break down.
 
 236
-21:08.867 --> 21:09.834
+00:21:08,867 --> 00:21:09,834
 Exactly.
 
 237
-21:11.000 --> 21:13.693
+00:21:11,000 --> 00:21:13,693
 But how do we kill an indestructible monster?
 
 238
-21:14.481 --> 21:17.218
+00:21:14,481 --> 00:21:17,218
 The only way is to annihilate it in a single strike.
 
 239
-21:17.864 --> 21:20.568
+00:21:17,864 --> 00:21:20,568
 To do that, its entire body will have to be incinerated.
 
 240
-21:21.142 --> 21:23.625
+00:21:21,142 --> 00:21:23,625
 Leaving nothing, not even the smallest scrap of flesh.
 
 241
-21:24.929 --> 21:27.595
+00:21:24,929 --> 00:21:27,595
 Anti‐Personnel Noble Phantasms won't suffice.
 
 242
-21:27.842 --> 21:29.585
+00:21:27,842 --> 00:21:29,585
 An Anti‐Fortress one is needed.
 
 243
-21:31.574 --> 21:35.500
+00:21:31,574 --> 00:21:35,500
 Saber possesses just such an
 Anti‐Fortress Noble Phantasm.
 
 244
-21:38.745 --> 21:40.942
+00:21:38,745 --> 00:21:40,942
 However, because of Lancer's curse,
 
 245
-21:41.189 --> 21:42.303
+00:21:41,189 --> 00:21:42,303
 she can't use it.
 
 246
-21:44.217 --> 21:45.818
+00:21:44,217 --> 00:21:45,818
 We'll just have to wait and see
 
 247
-21:46.333 --> 21:48.587
+00:21:46,333 --> 00:21:48,587
 exactly what they can really accomplish
 
 248
-21:49.073 --> 21:51.523
+00:21:49,073 --> 00:21:51,523
 with their so‐called chivalric spirit.
+

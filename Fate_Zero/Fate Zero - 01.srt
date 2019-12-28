@@ -1,2924 +1,2923 @@
-﻿WEBVTT FILE
-
-1
-00:13.528 --> 00:15.109
+﻿1
+00:00:13,528 --> 00:00:15,109
 Master Kiritsugu!
 
 2
-00:19.208 --> 00:21.132
+00:00:19,208 --> 00:00:21,132
 Your child has been born.
 
 3
-00:24.723 --> 00:27.877
+00:00:24,723 --> 00:00:27,877
 She's so cute, she's adorable,
 
 4
-00:28.607 --> 00:31.395
+00:00:28,607 --> 00:00:31,395
 and so small, so very delicate.
 
 5
-00:32.803 --> 00:34.161
+00:00:32,803 --> 00:00:34,161
 Look, Kiritsugu.
 
 6
-00:34.985 --> 00:36.823
+00:00:34,985 --> 00:00:36,823
 She has your eyes too.
 
 7
-00:40.951 --> 00:42.192
+00:00:40,951 --> 00:00:42,192
 She's beautiful.
 
 8
-00:42.705 --> 00:45.311
+00:00:42,705 --> 00:00:45,311
 I'm so happy that I could give birth to her.
 
 9
-00:51.589 --> 00:54.728
+00:00:51,589 --> 00:00:54,728
 Iri, I...
 
 10
-00:57.072 --> 00:59.223
+00:00:57,072 --> 00:00:59,223
 I will be the cause of your death.
 
 11
-01:06.073 --> 01:07.073
+00:01:06,073 --> 00:01:07,073
 I know.
 
 12
-01:07.862 --> 01:10.288
+00:01:07,862 --> 00:01:10,288
 The Einzberns have dreamed of the day.
 
 13
-01:10.585 --> 01:12.998
+00:01:10,585 --> 00:01:12,998
 It is the very reason I exist.
 
 14
-01:13.363 --> 01:15.482
+00:01:13,363 --> 00:01:15,482
 When I came to know your ideals,
 
 15
-01:15.638 --> 01:17.515
+00:01:15,638 --> 00:01:17,515
 I made your wish my own.
 
 16
-01:17.878 --> 01:20.575
+00:01:17,878 --> 00:01:20,575
 You made me who I am today.
 
 17
-01:20.983 --> 01:23.062
+00:01:20,983 --> 00:01:23,062
 You have guided me on my path.
 
 18
-01:24.075 --> 01:27.818
+00:01:24,075 --> 00:01:27,818
 You offered me a better life
 than that of a simple puppet.
 
 19
-01:28.986 --> 01:33.841
+00:01:28,986 --> 00:01:33,841
 You needn't pity me, because I am part of you already.
 
 20
-01:35.000 --> 01:35.696
+00:01:35,000 --> 00:01:35,696
 So
 
 21
-01:35.721 --> 01:36.375
+00:01:35,721 --> 00:01:36,375
 But...
 
 22
-01:39.002 --> 01:43.148
+00:01:39,002 --> 00:01:43,148
 I have no right to hold that child.
 
 23
-01:44.778 --> 01:45.711
+00:01:44,778 --> 00:01:45,711
 None.
 
 24
-01:49.714 --> 01:52.080
+00:01:49,714 --> 00:01:52,080
 Kiritsugu, don't forget.
 
 25
-01:53.572 --> 01:56.037
+00:01:53,572 --> 00:01:56,037
 You're striving to make a whole new world
 
 26
-01:56.492 --> 01:57.781
+00:01:56,492 --> 00:01:57,781
 where no one cries.
 
 27
-01:58.857 --> 02:01.289
+00:01:58,857 --> 00:02:01,289
 This is what your whole life has been about.
 
 28
-02:03.337 --> 02:07.090
+00:02:03,337 --> 00:02:07,090
 Eight more years, and your fight will come to an end,
 
 29
-02:08.743 --> 02:11.210
+00:02:08,743 --> 00:02:11,210
 and our ideal will become reality.
 
 30
-02:11.917 --> 02:13.774
+00:02:11,917 --> 00:02:13,774
 The Holy Grail will save you.
 
 31
-02:14.283 --> 02:15.549
+00:02:14,283 --> 00:02:15,549
 I'm certain of it.
 
 32
-02:17.410 --> 02:22.245
+00:02:17,410 --> 00:02:22,245
 So take this child, Ilyasviel, and hold her close.
 
 33
-02:23.082 --> 02:27.575
+00:02:23,082 --> 00:02:27,575
 Hold her and be proud, like any other father would be.
 
 34
-03:03.830 --> 03:05.016
+00:03:03,830 --> 00:03:05,016
 A Command Seal?
 
 35
-03:05.188 --> 03:05.910
+00:03:05,188 --> 00:03:05,910
 Yes.
 
 36
-03:06.071 --> 03:09.456
+00:03:06,071 --> 00:03:09,456
 The mark identifies you as a
 participant in the Holy Grail War.
 
 37
-03:09.940 --> 03:13.855
+00:03:09,940 --> 00:03:13,855
 A stigmata bestowing upon you
 the power to command a servant.
 
 38
-03:15.960 --> 03:17.318
+00:03:15,960 --> 00:03:17,318
 Kirei Kotomine.
 
 39
-03:18.800 --> 03:20.789
+00:03:18,800 --> 00:03:20,789
 The Holy Grail War,
 
 40
-03:20.998 --> 03:24.391
+00:03:20,998 --> 00:03:24,391
 the battle for an ancient relic that performs miracles.
 
 41
-03:25.180 --> 03:26.228
+00:03:25,180 --> 00:03:26,228
 But why me?
 
 42
-03:26.655 --> 03:33.658
+00:03:26,655 --> 00:03:33,658
 Normally, those chosen by the Grail as masters for
 the servants are experienced and accomplished mages.
 
 43
-03:33.733 --> 03:36.272
+00:03:33,733 --> 00:03:36,272
 It is highly unusual for someone like you,
 
 44
-03:36.312 --> 03:40.838
+00:03:36,312 --> 00:03:40,838
 who has no connection to magic
 whatsoever, to be chosen to participate.
 
 45
-03:41.240 --> 03:42.731
+00:03:41,240 --> 00:03:42,731
 Heroic servants.
 
 46
-03:43.274 --> 03:48.443
+00:03:43,274 --> 00:03:48,443
 I still find it strange to command the summoned
 spirits of ancient heroes to fight as familiars.
 
 47
-03:48.490 --> 03:52.580
+00:03:48,490 --> 00:03:52,580
 Of course, I know all this can
 be very difficult to believe,
 
 48
-03:52.840 --> 03:56.781
+00:03:52,840 --> 00:03:56,781
 but heroes from every age and nation will
 come back to life in the modern world,
 
 49
-03:57.000 --> 03:59.027
+00:03:57,000 --> 00:03:59,027
 killing one another to vie for supremacy.
 
 50
-04:01.101 --> 04:02.985
+00:04:01,101 --> 00:04:02,985
 That is the Holy Grail War.
 
 51
-04:03.145 --> 04:06.550
+00:04:03,145 --> 00:04:06,550
 Also, there is an unspoken agreement among all involved
 
 52
-04:06.677 --> 04:08.135
+00:04:06,677 --> 00:04:08,135
 to keep this all secret.
 
 53
-04:08.336 --> 04:10.015
+00:04:08,336 --> 00:04:10,015
 To ensure this rule is kept,
 
 54
-04:10.239 --> 04:13.803
+00:04:10,239 --> 00:04:13,803
 someone of the Holy Church is
 always sent as an observer.
 
 55
-04:14.396 --> 04:16.593
+00:04:14,396 --> 00:04:16,593
 Should one of us really be judging?
 
 56
-04:17.033 --> 04:19.939
+00:04:17,033 --> 00:04:19,939
 A secret battle between godless magicians?
 
 57
-04:20.113 --> 04:22.143
+00:04:20,113 --> 00:04:22,143
 A Mage's Association member
 
 58
-04:22.667 --> 04:25.755
+00:04:22,667 --> 00:04:25,755
 would be too partial to one party to assure fairness.
 
 59
-04:27.184 --> 04:28.624
+00:04:27,184 --> 00:04:28,624
 And so once again,
 
 60
-04:28.760 --> 04:31.074
+00:04:28,760 --> 00:04:31,074
 just as we did some 60 years ago,
 
 61
-04:31.156 --> 04:34.700
+00:04:31,156 --> 00:04:34,700
 we've recruited your father to
 watch over and referee our battle.
 
 62
-04:34.889 --> 04:36.955
+00:04:34,889 --> 00:04:36,955
 My father will be coming to Fuyuki?
 
 63
-04:38.383 --> 04:41.304
+00:04:38,383 --> 00:04:41,304
 But wait, how can this be considered fair?
 
 64
-04:41.554 --> 04:45.517
+00:04:41,554 --> 00:04:45,517
 It's a conflict of interest for the
 overseer's child to also be a participant.
 
 65
-04:45.840 --> 04:46.750
+00:04:45,840 --> 00:04:46,750
 Tokiomi?
 
 66
-04:47.783 --> 04:50.067
+00:04:47,783 --> 00:04:50,067
 Perhaps it's time we got to the point.
 
 67
-04:51.467 --> 04:57.542
+00:04:51,467 --> 00:04:57,542
 Kirei, everything we've spoken of thus far is just
 the official background of the Holy Grail War.
 
 68
-04:58.043 --> 05:04.051
+00:04:58,043 --> 00:05:04,051
 However, there is an additional reason I've
 introduced you to Mr. Tokiomi Tohsaka here today.
 
 69
-05:04.570 --> 05:06.200
+00:05:04,570 --> 00:05:06,200
 And what would that be?
 
 70
-05:06.389 --> 05:11.405
+00:05:06,389 --> 00:05:11,405
 Actually, we found proof a long time ago that
 the Holy Grail that will appear in Fuyuki
 
 71
-05:11.558 --> 05:14.582
+00:05:11,558 --> 00:05:14,582
 is not the sacred relic that belonged to the Son of God.
 
 72
-05:15.433 --> 05:16.537
+00:05:15,433 --> 00:05:16,537
 So I gathered
 
 73
-05:16.836 --> 05:22.189
+00:05:16,836 --> 00:05:22,189
 Otherwise, an order to retrieve it would've been
 given to us of the Eighth Sacrament Assembly.
 
 74
-05:22.669 --> 05:27.135
+00:05:22,669 --> 00:05:27,135
 Be that as it may, Fuyuki's Holy
 Grail is far too powerful to ignore.
 
 75
-05:27.215 --> 05:29.861
+00:05:27,215 --> 00:05:29,861
 It is an omnipotent wish‐granting device.
 
 76
-05:30.054 --> 05:34.630
+00:05:30,054 --> 00:05:34,630
 Who knows what disaster it could unleash
 should it happen to fall into the wrong hands.
 
 77
-05:35.020 --> 05:36.193
+00:05:35,020 --> 00:05:36,193
 In which case,
 
 78
-05:36.384 --> 05:41.900
+00:05:36,384 --> 00:05:41,900
 the best course of action would be to ensure
 that the Fuyuki Grail falls into the right hands,
 
 79
-05:42.020 --> 05:43.938
+00:05:42,020 --> 00:05:43,938
 hands that would not misuse it.
 
 80
-05:44.496 --> 05:46.963
+00:05:44,496 --> 00:05:46,963
 The Tohsakas are a family of mages,
 
 81
-05:47.116 --> 05:50.767
+00:05:47,116 --> 00:05:50,767
 but they are mages with a long
 history of friendship with the Church.
 
 82
-05:51.250 --> 05:55.420
+00:05:51,250 --> 00:05:55,420
 We know what kind of person Tokiomi is,
 and more important than anything else,
 
 83
-05:55.520 --> 05:59.691
+00:05:55,520 --> 00:05:59,691
 the Tohsakas' ultimate intentions for
 the Grail are plain and honorable.
 
 84
-06:00.210 --> 06:01.912
+00:06:00,210 --> 00:06:01,912
 To reach the root.
 
 85
-06:02.472 --> 06:05.565
+00:06:02,472 --> 00:06:05,565
 That is the Tohsaka family's sole desire.
 
 86
-06:05.809 --> 06:10.452
+00:06:05,809 --> 00:06:10,452
 But the Einzberns and Matous have both
 forgotten the wish we once shared with them,
 
 87
-06:10.659 --> 06:13.438
+00:06:10,659 --> 00:06:13,438
 and have other less altruistic plans now.
 
 88
-06:13.931 --> 06:18.523
+00:06:13,931 --> 00:06:18,523
 It goes without saying that the plans
 of the other masters will be even worse.
 
 89
-06:18.957 --> 06:24.090
+00:06:18,957 --> 00:06:24,090
 Who knows what dark desire they may harbor for
 the power of the Grail should they obtain it.
 
 90
-06:24.577 --> 06:30.778
+00:06:24,577 --> 00:06:30,778
 That being said, I assume that the goal of my
 participation is to ensure Tokiomi Tohsaka's victory,
 
 91
-06:31.050 --> 06:32.925
+00:06:31,050 --> 00:06:32,925
 rather than to prevail myself.
 
 92
-06:33.151 --> 06:34.644
+00:06:33,151 --> 00:06:34,644
 To achieve that goal
 
 93
-06:34.756 --> 06:39.480
+00:06:34,756 --> 00:06:39,480
 we will conduct ourselves in a manner that will
 maintain the appearance of us being enemies.
 
 94
-06:39.930 --> 06:42.844
+00:06:39,930 --> 00:06:42,844
 However, we will actually be working together
 
 95
-06:42.950 --> 06:47.090
+00:06:42,950 --> 00:06:47,090
 in total secrecy to soundly
 defeat the other five masters,
 
 96
-06:47.365 --> 06:49.748
+00:06:47,365 --> 00:06:49,748
 and assure our victory in the end.
 
 97
-06:50.990 --> 06:52.343
+00:06:50,990 --> 00:06:52,343
 And so, Kirei,
 
 98
-06:52.903 --> 06:56.912
+00:06:52,903 --> 00:06:56,912
 you will be officially transferred from
 the Church to the Mage's Association
 
 99
-06:57.449 --> 06:59.299
+00:06:57,449 --> 00:06:59,299
 where you will become my student.
 
 100
-07:00.100 --> 07:02.532
+00:07:00,100 --> 00:07:02,532
 The official orders have already been issued.
 
 101
-07:02.945 --> 07:06.273
+00:07:02,945 --> 00:07:06,273
 You must go to Japan and study the principles of magic,
 
 102
-07:06.692 --> 07:09.658
+00:07:06,692 --> 00:07:09,658
 and become a mage of sufficient strength and skill
 
 103
-07:10.146 --> 07:15.087
+00:07:10,146 --> 00:07:15,087
 to command a servant in the Holy Grail War
 in three years time when the battles begin.
 
 104
-07:19.370 --> 07:20.262
+00:07:19,370 --> 00:07:20,262
 Now then.
 
 105
-07:20.580 --> 07:22.783
+00:07:20,580 --> 00:07:22,783
 Do you have any questions for us, Kirei?
 
 106
-07:23.170 --> 07:24.472
+00:07:23,170 --> 00:07:24,472
 Only one.
 
 107
-07:26.115 --> 07:29.865
+00:07:26,115 --> 00:07:29,865
 How exactly does the Holy Grail
 go about selecting its masters?
 
 108
-07:29.958 --> 07:32.301
+00:07:29,958 --> 00:07:32,301
 What kind of criteria does it use?
 
 109
-07:33.430 --> 07:34.118
+00:07:33,430 --> 00:07:34,118
 Hm.
 
 110
-07:35.100 --> 07:40.911
+00:07:35,100 --> 00:07:40,911
 The exact criteria it uses is unknown,
 but it chooses those masters who need it most.
 
 111
-07:41.207 --> 07:44.813
+00:07:41,207 --> 00:07:44,813
 So all the participating masters
 have a reason to covet the Grail?
 
 112
-07:45.110 --> 07:46.352
+00:07:45,110 --> 00:07:46,352
 Not necessarily.
 
 113
-07:46.897 --> 07:50.354
+00:07:46,897 --> 00:07:50,354
 I'm told that in the past there
 were cases where Command Seals
 
 114
-07:50.581 --> 07:53.449
+00:07:50,581 --> 00:07:53,449
 appeared on those whom you would never have expected.
 
 115
-07:54.620 --> 07:56.636
+00:07:54,620 --> 00:07:56,636
 Oh, I think I understand.
 
 116
-07:57.123 --> 08:00.936
+00:07:57,123 --> 00:08:00,936
 You're still puzzled at being chosen to
 be a master by the Grail, aren't you?
 
 117
-08:04.040 --> 08:07.450
+00:08:04,040 --> 00:08:07,450
 I didn't expect Kirei to give his consent so quickly.
 
 118
-08:07.836 --> 08:12.213
+00:08:07,836 --> 00:08:12,213
 My son would jump into fire if the
 Holy Church ordered him to do so.
 
 119
-08:12.550 --> 08:15.430
+00:08:12,550 --> 00:08:15,430
 To be honest with you, I'm even a little shocked.
 
 120
-08:15.754 --> 08:17.306
+00:08:15,754 --> 00:08:17,306
 From his perspective,
 
 121
-08:17.400 --> 08:21.693
+00:08:17,400 --> 00:08:21,693
 he's being drawn into a senseless war that
 has absolutely nothing to do with him.
 
 122
-08:22.676 --> 08:24.529
+00:08:22,676 --> 00:08:24,529
 No, this is as it should be.
 
 123
-08:24.876 --> 08:27.243
+00:08:24,876 --> 00:08:27,243
 Perhaps this ordeal will do him some good.
 
 124
-08:28.230 --> 08:31.960
+00:08:28,230 --> 00:08:31,960
 Only a few days ago, my son lost his wife.
 
 125
-08:32.530 --> 08:37.045
+00:08:32,530 --> 00:08:37,045
 I believe that a complete change of scenery
 and a difficult new mission to focus on
 
 126
-08:37.182 --> 08:40.246
+00:08:37,182 --> 00:08:40,246
 may be exactly what he needs to nurse his wounds.
 
 127
-08:51.473 --> 08:52.642
+00:08:51,473 --> 00:08:52,642
 Hi, Aoi.
 
 128
-08:57.760 --> 09:00.198
+00:08:57,760 --> 00:09:00,198
 Kariya, it's good to see you again.
 
 129
-09:00.223 --> 09:01.439
+00:09:00,223 --> 00:09:01,439
 You're back from your trip?
 
 130
-09:02.041 --> 09:04.359
+00:09:02,041 --> 00:09:04,359
 This one seemed to last a long time.
 
 131
-09:04.850 --> 09:06.813
+00:09:04,850 --> 00:09:06,813
 Yeah, I guess it did.
 
 132
-09:07.690 --> 09:09.001
+00:09:07,690 --> 00:09:09,001
 Uncle Kariya!
 
 133
-09:11.009 --> 09:13.132
+00:09:11,009 --> 00:09:13,132
 Uncle Kariya, welcome back!
 
 134
-09:13.740 --> 09:14.906
+00:09:13,740 --> 00:09:14,906
 Hi, Rin.
 
 135
-09:15.683 --> 09:17.563
+00:09:15,683 --> 00:09:17,563
 Did you bring me a present again?
 
 136
-09:18.120 --> 09:20.867
+00:09:18,120 --> 00:09:20,867
 No, Rin, you're being very rude.
 
 137
-09:23.040 --> 09:23.716
+00:09:23,040 --> 00:09:23,716
 Here.
 
 138
-09:27.830 --> 09:29.500
+00:09:27,830 --> 00:09:29,500
 Thank you, Uncle Kariya.
 
 139
-09:29.712 --> 09:32.566
+00:09:29,712 --> 00:09:32,566
 You are very welcome, Rin, I'm glad you like it.
 
 140
-09:36.430 --> 09:37.553
+00:09:36,430 --> 00:09:37,553
 Where's Sakura?
 
 141
-09:41.310 --> 09:44.751
+00:09:41,310 --> 00:09:44,751
 Sakura's gone now.
 
 142
-09:48.480 --> 09:49.643
+00:09:48,480 --> 00:09:49,643
 What did she mean?
 
 143
-09:50.115 --> 09:51.625
-Sakura is... 
+00:09:50,115 --> 00:09:51,625
+Sakura is...
 
 144
-09:51.796 --> 09:55.341
+00:09:51,796 --> 00:09:55,341
 well, she's no longer my
 daughter or Rin's little sister.
 
 145
-09:57.030 --> 10:01.031
+00:09:57,030 --> 00:10:01,031
 She's now with... the Matou family.
 
 146
-10:02.374 --> 10:03.457
+00:10:02,374 --> 00:10:03,457
 But why?
 
 147
-10:04.330 --> 10:08.642
+00:10:04,330 --> 00:10:08,642
 The Matous want a child who carries
 in them the blood of a mage.
 
 148
-10:09.330 --> 10:12.321
+00:10:09,330 --> 00:10:12,321
 You know why, better than anyone else.
 
 149
-10:15.484 --> 10:21.875
+00:10:15,484 --> 00:10:21,875
 The head of the Tohsaka family decided to give our
 ancient allies, the Matous, that which they requested.
 
 150
-10:22.100 --> 10:24.490
+00:10:22,100 --> 00:10:24,490
 It wasn't my place to speak out.
 
 151
-10:26.060 --> 10:27.543
+00:10:26,060 --> 00:10:27,543
 You're all right with that?
 
 152
-10:28.020 --> 10:30.594
+00:10:28,020 --> 00:10:30,594
 When I married into the Tohsaka family,
 
 153
-10:30.840 --> 10:32.947
+00:10:30,840 --> 00:10:32,947
 when I decided to marry a mage,
 
 154
-10:33.268 --> 10:35.541
+00:10:33,268 --> 00:10:35,541
 I knew what might be required of me.
 
 155
-10:36.400 --> 10:38.022
+00:10:36,400 --> 00:10:38,022
 And you're all right with that?
 
 156
-10:38.333 --> 10:45.040
+00:10:38,333 --> 00:10:45,040
 The reality is that a clan bearing mage blood can
 never expect to enjoy the happiness of a normal family.
 
 157
-10:45.149 --> 10:46.371
+00:10:45,149 --> 00:10:46,371
 That's not true!
 
 158
-10:46.698 --> 10:48.886
-When you married him you wanted happiness, you wanted... 
+00:10:46,698 --> 00:10:48,886
+When you married him you wanted happiness, you wanted...
 
 159
-10:49.033 --> 10:50.148
+00:10:49,033 --> 00:10:50,148
 Enough!
 
 160
-10:50.620 --> 10:53.250
+00:10:50,620 --> 00:10:53,250
 This is between the Tohsakas and the Matous.
 
 161
-10:53.390 --> 10:56.129
+00:10:53,390 --> 00:10:56,129
 You left the world of mages a long time ago.
 
 162
-10:56.688 --> 10:58.075
+00:10:56,688 --> 00:10:58,075
 This doesn't concern you.
 
 163
-11:02.784 --> 11:05.415
+00:11:02,784 --> 00:11:05,415
 If you get the chance to see Sakura again,
 
 164
-11:05.668 --> 11:07.083
+00:11:05,668 --> 00:11:07,083
 please be kind to her.
 
 165
-11:07.890 --> 11:11.584
+00:11:07,890 --> 00:11:11,584
 She was always very fond of you.
 
 166
-11:14.753 --> 11:19.646
+00:11:14,753 --> 00:11:19,646
 So, the failure actually had
 the nerve to show his face here.
 
 167
-11:20.463 --> 11:26.750
+00:11:20,463 --> 00:11:26,750
 I distinctly remember telling you to stay far away
 from this house, and to never darken my doorstep again,
 
 168
-11:27.317 --> 11:28.143
+00:11:27,317 --> 00:11:28,143
 Kariya.
 
 169
-11:28.467 --> 11:31.305
+00:11:28,467 --> 00:11:31,305
 I heard you adopted the Tohsaka's second daughter.
 
 170
-11:32.223 --> 11:34.080
+00:11:32,223 --> 00:11:34,080
 Then you have sharp ears.
 
 171
-11:34.393 --> 11:39.563
+00:11:34,393 --> 00:11:39,563
 Is it really so important to keep mages in
 the Matou lineage that you have to do this?
 
 172
-11:39.694 --> 11:41.469
+00:11:39,694 --> 00:11:41,469
 Would you tell me we're wrong to?
 
 173
-11:41.563 --> 11:43.147
+00:11:41,563 --> 00:11:43,147
 You of all people?
 
 174
-11:43.308 --> 11:48.008
+00:11:43,308 --> 00:11:48,008
 Tell me who's fault do you think it is
 for our present reduced circumstances.
 
 175
-11:48.493 --> 11:49.379
+00:11:48,493 --> 00:11:49,379
 Kariya,
 
 176
-11:49.853 --> 11:52.558
+00:11:49,853 --> 00:11:52,558
 had you only agreed to carry on the family name
 
 177
-11:52.597 --> 11:54.743
+00:11:52,597 --> 00:11:54,743
 and to learn the secrets of the Matou,
 
 178
-11:54.852 --> 11:56.913
+00:11:54,852 --> 00:11:56,913
 things would never have gotten this bad,
 
 179
-11:56.913 --> 11:59.691
+00:11:56,913 --> 00:11:59,691
 and that little girl would still be with her mother.
 
 180
-11:59.751 --> 12:02.246
+00:11:59,751 --> 00:12:02,246
 You're not fooling anyone, you vampire.
 
 181
-12:02.767 --> 12:05.907
+00:12:02,767 --> 00:12:05,907
 You only want the Grail to give yourself eternal youth.
 
 182
-12:06.174 --> 12:07.704
+00:12:06,174 --> 00:12:07,704
 You just wanna live forever.
 
 183
-12:10.303 --> 12:14.449
+00:12:10,303 --> 00:12:14,449
 Nearly 60 years have passed since
 the last time the masters gathered,
 
 184
-12:14.549 --> 12:18.828
+00:12:14,549 --> 00:12:18,828
 but the Matous have no pawns yet to
 offer for the fourth Holy Grail War.
 
 185
-12:19.088 --> 12:24.787
+00:12:19,088 --> 00:12:24,787
 Though you have it inside you, your brother Byakuya
 lacks the power needed to control a servant.
 
 186
-12:25.144 --> 12:31.722
+00:12:25,144 --> 00:12:31,722
 But even if we forfeit this round, we could still
 win the next in 60 years if we prepare ourselves.
 
 187
-12:31.862 --> 12:37.270
+00:12:31,862 --> 00:12:37,270
 The Tohsaka girl's womb will one day bear
 us a powerful mage, one who could prevail.
 
 188
-12:37.318 --> 12:41.155
+00:12:37,318 --> 00:12:41,155
 She has a lot of potential,
 that one, she could be the key.
 
 189
-12:41.342 --> 12:45.343
+00:12:41,342 --> 00:12:45,343
 So then in other words,
 if you can get your hands on the Grail,
 
 190
-12:45.519 --> 12:48.056
+00:12:45,519 --> 00:12:48,056
 you won't need Sakura Tohsaka anymore.
 
 191
-12:49.343 --> 12:52.197
+00:12:49,343 --> 00:12:52,197
 What is it you're scheming, Kariya?
 
 192
-12:52.763 --> 12:54.480
+00:12:52,763 --> 00:12:54,480
 A trade, Zouken.
 
 193
-12:55.235 --> 12:58.986
+00:12:55,235 --> 00:12:58,986
 Next year I will return from the Grail
 War, Grail in hand,
 
 194
-12:59.733 --> 13:02.871
+00:12:59,733 --> 00:13:02,871
 and in return, you will release Sakura.
 
 195
-13:04.443 --> 13:06.273
+00:13:04,443 --> 00:13:06,273
 Don't be a stupid idiot.
 
 196
-13:06.372 --> 13:09.443
+00:13:06,372 --> 00:13:09,443
 You're a failure and you haven't
 trained a day in your life.
 
 197
-13:09.547 --> 13:14.790
+00:13:09,547 --> 00:13:14,790
 You actually believe that in a single year
 you'll achieve the power to control a servant?
 
 198
-13:15.220 --> 13:21.413
+00:13:15,220 --> 00:13:21,413
 You have the secret magic to make that happen and
 you know it, using your special worm techniques.
 
 199
-13:24.043 --> 13:24.903
+00:13:24,043 --> 00:13:24,903
 So?
 
 200
-13:24.994 --> 13:28.294
+00:13:24,994 --> 00:13:28,294
 You can implant me with your crest worms.
 
 201
-13:28.843 --> 13:31.395
+00:13:28,843 --> 00:13:31,395
 Kariya, you want to die?
 
 202
-13:31.642 --> 13:34.883
+00:13:31,642 --> 00:13:34,883
 The Matous should rely on
 themselves to gain what they want.
 
 203
-13:35.237 --> 13:37.152
+00:13:35,237 --> 00:13:37,152
 I won't let anyone else get involved.
 
 204
-13:38.566 --> 13:42.568
+00:13:38,566 --> 00:13:42,568
 Surely you're not concerned for my well-being, Father.
 
 205
-13:45.093 --> 13:48.448
+00:13:45,093 --> 00:13:48,448
 If what you're trying to do is keep her out of all this,
 
 206
-13:48.474 --> 13:53.249
+00:13:48,474 --> 00:13:53,249
 Kariya, I'm afraid you're a little late.
 
 207
-13:53.375 --> 13:56.185
+00:13:53,375 --> 00:13:56,185
 You bastard, you didn't!
 
 208
-13:59.743 --> 14:04.861
+00:13:59,743 --> 00:14:04,861
 For the first three days in there she did
 nothing but constantly scream her head off.
 
 209
-14:05.268 --> 14:08.976
+00:14:05,268 --> 00:14:08,976
 But on the fourth, she settled down and finally stopped.
 
 210
-14:09.368 --> 14:14.832
+00:14:09,368 --> 00:14:14,832
 Early this morning, I threw her down into
 the worm pit to see just how long she'd last.
 
 211
-14:15.513 --> 14:20.039
+00:14:15,513 --> 00:14:20,039
 She's been in there for over 12
 hours and she's still breathing.
 
 212
-14:20.279 --> 14:24.007
+00:14:20,279 --> 00:14:24,007
 The Tohsakas have very powerful inner spirits.
 
 213
-14:24.733 --> 14:25.607
+00:14:24,733 --> 00:14:25,607
 Sakura!
 
 214
-14:25.632 --> 14:27.194
+00:14:25,632 --> 00:14:27,194
 What will you do now?
 
 215
-14:27.567 --> 14:33.668
+00:14:27,567 --> 00:14:33,668
 She's a broken little girl ripped from the life
 she knew, and violated by worms from head to toe.
 
 216
-14:33.797 --> 14:36.945
+00:14:33,797 --> 00:14:36,945
 But if you still wish to save her from this ordeal,
 
 217
-14:37.152 --> 14:39.700
+00:14:37,152 --> 00:14:39,700
 I might be willing to think about it.
 
 218
-14:40.000 --> 14:41.107
+00:14:40,000 --> 00:14:41,107
 I agree.
 
 219
-14:42.583 --> 14:46.963
+00:14:42,583 --> 00:14:46,963
 But I intend to continue her
 education until you show results.
 
 220
-14:46.963 --> 14:49.242
+00:14:46,963 --> 00:14:49,242
 That point is not negotiable.
 
 221
-14:49.762 --> 14:53.877
+00:14:49,762 --> 00:14:53,877
 I still expect to achieve victory
 in the next war 60 years from now,
 
 222
-14:53.989 --> 14:59.553
+00:14:53,989 --> 00:14:59,553
 but should you somehow manage to retrieve
 the Grail in this war, all the better.
 
 223
-14:59.640 --> 15:05.273
+00:14:59,640 --> 00:15:05,273
 Naturally, I'll no longer need the girl.
 In that case, her education will only last a year,
 
 224
-15:05.376 --> 15:08.696
+00:15:05,376 --> 00:15:08,696
 and then she'll be free to go where she wants.
 
 225
-15:09.078 --> 15:11.918
+00:15:09,078 --> 00:15:11,918
 You won't renege on your words, Zouken Matou?
 
 226
-15:12.019 --> 15:15.394
+00:15:12,019 --> 00:15:15,394
 You can start by serving as
 the breeding ground for a week.
 
 227
-15:15.640 --> 15:19.033
+00:15:15,640 --> 00:15:19,033
 If you don't die or go insane then I'll concede that
 
 228
-15:19.058 --> 15:22.433
+00:15:19,058 --> 00:15:22,433
 you're actually serious and
 will keep my word completely.
 
 229
-15:31.423 --> 15:32.553
+00:15:31,423 --> 00:15:32,553
 It's finally here.
 
 230
-15:35.303 --> 15:36.348
+00:15:35,303 --> 00:15:36,348
 What does it say?
 
 231
-15:36.763 --> 15:40.020
+00:15:36,763 --> 00:15:40,020
 It's a report from the spies I
 sent to the London Clock Tower.
 
 232
-15:40.455 --> 15:44.401
+00:15:40,455 --> 00:15:44,401
 It says that the Grail chose a
 master from within the tower,
 
 233
-15:45.018 --> 15:47.392
+00:15:45,018 --> 00:15:47,392
 the headquarters of the Mage's Association.
 
 234
-15:47.827 --> 15:48.714
+00:15:47,827 --> 00:15:48,714
 Who is it?
 
 235
-15:48.739 --> 15:50.097
+00:15:48,739 --> 00:15:50,097
 A rather big problem.
 
 236
-15:50.483 --> 15:52.810
+00:15:50,483 --> 00:15:52,810
 The eldest son of the Archibald family,
 
 237
-15:53.036 --> 15:54.562
+00:15:53,036 --> 00:15:54,562
 a ninth generation mage.
 
 238
-15:55.095 --> 15:57.842
+00:15:55,095 --> 00:15:57,842
 Kayneth El‐Melloi Archibald.
 
 239
-16:01.101 --> 16:05.522
+00:16:01,101 --> 00:16:05,522
 In the world of mages,
 a long and distinguished lineage is everything.
 
 240
-16:05.742 --> 16:07.465
+00:16:05,742 --> 00:16:07,465
 Nothing else matters.
 
 241
-16:07.738 --> 16:12.530
+00:16:07,738 --> 00:16:12,530
 This is because magic will not yield
 up her secrets in a single generation.
 
 242
-16:12.710 --> 16:17.093
+00:16:12,710 --> 00:16:17,093
 A parent passes on the fruits of a
 lifetime of magical training to his child.
 
 243
-16:17.533 --> 16:22.448
+00:16:17,533 --> 00:16:22,448
 Thus, the older the family of mages,
 the greater their power ultimately becomes.
 
 244
-16:22.641 --> 16:27.063
+00:16:22,641 --> 00:16:27,063
 You are no doubt wondering why I begin
 today's lecture with something so basic.
 
 245
-16:27.170 --> 16:32.797
+00:16:27,170 --> 00:16:32,797
 It is because a student from this class
 submitted a fascinating paper to me yesterday.
 
 246
-16:33.617 --> 16:36.605
+00:16:33,617 --> 00:16:36,605
 "How Wizardry Should Be in the New Century."
 
 247
-16:37.351 --> 16:42.201
+00:16:37,351 --> 00:16:42,201
 It attempts to make a case objecting to the
 longstanding traditions of which I just spoke.
 
 248
-16:42.616 --> 16:46.469
+00:16:42,616 --> 00:16:46,469
 It claims that if one were to achieve
 a deep understanding of the techniques
 
 249
-16:46.494 --> 16:49.028
+00:16:46,494 --> 00:16:49,028
 and precise control over mana application,
 
 250
-16:49.126 --> 16:52.773
+00:16:49,126 --> 00:16:52,773
 it would allow one to overcome any
 difference in inherent ability.
 
 251
-16:53.386 --> 16:59.067
+00:16:53,386 --> 00:16:59,067
 In short, even someone with diluted blood could,
 through his own efforts, become a master mage.
 
 252
-16:59.680 --> 17:01.383
+00:16:59,680 --> 00:17:01,383
 To be honest, I've learned something
 
 253
-17:01.383 --> 17:02.726
+00:17:01,383 --> 00:17:02,726
 from reading this paper.
 
 254
-17:03.513 --> 17:04.969
+00:17:03,513 --> 00:17:04,969
 Silence, please.
 
 255
-17:07.263 --> 17:08.883
+00:17:07,263 --> 00:17:08,883
 I will be perfectly frank.
 
 256
-17:09.150 --> 17:13.063
+00:17:09,150 --> 00:17:13,063
 This paper is nothing but immature juvenile fantasies.
 
 257
-17:13.375 --> 17:13.975
+00:17:13,375 --> 00:17:13,975
 Huh?
 
 258
-17:14.102 --> 17:16.944
+00:17:14,102 --> 00:17:16,944
 Blood determines a mage's powers and abilities.
 
 259
-17:17.097 --> 17:20.287
+00:17:17,097 --> 00:17:20,287
 This is a hard and unchanging reality of this world.
 
 260
-17:21.573 --> 17:23.823
+00:17:21,573 --> 00:17:23,823
 Even for you, Waver Velvet.
 
 261
-17:23.999 --> 17:29.586
+00:17:23,999 --> 00:17:29,586
 I am very, very disappointed that one of my
 students would indulge in this moronic nonsense.
 
 262
-17:29.646 --> 17:34.691
+00:17:29,646 --> 00:17:34,691
 Sir, I was only trying to raise a question the Mage's
 Association has become too reluctant to address.
 
 263
-17:34.716 --> 17:38.039
+00:17:34,716 --> 00:17:38,039
 Mr. Velvet, if I recall correctly,
 
 264
-17:38.306 --> 17:41.554
+00:17:38,306 --> 00:17:41,554
 your family has produced mages
 for only three generations.
 
 265
-17:41.647 --> 17:42.976
+00:17:41,647 --> 00:17:42,976
 Isn't that right?
 
 266
-17:43.249 --> 17:48.128
+00:17:43,249 --> 00:17:48,128
 Listen to me, compared to the Mage's
 Association's long and illustrious history,
 
 267
-17:48.274 --> 17:51.063
+00:17:48,274 --> 00:17:51,063
 your family is no more than a newborn baby.
 
 268
-17:51.236 --> 17:55.578
+00:17:51,236 --> 00:17:55,578
 Don't you think a baby should learn to
 speak before it tries to voice an opinion?
 
 269
-17:57.250 --> 17:58.549
+00:17:57,250 --> 00:17:58,549
 He made a fool of me,
 
 270
-17:58.574 --> 17:59.428
+00:17:58,574 --> 00:17:59,428
 he made a fool of me,
 
 271
-17:59.455 --> 18:00.842
+00:17:59,455 --> 00:18:00,842
 he made a fool of me!
 
 272
-18:00.903 --> 18:02.701
+00:18:00,903 --> 00:18:02,701
 Is that any way for a teacher to act?
 
 273
-18:02.921 --> 18:05.634
+00:18:02,921 --> 00:18:05,634
 Reading my paper made him jealous
 and he couldn't handle it!
 
 274
-18:05.700 --> 18:07.743
+00:18:05,700 --> 00:18:07,743
 The pompous ass is afraid of my talent.
 
 275
-18:07.882 --> 18:10.155
+00:18:07,882 --> 00:18:10,155
 That's why he embarrassed me in front of everyone.
 
 276
-18:10.448 --> 18:11.263
+00:18:10,448 --> 00:18:11,263
 Whoa!
 
 277
-18:12.818 --> 18:14.220
+00:18:12,818 --> 00:18:14,220
 Oh, I'm sorry.
 
 278
-18:14.543 --> 18:15.867
+00:18:14,543 --> 00:18:15,867
 Are you all right?
 
 279
-18:16.204 --> 18:17.337
+00:18:16,204 --> 00:18:17,337
 I'm fine.
 
 280
-18:18.293 --> 18:20.988
+00:18:18,293 --> 00:18:20,988
 You're in the Spiritual Evocation Department.
 
 281
-18:21.049 --> 18:22.705
+00:18:21,049 --> 00:18:22,705
 Why aren't you in class?
 
 282
-18:22.730 --> 18:23.763
+00:18:22,730 --> 00:18:23,763
 Well, uh,
 
 283
-18:23.849 --> 18:27.028
+00:18:23,849 --> 00:18:27,028
 Mr. Archibald asked me to run an errand for him.
 
 284
-18:27.381 --> 18:29.168
+00:18:27,381 --> 00:18:29,168
 That's why I was in a hurry.
 
 285
-18:29.893 --> 18:32.023
+00:18:29,893 --> 00:18:32,023
 I see, that's great.
 
 286
-18:32.089 --> 18:34.904
+00:18:32,089 --> 00:18:34,904
 Would you mind giving this to
 him when you go back to class?
 
 287
-18:37.434 --> 18:39.192
+00:18:37,434 --> 00:18:39,192
 Okay, sure, why not?
 
 288
-18:39.836 --> 18:42.995
+00:18:39,836 --> 00:18:42,995
 Just make sure he gets it,
 it's supposed to be important.
 
 289
-18:43.141 --> 18:44.394
+00:18:43,141 --> 00:18:44,394
 It's important?
 
 290
-18:45.613 --> 18:48.851
+00:18:45,613 --> 00:18:48,851
 Package origin, Macedonia?
 
 291
-18:56.173 --> 18:57.113
+00:18:56,173 --> 00:18:57,113
 This is it.
 
 292
-18:58.003 --> 19:00.096
+00:18:58,003 --> 00:19:00,096
 So it seems that all the rumors about that
 
 293
-19:00.121 --> 19:05.806
+00:19:00,121 --> 00:19:05,806
 bastard Kayneth Archibald preparing to fight in some
 kind of mages tournament in the Far East soon are true.
 
 294
-19:10.893 --> 19:12.591
+00:19:10,893 --> 00:19:12,591
 The Holy Grail War.
 
 295
-19:13.273 --> 19:18.693
+00:19:13,273 --> 00:19:18,693
 According to the legend, 200 years ago,
 the Einzberns, the Makiris, and the Tohsakas,
 
 296
-19:18.800 --> 19:21.323
+00:19:18,800 --> 00:19:21,323
 collectively known as the three first families,
 
 297
-19:21.471 --> 19:23.823
+00:19:21,471 --> 00:19:23,823
 worked together to summon the Holy Grail,
 
 298
-19:23.876 --> 19:27.763
+00:19:23,876 --> 00:19:27,763
 said to have the power to grant any
 wish, and eventually succeeded it.
 
 299
-19:28.613 --> 19:34.033
+00:19:28,613 --> 00:19:34,033
 But the Holy Grail would only grant
 one of the family's supplications.
 
 300
-19:34.873 --> 19:39.625
+00:19:34,873 --> 00:19:39,625
 Their cooperation quickly turned
 to violent and bloody conflict.
 
 301
-19:39.793 --> 19:42.820
+00:19:39,793 --> 00:19:42,820
 That was the beginning of the Holy Grail Wars.
 
 302
-19:43.173 --> 19:46.152
+00:19:43,173 --> 00:19:46,152
 Ever since then, once every 60 years,
 
 303
-19:46.225 --> 19:48.762
+00:19:46,225 --> 00:19:48,762
 the Holy Grail appears in the city of Fuyuki.
 
 304
-19:48.955 --> 19:53.974
+00:19:48,955 --> 00:19:53,974
 It selects seven mages from across the globe
 to compete for it, and grants them powers.
 
 305
-19:54.473 --> 19:58.788
+00:19:54,473 --> 00:19:58,788
 Each magically summons a heroic
 spirit known as a servant.
 
 306
-20:00.313 --> 20:05.903
+00:20:00,313 --> 00:20:05,903
 Archer, Saber, Lancer, Rider, Assassin,
 
 307
-20:05.903 --> 20:08.085
+00:20:05,903 --> 00:20:08,085
 Caster, Berserker.
 
 308
-20:09.033 --> 20:14.161
+00:20:09,033 --> 00:20:14,161
 Divided into these seven classes of warriors,
 the servants, guided by their masters,
 
 309
-20:14.241 --> 20:19.900
+00:20:14,241 --> 00:20:19,900
 fight each other to the death in secret battles
 to determine who is worthy to win the Grail.
 
 310
-20:23.367 --> 20:25.750
+00:20:23,367 --> 00:20:25,750
 So it appears that this Grail War
 
 311
-20:25.853 --> 20:31.193
+00:20:25,853 --> 00:20:31,193
 is a battle of pure strength where stupid
 titles and influence mean absolutely nothing.
 
 312
-20:32.034 --> 20:34.618
+00:20:32,034 --> 00:20:34,618
 That looks like it's the perfect place for me.
 
 313
-20:36.643 --> 20:42.927
+00:20:36,643 --> 00:20:42,927
 Wait, in order to summon a servant some kind of
 relic related to them is needed to act as a catalyst.
 
 314
-20:44.113 --> 20:45.409
+00:20:44,113 --> 00:20:45,409
 A relic.
 
 315
-21:15.779 --> 21:18.878
+00:21:15,779 --> 00:21:18,878
 That device always strikes me as being indecent.
 
 316
-21:19.449 --> 21:21.438
+00:21:19,449 --> 00:21:21,438
 There's a report from the Clock Tower.
 
 317
-21:21.699 --> 21:25.309
+00:21:21,699 --> 00:21:25,309
 It looks like Lord El‐Melloi has acquired another relic.
 
 318
-21:26.079 --> 21:29.006
+00:21:26,079 --> 00:21:29,006
 His participation in the war is certain now.
 
 319
-21:29.459 --> 21:33.183
+00:21:29,459 --> 00:21:33,183
 It troubles me that two of the
 slots are still unaccounted for.
 
 320
-21:33.410 --> 21:38.089
+00:21:33,410 --> 00:21:38,089
 Don't worry, when the time comes,
 the Grail will select seven, regardless of skill.
 
 321
-21:38.131 --> 21:40.549
-The ones it selects to round out the group are... 
+00:21:38,131 --> 00:21:40,549
+The ones it selects to round out the group are...
 
 322
-21:40.629 --> 21:43.259
+00:21:40,629 --> 00:21:43,259
 well, often weak and inexperienced.
 
 323
-21:43.446 --> 21:44.813
+00:21:43,446 --> 00:21:44,813
 Don't concern yourself.
 
 324
-21:45.360 --> 21:47.893
+00:21:45,360 --> 00:21:47,893
 Speaking of matters of real concern, Kirei,
 
 325
-21:48.086 --> 21:51.374
+00:21:48,086 --> 00:21:51,374
 I trust that no one followed you
 or saw you enter this mansion.
 
 326
-21:51.399 --> 21:52.672
+00:21:51,399 --> 00:21:52,672
 No, don't worry.
 
 327
-21:53.149 --> 21:58.621
+00:21:53,149 --> 00:21:58,621
 No familiars or devices, visible or invisible,
 are watching me or this mansion right now.
 
 328
-21:59.279 --> 22:00.248
+00:21:59,279 --> 00:22:00,248
 On that
 
 329
-22:00.273 --> 22:02.658
+00:22:00,273 --> 00:22:02,658
 You have my guarantee.
 
 330
-22:02.819 --> 22:08.862
+00:22:02,819 --> 00:22:08,862
 No matter what tricks or deception they
 use, no one can deceive the eyes of Hassan,
 
 331
-22:09.119 --> 22:11.122
+00:22:09,119 --> 00:22:11,122
 the spy heroic spirit.
 
 332
-22:11.459 --> 22:16.226
+00:22:11,459 --> 00:22:16,226
 There is no trace of anyone following
 my master or watching this house.
 
 333
-22:16.629 --> 22:19.473
+00:22:16,629 --> 00:22:19,473
 Please, you can put your mind at ease.
 
 334
-22:20.129 --> 22:23.217
+00:22:20,129 --> 00:22:23,217
 If a servant has been manifested by another master
 
 335
-22:23.383 --> 22:25.687
+00:22:23,383 --> 00:22:25,687
 my father is certain to be aware of it.
 
 336
-22:26.309 --> 22:28.326
+00:22:26,309 --> 00:22:28,326
 The other mages will not take action,
 
 337
-22:28.519 --> 22:30.559
+00:22:28,519 --> 00:22:30,559
 at least for a little while longer.
 
 338
-22:31.431 --> 22:35.293
+00:22:31,431 --> 00:22:35,293
 Assassin, you may go,
 continue guarding the surrounding area.
 
 339
-22:36.019 --> 22:37.479
+00:22:36,019 --> 00:22:37,479
 As you wish.
 
 340
-22:39.029 --> 22:41.831
+00:22:39,029 --> 00:22:41,831
 It's only a matter of time before that changes.
 
 341
-22:42.029 --> 22:48.898
+00:22:42,029 --> 00:22:48,898
 Very soon now this place will be swarming with familiars
 and magical devices sent by other masters to spy on me.
 
 342
-22:49.659 --> 22:50.699
+00:22:49,659 --> 00:22:50,699
 What is that?
 
 343
-22:50.724 --> 22:52.491
+00:22:50,724 --> 00:22:52,491
 Another investigation.
 
 344
-22:53.031 --> 22:57.231
+00:22:53,031 --> 00:22:57,231
 I've been gathering what information
 I can on the Einzbern master.
 
 345
-22:58.249 --> 23:03.309
+00:22:58,249 --> 00:23:03,309
 Nine years ago, the Einzberns,
 a family notoriously proud of their pure blood,
 
 346
-23:03.516 --> 23:07.150
+00:23:03,516 --> 00:23:07,150
 suddenly allowed an outsider
 mage to marry into the family.
 
 347
-23:10.349 --> 23:13.859
+00:23:10,349 --> 00:23:13,859
 The Einzbern mages have devoted
 themselves solely to alchemy,
 
 348
-23:14.019 --> 23:16.299
+00:23:14,019 --> 00:23:16,299
 rendering them unfit for combat.
 
 349
-23:16.678 --> 23:20.646
+00:23:16,678 --> 00:23:20,646
 Their losses in previous Grail Wars
 can all be traced to that fact.
 
 350
-23:21.069 --> 23:23.725
+00:23:21,069 --> 00:23:23,725
 They must have finally run out of patience.
 
 351
-23:24.909 --> 23:28.711
+00:23:24,909 --> 00:23:28,711
 The man they chose was perfect for their needs.
 
 352
-23:31.869 --> 23:37.308
+00:23:31,869 --> 00:23:37,308
 Kiritsugu Emiya, the man known as the Mage Killer.
 
 353
-23:43.259 --> 23:49.049
+00:23:43,259 --> 00:23:49,049
 We finally found the relic we've been
 searching for in Cornwall all these years.
 
 354
-23:49.242 --> 23:53.035
+00:23:49,242 --> 00:23:53,035
 If you use it as a catalyst you'll be
 able to summon what is widely considered
 
 355
-23:53.060 --> 23:56.604
+00:23:53,060 --> 00:23:56,604
 the strongest of all known sword‐wielding servants.
 
 356
-23:57.380 --> 23:58.367
+00:23:57,380 --> 00:23:58,367
 Kiritsugu,
 
 357
-23:58.607 --> 24:04.279
+00:23:58,607 --> 00:24:04,279
 this is the greatest gift the Einzbern can offer
 to the man who is working in service to our needs.
 
 358
-24:04.316 --> 24:06.483
+00:24:04,316 --> 00:24:06,483
 Thank you, Elder, I am honored.
 
 359
-24:07.009 --> 24:10.242
+00:24:07,009 --> 00:24:10,242
 This time there are to be no survivors.
 
 360
-24:10.509 --> 24:13.862
+00:24:10,509 --> 00:24:13,862
 You are to hunt down the six
 other servants and eliminate them,
 
 361
-24:13.887 --> 24:17.012
+00:24:13,887 --> 00:24:17,012
 and fulfill the third magic, Heaven's Feel.
 
 362
-24:17.663 --> 24:18.671
+00:24:17,663 --> 00:24:18,671
 Yes, sir.
 
 363
-24:20.289 --> 24:22.013
+00:24:20,289 --> 00:24:22,013
 Kiritsugu Emiya?
 
 364
-24:22.799 --> 24:24.805
+00:24:22,799 --> 00:24:24,805
 Yes, I know that name.
 
 365
-24:25.319 --> 24:29.004
+00:24:25,319 --> 00:24:29,004
 So, even the Holy Church has heard of this man.
 
 366
-24:30.259 --> 24:34.424
+00:24:30,259 --> 00:24:34,424
 Kiritsugu Emiya, the Mage Killer,
 was quite infamous in his time.
 
 367
-24:34.979 --> 24:38.825
+00:24:34,979 --> 00:24:38,825
 Officially, he was a rogue mage who
 didn't belong to the Association,
 
 368
-24:39.025 --> 24:43.870
+00:24:39,025 --> 00:24:43,870
 but the higher ups found him, shall we
 say, convenient for their own purposes.
 
 369
-24:43.970 --> 24:46.624
+00:24:43,970 --> 00:24:46,624
 It sounds to me like he was quite similar to us.
 
 370
-24:46.649 --> 24:48.764
+00:24:46,649 --> 00:24:48,764
 Executioners for the Holy Church.
 
 371
-24:49.069 --> 24:50.724
+00:24:49,069 --> 00:24:50,724
 Far worse, I assure you.
 
 372
-24:50.986 --> 24:54.196
+00:24:50,986 --> 00:24:54,196
 He spent his life as a freelance master assassin
 
 373
-24:54.343 --> 24:56.964
+00:24:54,343 --> 00:24:56,964
 who specializes in exterminating mages.
 
 374
-24:57.299 --> 25:03.278
+00:24:57,299 --> 00:25:03,278
 He knows what mages are capable of, so he deals with
 them in a way that is unlike a mage as possible.
 
 375
-25:04.871 --> 25:05.972
+00:25:04,871 --> 00:25:05,972
 Read that.
 
 376
-25:07.669 --> 25:12.209
+00:25:07,669 --> 00:25:12,209
 Sniping, poisoning, bombs in public places.
 
 377
-25:12.735 --> 25:14.889
+00:25:12,735 --> 00:25:14,889
 He once brought down an entire jetliner
 
 378
-25:14.889 --> 25:16.747
+00:25:14,889 --> 00:25:16,747
 just because his target was on it.
 
 379
-25:17.849 --> 25:21.189
+00:25:17,849 --> 00:25:21,189
 A man who will do anything without a second thought.
 
 380
-25:22.979 --> 25:26.865
+00:25:22,979 --> 00:25:26,865
 It is because mages function outside
 the laws of the regular world
 
 381
-25:27.025 --> 25:31.535
+00:25:27,025 --> 00:25:31,535
 that we must diligently obey the strict
 laws that we have set for ourselves.
 
 382
-25:31.869 --> 25:36.554
+00:25:31,869 --> 00:25:36,554
 But this man lacks even a single
 trace of a mage's pride or honor.
 
 383
-25:37.475 --> 25:40.257
+00:25:37,475 --> 00:25:40,257
 The methods he employs are unforgivable.
 
 384
-25:41.348 --> 25:45.991
+00:25:41,348 --> 00:25:45,991
 Then tell me, what does this Kiritsugu Emiya gain...
 
 385
-25:47.493 --> 25:49.976
+00:25:47,493 --> 00:25:49,976
 by hiring himself out as a killer?
 
 386
-25:50.429 --> 25:51.922
+00:25:50,429 --> 00:25:51,922
 Money, I would imagine.
 
 387
-25:53.049 --> 25:54.844
+00:25:53,049 --> 00:25:54,844
 As you can read in that report,
 
 388
-25:55.389 --> 25:58.845
+00:25:55,389 --> 00:25:58,845
 he's been involved in more
 than just mage assassinations.
 
 389
-25:59.729 --> 26:05.596
+00:25:59,729 --> 00:26:05,596
 He's appeared in war zones all over the
 planet offering his services as a mercenary.
 
 390
-26:06.780 --> 26:07.864
+00:26:06,780 --> 00:26:07,864
 I see.
 
 391
-26:08.899 --> 26:11.363
+00:26:08,899 --> 00:26:11,363
 May I borrow this for a while?
 
 392
-26:16.989 --> 26:19.771
+00:26:16,989 --> 00:26:19,771
 Let's go over what we know, Iri, all right?
 
 393
-26:21.039 --> 26:25.672
+00:26:21,039 --> 00:26:25,672
 Of the seven masters that the Grail will
 choose we have identified four of them.
 
 394
-26:26.589 --> 26:29.778
+00:26:26,589 --> 00:26:29,778
 Tokiomi Tohsaka, Tohsaka family head.
 
 395
-26:29.879 --> 26:33.317
+00:26:29,879 --> 00:26:33,317
 Fire mage, uses jewel magic, very formidable.
 
 396
-26:34.140 --> 26:35.711
+00:26:34,140 --> 00:26:35,711
 Kariya Matou.
 
 397
-26:36.889 --> 26:38.599
+00:26:36,889 --> 00:26:38,599
 So they took the kid who left the family
 
 398
-26:38.599 --> 26:40.014
+00:26:38,599 --> 00:26:40,014
 and made him a master, huh?
 
 399
-26:40.769 --> 26:42.376
+00:26:40,769 --> 00:26:42,376
 That old man must be desperate.
 
 400
-26:43.769 --> 26:46.050
+00:26:43,769 --> 00:26:46,050
 Kayneth El‐Melloi Archibald.
 
 401
-26:46.859 --> 26:48.292
+00:26:46,859 --> 00:26:48,292
 Wind and water affinity.
 
 402
-26:48.979 --> 26:52.953
+00:26:48,979 --> 00:26:52,953
 He's a top expert in necromancy, summoning, and alchemy.
 
 403
-26:53.659 --> 26:54.604
-And next... 
+00:26:53,659 --> 00:26:54,604
+And next...
 
 404
-26:54.629 --> 26:56.091
+00:26:54,629 --> 00:26:56,091
 Kiritsugu Emiya.
 
 405
-26:56.491 --> 27:02.387
+00:26:56,491 --> 00:27:02,387
 Newest member of the Einzbern family and
 their trump card, and the man that I love.
 
 406
-27:04.822 --> 27:08.570
+00:27:04,822 --> 00:27:08,570
 And the fourth master...  no, I mean the fifth one,
 
 407
-27:08.959 --> 27:10.940
+00:27:08,959 --> 00:27:10,940
 is representing the Holy Church.
 
 408
-27:11.259 --> 27:12.775
+00:27:11,259 --> 00:27:12,775
 His name is Kirei Kotomine.
 
 409
-27:13.589 --> 27:14.884
+00:27:13,589 --> 00:27:14,884
 He's from the Church?
 
 410
-27:15.389 --> 27:18.860
+00:27:15,389 --> 00:27:18,860
 He's the son of the overseer, Father Risei Kotomine.
 
 411
-27:19.389 --> 27:23.468
+00:27:19,389 --> 00:27:23,468
 Reports say he studied under Tokiomi
 Tohsaka starting three years ago,
 
 412
-27:23.641 --> 27:26.069
+00:27:23,641 --> 00:27:26,069
 splitting with him after his Command Seal appeared.
 
 413
-27:26.769 --> 27:28.156
+00:27:26,769 --> 00:27:28,156
 Did something happen?
 
 414
-27:28.519 --> 27:30.204
+00:27:28,519 --> 00:27:30,204
 This is his personal history.
 
 415
-27:31.819 --> 27:33.248
+00:27:31,819 --> 00:27:33,248
 Read it for yourself.
 
 416
-27:34.819 --> 27:39.981
+00:27:34,819 --> 00:27:39,981
 Kirei Kotomine followed his father on
 pilgrimages around the world since childhood,
 
 417
-27:40.094 --> 27:43.460
+00:27:40,094 --> 00:27:43,460
 graduated from the St.
 Ignatius School of Divinity in Manresa,
 
 418
-27:43.579 --> 27:46.586
+00:27:43,579 --> 00:27:46,586
 skipped two years, graduated valedictorian.
 
 419
-27:46.984 --> 27:48.603
+00:27:46,984 --> 00:27:48,603
 He sounds pretty impressive.
 
 420
-27:48.919 --> 27:53.972
+00:27:48,919 --> 00:27:53,972
 But then suddenly, he leaves the primrose
 path and volunteers for the Holy Church.
 
 421
-27:54.312 --> 27:58.782
+00:27:54,312 --> 00:27:58,782
 Why would someone like that decide to
 work for a secret Church organization?
 
 422
-27:59.349 --> 28:00.884
+00:27:59,349 --> 00:28:00,884
 Maybe because of his father?
 
 423
-28:01.349 --> 28:06.137
+00:28:01,349 --> 00:28:06,137
 It says here that Kotomine is a member of
 the Holy Church's Eighth Sacrament Assembly.
 
 424
-28:06.729 --> 28:09.431
+00:28:06,729 --> 00:28:09,431
 Then he would've pursued that
 path from the very beginning.
 
 425
-28:10.069 --> 28:16.007
+00:28:10,069 --> 00:28:16,007
 But until he arrived at the same place as his
 father, he changed positions three times.
 
 426
-28:16.449 --> 28:19.062
+00:28:16,449 --> 00:28:19,062
 At one time he was even an inquisitor.
 
 427
-28:20.079 --> 28:21.298
+00:28:20,079 --> 00:28:21,298
 An inquisitor?
 
 428
-28:21.905 --> 28:23.465
+00:28:21,905 --> 00:28:23,465
 A heretic hunter.
 
 429
-28:24.329 --> 28:27.604
+00:28:24,329 --> 00:28:27,604
 In essence, exactly what I was.
 
 430
-28:27.897 --> 28:29.819
+00:28:27,897 --> 00:28:29,819
 A ruthless mage killer.
 
 431
-28:30.832 --> 28:32.439
+00:28:30,832 --> 00:28:32,439
 Kiritsugu Emiya.
 
 432
-28:33.129 --> 28:38.450
+00:28:33,129 --> 00:28:38,450
 His assassinations were always carried out in
 clusters over a relatively short period of time.
 
 433
-28:39.009 --> 28:43.330
+00:28:39,009 --> 00:28:43,330
 During the same general time periods,
 he appeared in a number of war zones,
 
 434
-28:43.504 --> 28:46.005
+00:28:43,504 --> 00:28:46,005
 but only when the combat was at its fiercest.
 
 435
-28:46.292 --> 28:50.099
+00:28:46,292 --> 00:28:50,099
 It was almost as if he had some
 obsession with chasing his own death.
 
 436
-28:50.559 --> 28:54.098
+00:28:50,559 --> 00:28:54,098
 These were clearly the actions of a man bent on suicide.
 
 437
-28:56.779 --> 28:58.793
+00:28:56,779 --> 00:28:58,793
 So then why is he doing this?
 
 438
-28:59.449 --> 29:03.140
+00:28:59,449 --> 00:29:03,140
 Alchemy, necromancy, summoning, divination, healing.
 
 439
-29:03.619 --> 29:07.548
+00:29:03,619 --> 00:29:07,548
 Interesting, look at all the
 categories of magic he studied.
 
 440
-29:07.894 --> 29:09.703
+00:29:07,894 --> 00:29:09,703
 Why did he try to study so many?
 
 441
-29:09.999 --> 29:12.634
+00:29:09,999 --> 00:29:12,634
 He gets almost to the point of mastery of a discipline,
 
 442
-29:13.089 --> 29:16.572
+00:29:13,089 --> 00:29:16,572
 then switches to another field,
 and never looks back again.
 
 443
-29:17.072 --> 29:22.068
+00:29:17,072 --> 00:29:22,068
 It's... it's as if he throws away everything
 he's learned like yesterday's trash.
 
 444
-29:23.356 --> 29:28.384
+00:29:23,356 --> 00:29:28,384
 Iri, this man, Kirei Kotomine, terrifies me.
 
 445
-29:28.979 --> 29:31.645
+00:29:28,979 --> 00:29:31,645
 He has no concept of self interest.
 
 446
-29:31.739 --> 29:36.762
+00:29:31,739 --> 00:29:36,762
 His actions are completely disconnected
 from any thought of risk versus reward.
 
 447
-29:37.109 --> 29:41.207
+00:29:37,109 --> 00:29:41,207
 No way, there's no way he's just
 a freelancer in it for the money.
 
 448
-29:41.381 --> 29:45.119
+00:29:41,381 --> 00:29:45,119
 He's never shown any passion
 for anything at all in his life.
 
 449
-29:45.489 --> 29:47.716
+00:29:45,489 --> 00:29:47,716
 He believes in absolutely nothing.
 
 450
-29:48.459 --> 29:52.547
+00:29:48,459 --> 00:29:52,547
 He has no deep desire,
 no wish of any kind to be granted.
 
 451
-29:53.499 --> 29:54.774
-A man like that... 
+00:29:53,499 --> 00:29:54,774
+A man like that...
 
 452
-29:55.008 --> 29:57.718
+00:29:55,008 --> 00:29:57,718
 Then what is he after?
 
 453
-29:58.065 --> 30:01.639
+00:29:58,065 --> 00:30:01,639
 Why would he put his life at risk to get the Holy Grail?
 
 454
-30:02.009 --> 30:07.164
+00:30:02,009 --> 00:30:07,164
 But the Grail chose him to be one
 of its seven masters for this war.
 
 455
-30:07.349 --> 30:12.594
+00:30:07,349 --> 00:30:12,594
 You're right, he must have some reason
 we don't know about to want the Grail.
 
 456
-30:13.109 --> 30:19.403
+00:30:13,109 --> 00:30:19,403
 But I can't even begin to imagine what it
 is, and that terrifies me.
 
 457
-30:21.840 --> 30:23.479
+00:30:21,840 --> 00:30:23,479
 Kirei Kotomine.
 
 458
-30:23.943 --> 30:25.883
+00:30:23,943 --> 00:30:25,883
 Kiritsugu Emiya.
 
 459
-30:26.354 --> 30:32.826
+00:30:26,354 --> 00:30:32,826
 His endless string of battles came to a sudden halt
 nine years ago, and he virtually vanished from sight.
 
 460
-30:33.289 --> 30:36.362
+00:30:33,289 --> 00:30:36,362
 It appears that his final encounter
 with the mages of the North,
 
 461
-30:36.387 --> 30:39.374
+00:30:36,387 --> 00:30:39,374
 the Einzberns, is where he at last found his answer.
 
 462
-30:40.009 --> 30:42.785
+00:30:40,009 --> 00:30:42,785
 So, I must ask the question,
 
 463
-30:43.299 --> 30:45.262
+00:30:43,299 --> 00:30:45,262
 what did he seek in those battles?
 
 464
-30:45.509 --> 30:47.259
+00:30:45,509 --> 00:30:47,259
 What was he looking for?
 
 465
-30:47.641 --> 30:50.091
+00:30:47,641 --> 00:30:50,091
 And what exactly did he find?
 
 466
-31:01.055 --> 31:04.225
+00:31:01,055 --> 00:31:04,225
 Well, you just barely made it.
 
 467
-31:04.481 --> 31:11.039
+00:31:04,481 --> 00:31:11,039
 If the Grail has chosen you, that must mean that
 you've made at least some progress as a mage.
 
 468
-31:11.568 --> 31:13.772
+00:31:11,568 --> 00:31:13,772
 I'll give you that much, Kariya.
 
 469
-31:15.587 --> 31:16.930
+00:31:15,587 --> 00:31:16,930
 But look at you.
 
 470
-31:17.170 --> 31:19.550
+00:31:17,170 --> 00:31:19,550
 You look like bloody hell.
 
 471
-31:20.383 --> 31:23.989
+00:31:20,383 --> 00:31:23,989
 Is your left leg working all right, eh?
 
 472
-31:32.552 --> 31:39.009
+00:31:32,552 --> 00:31:39,009
 Now don't get angry, you know if you get the crest worms
 inside you worked up too much they'll simply devour you.
 
 473
-31:40.214 --> 31:46.115
+00:31:40,214 --> 00:31:46,115
 Either way, I'd give you perhaps a month at best before
 they do their damage and drain the life out of you.
 
 474
-31:47.337 --> 31:48.564
+00:31:47,337 --> 00:31:48,564
 That's plenty.
 
 475
-31:48.870 --> 31:49.945
+00:31:48,870 --> 00:31:49,945
 What did you say?
 
 476
-31:50.114 --> 31:52.858
+00:31:50,114 --> 00:31:52,858
 I said that that will be plenty of time.
 
 477
-31:53.865 --> 31:58.167
+00:31:53,865 --> 00:31:58,167
 Kariya, this is your present
 for surviving an entire year.
 
 478
-31:58.460 --> 32:00.408
+00:31:58,460 --> 00:32:00,408
 I found the perfect relic for you.
 
 479
-32:01.356 --> 32:05.185
+00:32:01,356 --> 00:32:05,185
 Don't let your loving father's kindness go to waste.
 
 480
-32:16.425 --> 32:19.325
+00:32:16,425 --> 00:32:19,325
 I did it, I've got a Command Seal too!
 
 481
-32:19.631 --> 32:21.845
+00:32:19,631 --> 00:32:21,845
 The Grail chose me as a master!
 
 482
-32:22.193 --> 32:25.711
+00:32:22,193 --> 00:32:25,711
 My incredible talent has been recognized by the Grail!
 
 483
-32:28.262 --> 32:29.595
+00:32:28,262 --> 00:32:29,595
 I can't just sit here.
 
 484
-32:30.154 --> 32:32.474
+00:32:30,154 --> 00:32:32,474
 I have to prepare to summon my servant.
 
 485
-32:36.275 --> 32:39.088
-Mikina Nishimoto, the missing sixth grade girl from... 
+00:32:36,275 --> 00:32:39,088
+Mikina Nishimoto, the missing sixth grade girl from...
 
 486
-32:39.195 --> 32:40.462
+00:32:39,195 --> 00:32:40,462
 Good morning, Waver.
 
 487
-32:40.487 --> 32:44.193
+00:32:40,487 --> 00:32:44,193
 Good morning, dear. How did you sleep?
 
 488
-32:44.325 --> 32:47.948
+00:32:44,325 --> 00:32:47,948
 Morning, Grandpa and Grandma.
 
 489
-32:48.886 --> 32:50.681
+00:32:48,886 --> 00:32:50,681
 Fuyuki's getting bad these days.
 
 490
-32:50.755 --> 32:52.795
+00:32:50,755 --> 00:32:52,795
 Yes, it really is.
 
 491
-32:52.988 --> 32:55.045
+00:32:52,988 --> 00:32:55,045
 By the way, Martha, it's very strange.
 
 492
-32:55.254 --> 32:59.177
+00:32:55,254 --> 00:32:59,177
 I've heard roosters making a big racket
 since the sun came up this morning.
 
 493
-32:59.677 --> 33:01.150
+00:32:59,677 --> 00:33:01,150
 What's that all about?
 
 494
-33:01.432 --> 33:04.685
+00:33:01,432 --> 00:33:04,685
 It's because there are three roosters in our yard.
 
 495
-33:04.983 --> 33:06.293
+00:33:04,983 --> 00:33:06,293
 What're they doing there?
 
 496
-33:06.389 --> 33:07.629
+00:33:06,389 --> 00:33:07,629
 I don't know.
 
 497
-33:07.749 --> 33:10.368
+00:33:07,749 --> 00:33:10,368
 I've been wondering where they might've come from.
 
 498
-33:10.855 --> 33:13.321
+00:33:10,855 --> 00:33:13,321
 Oh, sweetie, you want some coffee?
 
 499
-33:13.895 --> 33:14.935
+00:33:13,895 --> 00:33:14,935
 Mhm.
 
 500
-33:15.062 --> 33:16.025
+00:33:15,062 --> 00:33:16,025
 Waver.
 
 501
-33:16.202 --> 33:18.061
+00:33:16,202 --> 00:33:18,061
 What happened to your hand?
 
 502
-33:18.742 --> 33:19.610
+00:33:18,742 --> 00:33:19,610
 Crap.
 
 503
-33:19.837 --> 33:20.979
+00:33:19,837 --> 00:33:20,979
 That mark.
 
 504
-33:21.115 --> 33:21.972
+00:33:21,115 --> 00:33:21,972
 What mark?
 
 505
-33:22.079 --> 33:25.098
+00:33:22,079 --> 00:33:25,098
 You didn't have that mark on your hand yesterday.
 
 506
-33:25.418 --> 33:27.157
+00:33:25,418 --> 00:33:27,157
 Ah, bugger!
 
 507
-33:27.584 --> 33:30.031
+00:33:27,584 --> 00:33:30,031
 I really wish you hadn't noticed that.
 
 508
-33:30.431 --> 33:31.964
+00:33:30,431 --> 00:33:31,964
 What's wrong, Waver?
 
 509
-33:32.090 --> 33:33.465
+00:33:32,090 --> 00:33:33,465
 What is it, dear?
 
 510
-33:33.611 --> 33:36.670
+00:33:33,611 --> 00:33:36,670
 Nothing's wrong, here, have some coffee.
 
 511
-33:37.034 --> 33:38.907
+00:33:37,034 --> 00:33:38,907
 I put lots of milk in it.
 
 512
-33:39.385 --> 33:42.813
+00:33:39,385 --> 00:33:42,813
 You two like coffee, right?
 
 513
-33:43.725 --> 33:47.975
+00:33:43,725 --> 00:33:47,975
 They were all stabbed using a
 similar, if not identical, weapon.
 
 514
-33:50.315 --> 33:51.870
+00:33:50,315 --> 00:33:51,870
 What a pain in the ass.
 
 515
-33:51.963 --> 33:58.086
+00:33:51,963 --> 00:33:58,086
 Do I have to start their hypnosis all over again,
 starting from me being their grandson back from abroad?
 
 516
-34:02.075 --> 34:05.882
+00:34:02,075 --> 00:34:05,882
 I need to think of a cover story
 for those roosters I stole too.
 
 517
-34:07.194 --> 34:10.882
+00:34:07,194 --> 00:34:10,882
 I can't believe they really found
 the legendary Excalibur's scabbard.
 
 518
-34:11.574 --> 34:13.322
+00:34:11,574 --> 00:34:13,322
 There's not a scratch on it.
 
 519
-34:14.124 --> 34:16.547
+00:34:14,124 --> 00:34:16,547
 Is this thing really 1,500 years old?
 
 520
-34:17.164 --> 34:20.137
+00:34:17,164 --> 00:34:20,137
 The object itself is a type of conceptual weapon.
 
 521
-34:20.417 --> 34:24.116
+00:34:20,417 --> 00:34:24,116
 It doesn't rust or degrade as
 ordinary physical objects do.
 
 522
-34:24.384 --> 34:31.037
+00:34:24,384 --> 00:34:31,037
 Just like in the legend surrounding its existence,
 it heals its owner's wounds and halts the aging process.
 
 523
-34:31.687 --> 34:35.538
+00:34:31,687 --> 00:34:35,538
 Of course, that's only when supplied
 with its original owner's mana.
 
 524
-34:36.064 --> 34:40.267
+00:34:36,064 --> 00:34:40,267
 In other words, the master can use this
 in tandem with the summoned heroic spirit
 
 525
-34:40.734 --> 34:43.046
+00:34:40,734 --> 00:34:43,046
 to protect himself during the course of a battle.
 
 526
-34:43.226 --> 34:44.701
+00:34:43,226 --> 00:34:44,701
 That's just like you.
 
 527
-34:45.234 --> 34:47.969
+00:34:45,234 --> 00:34:47,969
 What you're saying is that a tool is just a tool?
 
 528
-34:48.129 --> 34:51.173
+00:34:48,129 --> 00:34:51,173
 That's right, I am, and that goes for the servant too.
 
 529
-34:51.679 --> 34:55.578
+00:34:51,679 --> 00:34:55,578
 No matter how famous the heroic spirit,
 when summoned as a servant they're nothing
 
 530
-34:55.986 --> 34:57.760
+00:34:55,986 --> 00:34:57,760
 but a tool for their master.
 
 531
-34:58.692 --> 35:01.327
+00:34:58,692 --> 00:35:01,327
 Anyone who lets their fantasies get the better of them
 
 532
-35:01.554 --> 35:04.222
+00:35:01,554 --> 00:35:04,222
 will never have the wherewithal to win this battle.
 
 533
-35:04.583 --> 35:07.818
+00:35:04,583 --> 00:35:07,818
 And because you're the way you
 are, my great‐grandfather decided
 
 534
-35:08.053 --> 35:10.542
+00:35:08,053 --> 00:35:10,542
 this scabbard was the perfect relic for you.
 
 535
-35:11.003 --> 35:12.272
+00:35:11,003 --> 00:35:12,272
 What do you think?
 
 536
-35:13.594 --> 35:15.849
+00:35:13,594 --> 00:35:15,849
 Does his gift not satisfy you?
 
 537
-35:16.314 --> 35:17.604
+00:35:16,314 --> 00:35:17,604
 Of course it does.
 
 538
-35:18.104 --> 35:19.573
+00:35:18,104 --> 00:35:19,573
 Acht did a wonderful job.
 
 539
-35:20.024 --> 35:22.908
+00:35:20,024 --> 00:35:22,908
 None of the other masters have something this powerful.
 
 540
-35:23.604 --> 35:25.018
+00:35:23,604 --> 00:35:25,018
 What's wrong with it then?
 
 541
-35:25.564 --> 35:28.802
+00:35:25,564 --> 00:35:28,802
 Given how perfectly the ancient
 relic is connected to it,
 
 542
-35:29.212 --> 35:31.914
+00:35:29,212 --> 00:35:31,914
 the heroic spirit, the one we're after,
 
 543
-35:32.154 --> 35:34.264
+00:35:32,154 --> 00:35:34,264
 will surely respond to the summons,
 
 544
-35:34.954 --> 35:38.290
+00:35:34,954 --> 00:35:38,290
 the King of Knights, Arthur Pendragon.
 
 545
-35:39.204 --> 35:42.437
+00:35:39,204 --> 00:35:42,437
 My own compatibility with him is a secondary concern.
 
 546
-35:43.465 --> 35:45.938
+00:35:43,465 --> 00:35:45,938
 But Arthur, the wielder of Excalibur,
 
 547
-35:45.963 --> 35:49.711
+00:35:45,963 --> 00:35:49,711
 is sure to be the strongest Saber class
 servant the Grail Wars have ever seen.
 
 548
-35:50.344 --> 35:51.445
+00:35:50,344 --> 00:35:51,445
 That's true.
 
 549
-35:51.804 --> 35:54.882
+00:35:51,804 --> 00:35:54,882
 I'll have a servant far stronger
 than any other in the battle.
 
 550
-35:55.594 --> 35:59.017
+00:35:55,594 --> 00:35:59,017
 The question is, how best to use that power?
 
 551
-35:59.224 --> 36:00.920
+00:35:59,224 --> 00:36:00,920
 How to make it work for us?
 
 552
-36:01.509 --> 36:04.371
+00:36:01,509 --> 00:36:04,371
 To be honest, in terms of ease of use,
 
 553
-36:04.654 --> 36:09.002
+00:36:04,654 --> 00:36:09,002
 Caster or Assassin would be far better
 suited to the way I usually fight.
 
 554
-36:09.639 --> 36:13.268
+00:36:09,639 --> 00:36:13,268
 What good will it do to worry about
 that before you've even summoned him?
 
 555
-36:13.574 --> 36:16.780
+00:36:13,574 --> 00:36:16,780
 After all, we don't know what
 the King of Knights was like,
 
 556
-36:17.584 --> 36:20.770
+00:36:17,584 --> 00:36:20,770
 and besides, no matter what your strategy is,
 
 557
-36:21.124 --> 36:24.374
+00:36:21,124 --> 00:36:24,374
 once he learns of your ideals, of your dream,
 
 558
-36:24.794 --> 36:27.697
+00:36:24,794 --> 00:36:27,697
 he'll understand, I know he will.
 
 559
-36:30.067 --> 36:31.227
+00:36:30,067 --> 00:36:31,227
 Just like I did.
 
 560
-36:36.657 --> 36:37.644
+00:36:36,657 --> 00:36:37,644
 What is it?
 
 561
-36:38.169 --> 36:41.970
+00:36:38,169 --> 00:36:41,970
 I've found my strategy, the way to get the best use.
 
 562
-36:43.590 --> 36:46.419
+00:36:43,590 --> 00:36:46,419
 From the strongest servant fighting in the battle.
 
 563
-36:54.481 --> 36:56.108
+00:36:54,481 --> 00:36:56,108
 Hello, Rin.
 
 564
-36:58.263 --> 36:59.950
+00:36:58,263 --> 00:36:59,950
 Oh hello, Kirei.
 
 565
-37:00.303 --> 37:01.283
+00:37:00,303 --> 00:37:01,283
 Heading out?
 
 566
-37:01.461 --> 37:03.503
+00:37:01,461 --> 00:37:03,503
 That's some heavy luggage you have there.
 
 567
-37:03.944 --> 37:08.104
+00:37:03,944 --> 00:37:08,104
 That's right, I have to go live
 with the Zenjou family for a while.
 
 568
-37:10.033 --> 37:14.604
+00:37:10,033 --> 00:37:14,604
 You're staying to fight alongside my
 father in a coming war, aren't you?
 
 569
-37:14.823 --> 37:18.592
+00:37:14,823 --> 00:37:18,592
 That's why I'm here as his student,
 to help him and to learn from him.
 
 570
-37:20.293 --> 37:23.462
+00:37:20,293 --> 00:37:23,462
 Kirei, can I depend on you?
 
 571
-37:23.623 --> 37:24.215
+00:37:23,623 --> 00:37:24,215
 Huh?
 
 572
-37:24.852 --> 37:27.509
+00:37:24,852 --> 00:37:27,509
 Will you promise to protect my father to the end?
 
 573
-37:27.698 --> 37:29.577
+00:37:27,698 --> 00:37:29,577
 Will you promise to keep him safe?
 
 574
-37:29.691 --> 37:31.777
+00:37:29,691 --> 00:37:31,777
 I'm sorry, but that's impossible.
 
 575
-37:32.093 --> 37:36.233
+00:37:32,093 --> 00:37:36,233
 If this battle were going to be simple enough
 that I could honestly make that promise,
 
 576
-37:36.433 --> 37:40.561
+00:37:36,433 --> 00:37:40,561
 we wouldn't have to send you or your mother
 away from here to keep you safe and sound.
 
 577
-37:43.483 --> 37:47.153
+00:37:43,483 --> 00:37:47,153
 I guess that means I just can't like you no matter what.
 
 578
-37:47.305 --> 37:51.015
+00:37:47,305 --> 00:37:51,015
 Rin, you shouldn't just blurt out
 what you're really thinking like that.
 
 579
-37:51.193 --> 37:54.150
+00:37:51,193 --> 00:37:54,150
 People might start to cast aspersions on your father.
 
 580
-37:54.363 --> 37:56.741
+00:37:54,363 --> 00:37:56,741
 He is the man who's educating you after all.
 
 581
-37:56.823 --> 37:58.929
+00:37:56,823 --> 00:37:58,929
 My father has nothing to do with it!
 
 582
-37:59.033 --> 38:04.356
+00:37:59,033 --> 00:38:04,356
 Listen, Kirei, if you somehow get sloppy and
 because of that my father gets hurt or worse,
 
 583
-38:04.413 --> 38:06.658
+00:38:04,413 --> 00:38:06,658
 I'll show you no mercy, got it?
 
 584
-38:06.873 --> 38:10.700
+00:38:06,873 --> 00:38:10,700
 Rin, what're you doing out there?
 How come you're yelling at him?
 
 585
-38:11.422 --> 38:15.057
-Um, I... Well, you see... 
+00:38:11,422 --> 00:38:15,057
+Um, I... Well, you see...
 
 586
-38:15.130 --> 38:19.932
+00:38:15,130 --> 00:38:19,932
 Oh, she was just giving me a bit of
 encouragement before we said goodbye, ma'am.
 
 587
-38:20.284 --> 38:21.917
+00:38:20,284 --> 00:38:21,917
 Rin, allow me.
 
 588
-38:22.063 --> 38:25.095
+00:38:22,063 --> 00:38:25,095
 That big suitcase is far too
 heavy for you to carry alone.
 
 589
-38:25.308 --> 38:28.132
+00:38:25,308 --> 00:38:28,132
 No thank you, I'll carry it myself.
 
 590
-38:28.380 --> 38:32.008
+00:38:28,380 --> 00:38:32,008
 Kirei, do your best to take care of my husband.
 
 591
-38:32.403 --> 38:34.996
+00:38:32,403 --> 00:38:34,996
 Please help him to achieve his desire.
 
 592
-38:35.403 --> 38:36.965
+00:38:35,403 --> 00:38:36,965
 I will do my best.
 
 593
-38:37.225 --> 38:38.431
+00:38:37,225 --> 00:38:38,431
 Please, don't worry.
 
 594
-38:41.934 --> 38:43.474
+00:38:41,934 --> 00:38:43,474
 Excuse me.
 
 595
-38:44.346 --> 38:50.225
+00:38:44,346 --> 00:38:50,225
 You've arrived at a very opportune time. The relic I
 made arrangements for finally arrived this morning.
 
 596
-38:50.403 --> 38:51.692
+00:38:50,403 --> 00:38:51,692
 Have a look.
 
 597
-38:53.077 --> 38:54.473
+00:38:53,077 --> 00:38:54,473
 What is it?
 
 598
-38:55.337 --> 39:00.558
+00:38:55,337 --> 00:39:00,558
 A fossil of the very first skin
 shed by a snake on this world.
 
 599
-39:01.444 --> 39:06.805
+00:39:01,444 --> 00:39:06,805
 If we use it as a catalyst and are lucky enough
 to summon the heroic spirit that we're after,
 
 600
-39:06.972 --> 39:09.758
+00:39:06,972 --> 00:39:09,758
 total victory is as good as ours.
 
 601
-39:15.567 --> 39:17.726
+00:39:15,567 --> 00:39:17,726
 Hey, Sakura.
 
 602
-39:17.937 --> 39:19.786
+00:39:17,937 --> 00:39:19,786
 Did I startle you?
 
 603
-39:20.122 --> 39:22.651
-Yeah, your face is... 
+00:39:20,122 --> 00:39:22,651
+Yeah, your face is...
 
 604
-39:22.738 --> 39:23.651
+00:39:22,738 --> 00:39:23,651
 I know.
 
 605
-39:24.122 --> 39:27.596
+00:39:24,122 --> 00:39:27,596
 Seems I lost a little bit of it
 to the worms that are inside me.
 
 606
-39:28.609 --> 39:32.350
+00:39:28,609 --> 00:39:32,350
 I guess I'm just not quite as tough as you are.
 
 607
-39:33.884 --> 39:38.451
+00:39:33,884 --> 00:39:38,451
 Uncle Kariya, you're turning into
 a different person, aren't you?
 
 608
-39:40.167 --> 39:42.068
+00:39:40,167 --> 00:39:42,068
 Yeah, maybe.
 
 609
-39:42.785 --> 39:46.655
+00:39:42,785 --> 00:39:46,655
 You know, I don't have to go
 to the worm pit again tonight.
 
 610
-39:47.224 --> 39:51.248
+00:39:47,224 --> 00:39:51,248
 Grandfather said there will be a more
 important ceremony that I have to attend.
 
 611
-39:51.287 --> 39:52.634
+00:39:51,287 --> 00:39:52,634
 Yeah, I know.
 
 612
-39:53.171 --> 39:56.172
+00:39:53,171 --> 00:39:56,172
 That's why I'm going to the
 basement tonight instead of you.
 
 613
-39:56.646 --> 40:00.158
+00:39:56,646 --> 00:40:00,158
 Uncle Kariya, are you going somewhere far away?
 
 614
-40:00.291 --> 40:04.361
+00:40:00,291 --> 00:40:04,361
 Well, I have an important job
 that I need to do for a while.
 
 615
-40:04.803 --> 40:10.235
+00:40:04,803 --> 00:40:10,235
 I might not have much time to talk to you
 then, at least until I get back.
 
 616
-40:11.532 --> 40:12.765
+00:40:11,532 --> 00:40:12,765
 I see.
 
 617
-40:13.405 --> 40:14.771
+00:40:13,405 --> 00:40:14,771
 Hey, Sakura.
 
 618
-40:15.262 --> 40:19.437
+00:40:15,262 --> 00:40:19,437
 When my job is finally over,
 you wanna go somewhere and just have fun?
 
 619
-40:19.730 --> 40:21.613
+00:40:19,730 --> 00:40:21,613
 With your mom and your sister too.
 
 620
-40:22.930 --> 40:27.263
+00:40:22,930 --> 00:40:27,263
 I don't have anyone I can call Mom or Sister.
 
 621
-40:27.994 --> 40:30.435
+00:40:27,994 --> 00:40:30,435
 Grandfather said that I should just think of them
 
 622
-40:30.742 --> 40:32.706
+00:40:30,742 --> 00:40:32,706
 like they never existed.
 
 623
-40:34.963 --> 40:36.063
+00:40:34,963 --> 00:40:36,063
 I see.
 
 624
-40:46.130 --> 40:47.024
+00:40:46,130 --> 00:40:47,024
 Uncle?
 
 625
-40:47.370 --> 40:48.497
+00:40:47,370 --> 00:40:48,497
 All right then.
 
 626
-40:48.763 --> 40:52.947
+00:40:48,763 --> 00:40:52,947
 When this is all over let's take
 Aoi and Rin from the Tohsakas
 
 627
-40:53.349 --> 40:56.152
+00:40:53,349 --> 00:40:56,152
 and go somewhere as far away
 from this place as we can get.
 
 628
-40:56.712 --> 41:00.535
+00:40:56,712 --> 00:41:00,535
 We can hang out and have fun like we used to.
 
 629
-41:01.135 --> 41:04.132
+00:41:01,135 --> 00:41:04,132
 Does that mean we'll see them again?
 
 630
-41:04.430 --> 41:06.410
+00:41:04,430 --> 00:41:06,410
 Yeah, you will.
 
 631
-41:07.371 --> 41:08.987
+00:41:07,371 --> 00:41:08,987
 You have my word on that.
 
 632
-41:14.017 --> 41:15.105
+00:41:14,017 --> 00:41:15,105
 All right.
 
 633
-41:16.013 --> 41:17.875
+00:41:16,013 --> 00:41:17,875
 I have to get going now.
 
 634
-41:18.400 --> 41:19.239
+00:41:18,400 --> 00:41:19,239
 Mhm.
 
 635
-41:20.548 --> 41:22.527
+00:41:20,548 --> 00:41:22,527
 Bye‐bye, Uncle Kariya.
 
 636
-41:27.157 --> 41:28.478
+00:41:27,157 --> 00:41:28,478
 Bye‐bye.
 
 637
-41:30.106 --> 41:33.628
+00:41:30,106 --> 00:41:33,628
 I assume you've memorized the summoning spell correctly?
 
 638
-41:33.963 --> 41:34.943
+00:41:33,963 --> 00:41:34,943
 Sure.
 
 639
-41:35.130 --> 41:36.176
+00:41:35,130 --> 00:41:36,176
 Very well.
 
 640
-41:36.503 --> 41:40.801
+00:41:36,503 --> 00:41:40,801
 But I'm going to have to add two
 extra lines to the basic incantation.
 
 641
-41:41.221 --> 41:42.612
+00:41:41,221 --> 00:41:42,612
 What do you mean?
 
 642
-41:42.832 --> 41:44.778
+00:41:42,832 --> 00:41:44,778
 It's really quite simple, Kariya.
 
 643
-41:45.112 --> 41:47.239
+00:41:45,112 --> 00:41:47,239
 Because of your short time in training,
 
 644
-41:47.264 --> 41:52.434
+00:41:47,264 --> 00:41:52,434
 your rank as a mage is somewhat lower than that
 of the other masters that the Grail has summoned.
 
 645
-41:53.176 --> 41:55.808
+00:41:53,176 --> 00:41:55,808
 That will affect the servant's base abilities.
 
 646
-41:56.082 --> 41:59.209
+00:41:56,082 --> 00:41:59,209
 This means we have to boost the servant's parameters
 
 647
-41:59.234 --> 42:03.017
+00:41:59,234 --> 00:42:03,017
 by attempting to modify the
 servant's class as much as possible.
 
 648
-42:04.428 --> 42:11.155
+00:42:04,428 --> 00:42:11,155
 Kariya, to that end, I want you to add the
 affinity insanity to the servant you summon today.
 
 649
-42:13.237 --> 42:15.776
+00:42:13,237 --> 00:42:15,776
 Fill, fill, fill, fill, fill.
 
 650
-42:16.709 --> 42:21.235
+00:42:16,709 --> 00:42:21,235
 Repeat five times, but when each is filled, destroy it.
 
 651
-42:22.589 --> 42:27.574
+00:42:22,589 --> 00:42:27,574
 For the elements silver and iron,
 the foundation stone and the Archduke of Pacts,
 
 652
-42:27.687 --> 42:30.637
+00:42:27,687 --> 00:42:30,637
 and for my great master, Schenewerk,
 
 653
-42:30.993 --> 42:34.252
+00:42:30,993 --> 00:42:34,252
 raise a wall against the wind and
 close the gates of four directions.
 
 654
-42:34.305 --> 42:39.033
+00:42:34,305 --> 00:42:39,033
 Come forth from the crown and follow
 the forked road leading to the kingdom.
 
 655
-42:40.177 --> 42:44.800
+00:42:40,177 --> 00:42:44,800
 Is a simple ritual like this really
 enough to summon a heroic spirit?
 
 656
-42:45.020 --> 42:46.800
+00:42:45,020 --> 00:42:46,800
 Surprisingly, yes.
 
 657
-42:48.101 --> 42:52.796
+00:42:48,101 --> 00:42:52,796
 You see, the summoning ritual doesn't
 require a big elaborate evocation.
 
 658
-42:53.243 --> 42:56.659
+00:42:53,243 --> 00:42:56,659
 The actual summoning is preformed by the Grail itself.
 
 659
-42:57.067 --> 42:58.847
+00:42:57,067 --> 00:42:58,847
 My job as a master is to firmly anchor
 
 660
-42:59.173 --> 43:02.140
+00:42:59,173 --> 00:43:02,140
 the heroic spirit in this world and to supply it
 
 661
-43:02.366 --> 43:05.519
+00:43:02,366 --> 00:43:05,519
 with enough mana to take physical form.
 
 662
-43:06.457 --> 43:07.869
+00:43:06,457 --> 00:43:07,869
 That should do it.
 
 663
-43:08.982 --> 43:11.722
+00:43:08,982 --> 00:43:11,722
 Iri, put the relic on the altar.
 
 664
-43:12.337 --> 43:14.381
+00:43:12,337 --> 00:43:14,381
 That is the final step.
 
 665
-43:15.257 --> 43:20.977
+00:43:15,257 --> 00:43:20,977
 Heed my words, my will creates your
 body, and your sword creates my destiny.
 
 666
-43:21.370 --> 43:27.148
+00:43:21,370 --> 00:43:27,148
 If you heed the Grail's call and obey my
 will and reason, then answer my summoning!
 
 667
-43:27.727 --> 43:32.049
+00:43:27,727 --> 00:43:32,049
 I hereby swear that I shall
 be all the good in the world,
 
 668
-43:32.737 --> 43:36.314
+00:43:32,737 --> 00:43:36,314
 that I shall defeat all evil in the world.
 
 669
-43:36.761 --> 43:40.907
+00:43:36,761 --> 00:43:40,907
 Then let thine eyes be clouded
 with the fog of turmoil and chaos.
 
 670
-43:41.237 --> 43:47.069
+00:43:41,237 --> 00:43:47,069
 Thou who art trapped in a cage of madness,
 and I the summoner who holds thy chains!
 
 671
-43:47.094 --> 43:50.376
+00:43:47,094 --> 00:43:50,376
 Seventh heaven clad in the great words of power,
 
 672
-43:50.799 --> 43:52.916
+00:43:50,799 --> 00:43:52,916
 come forth from this circle of binding,
 
 673
-43:52.982 --> 43:54.866
+00:43:52,982 --> 00:43:54,866
 Guardian of Scales!
 
 674
-44:26.478 --> 44:28.032
+00:44:26,478 --> 00:44:28,032
 Behold him, Kirei.
 
 675
-44:28.377 --> 44:30.038
+00:44:28,377 --> 00:44:30,038
 We have won the battle.
 
 676
-44:31.446 --> 44:33.053
+00:44:31,446 --> 00:44:33,053
 Victory is ours!
 
 677
-44:40.427 --> 44:41.761
+00:44:40,427 --> 00:44:41,761
 Impossible.
 
 678
-44:42.927 --> 44:44.163
+00:44:42,927 --> 00:44:44,163
 I ask you...
 
 679
-44:50.345 --> 44:53.492
+00:44:50,345 --> 00:44:53,492
 Are you worthy to be my master?
+
