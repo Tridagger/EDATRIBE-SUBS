@@ -45,11 +45,10 @@
 
 ###### 名词解释
 
-- WebVTT格式
-  - Web视频文本跟踪格式 (WebVTT) 是一种使用\<track>元素显示定时文本轨道（如字幕或标题）的格式。 WebVTT文件的主要用途是将文本叠加添加到\<video>。WebVTT是一种基于文本的格式，必须使用UTF-8进行编码。 在可以使用空格的地方，您也可以使用制表符。 还有一个小的API可用于表示和管理这些轨道以及在正确的时间执行文本回放所需的数据。
-  - **英配部落** 网站的在线字幕就是使用WebVTT文件，可以实现网站上的字幕的打开和关闭。
-  - 主流的播放器 **Potplayer** 和 **VLC** 均支持WebVTT字幕。
-  - WebVTT文件可以转成其他格式，推荐使用[Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit)进行转换。
+- SRT格式
+  - SRT（SubRip Text）是最简单的文本字幕格式，扩展名为 .srt ，其组成为：一行字幕序号，一行时间代码，一行字幕数据。
+  - 主流的播放器 **Potplayer** 和 **VLC** 均支持 srt 字幕。
+  - srt文件可以转成其他格式，推荐使用[Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit)进行转换。
 
 - 署名
 
