@@ -8,8 +8,8 @@
 | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---- | ---- |
 | [Teasing Master Takagi san](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Teasing_Master_Takagi-san) | 擅长捉弄的高木同学                       | 12集 | 完成 |
 | [Puella Magi Madoka Magica](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Puella_Magi_Madoka_Magica) | 魔法少女小圆                             | 12集 | 完成 |
-| [Fate/Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Fate_Zero)                                                                                                     | 命运之夜前传                             | 25集 | 完成 |
-| No-Rin                                                                                                        | 农林                                     | 12集 |进行 |
+| [Fate/Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Fate_Zero)                                 | 命运之夜前传                             | 25集 | 完成 |
+| [No-Rin](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/No-Rin)                                       | 农林                                     | 12集 | 进行 |
 | No Game No Life                                                                                               | 游戏人生                                 | 12集 | 计划 |
 | Death Note                                                                                                    | 死亡笔记                                 | 37集 | 计划 |
 | Assassination Classroom                                                                                       | 暗杀教室                                 | 47集 | 计划 |
@@ -21,7 +21,8 @@
 | The Devil Is a Part-Timer!                                                                                    | 打工吧！魔王大人                         | 13集 | 计划 |
 | Nichijou: My Ordinary Life                                                                                    | 日常                                     | 26集 | 计划 |
 | A Certain Scientific Railgun                                                                                  | 某科学超电磁炮                           | 24集 | 计划 |
-| A Certain Scientific Railgun S                                                                                                              |           某科学超电磁炮S                               |  24集    |  计划    |
+| A Certain Scientific Railgun S                                                                                | 某科学超电磁炮S                          | 24集 | 计划 |
+| Parasyte: The Maxim                                                                                                              | 寄生兽：生命的准则                                         |  24集    |   计划   |
 
 ### **剧场版**
 | 英文名                                                                         | 中文名       | 上映年份 | 状态 |
