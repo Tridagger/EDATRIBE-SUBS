@@ -22,14 +22,14 @@
 | Nichijou: My Ordinary Life                                                                                    | 日常                                     | 26集 | 计划 |
 | A Certain Scientific Railgun                                                                                  | 某科学超电磁炮                           | 24集 | 计划 |
 | A Certain Scientific Railgun S                                                                                | 某科学超电磁炮S                          | 24集 | 计划 |
-| Parasyte: The Maxim                                                                                                              | 寄生兽：生命的准则                                         |  24集    |   计划   |
+| Parasyte: The Maxim                                                                                           | 寄生兽：生命的准则                       | 24集 | 计划 |
 
 ### **剧场版**
 | 英文名                                                                         | 中文名       | 上映年份 | 状态 |
 | ------------------------------------------------------------------------------ | ------------ | -------- | ---- |
 | [Your Name.](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Your_Name) | 你的名字     | 2016     | 完成 |
 | No Game No Life: Zero      | 游戏人生Zero | 2017     | 计划 |
-| Sword Art Online: Ordinal Scale                                                                               |  刀剑神域：序列之争       |   2017    |   计划   |
+| Sword Art Online: Ordinal Scale  | 刀剑神域：序列之争 | 2017 | 计划 |
 
 
 ### 转载及再利用说明
