@@ -4,32 +4,32 @@
 
 ### **TV 动画**
 
-| 英文名                                                                                                        | 中文名                                   | 集数 | 状态 |
-| ------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---- | ---- |
-| [Teasing Master Takagi san](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Teasing_Master_Takagi-san) | 擅长捉弄的高木同学                       | 12集 | 完成 |
-| [Puella Magi Madoka Magica](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Puella_Magi_Madoka_Magica) | 魔法少女小圆                             | 12集 | 完成 |
-| [Fate/Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Fate_Zero)                                 | 命运之夜前传                             | 25集 | 完成 |
-| [No-Rin](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/No-Rin)                                       | 农林                                     | 12集 | 完成 |
-| No Game No Life                                                                                               | 游戏人生                                 | 12集 | 计划 |
-| Death Note                                                                                                    | 死亡笔记                                 | 37集 | 计划 |
-| Assassination Classroom                                                                                       | 暗杀教室                                 | 47集 | 计划 |
-| WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?                         | 末日时在做什么？有没有空？可以来拯救吗？ | 12集 | 计划 |
-| Sword Art Online                                                                                              | 刀剑神域                                 | 25集 | 计划 |
-| Sword Art Online II                                                                                           | 刀剑神域第2季                            | 24集 | 计划 |
-| Sword Art Online: Alicization                                                                                 | 刀剑神域：爱丽丝篇                       | 24集 | 计划 |
-| Hyouka                                                                                                        | 冰菓                                     | 22集 | 计划 |
-| The Devil Is a Part-Timer!                                                                                    | 打工吧！魔王大人                         | 13集 | 计划 |
-| Nichijou: My Ordinary Life                                                                                    | 日常                                     | 26集 | 计划 |
-| A Certain Scientific Railgun                                                                                  | 某科学超电磁炮                           | 24集 | 计划 |
-| A Certain Scientific Railgun S                                                                                | 某科学超电磁炮S                          | 24集 | 计划 |
-| Parasyte: The Maxim                                                                                           | 寄生兽：生命的准则                       | 24集 | 计划 |
+| 序号 | 英文名                                                                                                        | 中文名                                   | 集数 | 状态 |
+| ---- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---- | ---- |
+| A001 | [Teasing Master Takagi san](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Teasing_Master_Takagi-san) | 擅长捉弄的高木同学                       | 12集 | 完成 |
+| A002 | [Puella Magi Madoka Magica](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Puella_Magi_Madoka_Magica) | 魔法少女小圆                             | 12集 | 完成 |
+| A003 | [Fate/Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Fate_Zero)                                 | 命运之夜前传                             | 25集 | 完成 |
+| A004 | [No-Rin](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/No-Rin)                                       | 农林                                     | 12集 | 完成 |
+| A005 | No Game No Life                                                                                               | 游戏人生                                 | 12集 | 计划 |
+| A006 | Death Note                                                                                                    | 死亡笔记                                 | 37集 | 计划 |
+| A007 | Assassination Classroom                                                                                       | 暗杀教室                                 | 47集 | 计划 |
+| A008 | WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?                         | 末日时在做什么？有没有空？可以来拯救吗？ | 12集 | 计划 |
+| A009 | Sword Art Online                                                                                              | 刀剑神域                                 | 25集 | 计划 |
+| A010 | Sword Art Online II                                                                                           | 刀剑神域第2季                            | 24集 | 计划 |
+| A011 | Sword Art Online: Alicization                                                                                 | 刀剑神域：爱丽丝篇                       | 24集 | 计划 |
+| A012 | Hyouka                                                                                                        | 冰菓                                     | 22集 | 计划 |
+| A013 | The Devil Is a Part-Timer!                                                                                    | 打工吧！魔王大人                         | 13集 | 计划 |
+| A014| Nichijou: My Ordinary Life                                                                                    | 日常                                     | 26集 | 计划 |
+| A015 | A Certain Scientific Railgun                                                                                  | 某科学超电磁炮                           | 24集 | 计划 |
+| A016 | A Certain Scientific Railgun S                                                                                | 某科学超电磁炮S                          | 24集 | 计划 |
+| A017 | Parasyte: The Maxim                                                                                           | 寄生兽：生命的准则                       | 24集 | 计划 |
 
 ### **剧场版**
-| 英文名                                                                         | 中文名       | 上映年份 | 状态 |
-| ------------------------------------------------------------------------------ | ------------ | -------- | ---- |
-| [Your Name.](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Your_Name) | 你的名字     | 2016     | 完成 |
-| [No Game No Life: Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/No_Game_No_Life_Zero)      | 游戏人生Zero | 2017     | 完成 |
-| Sword Art Online: Ordinal Scale  | 刀剑神域：序列之争 | 2017 | 计划 |
+| 序号 | 英文名                                                                         | 中文名       | 上映年份 | 状态 |
+| --- | ------------------------------------------------------------------------------ | ------------ | -------- | ---- |
+| M001 | [Your Name.](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Your_Name) | 你的名字     | 2016     | 完成 |
+| M002 | [No Game No Life: Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/No_Game_No_Life_Zero)      | 游戏人生Zero | 2017     | 完成 |
+| M003 | Sword Art Online: Ordinal Scale  | 刀剑神域：序列之争 | 2017 | 计划 |
 
 
 ### 转载及再利用说明
