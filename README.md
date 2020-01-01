@@ -9,7 +9,7 @@
 | [Teasing Master Takagi san](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Teasing_Master_Takagi-san) | 擅长捉弄的高木同学                       | 12集 | 完成 |
 | [Puella Magi Madoka Magica](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Puella_Magi_Madoka_Magica) | 魔法少女小圆                             | 12集 | 完成 |
 | [Fate/Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Fate_Zero)                                 | 命运之夜前传                             | 25集 | 完成 |
-| [No-Rin](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/No-Rin)                                       | 农林                                     | 12集 | 进行 |
+| [No-Rin](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/No-Rin)                                       | 农林                                     | 12集 | 完成 |
 | No Game No Life                                                                                               | 游戏人生                                 | 12集 | 计划 |
 | Death Note                                                                                                    | 死亡笔记                                 | 37集 | 计划 |
 | Assassination Classroom                                                                                       | 暗杀教室                                 | 47集 | 计划 |
@@ -28,7 +28,7 @@
 | 英文名                                                                         | 中文名       | 上映年份 | 状态 |
 | ------------------------------------------------------------------------------ | ------------ | -------- | ---- |
 | [Your Name.](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/Your_Name) | 你的名字     | 2016     | 完成 |
-| No Game No Life: Zero      | 游戏人生Zero | 2017     | 计划 |
+| [No Game No Life: Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/No_Game_No_Life_Zero)      | 游戏人生Zero | 2017     | 完成 |
 | Sword Art Online: Ordinal Scale  | 刀剑神域：序列之争 | 2017 | 计划 |
 
 
