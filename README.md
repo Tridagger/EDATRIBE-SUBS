@@ -2,6 +2,7 @@
 
 如果您对英配动画感兴趣，如果您也想了解制作英配字幕，欢迎加入 **英配部落** 的 [QQ群](https://jq.qq.com/?_wv=1027&k=5kCsfB9)
 
+
 ### **TV 动画**
 
 | 序号 | 英文名                                                                                                        | 中文名                                   | 集数 | 状态 |
@@ -23,6 +24,12 @@
 | A015 | A Certain Scientific Railgun                                                                                  | 某科学超电磁炮                           | 24集 | 计划 |
 | A016 | A Certain Scientific Railgun S                                                                                | 某科学超电磁炮S                          | 24集 | 计划 |
 | A017 | Parasyte: The Maxim                                                                                           | 寄生兽：生命的准则                       | 24集 | 计划 |
+
+
+#### 相关视频资源下载地址
+百度网盘：链接：https://pan.baidu.com/s/1T31fPYdHuxWP1O-LypMUJQ 提取码：8luy
+
+Onedirve：http://pan.edatribe.com
 
 ### **剧场版**
 | 序号 | 英文名                                                                         | 中文名       | 上映年份 | 状态 |
