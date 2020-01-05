@@ -2,20 +2,22 @@
 
 如果您对英配动画感兴趣，如果您也想了解制作英配字幕，欢迎加入 **英配部落** 的 [QQ群](https://jq.qq.com/?_wv=1027&k=5kCsfB9)
 
+字幕制作是一项非常耗时的工作，一个人的力量是有限的，希望能够汇聚大家的力量将此项目进行下去。
 #### 相关视频资源下载地址
 百度网盘：链接：https://pan.baidu.com/s/1T31fPYdHuxWP1O-LypMUJQ 提取码：8luy (压缩包解压密码：www.edatribe.com)
 
 OneDirve：http://pan.edatribe.com
 
 两种下载方式各有利弊，百度网盘稳定，但非会员会被限速，而且下载后需要在电脑上解压。OneDirve 不限速，而且可以在线预览，但服务器在国外，服务器连接不稳定。
+
 ### **TV 动画**
 
 | 序号 | 英文名                                                                                                        | 中文名                                   | 集数 | 状态 |
 | ---- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---- | ---- |
-| A001 | [Teasing Master Takagi san](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A001]Teasing_Master_Takagi-san) | 擅长捉弄的高木同学                       | 12集 | 完成 |
-| A002 | [Puella Magi Madoka Magica](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A002]Puella_Magi_Madoka_Magica) | 魔法少女小圆                             | 12集 | 完成 |
-| A003 | [Fate/Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A003]Fate_Zero)                                 | 命运之夜前传                             | 25集 | 完成 |
-| A004 | [No-Rin](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A004]No-Rin)                                       | 农林                                     | 12集 | 完成 |
+| A001 | [Teasing Master Takagi san](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A001]Teasing_Master_Takagi-san) | 擅长捉弄的高木同学                       | 12集 | <font color=#008000 >完成</font> |
+| A002 | [Puella Magi Madoka Magica](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A002]Puella_Magi_Madoka_Magica) | 魔法少女小圆                             | 12集 | <font color=#008000 >完成</font> |
+| A003 | [Fate/Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A003]Fate_Zero)                                 | 命运之夜前传                             | 25集 | <font color=#008000 >完成</font> |
+| A004 | [No-Rin](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A004]No-Rin)                                       | 农林                                     | 12集 | <font color=#008000 >完成</font> |
 | A005 | No Game No Life                                                                                               | 游戏人生                                 | 12集 | 计划 |
 | A006 | Death Note                                                                                                    | 死亡笔记                                 | 37集 | 计划 |
 | A007 | Assassination Classroom                                                                                       | 暗杀教室                                 | 47集 | 计划 |
@@ -40,7 +42,8 @@ OneDirve：http://pan.edatribe.com
 | M002 | [No Game No Life: Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M002]No_Game_No_Life_Zero)      | 游戏人生Zero | 2017     | 完成 |
 | M003 | Sword Art Online: Ordinal Scale  | 刀剑神域：序列之争 | 2017 | 计划 |
 
-
+### 字幕制作说明
+内容待定
 ### 转载及再利用说明
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
