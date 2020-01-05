@@ -14,10 +14,10 @@ OneDirve：http://pan.edatribe.com
 
 | 序号 | 英文名                                                                                                        | 中文名                                   | 集数 | 状态 |
 | ---- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---- | ---- |
-| A001 | [Teasing Master Takagi san](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A001]Teasing_Master_Takagi-san) | 擅长捉弄的高木同学                       | 12集 | <font color=#008000 >完成</font> |
-| A002 | [Puella Magi Madoka Magica](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A002]Puella_Magi_Madoka_Magica) | 魔法少女小圆                             | 12集 | <font color=#008000 >完成</font> |
-| A003 | [Fate/Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A003]Fate_Zero)                                 | 命运之夜前传                             | 25集 | <font color=#008000 >完成</font> |
-| A004 | [No-Rin](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A004]No-Rin)                                       | 农林                                     | 12集 | <font color=#008000 >完成</font> |
+| A001 | [Teasing Master Takagi san](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A001]Teasing_Master_Takagi-san) | 擅长捉弄的高木同学                       | 12集 | 完成 |
+| A002 | [Puella Magi Madoka Magica](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A002]Puella_Magi_Madoka_Magica) | 魔法少女小圆                             | 12集 | 完成 |
+| A003 | [Fate/Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A003]Fate_Zero)                                 | 命运之夜前传                             | 25集 | 完成 |
+| A004 | [No-Rin](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A004]No-Rin)                                       | 农林                                     | 12集 | 完成 |
 | A005 | No Game No Life                                                                                               | 游戏人生                                 | 12集 | 计划 |
 | A006 | Death Note                                                                                                    | 死亡笔记                                 | 37集 | 计划 |
 | A007 | Assassination Classroom                                                                                       | 暗杀教室                                 | 47集 | 计划 |
@@ -43,7 +43,7 @@ OneDirve：http://pan.edatribe.com
 | M003 | Sword Art Online: Ordinal Scale  | 刀剑神域：序列之争 | 2017 | 计划 |
 
 ### 字幕制作说明
-内容待定
+
 ### 转载及再利用说明
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
