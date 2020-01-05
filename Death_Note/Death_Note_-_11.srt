@@ -1,0 +1,2227 @@
+﻿1
+00:00:11,300 --> 00:00:14,666
+[theme music]
+
+2
+00:01:48,861 --> 00:01:51,461
+INVESTIGATOR: Regarding
+Naomi Misura's disappearance,
+
+3
+00:01:51,494 --> 00:01:53,627
+shouldn't we open an
+investigation into this matter?
+
+4
+00:01:53,661 --> 00:01:55,727
+L: If we do, it should
+be coordinated separately
+
+5
+00:01:55,761 --> 00:01:56,894
+from the Kira case.
+
+6
+00:01:56,927 --> 00:01:58,961
+Also, we'll have to use
+police sketches instead
+
+7
+00:01:58,994 --> 00:01:59,894
+of actual photos.
+
+8
+00:01:59,927 --> 00:02:01,027
+-We're talking
+about someone who's
+
+9
+00:02:01,061 --> 00:02:02,661
+been missing for
+four months already.
+
+10
+00:02:02,694 --> 00:02:05,461
+Chances are, she's
+probably dead.
+
+11
+00:02:05,494 --> 00:02:07,394
+-If you're right about
+that, I find it odd
+
+12
+00:02:07,427 --> 00:02:09,627
+that we haven't
+found her body yet.
+
+13
+00:02:09,661 --> 00:02:11,861
+If we did, it might provide
+us with some much needed
+
+14
+00:02:11,894 --> 00:02:12,594
+physical evidence.
+
+15
+00:02:12,627 --> 00:02:13,661
+[knocking]
+
+16
+00:02:13,694 --> 00:02:14,694
+WATARI: Ryuzaki.
+
+17
+00:02:14,727 --> 00:02:15,827
+-Hmm?
+
+18
+00:02:15,861 --> 00:02:19,227
+-Something seems to be
+happening on Sakura TV.
+
+19
+00:02:19,261 --> 00:02:21,427
+-In other words, all of
+the reporters and staff
+
+20
+00:02:21,461 --> 00:02:22,994
+here are Kira's hostages.
+
+21
+00:02:23,027 --> 00:02:25,194
+Aside from that, we have
+a professional obligation
+
+22
+00:02:25,227 --> 00:02:26,894
+to share this message with you.
+
+23
+00:02:26,927 --> 00:02:28,694
+I assure you that
+this is not a hoax
+
+24
+00:02:28,727 --> 00:02:31,027
+and that Sakura TV is
+not airing this tape
+
+25
+00:02:31,061 --> 00:02:33,294
+for the purposes
+of sensationalism.
+
+26
+00:02:33,327 --> 00:02:34,694
+INVESTIGATOR: Kira's hostages?
+
+27
+00:02:34,727 --> 00:02:36,227
+What is this?
+
+28
+00:02:36,261 --> 00:02:38,227
+ANCHOR (TV): Four days
+ago, our program director
+
+29
+00:02:38,261 --> 00:02:40,994
+here at Sakura TV
+received four tapes.
+
+30
+00:02:41,027 --> 00:02:42,561
+After a thorough
+examination, there
+
+31
+00:02:42,594 --> 00:02:45,027
+could be no doubt that
+they are from Kira himself.
+
+32
+00:02:45,061 --> 00:02:46,394
+DIRECTOR (VOICEOVER):
+Our audience
+
+33
+00:02:46,427 --> 00:02:50,461
+ratings should go up 60--
+no, more like 70% after this.
+
+34
+00:02:50,494 --> 00:02:52,061
+ANCHOR (TV): The
+first tape we received
+
+35
+00:02:52,094 --> 00:02:54,927
+contained a prediction regarding
+the time of death of two
+
+36
+00:02:54,961 --> 00:02:57,761
+suspected criminals who'd
+recently been arrested.
+
+37
+00:02:57,794 --> 00:03:01,194
+And as predicted, at the exact
+time that Kira had specified,
+
+38
+00:03:01,227 --> 00:03:03,394
+both men died suddenly of
+heart attacks yesterday.
+
+39
+00:03:03,427 --> 00:03:05,494
+L (VOICEOVER): If what
+they're saying is true,
+
+40
+00:03:05,527 --> 00:03:08,327
+it's clearly something
+that only Kira could do.
+
+41
+00:03:08,361 --> 00:03:09,794
+ANCHOR (TV): Kira
+has instructed us
+
+42
+00:03:09,827 --> 00:03:13,894
+to air this second tape
+today at exactly 5:59 PM.
+
+43
+00:03:13,927 --> 00:03:16,361
+And we do intend to
+comply with his demands.
+
+44
+00:03:16,394 --> 00:03:18,294
+This tape should offer
+proof of his powers
+
+45
+00:03:18,327 --> 00:03:20,394
+by predicting yet another death.
+
+46
+00:03:20,427 --> 00:03:22,761
+Beyond that, we understand
+that it contains a message
+
+47
+00:03:22,794 --> 00:03:24,694
+to all the people of
+the world from Kira.
+
+48
+00:03:24,727 --> 00:03:27,527
+--[gasp] Th--this has to be
+another fake, don't you think?
+
+49
+00:03:27,561 --> 00:03:28,861
+-I doubt it.
+
+50
+00:03:28,894 --> 00:03:31,994
+I'm pretty sure even Sakura
+TV wouldn't stoop that low.
+
+51
+00:03:32,027 --> 00:03:33,294
+ANCHOR (TV): And now, the video.
+
+52
+00:03:40,294 --> 00:03:42,461
+DISTORTED VOICE (TV):
+[clearing throat] I am Kira.
+
+53
+00:03:42,494 --> 00:03:46,527
+If this video was being aired
+on April 18 at exactly 5:59
+
+54
+00:03:46,561 --> 00:03:54,427
+PM as I requested, then the
+time now is 5:59:47, 48, 49.
+
+55
+00:03:54,461 --> 00:03:56,761
+Please change the
+channel to Taiyou TV.
+
+56
+00:03:56,794 --> 00:03:58,994
+The news anchor,
+Mr. Kazuhi Kohibima,
+
+57
+00:03:59,027 --> 00:04:01,627
+will die of a heart attack
+at exactly 6 o'clock.
+
+58
+00:04:01,661 --> 00:04:02,127
+[gasp]
+
+59
+00:04:02,161 --> 00:04:02,661
+-What?
+
+60
+00:04:02,694 --> 00:04:04,961
+-Change it.
+
+61
+00:04:04,994 --> 00:04:05,927
+[gasp]
+
+62
+00:04:05,961 --> 00:04:07,761
+INVESTIGATOR: It can't be.
+
+63
+00:04:07,794 --> 00:04:08,361
+-What happened?
+
+64
+00:04:08,394 --> 00:04:09,361
+-He's not moving.
+
+65
+00:04:09,394 --> 00:04:11,761
+-How could he?
+
+66
+00:04:11,794 --> 00:04:13,261
+-Change the channel back.
+
+67
+00:04:13,294 --> 00:04:14,361
+[beep]
+
+68
+00:04:14,394 --> 00:04:16,527
+And I need you to bring
+us another TV, Watari.
+
+69
+00:04:16,561 --> 00:04:17,994
+No, make it two.
+
+70
+00:04:18,027 --> 00:04:18,927
+WATARI: Yes.
+
+71
+00:04:18,961 --> 00:04:19,994
+DISTORTED VOICE
+(TV): --punishment.
+
+72
+00:04:20,027 --> 00:04:21,094
+I will present you
+with another victim.
+
+73
+00:04:21,127 --> 00:04:25,161
+My next target is NHN
+TV commentator Mr. Saeji
+
+74
+00:04:25,194 --> 00:04:28,894
+Komaizumi, who is scheduled
+to appear in a live broadcast.
+
+75
+00:04:28,927 --> 00:04:30,927
+He too has dared to defy Kira.
+
+76
+00:04:30,961 --> 00:04:31,861
+INVESTIGATOR: Ryuzaki?
+
+77
+00:04:31,894 --> 00:04:34,394
+-Change it to channel 24.
+
+78
+00:04:34,427 --> 00:04:35,061
+[gasp]
+
+79
+00:04:35,094 --> 00:04:35,994
+-Someone help him!
+
+80
+00:04:36,027 --> 00:04:37,794
+L: Please change it back.
+
+81
+00:04:37,827 --> 00:04:40,394
+DISTORTED VOICE (TV): Now that
+you've seen proof of my powers,
+
+82
+00:04:40,427 --> 00:04:43,461
+you should have no trouble
+believing that I am Kira.
+
+83
+00:04:43,494 --> 00:04:44,961
+L (VOICEOVER): Kira
+said that he was
+
+84
+00:04:44,994 --> 00:04:47,627
+going to send a message to
+the people of the world.
+
+85
+00:04:47,661 --> 00:04:49,694
+[gasp] Stop this broadcast!
+
+86
+00:04:49,727 --> 00:04:52,327
+We can't let him finish!
+
+87
+00:04:52,361 --> 00:04:55,161
+-Get Sakura TV on the line!
+
+88
+00:04:55,194 --> 00:04:56,361
+-It's no good.
+
+89
+00:04:56,394 --> 00:04:58,361
+I'm trying, but none of
+my contacts at the station
+
+90
+00:04:58,394 --> 00:04:59,494
+have their phones on.
+
+91
+00:04:59,527 --> 00:05:02,161
+-And nobody's picking
+up at reception, either.
+
+92
+00:05:02,194 --> 00:05:02,994
+-Damn it!
+
+93
+00:05:03,027 --> 00:05:03,761
+And
+
+94
+00:05:03,794 --> 00:05:05,094
+-Ah, Ukita--
+
+95
+00:05:05,127 --> 00:05:08,427
+-I'll stop this broadcast
+myself if that's what it takes.
+
+96
+00:05:08,461 --> 00:05:11,694
+DISTORTED VOICE (TV): People of
+the world, please listen to me.
+
+97
+00:05:11,727 --> 00:05:14,461
+The last thing I want to
+do is kill the innocent.
+
+98
+00:05:14,494 --> 00:05:16,861
+I hate evil and love justice.
+
+99
+00:05:16,894 --> 00:05:19,427
+I've always thought of
+the police as allies,
+
+100
+00:05:19,461 --> 00:05:20,594
+not as enemies.
+
+101
+00:05:23,494 --> 00:05:24,894
+L (VOICEOVER): Damn you, Kira.
+
+102
+00:05:24,927 --> 00:05:26,561
+DISTORTED VOICE (TV):
+I intend to create
+
+103
+00:05:26,594 --> 00:05:29,494
+a new world, a perfect world
+that is free from evil.
+
+104
+00:05:29,527 --> 00:05:31,061
+If you agree to join
+me in my mission,
+
+105
+00:05:31,094 --> 00:05:33,227
+I know we can make it happen.
+
+106
+00:05:33,261 --> 00:05:35,627
+And as long as no one
+tries to catch me,
+
+107
+00:05:35,661 --> 00:05:37,627
+I promise that the
+innocent will not die.
+
+108
+00:05:37,661 --> 00:05:38,927
+-Come on!
+
+109
+00:05:38,961 --> 00:05:41,527
+DISTORTED VOICE (TV): Even
+if you don't agree with me,
+
+110
+00:05:41,561 --> 00:05:43,261
+all I ask is that
+you not publicize
+
+111
+00:05:43,294 --> 00:05:44,327
+your views in the media.
+
+112
+00:05:44,361 --> 00:05:47,361
+If you can do that,
+you will be spared.
+
+113
+00:05:47,394 --> 00:05:50,527
+All you have to do
+now is be patient.
+
+114
+00:05:50,561 --> 00:05:54,194
+I will create a better
+world that we can all enjoy.
+
+115
+00:05:54,227 --> 00:05:56,894
+Say goodbye to the
+world as you know it.
+
+116
+00:05:56,927 --> 00:06:00,394
+Soon, we'll have a new world
+ruled by benevolence, inhabited
+
+117
+00:06:00,427 --> 00:06:02,694
+with kind-hearted,
+honest people.
+
+118
+00:06:02,727 --> 00:06:06,427
+Try to imagine it, a world
+where the police and I--
+
+119
+00:06:06,461 --> 00:06:09,394
+-Hmm?
+
+120
+00:06:09,427 --> 00:06:09,894
+Sachiko.
+
+121
+00:06:13,527 --> 00:06:16,394
+-Darling, this can't be
+good for your health.
+
+122
+00:06:16,427 --> 00:06:17,461
+Please, you have to rest.
+
+123
+00:06:21,861 --> 00:06:24,061
+-Sachiko, like it
+or not, I am still
+
+124
+00:06:24,094 --> 00:06:27,794
+in charge of the
+Kira task force.
+
+125
+00:06:27,827 --> 00:06:29,761
+[sigh]
+
+126
+00:06:38,594 --> 00:06:40,261
+-Damn, it's locked!
+
+127
+00:06:40,294 --> 00:06:42,161
+This is the police!
+
+128
+00:06:42,194 --> 00:06:44,861
+Open up!
+
+129
+00:06:44,894 --> 00:06:46,561
+Ah, you-- you idiots!
+
+130
+00:06:46,594 --> 00:06:50,561
+[groaning, hearteat]
+
+131
+00:07:07,461 --> 00:07:08,794
+-Hello?
+
+132
+00:07:08,827 --> 00:07:09,761
+REPORTER (TV): We interrupt
+this program to bring you live--
+
+133
+00:07:09,794 --> 00:07:10,761
+-Damn, I'm still
+not getting through.
+
+134
+00:07:10,794 --> 00:07:11,827
+REPORTER (TV):
+--Sakura TV studios.
+
+135
+00:07:11,861 --> 00:07:13,661
+-[gasp] Aizawa, look!
+
+136
+00:07:13,694 --> 00:07:14,161
+-Huh?
+
+137
+00:07:18,694 --> 00:07:19,694
+[gasp]
+
+138
+00:07:19,727 --> 00:07:21,061
+REPORTER (TV): As
+you can see, someone
+
+139
+00:07:21,094 --> 00:07:22,994
+has collapsed just
+outside the door.
+
+140
+00:07:23,027 --> 00:07:26,894
+Again, we're coming to you live
+from the Sakura TV building.
+
+141
+00:07:26,927 --> 00:07:31,161
+AIZAWA: Ukita-- damn
+it, Kira did this.
+
+142
+00:07:31,194 --> 00:07:34,827
+-[grumble] Mr. Aizawa.
+
+143
+00:07:34,861 --> 00:07:36,827
+Where are you going?
+
+144
+00:07:36,861 --> 00:07:37,694
+-Where do you think?
+
+145
+00:07:37,727 --> 00:07:39,027
+I've got to go there.
+
+146
+00:07:39,061 --> 00:07:39,994
+-You can't.
+
+147
+00:07:40,027 --> 00:07:42,094
+Please, think about
+this rationally.
+
+148
+00:07:42,127 --> 00:07:45,127
+-(ANGRILY) What, you want me
+to just sit here and watch TV?
+
+149
+00:07:45,161 --> 00:07:46,927
+-If this truly is
+the work of Kira,
+
+150
+00:07:46,961 --> 00:07:49,827
+you'll just meet the same
+fate if you go there.
+
+151
+00:07:49,861 --> 00:07:53,061
+-You told us that Kira
+couldn't kill without a name.
+
+152
+00:07:53,094 --> 00:07:55,094
+So how could this happen?
+
+153
+00:07:55,127 --> 00:07:57,894
+The aliases and fake
+police IDs are worthless.
+
+154
+00:07:57,927 --> 00:07:59,194
+What are we going to do, L?
+
+155
+00:07:59,227 --> 00:08:01,961
+You don't think Kira has all
+our names already, do you?
+
+156
+00:08:01,994 --> 00:08:04,694
+-That's a definite possibility.
+
+157
+00:08:04,727 --> 00:08:06,127
+However, if that's
+the case, you'd
+
+158
+00:08:06,161 --> 00:08:08,861
+think it would be easier for
+him to kill off the entire task
+
+159
+00:08:08,894 --> 00:08:10,694
+force before making a move.
+
+160
+00:08:10,727 --> 00:08:13,727
+Initially, I deduced that Kira
+needed both a name and a face
+
+161
+00:08:13,761 --> 00:08:14,694
+to kill.
+
+162
+00:08:14,727 --> 00:08:16,461
+But from what we've
+just seen, I'd
+
+163
+00:08:16,494 --> 00:08:18,227
+say it's not entirely
+impossible that Kira
+
+164
+00:08:18,261 --> 00:08:21,527
+can kill with only a face.
+
+165
+00:08:21,561 --> 00:08:25,027
+All I know for sure is that Kira
+is either in that TV station,
+
+166
+00:08:25,061 --> 00:08:27,761
+or he's somewhere close
+by, in a place where
+
+167
+00:08:27,794 --> 00:08:30,127
+he can watch everyone
+who enters the building.
+
+168
+00:08:30,161 --> 00:08:31,227
+Perhaps he's in an--
+
+169
+00:08:31,261 --> 00:08:33,361
+-If Kira is in the area,
+then isn't that why
+
+170
+00:08:33,394 --> 00:08:35,094
+we should get down there?
+
+171
+00:08:35,127 --> 00:08:37,661
+L: For all we know, he could
+have just placed surveillance
+
+172
+00:08:37,694 --> 00:08:38,861
+cameras in the area.
+
+173
+00:08:38,894 --> 00:08:40,894
+If we rush down there
+unprepared, all of us
+
+174
+00:08:40,927 --> 00:08:42,227
+will be killed.
+
+175
+00:08:42,261 --> 00:08:44,227
+-Wasn't it you who said we'd
+have to risk our lives to catch
+
+176
+00:08:44,261 --> 00:08:45,561
+Kira?
+
+177
+00:08:45,594 --> 00:08:48,961
+-I meant what I said, but
+risking my life to catch Kira
+
+178
+00:08:48,994 --> 00:08:51,194
+and doing something that I
+know will cost me my life
+
+179
+00:08:51,227 --> 00:08:52,827
+are two entirely
+different things.
+
+180
+00:08:52,861 --> 00:08:53,494
+-Oh yeah?
+
+181
+00:08:58,494 --> 00:09:00,327
+-Please control yourself.
+
+182
+00:09:00,361 --> 00:09:02,627
+We've lost Ukita.
+
+183
+00:09:02,661 --> 00:09:04,627
+I understand you
+want to go there,
+
+184
+00:09:04,661 --> 00:09:06,594
+but if something was to
+happen to you as well--
+
+185
+00:09:10,327 --> 00:09:13,161
+-I now await a response
+from the police.
+
+186
+00:09:13,194 --> 00:09:14,794
+They must decide
+whether or not they'll
+
+187
+00:09:14,827 --> 00:09:17,094
+help me create a better
+world for all of us.
+
+188
+00:09:17,127 --> 00:09:19,394
+Please announce your decision
+on the 6 o'clock news
+
+189
+00:09:19,427 --> 00:09:20,794
+in four days.
+
+190
+00:09:20,827 --> 00:09:23,027
+I've prepared two
+videos, one to be
+
+191
+00:09:23,061 --> 00:09:27,494
+aired if the answer is yes and
+another if the answer is no.
+
+192
+00:09:27,527 --> 00:09:28,994
+[sigh]
+
+193
+00:09:29,027 --> 00:09:30,461
+[gasp]
+
+194
+00:09:33,494 --> 00:09:35,961
+[growl]
+
+195
+00:09:35,994 --> 00:09:36,461
+-Huh?
+
+196
+00:09:40,461 --> 00:09:44,427
+[scream]
+
+197
+00:09:49,027 --> 00:09:50,594
+What the hell's going on?
+
+198
+00:09:50,627 --> 00:09:53,894
+Hey, step out of the vehicle!
+
+199
+00:09:53,927 --> 00:09:55,294
+Huh?
+
+200
+00:09:55,327 --> 00:09:56,694
+-The Kira video.
+
+201
+00:09:56,727 --> 00:09:59,261
+Show me which studio they're
+broadcasting it from.
+
+202
+00:09:59,294 --> 00:10:00,627
+REPORTER (TV): A
+vehicle has just
+
+203
+00:10:00,661 --> 00:10:02,861
+driven through the front
+doors of the station.
+
+204
+00:10:02,894 --> 00:10:06,194
+-Well, that's one way
+to get into the building
+
+205
+00:10:06,227 --> 00:10:07,661
+without being seen by Kira.
+
+206
+00:10:07,694 --> 00:10:10,361
+INVESTIGATOR: But who would--
+
+207
+00:10:10,394 --> 00:10:11,394
+-This is the police.
+
+208
+00:10:11,427 --> 00:10:12,727
+Stop this broadcast immediately.
+
+209
+00:10:12,761 --> 00:10:14,461
+-Who are you?
+
+210
+00:10:14,494 --> 00:10:15,894
+-Hand those tapes over to me.
+
+211
+00:10:15,927 --> 00:10:16,894
+Do you understand?
+
+212
+00:10:16,927 --> 00:10:17,761
+-Hold on, officer.
+
+213
+00:10:17,794 --> 00:10:19,127
+It's not that simple.
+
+214
+00:10:19,161 --> 00:10:20,661
+My hands are tied here.
+
+215
+00:10:20,694 --> 00:10:23,761
+If we stop this broadcast,
+he'll kill all of us.
+
+216
+00:10:23,794 --> 00:10:24,894
+-Shut up.
+
+217
+00:10:24,927 --> 00:10:26,527
+You're going to be
+killed right here and now
+
+218
+00:10:26,561 --> 00:10:28,394
+if you don't give
+those tapes to me.
+
+219
+00:10:28,427 --> 00:10:29,594
+-What?
+
+220
+00:10:29,627 --> 00:10:31,161
+Come on, what the hell do
+you think you're doing?
+
+221
+00:10:31,194 --> 00:10:32,094
+This is crazy.
+
+222
+00:10:45,610 --> 00:10:49,310
+-This is happening because you
+chose to make Kira a celebrity.
+
+223
+00:10:49,344 --> 00:10:51,710
+You're getting exactly
+what you deserve.
+
+224
+00:10:51,744 --> 00:10:53,977
+I want every single
+copy you have,
+
+225
+00:10:54,010 --> 00:10:55,510
+and don't make me ask you again.
+
+226
+00:10:55,544 --> 00:10:57,110
+-I-I got it.
+
+227
+00:10:57,144 --> 00:10:58,377
+I'll give them to you.
+
+228
+00:10:58,410 --> 00:10:59,444
+No problem.
+
+229
+00:10:59,477 --> 00:11:01,377
+Just please, stop
+waving that gun around.
+
+230
+00:11:01,410 --> 00:11:03,710
+You're acting like a madman.
+
+231
+00:11:03,744 --> 00:11:06,577
+REPORTER (TV): We're
+still outside Sakura TV.
+
+232
+00:11:06,610 --> 00:11:08,910
+As you can see, a police
+car has just arrived.
+
+233
+00:11:08,944 --> 00:11:10,644
+-So we're not alone.
+
+234
+00:11:10,677 --> 00:11:12,310
+There are still other
+officers out there
+
+235
+00:11:12,344 --> 00:11:14,077
+who are willing to
+stand up to Kira.
+
+236
+00:11:14,110 --> 00:11:14,677
+L: Mr. Aizawa.
+
+237
+00:11:14,710 --> 00:11:16,310
+-Huh?
+
+238
+00:11:16,344 --> 00:11:18,610
+-You know Deputy Director
+Kitamura's cell phone number,
+
+239
+00:11:18,644 --> 00:11:19,477
+right?
+
+240
+00:11:19,510 --> 00:11:23,377
+[phone ringing]
+
+241
+00:11:23,410 --> 00:11:26,777
+-Aizawa, I told you not
+to call me on this phone.
+
+242
+00:11:26,810 --> 00:11:27,777
+L (ON PHONE): This is L.
+
+243
+00:11:27,810 --> 00:11:29,044
+[gasp]
+
+244
+00:11:29,077 --> 00:11:30,677
+L (ON PHONE): There's something
+I need you to do for me.
+
+245
+00:11:30,710 --> 00:11:32,977
+There may be police officers
+who will see this broadcast
+
+246
+00:11:33,010 --> 00:11:35,677
+and feel moved to take action
+in the name of justice.
+
+247
+00:11:35,710 --> 00:11:38,377
+If you don't take control
+of this situation quickly,
+
+248
+00:11:38,410 --> 00:11:39,910
+there will be a disaster.
+
+249
+00:11:39,944 --> 00:11:41,877
+-But technically,
+we're not supposed
+
+250
+00:11:41,910 --> 00:11:43,810
+to be involved in this case.
+
+251
+00:11:43,844 --> 00:11:45,744
+Huh?
+
+252
+00:11:45,777 --> 00:11:48,010
+REPORTER (TV): [gasp] Two
+police officers have just
+
+253
+00:11:48,044 --> 00:11:49,077
+collapsed on the sidewalk.
+
+254
+00:11:49,110 --> 00:11:50,610
+I-- I think we may be in danger.
+
+255
+00:11:50,644 --> 00:11:54,310
+We're moving away
+from the scene.
+
+256
+00:11:54,344 --> 00:11:57,810
+-I understand, L. I
+see your point now.
+
+257
+00:11:57,844 --> 00:11:59,277
+Tell me what I should do.
+
+258
+00:11:59,310 --> 00:12:03,044
+[phone ringing]
+
+259
+00:12:03,077 --> 00:12:04,944
+-Detective
+Superintendent Yagami.
+
+260
+00:12:04,977 --> 00:12:07,677
+L: Call him back immediately
+and give me the phone.
+
+261
+00:12:07,710 --> 00:12:10,077
+-I need to speak with Ryuzaki.
+
+262
+00:12:10,110 --> 00:12:11,244
+-Yes, it's me.
+
+263
+00:12:11,277 --> 00:12:12,544
+Mr. Yagami.
+
+264
+00:12:12,577 --> 00:12:14,577
+So you're the one
+driving the police van.
+
+265
+00:12:14,610 --> 00:12:15,677
+-That's right.
+
+266
+00:12:15,710 --> 00:12:17,810
+I couldn't just sit and watch.
+
+267
+00:12:17,844 --> 00:12:19,977
+I've confiscated
+all of the tapes.
+
+268
+00:12:20,010 --> 00:12:21,210
+I'm bringing them to you.
+
+269
+00:12:21,244 --> 00:12:22,910
+But what about your condition?
+
+270
+00:12:22,944 --> 00:12:24,010
+Are you all right?
+
+271
+00:12:24,044 --> 00:12:25,510
+-I'm feeling just fine.
+
+272
+00:12:25,544 --> 00:12:27,044
+To be honest with
+you, I don't think
+
+273
+00:12:27,077 --> 00:12:29,144
+I've ever felt more alive.
+
+274
+00:12:29,177 --> 00:12:31,344
+So what do you think
+I should do now?
+
+275
+00:12:31,377 --> 00:12:33,677
+I'd say going out the front
+will be too dangerous,
+
+276
+00:12:33,710 --> 00:12:36,044
+but I could always use
+the police van again.
+
+277
+00:12:36,077 --> 00:12:38,177
+-Please hold the
+line for a second.
+
+278
+00:12:38,210 --> 00:12:40,577
+Deputy Director Kitamura,
+it was Chief Yagami
+
+279
+00:12:40,610 --> 00:12:42,110
+who just drove
+into the building.
+
+280
+00:12:42,144 --> 00:12:43,644
+Are your preparations complete?
+
+281
+00:12:43,677 --> 00:12:46,144
+-It's done, as you requested.
+
+282
+00:12:46,177 --> 00:12:48,177
+-Mr. Yagami, listen carefully.
+
+283
+00:12:48,210 --> 00:12:49,677
+In exactly five
+minutes, I want you
+
+284
+00:12:49,710 --> 00:12:50,977
+to come out the front entrance.
+
+285
+00:12:51,010 --> 00:12:52,977
+-You want me to exit
+through the front entrance?
+
+286
+00:13:13,077 --> 00:13:14,544
+[gasp]
+
+287
+00:13:19,944 --> 00:13:22,344
+POLICE OFFICER (ON BULLHORN):
+Make sure there are no gaps.
+
+288
+00:13:22,377 --> 00:13:23,744
+Do not reveal your faces.
+
+289
+00:13:23,777 --> 00:13:26,777
+We know that Kira is
+not in the building.
+
+290
+00:13:26,810 --> 00:13:27,544
+He is outside.
+
+291
+00:13:40,877 --> 00:13:41,910
+-Thank you.
+
+292
+00:13:41,944 --> 00:13:43,710
+I'll drive myself.
+
+293
+00:13:43,744 --> 00:13:44,677
+IDE: I understand.
+
+294
+00:13:51,810 --> 00:13:53,444
+POLICE OFFICER (ON
+BULLHORN): Listen up.
+
+295
+00:13:53,477 --> 00:13:55,844
+There is a very good
+chance that Kira is still
+
+296
+00:13:55,877 --> 00:13:57,110
+in the vicinity of the station.
+
+297
+00:13:57,144 --> 00:13:59,710
+As you move out,
+proceed with caution.
+
+298
+00:13:59,744 --> 00:14:03,610
+You are not to
+remove your helmets.
+
+299
+00:14:03,644 --> 00:14:05,277
+KOKI TANAKABARA (TV):
+There you have it.
+
+300
+00:14:05,310 --> 00:14:07,310
+The police refuse to
+cooperate with Kira.
+
+301
+00:14:07,344 --> 00:14:09,544
+Instead, they are
+preparing to fight.
+
+302
+00:14:09,577 --> 00:14:12,944
+And, as much as I fear for
+my own life in saying so,
+
+303
+00:14:12,977 --> 00:14:15,277
+this is right.
+
+304
+00:14:15,310 --> 00:14:17,310
+And it must be done.
+
+305
+00:14:17,344 --> 00:14:19,944
+Kira has become a threat
+to our very constitution.
+
+306
+00:14:19,977 --> 00:14:23,877
+And as citizens,
+we must fight back.
+
+307
+00:14:23,910 --> 00:14:29,910
+I am NHN's Golden news
+anchor, Koki Tanakabara.
+
+308
+00:14:29,944 --> 00:14:30,477
+-Mm?
+
+309
+00:14:30,510 --> 00:14:31,410
+Chief Yagami!
+
+310
+00:14:31,444 --> 00:14:33,877
+AIZAWA: Welcome back, Chief.
+
+311
+00:14:33,910 --> 00:14:35,344
+-Mm.
+
+312
+00:14:35,377 --> 00:14:39,377
+Ryuzaki, I apologize for taking
+matters into my own hands.
+
+313
+00:14:39,410 --> 00:14:42,110
+I have to admit, I got a
+little bit carried away.
+
+314
+00:14:42,144 --> 00:14:43,310
+-No.
+
+315
+00:14:43,344 --> 00:14:45,877
+-Here, these are all of
+the tapes in an envelope.
+
+316
+00:14:45,910 --> 00:14:48,544
+Everything Kira sent to
+the station is in here.
+
+317
+00:14:48,577 --> 00:14:50,110
+L: I can't thank you enough.
+
+318
+00:14:50,144 --> 00:14:52,810
+-Ah, I think I'd better
+rest for a minute.
+
+319
+00:14:52,844 --> 00:14:55,977
+[groan]
+
+320
+00:14:56,010 --> 00:15:00,044
+L (VOICEOVER): Mr. Yagami,
+this won't go to waste.
+
+321
+00:15:00,077 --> 00:15:04,610
+The postmark is from Osaka, but
+Kira can control his victims
+
+322
+00:15:04,644 --> 00:15:07,510
+before they die, so he could
+have delivered it from Osaka
+
+323
+00:15:07,544 --> 00:15:10,810
+without going there himself.
+
+324
+00:15:10,844 --> 00:15:13,310
+Mr. Aizawa, can you please
+take this to the crime lab
+
+325
+00:15:13,344 --> 00:15:14,477
+right away?
+
+326
+00:15:14,510 --> 00:15:16,510
+-I still have a couple
+of friends down there.
+
+327
+00:15:16,544 --> 00:15:18,477
+I'll make sure they go
+over every inch of this.
+
+328
+00:15:18,510 --> 00:15:19,010
+-That's good.
+
+329
+00:15:19,044 --> 00:15:19,944
+Please do so.
+
+330
+00:15:19,977 --> 00:15:21,310
+While you're doing
+that, I'm going
+
+331
+00:15:21,344 --> 00:15:23,410
+to watch these tapes to see
+if they can tell us anything.
+
+332
+00:15:27,910 --> 00:15:29,844
+CHIEF YAGAMI: Well, what
+do you make of these?
+
+333
+00:15:29,877 --> 00:15:32,344
+-They were definitely
+interesting.
+
+334
+00:15:32,377 --> 00:15:35,844
+If the police had said yes and
+agreed to cooperate with Kira,
+
+335
+00:15:35,877 --> 00:15:38,010
+tape number three was
+supposed to be aired.
+
+336
+00:15:38,044 --> 00:15:41,010
+Tape four if the answer was no.
+
+337
+00:15:41,044 --> 00:15:43,077
+Tape three covers the
+terms of cooperation.
+
+338
+00:15:43,110 --> 00:15:44,744
+Put simply, he's
+requesting that we
+
+339
+00:15:44,777 --> 00:15:47,277
+broadcast the names
+of more criminals.
+
+340
+00:15:47,310 --> 00:15:49,944
+He seems particularly interested
+in those who have assaulted
+
+341
+00:15:49,977 --> 00:15:52,277
+others or those who have
+somehow hurt or taken
+
+342
+00:15:52,310 --> 00:15:55,144
+advantage of the
+weak and defenseless.
+
+343
+00:15:55,177 --> 00:15:59,344
+Of course, Kira would play the
+role of judge in all of this.
+
+344
+00:15:59,377 --> 00:16:00,977
+Furthermore, as
+proof that the police
+
+345
+00:16:01,010 --> 00:16:04,077
+are willing to cooperate, he
+wants police officials and L
+
+346
+00:16:04,110 --> 00:16:07,210
+to appear on TV, to make a
+public announcement that we
+
+347
+00:16:07,244 --> 00:16:09,177
+plan to cooperate with him.
+
+348
+00:16:09,210 --> 00:16:10,777
+-Huh?
+
+349
+00:16:10,810 --> 00:16:12,777
+-He needs us to
+reveal our faces.
+
+350
+00:16:12,810 --> 00:16:16,044
+That way, he can kill us if the
+police do anything suspicious.
+
+351
+00:16:16,077 --> 00:16:18,577
+In other words, he'll hold
+our lives as insurance.
+
+352
+00:16:18,610 --> 00:16:20,044
+-I see.
+
+353
+00:16:20,077 --> 00:16:21,844
+So what about the content
+of the fourth video
+
+354
+00:16:21,877 --> 00:16:23,344
+if we were to answer no?
+
+355
+00:16:23,377 --> 00:16:25,744
+-The wording was different,
+but he more or less
+
+356
+00:16:25,777 --> 00:16:27,644
+says the same thing.
+
+357
+00:16:27,677 --> 00:16:31,044
+Mr. Yagami, it should go without
+saying that the answer is no.
+
+358
+00:16:31,077 --> 00:16:34,277
+Please have someone take tape
+numer four over to Sakura TV
+
+359
+00:16:34,310 --> 00:16:36,544
+and authorize them
+to broadcast it.
+
+360
+00:16:36,577 --> 00:16:38,110
+DISTORTED VOICE
+(TV): I can only say
+
+361
+00:16:38,144 --> 00:16:40,077
+it's a shame that
+your answer is no.
+
+362
+00:16:40,110 --> 00:16:43,377
+It's clear that the
+police wish to oppose me.
+
+363
+00:16:43,410 --> 00:16:45,244
+This will not go unpunished.
+
+364
+00:16:45,277 --> 00:16:49,144
+So I'll start by taking the life
+of either the director-general
+
+365
+00:16:49,177 --> 00:16:52,377
+of the NPA or the detective
+known as L, who is currently
+
+366
+00:16:52,410 --> 00:16:54,077
+leading the
+investigation against me.
+
+367
+00:16:54,110 --> 00:16:56,877
+The director-general or L?
+
+368
+00:16:56,910 --> 00:16:58,710
+Who will pay the
+price for your refusal
+
+369
+00:16:58,744 --> 00:17:01,577
+to cooperate in the creation
+of a peaceful world?
+
+370
+00:17:01,610 --> 00:17:03,577
+You have four days to decide.
+
+371
+00:17:07,410 --> 00:17:10,744
+[laughing]
+
+372
+00:17:10,777 --> 00:17:13,644
+-Hmm.
+
+373
+00:17:13,677 --> 00:17:16,777
+It looks like I've even
+got God on my side now.
+
+374
+00:17:16,810 --> 00:17:21,110
+Well, I suppose it's
+actually a god of death.
+
+375
+00:17:21,144 --> 00:17:23,210
+-Heh, seems like it.
+
+376
+00:17:23,244 --> 00:17:25,177
+-It would appear that
+another Shinigami
+
+377
+00:17:25,210 --> 00:17:27,110
+has come to the human world.
+
+378
+00:17:27,144 --> 00:17:29,410
+And somehow, that
+Shinigami's Death Note
+
+379
+00:17:29,444 --> 00:17:32,744
+has fallen into the hands of
+someone who agrees with Kira.
+
+380
+00:17:32,777 --> 00:17:36,410
+And this person most likely
+has the Shinigami eyes,
+
+381
+00:17:36,444 --> 00:17:38,444
+which makes him very deadly.
+
+382
+00:17:38,477 --> 00:17:41,010
+His power to kill
+surpasses even mine.
+
+383
+00:17:41,044 --> 00:17:42,477
+One thing is for certain.
+
+384
+00:17:42,510 --> 00:17:44,444
+If I leave things,
+I'm pretty sure that L
+
+385
+00:17:44,477 --> 00:17:46,644
+will be finished off
+within the next four days.
+
+386
+00:17:46,677 --> 00:17:50,477
+However, I can't
+forgive this impostor
+
+387
+00:17:50,510 --> 00:17:52,010
+for the way he's
+tarnishing Kira's
+
+388
+00:17:52,044 --> 00:17:54,510
+image with these
+senseless killings.
+
+389
+00:17:54,544 --> 00:17:56,577
+Not to mention, if he
+slips up and gets caught,
+
+390
+00:17:56,610 --> 00:17:58,044
+the Death Note
+could be discovered.
+
+391
+00:17:58,077 --> 00:17:59,544
+And that, I cannot allow.
+
+392
+00:17:59,577 --> 00:18:02,510
+I can't afford to leave
+him alone for much longer.
+
+393
+00:18:02,544 --> 00:18:04,877
+[laughing]
+
+394
+00:18:04,910 --> 00:18:08,544
+Therefore, what needs
+to happen very soon
+
+395
+00:18:08,577 --> 00:18:10,910
+is for me to join
+the task force.
+
+396
+00:18:10,944 --> 00:18:14,444
+It'll allow me to keep track
+of L and this fake Kira.
+
+397
+00:18:18,744 --> 00:18:21,577
+-Ryuzaki, I'm afraid
+it's as you thought.
+
+398
+00:18:21,610 --> 00:18:23,977
+Several of our member
+countries have weighed in,
+
+399
+00:18:24,010 --> 00:18:25,777
+and it seems they are
+in favor of having
+
+400
+00:18:25,810 --> 00:18:30,010
+the real L appear on TV.
+
+401
+00:18:30,044 --> 00:18:32,177
+-I think that's the most
+appropriate choice, given
+
+402
+00:18:32,210 --> 00:18:33,377
+the options.
+
+403
+00:18:33,410 --> 00:18:35,877
+Well, we still have three
+days before it happens.
+
+404
+00:18:35,910 --> 00:18:38,144
+Maybe we can find
+some countermeasure.
+
+405
+00:18:38,177 --> 00:18:41,577
+After all this, it would
+really annoy me-- [slurp]
+
+406
+00:18:41,610 --> 00:18:43,444
+--mm-- if I'm killed
+by the first person
+
+407
+00:18:43,477 --> 00:18:44,977
+to jump on the Kira bandwagon.
+
+408
+00:18:45,010 --> 00:18:46,010
+[gasp]
+
+409
+00:18:46,044 --> 00:18:48,910
+-Ryuzaki, what do
+you mean by that?
+
+410
+00:18:48,944 --> 00:18:50,344
+-That there's a
+strong possibility
+
+411
+00:18:50,377 --> 00:18:52,977
+that this Kira's a fake.
+
+412
+00:18:53,010 --> 00:18:55,977
+No, we should think of
+him more as a second Kira.
+
+413
+00:18:56,010 --> 00:18:57,810
+-A second Kira?
+
+414
+00:18:57,844 --> 00:18:59,710
+-I-- I don't understand.
+
+415
+00:18:59,744 --> 00:19:01,610
+Why do you think
+there's a copycat?
+
+416
+00:19:01,644 --> 00:19:04,210
+How did you come
+to that conclusion?
+
+417
+00:19:04,244 --> 00:19:06,577
+L: I looked at the victims
+he used for his predictions
+
+418
+00:19:06,610 --> 00:19:08,044
+on tape number one.
+
+419
+00:19:08,077 --> 00:19:10,710
+Their purpose was to
+prove to Sakura TV staff
+
+420
+00:19:10,744 --> 00:19:12,610
+that he is Kira.
+
+421
+00:19:12,644 --> 00:19:14,210
+Both their names
+were only reported
+
+422
+00:19:14,244 --> 00:19:16,210
+in tabloids and
+daytime talk shows,
+
+423
+00:19:16,244 --> 00:19:18,444
+so they weren't exactly
+hardened criminals.
+
+424
+00:19:18,477 --> 00:19:20,810
+The real Kira has no
+need to prove himself
+
+425
+00:19:20,844 --> 00:19:22,677
+using such
+insignificant criminals.
+
+426
+00:19:22,710 --> 00:19:27,210
+But from the
+perspective Kira, he'd
+
+427
+00:19:27,244 --> 00:19:29,544
+want to make absolutely
+certain that he didn't predict
+
+428
+00:19:29,577 --> 00:19:30,910
+the death of a
+criminal who could
+
+429
+00:19:30,944 --> 00:19:32,577
+be killed by the
+real Kira first.
+
+430
+00:19:32,610 --> 00:19:33,777
+-Hmm.
+
+431
+00:19:33,810 --> 00:19:36,510
+Ryuzaki, if you had to
+put a number on it, what's
+
+432
+00:19:36,544 --> 00:19:39,444
+the probability
+of a second Kira?
+
+433
+00:19:39,477 --> 00:19:41,544
+-This time, I'd say
+it's more than 70%.
+
+434
+00:19:41,577 --> 00:19:42,677
+-[gasp]
+
+435
+00:19:42,710 --> 00:19:45,310
+-I really don't like
+the way he operates.
+
+436
+00:19:45,344 --> 00:19:47,110
+It's not like Kira.
+
+437
+00:19:47,144 --> 00:19:48,710
+-Not like him?
+
+438
+00:19:48,744 --> 00:19:50,410
+L: In the past, he
+has traditionally
+
+439
+00:19:50,444 --> 00:19:53,177
+avoided killing innocent people,
+with the exception of those
+
+440
+00:19:53,210 --> 00:19:54,677
+who were trying to catch him.
+
+441
+00:19:54,710 --> 00:19:57,177
+Anyway, if we can
+capture one Kira,
+
+442
+00:19:57,210 --> 00:19:59,277
+I think that will provide
+us with a lot of insight
+
+443
+00:19:59,310 --> 00:20:02,377
+into how we can
+find the other one.
+
+444
+00:20:02,410 --> 00:20:04,944
+Mr. Yagami, I'd
+like your permission
+
+445
+00:20:04,977 --> 00:20:07,777
+to ask your son to cooperate
+with us on this investigation.
+
+446
+00:20:07,810 --> 00:20:09,177
+-Huh?
+
+447
+00:20:09,210 --> 00:20:11,277
+-If you want my son to
+join the task force,
+
+448
+00:20:11,310 --> 00:20:13,444
+does this mean you no
+longer suspect him?
+
+449
+00:20:13,477 --> 00:20:16,477
+-Well, I can't say that he's
+been completely cleared,
+
+450
+00:20:16,510 --> 00:20:18,877
+but his deductive abilities
+would be invaluable to us
+
+451
+00:20:18,910 --> 00:20:20,210
+right now.
+
+452
+00:20:20,244 --> 00:20:22,777
+CHIEF YAGAMI (VOICEOVER)
+So that's what it means.
+
+453
+00:20:22,810 --> 00:20:24,444
+If my son wants to
+cooperate with you,
+
+454
+00:20:24,477 --> 00:20:26,577
+then I have no
+reason to prevent it.
+
+455
+00:20:26,610 --> 00:20:28,110
+-I appreciate that.
+
+456
+00:20:28,144 --> 00:20:31,244
+However, please don't
+tell him that we
+
+457
+00:20:31,277 --> 00:20:33,310
+think this latest
+Kira might be a fake.
+
+458
+00:20:33,344 --> 00:20:35,310
+I don't want him
+to know that yet.
+
+459
+00:20:35,344 --> 00:20:37,577
+We want to make it appear
+to him that we're still
+
+460
+00:20:37,610 --> 00:20:39,144
+chasing the same Kira.
+
+461
+00:20:39,177 --> 00:20:39,644
+-Hmm.
+
+462
+00:20:45,777 --> 00:20:49,344
+REM: Misa, I gave that
+Death Note to you.
+
+463
+00:20:49,377 --> 00:20:51,144
+So why not use it for yourself?
+
+464
+00:20:53,777 --> 00:20:56,510
+-I am using it for
+myself because I
+
+465
+00:20:56,544 --> 00:20:58,610
+believe in what Kira is doing.
+
+466
+00:20:58,644 --> 00:21:01,310
+I want to know what
+kind of person Kira is.
+
+467
+00:21:01,344 --> 00:21:03,644
+I want to meet him
+and talk to him.
+
+468
+00:21:03,677 --> 00:21:06,377
+That's the only reason I sent
+all those videos to that TV
+
+469
+00:21:06,410 --> 00:21:07,510
+station.
+
+470
+00:21:07,544 --> 00:21:11,110
+I had to find some way
+to make Kira notice me.
+
+471
+00:21:11,144 --> 00:21:13,610
+And I'd say that probably
+got his attention.
+
+472
+00:21:13,644 --> 00:21:14,444
+Don't you think?
+
+473
+00:21:14,477 --> 00:21:15,477
+[giggle]
+
+474
+00:21:15,510 --> 00:21:17,677
+-It's a dangerous
+game you're playing.
+
+475
+00:21:17,710 --> 00:21:19,610
+There's a chance
+you could be killed.
+
+476
+00:21:19,644 --> 00:21:21,144
+Do you understand?
+
+477
+00:21:21,177 --> 00:21:22,410
+-It's all right.
+
+478
+00:21:22,444 --> 00:21:24,644
+I'm sure that Kira is kind
+to those with pure hearts.
+
+479
+00:21:24,677 --> 00:21:27,477
+And if it came down to
+that, I'm still stronger
+
+480
+00:21:27,510 --> 00:21:30,444
+than he is because
+I have the eyes.
+
+481
+00:21:39,051 --> 00:21:42,285
+[theme music]
+
+482
+00:22:50,585 --> 00:22:52,151
+LIGHT (VOICEOVER):
+I need to figure out
+
+483
+00:22:52,185 --> 00:22:53,885
+what this other
+Kira is all about
+
+484
+00:22:53,918 --> 00:22:56,918
+before someone else on the
+task force beats me to it.
+
+485
+00:22:56,951 --> 00:23:01,851
+I wonder, what kind of
+person are you, impostor?
+

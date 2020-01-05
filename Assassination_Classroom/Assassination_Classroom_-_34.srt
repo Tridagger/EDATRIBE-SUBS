@@ -1,0 +1,2112 @@
+﻿1
+00:00:09,875 --> 00:00:13,708
+[NAGISA]
+The math exam's last problem.
+
+2
+00:00:13,791 --> 00:00:17,125
+Half of our grade was weeded
+out before getting this far.
+
+3
+00:00:17,208 --> 00:00:20,541
+The other half had absolutely
+no time to spare.
+
+4
+00:00:20,625 --> 00:00:24,708
+and was so exhausted they didn't
+have the energy to solve it.
+
+5
+00:00:24,791 --> 00:00:27,541
+The only students still
+standing with any chance
+
+6
+00:00:27,625 --> 00:00:30,625
+of earning full marks in
+the few minutes left...
+
+7
+00:00:36,583 --> 00:00:38,250
+[NAGISA]
+...were these two.
+
+8
+00:02:18,458 --> 00:02:21,625
+[KARMA] What was it Nagisa
+always used to say?
+
+9
+00:02:23,375 --> 00:02:26,458
+[NAGISA sighs]
+You're so talented, Karma.
+
+10
+00:02:26,541 --> 00:02:29,583
+How is there such a gap
+between the both of us?
+
+11
+00:02:29,666 --> 00:02:33,000
+Guess some people are
+just geniuses, huh?
+
+12
+00:02:33,791 --> 00:02:35,333
+[KARMA]
+Easy for you to say.
+
+13
+00:02:35,416 --> 00:02:36,833
+If you ask me,
+
+14
+00:02:36,916 --> 00:02:40,500
+it's not all that cut n' dry
+who the real genius is here.
+
+15
+00:02:40,583 --> 00:02:43,125
+Talent is usually
+an invisible trait.
+
+16
+00:02:43,208 --> 00:02:44,375
+More often than not,
+
+17
+00:02:44,458 --> 00:02:46,916
+it's the result of work
+other people don't see.
+
+18
+00:02:47,000 --> 00:02:48,416
+Take Sugino.
+
+19
+00:02:48,500 --> 00:02:51,708
+He can fit in easily
+with anyone, anywhere.
+
+20
+00:02:51,791 --> 00:02:54,333
+Or Okuda, who can
+totally lose herself
+
+21
+00:02:54,416 --> 00:02:56,916
+in something she's
+passionate about.
+
+22
+00:02:57,000 --> 00:03:01,875
+Even Terasaka, who dives right
+in without a second thought.
+
+23
+00:03:01,958 --> 00:03:05,000
+From where I'm standing,
+we're in the same boat.
+
+24
+00:03:05,083 --> 00:03:06,541
+Everybody has something,
+
+25
+00:03:06,625 --> 00:03:09,708
+some hidden special ability
+they take for granted.
+
+26
+00:03:09,791 --> 00:03:11,500
+We're all geniuses.
+
+27
+00:03:11,583 --> 00:03:13,416
+We all have a talent.
+
+28
+00:03:13,500 --> 00:03:15,000
+Still...
+
+29
+00:03:15,083 --> 00:03:17,583
+The issue at hand is whether
+or not I can filter the answer
+
+30
+00:03:17,666 --> 00:03:20,541
+to this problem through
+the lens of my own.
+
+31
+00:03:20,625 --> 00:03:21,750
+C'mon, man...
+
+32
+00:03:21,833 --> 00:03:22,625
+Snap out of it,
+
+33
+00:03:22,708 --> 00:03:24,541
+you don't have time for this.
+
+34
+00:03:27,083 --> 00:03:28,750
+[GAKUSHU]
+Atoms.
+
+35
+00:03:28,833 --> 00:03:31,208
+Body-centered cubic units...
+
+36
+00:03:31,291 --> 00:03:32,625
+Extraneous details.
+
+37
+00:03:32,708 --> 00:03:34,791
+Stay focused.
+
+38
+00:03:34,875 --> 00:03:38,333
+Broken down to essentials,
+the problem is simple.
+
+39
+00:03:38,416 --> 00:03:41,291
+Solve for the volume of
+your specific domain,
+
+40
+00:03:41,375 --> 00:03:44,000
+in a box, surrounded by enemies.
+
+41
+00:03:50,666 --> 00:03:51,291
+[gasps]
+
+42
+00:03:51,375 --> 00:03:52,375
+[TEST ENEMY A shrieks]
+
+43
+00:03:53,208 --> 00:03:55,166
+[TEST ENEMY A shrieking]
+
+44
+00:03:56,166 --> 00:03:58,250
+[GAKUSHU] When both sides
+are evenly matched,
+
+45
+00:03:58,333 --> 00:04:01,041
+their attacks meet
+in the middle.
+
+46
+00:04:01,125 --> 00:04:04,083
+Of course, from there
+inward is my domain!
+
+47
+00:04:04,166 --> 00:04:06,708
+That's one enemy down! Ha!
+
+48
+00:04:11,500 --> 00:04:13,208
+[GAKUSHU]
+Nice try.
+
+49
+00:04:13,291 --> 00:04:15,583
+But I'm afraid you won't be
+encroaching on my turf
+
+50
+00:04:15,666 --> 00:04:17,541
+anytime soon.
+
+51
+00:04:17,625 --> 00:04:20,833
+Eight enemies total, surrounding
+the cube's perimeter.
+
+52
+00:04:20,916 --> 00:04:22,958
+If I determine the volume
+of the eight areas
+
+53
+00:04:23,041 --> 00:04:24,625
+I've effectively sealed off,
+
+54
+00:04:24,708 --> 00:04:28,291
+and subtract that from
+the volume of the cube,
+
+55
+00:04:28,375 --> 00:04:32,041
+I'm left with A-Zero,
+my specific domain!
+
+56
+00:04:32,125 --> 00:04:34,000
+[TEST ENEMY B shrieking]
+
+57
+00:04:35,791 --> 00:04:37,250
+[GAKUSHU] Once I've
+locked down this space,
+
+58
+00:04:37,333 --> 00:04:38,666
+I'll have the answer.
+
+59
+00:04:38,750 --> 00:04:40,583
+Come on, come on!
+
+60
+00:04:44,125 --> 00:04:45,750
+[GAKUSHU]
+Ruling my own domain.
+
+61
+00:04:45,833 --> 00:04:49,208
+Nice overall theme
+for my goal in life!
+
+62
+00:04:49,291 --> 00:04:50,416
+[TEST ENEMY D yelps]
+
+63
+00:04:51,791 --> 00:04:55,041
+[GAKUSHU] A different sort
+of ruler than my father.
+
+64
+00:04:55,125 --> 00:04:56,625
+He's obsessed.
+
+65
+00:04:56,708 --> 00:04:59,125
+The man only cares about proving
+his "rational" approach
+
+66
+00:04:59,208 --> 00:05:02,375
+to education superior
+to all others.
+
+67
+00:05:02,458 --> 00:05:04,416
+His method may break
+a person's spirit,
+
+68
+00:05:04,500 --> 00:05:07,041
+but it won't educate them.
+
+69
+00:05:07,125 --> 00:05:09,208
+It's time to set
+the record straight,
+
+70
+00:05:09,291 --> 00:05:13,333
+give him a piece of my mind!
+I have to take control!
+
+71
+00:05:13,416 --> 00:05:14,500
+That...
+
+72
+00:05:14,583 --> 00:05:17,666
+is my responsibility
+as your son!
+
+73
+00:05:18,333 --> 00:05:19,708
+[GAKUSHU]
+There it is!
+
+74
+00:05:19,791 --> 00:05:22,166
+The volume of one of the
+sealed-off areas is an aggregate
+
+75
+00:05:22,250 --> 00:05:25,875
+of one hexagonal and three
+triangular pyramids!
+
+76
+00:05:39,166 --> 00:05:40,833
+[KARMA]
+Hang on a minute...
+
+77
+00:05:40,916 --> 00:05:44,541
+This problem doesn't even
+call for difficult math.
+
+78
+00:05:45,458 --> 00:05:46,875
+[KARMA]
+The whole thing's divided out
+
+79
+00:05:46,958 --> 00:05:49,458
+into this one itty-bitty
+little cube...
+
+80
+00:05:49,541 --> 00:05:52,250
+and if it's supposedly
+an atomic crystal...
+
+81
+00:05:52,333 --> 00:05:53,666
+Yeah,
+
+82
+00:05:53,750 --> 00:05:57,125
+everything on the outside
+is just more of the same.
+
+83
+00:05:57,208 --> 00:05:58,833
+Which means...
+
+84
+00:05:58,916 --> 00:06:01,041
+The world doesn't end here.
+
+85
+00:06:03,666 --> 00:06:05,583
+[KARMA]
+From where I'm standing,
+
+86
+00:06:05,666 --> 00:06:07,791
+everyone has their own talent.
+
+87
+00:06:07,875 --> 00:06:10,083
+Their own specific domain.
+
+88
+00:06:10,166 --> 00:06:12,750
+We are all in the same boat.
+
+89
+00:06:12,833 --> 00:06:15,291
+I just couldn't see it before.
+
+90
+00:06:15,375 --> 00:06:18,458
+All I could see
+from inside this box
+
+91
+00:06:18,541 --> 00:06:21,166
+were fragments of
+the bigger picture.
+
+92
+00:06:21,250 --> 00:06:23,875
+I have my area,
+they have theirs.
+
+93
+00:06:23,958 --> 00:06:24,916
+We all do.
+
+94
+00:06:25,000 --> 00:06:26,500
+That's how this works.
+
+95
+00:06:26,583 --> 00:06:28,541
+How it's always worked.
+
+96
+00:06:28,625 --> 00:06:30,791
+Everyone's the same size,
+
+97
+00:06:30,875 --> 00:06:32,875
+the same distance apart.
+
+98
+00:06:32,958 --> 00:06:34,875
+And if we're all cut
+from the same box,
+
+99
+00:06:34,958 --> 00:06:37,250
+those eight contiguous
+boxes can be broken up
+
+100
+00:06:37,333 --> 00:06:39,500
+into the same proportion.
+
+101
+00:06:40,583 --> 00:06:42,416
+[KARMA] Each person's
+individual fragment
+
+102
+00:06:42,500 --> 00:06:44,958
+accounts for one-eighth
+of the whole.
+
+103
+00:06:45,041 --> 00:06:49,250
+So what it boils down to is:
+this box contains one whole me
+
+104
+00:06:49,333 --> 00:06:52,375
+and one-eighth of
+eight other people.
+
+105
+00:06:53,208 --> 00:06:54,333
+[KARMA]
+In other words,
+
+106
+00:06:54,416 --> 00:06:55,875
+inside this cube,
+
+107
+00:06:55,958 --> 00:06:59,750
+the ratio of me to the other
+eight fragments is one-to-one.
+
+108
+00:06:59,833 --> 00:07:01,625
+Simple!
+
+109
+00:07:01,708 --> 00:07:04,083
+And if it's one-to-one
+inside the box,
+
+110
+00:07:04,166 --> 00:07:06,208
+the volume of the area
+I can call my own
+
+111
+00:07:06,291 --> 00:07:08,291
+is up to one-half of the cube!
+
+112
+00:07:08,375 --> 00:07:12,125
+Voila! That's my
+specific domain!
+
+113
+00:07:14,875 --> 00:07:16,041
+Piece of cake.
+
+114
+00:07:16,125 --> 00:07:18,958
+They taught us this stuff
+in primary school.
+
+115
+00:07:28,208 --> 00:07:30,541
+[KARMA] No need for long,
+drawn-out equations.
+
+116
+00:07:30,625 --> 00:07:34,958
+No need for big,
+complicated diagrams.
+
+117
+00:07:35,041 --> 00:07:36,000
+Nope.
+
+118
+00:07:36,083 --> 00:07:37,375
+You just have to
+adjust for the fact
+
+119
+00:07:37,458 --> 00:07:40,083
+there's a world
+outside yourself.
+
+120
+00:07:43,083 --> 00:07:44,291
+[TEACHER A]
+Pencils down!
+
+121
+00:07:44,375 --> 00:07:45,708
+[GAKUSHU gasps]
+
+122
+00:07:45,791 --> 00:07:48,916
+Time's up, son.
+The test is over.
+
+123
+00:07:50,625 --> 00:07:52,791
+Just one more line.
+
+124
+00:07:52,875 --> 00:07:56,583
+Damn it! I knew the answer!
+
+125
+00:07:59,458 --> 00:08:00,666
+[NAGISA]
+And like that,
+
+126
+00:08:00,750 --> 00:08:04,250
+the tidal wave of our
+end-of-term exams broke.
+
+127
+00:08:07,500 --> 00:08:09,125
+[KORO-SENSEI]
+Alright-y, class!
+
+128
+00:08:09,208 --> 00:08:12,791
+Let's all have a look at
+your compiled exam papers.
+
+129
+00:08:12,875 --> 00:08:14,333
+Did those crucial
+second blades
+
+130
+00:08:14,416 --> 00:08:18,125
+manage to pierce their intended
+targets, I wonder?
+
+131
+00:08:22,458 --> 00:08:26,375
+[KORO-SENSEI] No splitting hairs
+over a point or two, understood?
+
+132
+00:08:26,458 --> 00:08:28,291
+The only thing we're
+concerned with right now
+
+133
+00:08:28,375 --> 00:08:32,583
+is whether these scores secured
+a place for you in the top 50.
+
+134
+00:08:32,666 --> 00:08:35,125
+Unless I'm mistaken, the
+main campus ought to be
+
+135
+00:08:35,208 --> 00:08:37,958
+posting the results for
+all to see as we speak.
+
+136
+00:08:38,041 --> 00:08:41,708
+So I see no reason we can't
+do the same in E-Class...
+
+137
+00:08:42,708 --> 00:08:44,416
+[STUDENTS gasping]
+
+138
+00:08:47,666 --> 00:08:49,083
+[STUDENTS gasp]
+
+139
+00:08:49,166 --> 00:08:50,708
+[STUDENTS gasping]
+
+140
+00:08:54,208 --> 00:08:57,541
+You... you're kidding me...
+
+141
+00:08:57,625 --> 00:08:59,833
+I'm forty-sixth?!
+
+142
+00:08:59,916 --> 00:09:02,333
+[YOSHIDA] Isn't Terasaka dead
+last even in here, though?
+
+143
+00:09:02,416 --> 00:09:03,791
+[SUMIRE]
+If he came in forty-sixth,
+
+144
+00:09:03,875 --> 00:09:05,458
+then that must mean...
+
+145
+00:09:05,541 --> 00:09:07,416
+[SUGINO]
+Is this for real?
+
+146
+00:09:08,375 --> 00:09:10,250
+[STUDENTS]
+We did it!
+
+147
+00:09:11,083 --> 00:09:13,541
+[MAEHARA] And we beat out the
+Big Five for the top spots!
+
+148
+00:09:13,625 --> 00:09:15,000
+Go us!
+
+149
+00:09:15,083 --> 00:09:17,666
+[SUGINO] Karma! Dude,
+you got first place!
+
+150
+00:09:17,750 --> 00:09:19,166
+[exhales]
+
+151
+00:09:19,250 --> 00:09:21,166
+[KORO-SENSEI]
+Feels pretty good, doesn't it?
+
+152
+00:09:21,250 --> 00:09:25,666
+Earning the highest rank on such
+an unforgiving battlefield.
+
+153
+00:09:25,750 --> 00:09:27,750
+Whatever. I guess so, yeah.
+
+154
+00:09:27,833 --> 00:09:29,250
+[KORO-SENSEI]
+It appears your contest
+
+155
+00:09:29,333 --> 00:09:31,875
+with Asano the perfectionist
+came to a head on that last,
+
+156
+00:09:31,958 --> 00:09:35,083
+and I must say, particularly
+thorny, math problem.
+
+157
+00:09:35,166 --> 00:09:36,708
+Yeah, about that.
+
+158
+00:09:36,791 --> 00:09:39,375
+Not sure I could say
+exactly why, but...
+
+159
+00:09:39,458 --> 00:09:42,083
+If I hadn't spent the
+past year with you guys,
+
+160
+00:09:42,166 --> 00:09:44,500
+I don't think I could
+have solved it.
+
+161
+00:09:44,583 --> 00:09:46,416
+That's the kind of
+problem it was.
+
+162
+00:09:46,500 --> 00:09:49,083
+[sighs] Tough haul gettin'
+to this point, though, huh?
+
+163
+00:09:49,166 --> 00:09:50,375
+Yeah! I don't believe it!
+
+164
+00:09:50,458 --> 00:09:52,250
+And, well, all wanted
+this so badly!
+
+165
+00:09:52,333 --> 00:09:53,625
+We actually beat A-Class.
+
+166
+00:09:53,708 --> 00:09:55,375
+Almost sounds too
+good to be true.
+
+167
+00:09:55,458 --> 00:09:57,458
+We're back on track for
+the top tier schools!
+
+168
+00:09:57,541 --> 00:09:59,333
+The ladies'll be throwin'
+themselves at our feet!
+
+169
+00:09:59,416 --> 00:10:00,875
+Way to go us, right?
+
+170
+00:10:00,958 --> 00:10:02,750
+[OKAJIMA]
+Yeah! Chicks everywhere!
+
+171
+00:10:02,833 --> 00:10:04,833
+[sighs] Feels like
+a final episode.
+
+172
+00:10:04,916 --> 00:10:07,291
+Wait a sec! It's not over!
+
+173
+00:10:07,375 --> 00:10:09,250
+[ISOGAI] Uh. What's
+with that look, man?
+
+174
+00:10:09,333 --> 00:10:10,291
+Are you okay?
+
+175
+00:10:10,375 --> 00:10:11,875
+[TAKEBAYASHI]
+Uh, yeah.
+
+176
+00:10:11,958 --> 00:10:15,541
+Uh, it's just that, so much has
+happened since I came here.
+
+177
+00:10:15,625 --> 00:10:17,250
+I'm really glad I
+got kicked down.
+
+178
+00:10:17,333 --> 00:10:19,458
+Aw, why you gotta
+be all depressing, huh?
+
+179
+00:10:19,541 --> 00:10:23,041
+Besides, why make an ugly face
+when this clown has it covered?
+
+180
+00:10:23,125 --> 00:10:24,458
+What does that mean?!
+
+181
+00:10:24,541 --> 00:10:25,666
+Easy, you're choking him!
+
+182
+00:10:25,750 --> 00:10:26,791
+Whaddya think?
+
+183
+00:10:26,875 --> 00:10:28,000
+What do I think?
+
+184
+00:10:28,083 --> 00:10:30,041
+I think I can get into
+my dream school now.
+
+185
+00:10:30,125 --> 00:10:32,500
+What are you gonna study?
+Architecture, right?
+
+186
+00:10:32,583 --> 00:10:34,750
+Yeah. I'm angling
+for a high school
+
+187
+00:10:34,833 --> 00:10:36,791
+that's big on engineering
+and science.
+
+188
+00:10:36,875 --> 00:10:38,583
+[HAYAMI]
+Hm.
+
+189
+00:10:38,666 --> 00:10:40,750
+Ha! Man, those
+A-Class dillweeds.
+
+190
+00:10:40,833 --> 00:10:43,250
+What I wouldn't give to see the
+looks on their faces right now!
+
+191
+00:10:43,333 --> 00:10:45,458
+Bet'cha anything they never
+thought in a million years
+
+192
+00:10:45,541 --> 00:10:46,875
+they'd lose to us!
+
+193
+00:10:46,958 --> 00:10:48,916
+[KORO-SENSEI] Now, to be fair,
+on their part A-Class
+
+194
+00:10:49,000 --> 00:10:51,583
+performed quite well on
+the first half of the exams.
+
+195
+00:10:51,666 --> 00:10:53,750
+But as the questions grew
+increasingly difficult
+
+196
+00:10:53,833 --> 00:10:55,291
+on the second half,
+
+197
+00:10:55,375 --> 00:10:58,041
+more and more students found
+themselves running out of steam.
+
+198
+00:10:58,125 --> 00:10:59,583
+Yeah, well, 's what they get.
+
+199
+00:10:59,666 --> 00:11:02,958
+Whoever you are, nobody's
+bloodlust holds out that long.
+
+200
+00:11:03,041 --> 00:11:05,458
+Even after intensive
+assassination drills.
+
+201
+00:11:05,541 --> 00:11:07,625
+It's next to impossible staying
+in that frame of mind
+
+202
+00:11:07,708 --> 00:11:09,625
+for an entire day.
+
+203
+00:11:09,708 --> 00:11:12,000
+If you expect to boost
+your system on bloodlust,
+
+204
+00:11:12,083 --> 00:11:14,083
+cramming isn't the way to go.
+
+205
+00:11:14,166 --> 00:11:15,541
+You have to nurture
+it over time,
+
+206
+00:11:15,625 --> 00:11:17,708
+slow and steady.
+
+207
+00:11:18,125 --> 00:11:19,541
+[SEO]
+How'd this happen?
+
+208
+00:11:19,625 --> 00:11:22,583
+How'd we lose after everything
+we put ourselves through?
+
+209
+00:11:22,666 --> 00:11:25,375
+[GAKUSHU] Your study methods
+worked against you.
+
+210
+00:11:25,458 --> 00:11:27,041
+You were set up to lose.
+
+211
+00:11:27,125 --> 00:11:28,791
+That's what it comes to.
+
+212
+00:11:28,875 --> 00:11:32,000
+Not that my scores are anything
+to brag about, either...
+
+213
+00:11:32,083 --> 00:11:36,166
+Rest assured, I'll put this
+frustration to work.
+
+214
+00:11:36,250 --> 00:11:38,458
+Come high school,
+I'll be on top again,
+
+215
+00:11:38,541 --> 00:11:42,125
+doing my damnedest to blaze
+a trail for the rest of you.
+
+216
+00:11:42,208 --> 00:11:46,875
+Just... All I ask
+is for your support.
+
+217
+00:11:46,958 --> 00:11:48,083
+Asano...
+
+218
+00:11:48,166 --> 00:11:50,000
+You mean that?
+
+219
+00:11:51,833 --> 00:11:53,500
+[ASANO]
+Intriguing.
+
+220
+00:11:53,583 --> 00:11:55,916
+Strong words for someone
+who's lost the fight
+
+221
+00:11:56,000 --> 00:11:57,833
+on which he staked his future.
+
+222
+00:11:57,916 --> 00:11:59,541
+[GAKUSHU gasps]
+
+223
+00:11:59,625 --> 00:12:01,916
+[A-CLASS STUDENTS]
+Principal Asano.
+
+224
+00:12:02,416 --> 00:12:05,625
+[ASANO] All we may count
+on in life is the unknown,
+
+225
+00:12:05,708 --> 00:12:09,708
+what seems arbitrary can in fact
+be what costs you everything.
+
+226
+00:12:09,791 --> 00:12:12,333
+One can't be sure until
+the battle is over.
+
+227
+00:12:12,416 --> 00:12:13,916
+[A-CLASS STUDENTS whimper]
+
+228
+00:12:14,000 --> 00:12:17,333
+[ASANO] This, you see, is why I
+insist on always playing to win.
+
+229
+00:12:17,416 --> 00:12:20,791
+I have an obligation to prepare
+my students for the unknown.
+
+230
+00:12:20,875 --> 00:12:25,041
+Between now and graduation,
+you have much to learn.
+
+231
+00:12:25,125 --> 00:12:26,708
+[ARAKI]
+Principal Asano, sir?
+
+232
+00:12:26,791 --> 00:12:27,750
+[ASANO]
+Hm?
+
+233
+00:12:27,833 --> 00:12:30,250
+All due respect,
+it's clear to us...
+
+234
+00:12:30,333 --> 00:12:31,958
+...that your methods
+
+235
+00:12:32,041 --> 00:12:34,958
+aren't going to
+help us beat E-Class.
+
+236
+00:12:36,041 --> 00:12:38,291
+[ARAKI]
+Defeat made them stronger.
+
+237
+00:12:38,375 --> 00:12:40,458
+Asano's taken that
+lesson to heart.
+
+238
+00:12:40,541 --> 00:12:42,041
+[SAKAKIBARA]
+We're no match for them, sir...
+
+239
+00:12:42,125 --> 00:12:44,458
+Their strength is just
+too... what's the word?
+
+240
+00:12:44,541 --> 00:12:45,833
+Adaptable.
+
+241
+00:12:45,916 --> 00:12:47,166
+[ALL]
+Forgive us, sir.
+
+242
+00:12:47,250 --> 00:12:49,541
+We fell short of our goal.
+
+243
+00:12:49,625 --> 00:12:51,291
+[SAKAKIBARA]
+If you think it's appropriate,
+
+244
+00:12:51,375 --> 00:12:53,583
+transfer us down to E-Class.
+
+245
+00:12:53,666 --> 00:12:55,375
+I think there's a lot to
+learn from their way
+
+246
+00:12:55,458 --> 00:12:57,125
+of doing things.
+
+247
+00:13:00,208 --> 00:13:01,291
+Well, Principal?
+
+248
+00:13:01,375 --> 00:13:03,708
+What do you have to say to that?
+
+249
+00:13:05,291 --> 00:13:07,625
+[SAKAKIBARA]
+Asano!
+
+250
+00:13:08,625 --> 00:13:10,166
+[A-CLASS GIRL A]
+Are you all right?!
+
+251
+00:13:10,250 --> 00:13:15,708
+[GAKUSHU laughs] Your face
+looks like it's glitching out.
+
+252
+00:13:15,791 --> 00:13:17,083
+Uh-oh.
+
+253
+00:13:17,166 --> 00:13:20,791
+Don't tell my I'm finally seeing
+your fatherly side?
+
+254
+00:13:22,791 --> 00:13:26,500
+Excuse us, sir.
+We have to be going.
+
+255
+00:13:42,291 --> 00:13:43,791
+[KORO-SENSEI]
+Well, boys and girls!
+
+256
+00:13:43,875 --> 00:13:48,041
+You've officially qualified to
+be transferred out of E-Class.
+
+257
+00:13:48,125 --> 00:13:50,916
+Anyone here ready to
+leave the mountain?
+
+258
+00:13:51,000 --> 00:13:52,875
+Yeah. You'd like that,
+wouldn't you?
+
+259
+00:13:52,958 --> 00:13:55,416
+I don't think so, we've
+found our second blades.
+
+260
+00:13:55,500 --> 00:13:57,291
+This is where things
+get serious!
+
+261
+00:13:57,375 --> 00:13:59,750
+[MEG] If you know a place
+better suited to assassination,
+
+262
+00:13:59,833 --> 00:14:01,125
+we're all ears!
+
+263
+00:14:01,208 --> 00:14:05,208
+[KORO-SENSEI laughs]
+Gluttons for punishment, I see.
+
+264
+00:14:05,291 --> 00:14:06,833
+I suppose, then, as your reward
+
+265
+00:14:06,916 --> 00:14:08,791
+I ought to divulge my
+most notable weakness--
+
+266
+00:14:08,875 --> 00:14:10,041
+[yelps]
+
+267
+00:14:10,125 --> 00:14:11,625
+[STUDENTS gasp]
+
+268
+00:14:15,041 --> 00:14:15,875
+[MEG]
+Huh?
+
+269
+00:14:15,958 --> 00:14:18,833
+Ah! Our building!
+
+270
+00:14:18,916 --> 00:14:19,916
+[STUDENTS gasp]
+
+271
+00:14:20,000 --> 00:14:21,875
+[ASANO]
+Evacuate the premises, please.
+
+272
+00:14:21,958 --> 00:14:23,166
+[STUDENTS]
+Principal Asano!
+
+273
+00:14:23,250 --> 00:14:26,166
+The Board reached a
+unanimous decision.
+
+274
+00:14:26,250 --> 00:14:28,791
+The old campus building
+is to be demolished today.
+
+275
+00:14:28,875 --> 00:14:29,875
+[STUDENTS gasp]
+
+276
+00:14:29,958 --> 00:14:31,458
+[ASANO]
+Oh, don't worry.
+
+277
+00:14:31,541 --> 00:14:35,083
+You'll be moved to an affiliate
+school slated to open next year.
+
+278
+00:14:35,166 --> 00:14:36,875
+We need students to
+performance-test
+
+279
+00:14:36,958 --> 00:14:38,625
+their newest facilities.
+
+280
+00:14:38,708 --> 00:14:39,750
+[STUDENTS gasp]
+
+281
+00:14:39,833 --> 00:14:40,875
+Wait, you're farming
+us out somewhere?!
+
+282
+00:14:40,958 --> 00:14:42,375
+It's not all that bad.
+
+283
+00:14:42,458 --> 00:14:44,541
+Let us call it a
+social experiment.
+
+284
+00:14:44,625 --> 00:14:46,291
+The building is
+state-of-the-art,
+
+285
+00:14:46,375 --> 00:14:48,291
+with closed-circuit
+surveillance cameras
+
+286
+00:14:48,375 --> 00:14:50,208
+and escape-proof architecture.
+
+287
+00:14:50,291 --> 00:14:52,250
+It's similar to a prison.
+
+288
+00:14:52,333 --> 00:14:55,375
+The culmination of my
+educational philosophy.
+
+289
+00:14:55,458 --> 00:14:57,625
+But, you can't move
+us right now!
+
+290
+00:14:57,708 --> 00:14:58,666
+We won't go!
+
+291
+00:14:58,750 --> 00:15:01,166
+We're graduating
+from this campus!
+
+292
+00:15:01,958 --> 00:15:03,708
+[KORO-SENSEI]
+I see you'll spare nothing
+
+293
+00:15:03,791 --> 00:15:05,625
+to see your methods vindicated.
+
+294
+00:15:05,708 --> 00:15:06,833
+Correct.
+
+295
+00:15:06,916 --> 00:15:08,750
+Oh, and incidentally,
+
+296
+00:15:08,833 --> 00:15:11,500
+your services will no
+longer be required.
+
+297
+00:15:11,583 --> 00:15:12,541
+[KORO-SENSEI]
+Mm.
+
+298
+00:15:12,625 --> 00:15:14,625
+Yes, I'm afraid so.
+
+299
+00:15:14,708 --> 00:15:17,166
+This is the part
+where I terminate you.
+
+300
+00:15:17,250 --> 00:15:18,458
+[KORO-SENSEI shrieks]
+
+301
+00:15:18,541 --> 00:15:20,916
+Whoa! He just got slapped
+with walking papers!
+
+302
+00:15:21,000 --> 00:15:22,375
+I don't believe it.
+
+303
+00:15:22,458 --> 00:15:25,125
+The man actually played the
+forbidden ace-in-the-hole!
+
+304
+00:15:25,208 --> 00:15:27,708
+[KORO-SENSEI]
+Ah! This is wrongful dismissal!
+
+305
+00:15:27,791 --> 00:15:29,958
+[SUGINO] The Octopus is
+ridiculously susceptible
+
+306
+00:15:30,041 --> 00:15:31,500
+to this mode of attack.
+
+307
+00:15:31,583 --> 00:15:34,333
+[NAGISA] Do super creatures
+have a legal right to protest?
+
+308
+00:15:34,416 --> 00:15:36,375
+Now don't go jumping
+to conclusions...
+
+309
+00:15:36,458 --> 00:15:40,375
+Actually, this is no more than a
+clever means of distracting you.
+
+310
+00:15:40,458 --> 00:15:44,166
+When I said "terminate,"
+I meant it literally.
+
+311
+00:15:44,250 --> 00:15:46,125
+I'm here to kill you.
+
+312
+00:15:46,208 --> 00:15:47,208
+[KORO-SENSEI]
+Eh?
+
+313
+00:15:47,291 --> 00:15:49,166
+[ASANO]
+You see, Koro-sensei...
+
+314
+00:15:49,250 --> 00:15:51,916
+You don't fit with my vision.
+
+315
+00:15:52,000 --> 00:15:53,541
+He can't be serious.
+
+316
+00:15:53,625 --> 00:15:56,416
+Look, man, we know you're a
+big Machiavelli and all that,
+
+317
+00:15:56,500 --> 00:15:58,333
+but I'd tread carefully
+in your shoes.
+
+318
+00:15:58,416 --> 00:16:00,500
+The Octopus is clever.
+
+319
+00:16:01,375 --> 00:16:04,500
+Hold off on the demolition for
+now, if you would please...
+
+320
+00:16:04,583 --> 00:16:07,458
+I have unfinished
+business inside.
+
+321
+00:16:11,583 --> 00:16:13,916
+Where the hell'd that notice
+of dismissal come from?
+
+322
+00:16:14,000 --> 00:16:17,583
+[KARASUMA] This is crazy.
+What is he thinking?
+
+323
+00:16:17,666 --> 00:16:19,458
+Now, then, Koro-sensei.
+
+324
+00:16:19,541 --> 00:16:22,041
+I assume you don't
+wish to be fired?
+
+325
+00:16:22,125 --> 00:16:25,583
+And furthermore that you wish
+to preserve this classroom?
+
+326
+00:16:25,666 --> 00:16:28,541
+Well, what would you
+say to a little wager?
+
+327
+00:16:28,625 --> 00:16:30,250
+What's he getting at?
+
+328
+00:16:30,333 --> 00:16:32,083
+[ASANO]
+I've prepared five subjects'
+
+329
+00:16:32,166 --> 00:16:33,625
+worth of exam questions,
+
+330
+00:16:33,708 --> 00:16:35,583
+and five live grenades.
+
+331
+00:16:35,666 --> 00:16:38,541
+Four contain anti-Sensei
+projectiles.
+
+332
+00:16:38,625 --> 00:16:40,458
+That is, they are
+fatal to you.
+
+333
+00:16:40,541 --> 00:16:42,583
+One is fatal to humans.
+
+334
+00:16:42,666 --> 00:16:45,666
+All five grenades are identical
+in appearance and smell,
+
+335
+00:16:45,750 --> 00:16:48,208
+and designed so that once
+their pins are pulled
+
+336
+00:16:48,291 --> 00:16:50,666
+they will explode the instant
+their handles are raised.
+
+337
+00:16:50,750 --> 00:16:51,708
+[STUDENTS gasp]
+
+338
+00:16:51,791 --> 00:16:53,458
+I've pulled the pins,
+
+339
+00:16:53,541 --> 00:16:55,000
+and carefully placed
+the grenades
+
+340
+00:16:55,083 --> 00:16:57,166
+between random pages
+of each test booklet,
+
+341
+00:16:57,250 --> 00:16:58,583
+handles down.
+
+342
+00:16:58,666 --> 00:17:00,291
+You must open each book
+
+343
+00:17:00,375 --> 00:17:02,791
+and solve the problem in
+the top right-hand corner.
+
+344
+00:17:02,875 --> 00:17:04,166
+[ALL gasp]
+
+345
+00:17:04,250 --> 00:17:05,916
+But, that'll push the handles
+to the up position!
+
+346
+00:17:06,000 --> 00:17:06,958
+That's correct.
+
+347
+00:17:07,041 --> 00:17:08,416
+Your teacher will
+almost certainly
+
+348
+00:17:08,500 --> 00:17:10,416
+be hit with an explosion.
+
+349
+00:17:10,500 --> 00:17:11,666
+Furthermore,
+
+350
+00:17:11,750 --> 00:17:14,416
+he can't move until the
+problem has been solved.
+
+351
+00:17:14,500 --> 00:17:15,666
+The first four books
+
+352
+00:17:15,750 --> 00:17:18,166
+are yours and yours alone
+to open and solve.
+
+353
+00:17:18,250 --> 00:17:20,416
+I will be taking the
+remainder for myself.
+
+354
+00:17:20,500 --> 00:17:21,958
+[KORO-SENSEI whimpers]
+
+355
+00:17:22,041 --> 00:17:23,708
+Kill me, or force
+me to withdraw,
+
+356
+00:17:23,791 --> 00:17:26,416
+and victory belongs
+unquestionably to you.
+
+357
+00:17:26,500 --> 00:17:30,666
+You and the E-Class students
+will be allowed to stay here.
+
+358
+00:17:30,750 --> 00:17:34,125
+Agreed? Terasaka, look sharp.
+
+359
+00:17:34,208 --> 00:17:35,791
+Use the appropriate formula
+
+360
+00:17:35,875 --> 00:17:38,041
+to find Koro-sensei's
+odds of winning.
+
+361
+00:17:38,125 --> 00:17:39,500
+[TERASAKA grunts]
+
+362
+00:17:39,583 --> 00:17:42,083
+Why do I have to solve
+something so messed up?
+
+363
+00:17:42,166 --> 00:17:45,000
+An anti-Sensei grenade
+won't kill you...
+
+364
+00:17:45,083 --> 00:17:46,958
+The real one will, naturally,
+
+365
+00:17:47,041 --> 00:17:51,166
+but we'd have to save it
+for the end, so let's see.
+
+366
+00:17:51,250 --> 00:17:51,958
+Four-fifths
+
+367
+00:17:52,041 --> 00:17:53,125
+times three-fourths
+
+368
+00:17:53,208 --> 00:17:54,125
+times two-thirds
+
+369
+00:17:54,208 --> 00:17:56,708
+times one-half equals one-fifth.
+
+370
+00:17:56,791 --> 00:17:58,666
+So... 20%.
+
+371
+00:17:58,750 --> 00:18:00,291
+Well done!
+
+372
+00:18:00,375 --> 00:18:01,666
+Yeah, but hold on:
+
+373
+00:18:01,750 --> 00:18:03,500
+the Octopus sits
+through four explosions
+
+374
+00:18:03,583 --> 00:18:05,000
+before you even
+take a turn!
+
+375
+00:18:05,083 --> 00:18:06,541
+This game is rigged!
+
+376
+00:18:06,625 --> 00:18:08,625
+You can just bow out if you
+don't like the way it's going.
+
+377
+00:18:08,708 --> 00:18:11,041
+Dunno about you, but
+I call that unfair!
+
+378
+00:18:11,125 --> 00:18:12,041
+[ASANO]
+Young man.
+
+379
+00:18:12,125 --> 00:18:13,375
+[TERASAKA]
+Hm?
+
+380
+00:18:13,458 --> 00:18:17,000
+Life is unfair. It's chock
+full with injustice.
+
+381
+00:18:17,083 --> 00:18:18,916
+Especially if you're
+not fortunate enough
+
+382
+00:18:19,000 --> 00:18:20,541
+to be one of the strong.
+
+383
+00:18:20,625 --> 00:18:21,916
+Don't you see?
+
+384
+00:18:22,000 --> 00:18:25,291
+This is why I teach the
+true meaning of strength.
+
+385
+00:18:25,375 --> 00:18:28,000
+So, then. Shall we proceed?
+
+386
+00:18:28,083 --> 00:18:29,916
+Show me how serious
+you really are
+
+387
+00:18:30,000 --> 00:18:33,000
+about your chosen
+profession, Koro-sensei.
+
+388
+00:18:33,083 --> 00:18:34,791
+[ASANO]
+In fact, if I were you,
+
+389
+00:18:34,875 --> 00:18:37,083
+I wouldn't waste
+a single moment.
+
+390
+00:18:37,166 --> 00:18:39,166
+[STUDENTS whimper]
+
+391
+00:18:39,250 --> 00:18:40,708
+[KORO-SENSEI]
+Yes, of course.
+
+392
+00:18:40,791 --> 00:18:42,083
+Let's jump right in.
+
+393
+00:18:42,166 --> 00:18:43,458
+[BOTH exhale]
+
+394
+00:18:43,541 --> 00:18:46,416
+[KARASUMA] He threatens
+dismissal, devises a game
+
+395
+00:18:46,500 --> 00:18:51,916
+that's clearly in his favor.
+And there's no way out.
+
+396
+00:18:52,000 --> 00:18:54,166
+Mathematically, the
+odds of it succeeding
+
+397
+00:18:54,250 --> 00:18:56,958
+are better than
+anything we've tried.
+
+398
+00:18:57,041 --> 00:19:00,291
+The most important
+blade is strength...
+
+399
+00:19:00,375 --> 00:19:02,541
+This man is an assassin.
+
+400
+00:19:03,791 --> 00:19:05,666
+[ASANO] Open, solve
+the problem, and close.
+
+401
+00:19:05,750 --> 00:19:08,791
+Move quickly enough and
+the grenade won't go off.
+
+402
+00:19:08,875 --> 00:19:10,375
+Speed is your specialty.
+
+403
+00:19:10,458 --> 00:19:12,208
+This should be walk
+in the park, yes?
+
+404
+00:19:12,291 --> 00:19:15,750
+[KORO-SENSEI]
+Uh, yes! Excellent point!
+
+405
+00:19:17,833 --> 00:19:19,500
+[KORO-SENSEI whimpers]
+
+406
+00:19:32,208 --> 00:19:33,333
+[KORO-SENSEI growls]
+
+407
+00:19:33,416 --> 00:19:34,708
+[KORO-SENSEI]
+Planar calculations!
+
+408
+00:19:34,791 --> 00:19:36,541
+Oh, th-this couldn't be easier!
+
+409
+00:19:36,625 --> 00:19:38,875
+A-All you gotta to do
+is borrow from the tens
+
+410
+00:19:38,958 --> 00:19:40,625
+and get three with
+four left over,
+
+411
+00:19:40,708 --> 00:19:43,375
+or, ah, actually I believe
+it's three or thereabouts.
+
+412
+00:19:43,458 --> 00:19:44,416
+[KORO-SENSEI screams]
+
+413
+00:19:44,500 --> 00:19:46,541
+[STUDENTS groaning]
+
+414
+00:19:47,500 --> 00:19:49,416
+[ASANO]
+I know how you are with puzzles.
+
+415
+00:19:49,500 --> 00:19:53,333
+You get flustered; your
+processing speed declines.
+
+416
+00:19:53,416 --> 00:19:56,750
+This trap is almost
+too perfect.
+
+417
+00:19:57,625 --> 00:19:59,125
+[STUDENTS]
+Koro-sensei...
+
+418
+00:19:59,208 --> 00:20:01,750
+We'll call the first
+one a hit... Bravo.
+
+419
+00:20:01,833 --> 00:20:04,208
+Only three more to go and
+you'll have won the game.
+
+420
+00:20:04,291 --> 00:20:06,875
+Now, please move on
+to the next problem
+
+421
+00:20:06,958 --> 00:20:08,958
+before you've regenerated.
+
+422
+00:20:09,041 --> 00:20:10,416
+This is B.S.!
+
+423
+00:20:10,500 --> 00:20:12,750
+No way can he survive three
+more of those explosions!
+
+424
+00:20:12,833 --> 00:20:14,541
+He's seriously
+gonna be taken out!
+
+425
+00:20:14,625 --> 00:20:16,833
+And the setup is so
+friggin' simple!
+
+426
+00:20:16,916 --> 00:20:18,000
+You see my point?
+
+427
+00:20:18,083 --> 00:20:20,625
+The weak have to rely
+on assassination,
+
+428
+00:20:20,708 --> 00:20:22,666
+whereas the strong may
+kill at their leisure,
+
+429
+00:20:22,750 --> 00:20:25,125
+when and however they please.
+
+430
+00:20:25,208 --> 00:20:27,833
+Soon, I will plant institutions
+across the nation
+
+431
+00:20:27,916 --> 00:20:30,041
+that drive home this truth.
+
+432
+00:20:30,125 --> 00:20:32,250
+The Ministry of Defense
+has been generous.
+
+433
+00:20:32,333 --> 00:20:34,291
+Between them and the bounty,
+
+434
+00:20:34,375 --> 00:20:37,541
+I'll build affiliate schools
+all over the world.
+
+435
+00:20:37,625 --> 00:20:40,333
+[NAGISA] It's always
+about education with him.
+
+436
+00:20:40,416 --> 00:20:43,541
+[KORO-SENSEI groaning]
+
+437
+00:20:43,625 --> 00:20:46,250
+[ASANO]
+Come now, Koro-sensei.
+
+438
+00:20:46,333 --> 00:20:47,958
+Validate my ideology.
+
+439
+00:20:48,041 --> 00:20:51,208
+Be the cornerstone of my vision.
+
+440
+00:22:23,291 --> 00:22:24,333
+[KUNUDON]
+Surprise!
+
+441
+00:22:24,416 --> 00:22:27,333
+[CHILDREN]
+Tell us, Kunudon!
+
+442
+00:22:27,416 --> 00:22:30,333
+[sighs] That festival was
+a real white-knuckler!
+
+443
+00:22:30,416 --> 00:22:32,541
+Ah, but it looks like
+those E-Class losers
+
+444
+00:22:32,625 --> 00:22:34,125
+are down for the count
+for the count at last!
+
+445
+00:22:34,208 --> 00:22:36,083
+[CHILDREN]
+That's all she wrote!
+
+446
+00:22:36,166 --> 00:22:40,125
+Ha, ha, ha, ha!
+Hey there Losers!
+
+447
+00:22:40,208 --> 00:22:42,166
+[CHILDREN]
+Just desserts! Yay!
+
+448
+00:22:42,250 --> 00:22:44,291
+[KUNUDON laughing]
+
+449
+00:22:44,375 --> 00:22:46,708
+[coughs, chuckles nervously]
+
+450
+00:22:46,791 --> 00:22:47,916
+Oh, Mr. Principal!
+
+451
+00:22:48,000 --> 00:22:51,000
+What brings you into the studio?
+
+452
+00:22:51,083 --> 00:22:53,666
+[CHILDREN]
+Notice of dismissal!
+
+453
+00:22:53,750 --> 00:22:55,625
+I'm being... moved.
+
+454
+00:22:55,708 --> 00:22:56,875
+To E-Class?
+
+455
+00:22:56,958 --> 00:22:58,916
+[CHILDREN]
+Hooray for unemployment!
+
+456
+00:22:59,000 --> 00:23:01,250
+Woohoo!
+

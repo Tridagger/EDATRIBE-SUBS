@@ -1,0 +1,1682 @@
+﻿1
+00:00:03,649 --> 00:00:06,041
+[SHINICHI]
+<i>What the heck's with this guy?</i>
+
+2
+00:00:08,041 --> 00:00:09,508
+<i>Don't tell me...</i>
+
+3
+00:00:09,608 --> 00:00:11,874
+<i>he's a parasite!</i>
+
+4
+00:00:11,974 --> 00:00:14,708
+<i>No, he's definitely human.</i>
+
+5
+00:00:14,808 --> 00:00:16,874
+<i>I can tell that much, somehow.</i>
+
+6
+00:00:17,408 --> 00:00:19,508
+<i>C'mon, Migi!</i>
+
+7
+00:00:20,841 --> 00:00:22,374
+<i>Wake up!</i>
+
+8
+00:02:00,817 --> 00:02:01,296
+[KATSUMATA] What's with him?
+
+9
+00:02:01,396 --> 00:02:02,796
+He's changed.
+
+10
+00:02:02,896 --> 00:02:05,496
+He's different now.
+Something's going on.
+
+11
+00:02:06,863 --> 00:02:09,096
+[HIRAMA]
+This is who he really is.
+
+12
+00:02:10,730 --> 00:02:11,930
+[SHINICHI] <i>Wait...</i>
+
+13
+00:02:12,030 --> 00:02:15,330
+<i>Is he human? Is he really?!</i>
+
+14
+00:02:18,296 --> 00:02:23,363
+[URAGAMI] <i>It's not like I really</i>
+<i>think that I'm all that</i>
+<i>special or anything.</i>
+
+15
+00:02:25,163 --> 00:02:29,330
+<i>How am I able to tell humans</i>
+<i>and monsters apart?</i>
+
+16
+00:02:29,896 --> 00:02:33,263
+<i>Huh, let's see...</i>
+
+17
+00:02:33,363 --> 00:02:37,696
+<i>Maybe because I've had my share</i>
+<i>of "fun" with humans.</i>
+
+18
+00:02:38,396 --> 00:02:39,063
+(schnick!)
+
+19
+00:02:39,163 --> 00:02:40,630
+<i>Put simply...</i>
+
+20
+00:02:40,730 --> 00:02:43,830
+<i>I know more about the "quality"</i>
+<i>of these beings</i>
+
+21
+00:02:43,930 --> 00:02:46,196
+<i>than anyone else does.</i>
+
+22
+00:02:47,130 --> 00:02:49,196
+<i>It's just a shame...</i>
+
+23
+00:02:49,296 --> 00:02:51,596
+<i>they break so easily.</i>
+
+24
+00:02:52,630 --> 00:02:54,596
+<i>Oh, yeah...</i>
+
+25
+00:02:54,696 --> 00:02:56,763
+<i>I've had my fun.</i>
+
+26
+00:02:56,863 --> 00:02:58,330
+<i>(creepy laugh)</i>
+
+27
+00:02:58,430 --> 00:03:02,596
+<i>Still, most animals have the</i>
+<i>same ability, don't they?</i>
+
+28
+00:03:02,696 --> 00:03:07,930
+<i>It's just an innate capacity</i>
+<i>to tell your own kind apart</i>
+<i>from others.</i>
+
+29
+00:03:09,696 --> 00:03:13,463
+<i>I was shocked the first time I</i>
+<i>found one of them, of course.</i>
+
+30
+00:03:14,230 --> 00:03:15,763
+<i>I mean, it was a...</i>
+
+31
+00:03:15,863 --> 00:03:20,496
+<i>creature in humans' clothes,</i>
+<i>walkin' around in the crowd.</i>
+
+32
+00:03:21,263 --> 00:03:23,530
+<i>If I watched everyone pass by,</i>
+
+33
+00:03:23,630 --> 00:03:28,563
+<i>there'd be one or two of them</i>
+<i>every hour, if I was lucky.</i>
+
+34
+00:03:28,663 --> 00:03:32,096
+<i>It was kinda weird that no one</i>
+<i>else seemed to notice them.</i>
+
+35
+00:03:32,196 --> 00:03:34,130
+<i>But as for</i>
+<i>the creatures themselves,</i>
+
+36
+00:03:34,230 --> 00:03:37,763
+<i>they looked like they</i>
+<i>really didn't care.</i>
+
+37
+00:03:37,863 --> 00:03:40,296
+<i>I pretty much kept my distance.</i>
+
+38
+00:03:40,396 --> 00:03:43,063
+<i>Honestly, I felt like</i>
+<i>these guys were BAD news.</i>
+
+39
+00:03:43,163 --> 00:03:48,130
+<i>In fact, I guess you could</i>
+<i>call that an "innate</i>
+<i>animal instinct" as well.</i>
+
+40
+00:03:48,230 --> 00:03:49,963
+<i>(disturbing laughter)</i>
+
+41
+00:03:50,063 --> 00:03:52,396
+<i>Yet, part of me eagerly</i>
+<i>looked forward</i>
+
+42
+00:03:52,496 --> 00:03:59,196
+<i>to seeing how some "mysterious"</i>
+<i>monster would do things.</i>
+
+43
+00:03:59,296 --> 00:04:02,230
+<i>But it was really no big deal.</i>
+
+44
+00:04:02,330 --> 00:04:06,530
+<i>Honestly, it wasn't so</i>
+<i>different from stuff</i>
+<i>I had done.</i>
+
+45
+00:04:06,630 --> 00:04:09,830
+[URAGAMI]
+Well now, you made quite a mess.
+
+46
+00:04:09,930 --> 00:04:13,496
+I mean, ya gotta clean up
+after yourself when you're
+done playing.
+
+47
+00:04:13,596 --> 00:04:15,030
+[POLICEMAN] Don't move!
+[URAGAMI] (uh!)
+
+48
+00:04:15,130 --> 00:04:16,296
+[BOTH] (nervous sounds)
+
+49
+00:04:16,396 --> 00:04:18,763
+[URAGAMI]
+Wait, no! I... I didn't do this!
+
+50
+00:04:18,863 --> 00:04:20,330
+I know it looks bad,
+
+51
+00:04:20,430 --> 00:04:22,096
+but it wasn't me!
+
+52
+00:04:27,996 --> 00:04:29,996
+[KATSUMATA]
+He's taking his sweet time.
+
+53
+00:04:30,096 --> 00:04:33,163
+[MIYAKE] Mr. Hirama,
+I'm afraid we can't wait.
+
+54
+00:04:35,796 --> 00:04:39,730
+Shinichi Izumi's expression
+never changed once during
+questioning,
+
+55
+00:04:39,830 --> 00:04:43,396
+but he certainly seems to be
+afraid right now, doesn't he?
+
+56
+00:04:45,130 --> 00:04:46,830
+[HIRAMA] (on headset) Uragami?
+
+57
+00:04:46,930 --> 00:04:48,363
+It's a wash.
+
+58
+00:04:48,463 --> 00:04:51,063
+[HIRAMA] (on headset) What?
+What's that supposed to mean?
+
+59
+00:04:51,163 --> 00:04:54,063
+[URAGAMI] Well,
+this guy might have potential...
+
+60
+00:04:55,230 --> 00:04:58,396
+but something else
+has got my attention.
+
+61
+00:04:58,496 --> 00:05:01,896
+There's something different
+about THIS guy.
+
+62
+00:05:01,996 --> 00:05:04,863
+Things got a little confusing
+there at first.
+
+63
+00:05:04,963 --> 00:05:07,363
+[HIRAMA] (on headset)
+"Confusing"? In what way?
+
+64
+00:05:07,463 --> 00:05:11,430
+[URAGAMI] I guess maybe I
+could've imagined it but...
+
+65
+00:05:11,530 --> 00:05:13,030
+but just for a second,
+
+66
+00:05:13,130 --> 00:05:16,896
+I thought I saw something
+inhuman deep in his eyes.
+
+67
+00:05:16,996 --> 00:05:18,396
+[HIRAMA] (on headset) WHAT?!
+[URAGAMI] (urk!)
+
+68
+00:05:18,496 --> 00:05:21,163
+Jesus Christ, man, don't yell
+in my ears, all right?
+
+69
+00:05:21,263 --> 00:05:23,996
+Anyway, I think it
+must've been nothin'.
+
+70
+00:05:24,096 --> 00:05:26,230
+When I took another
+good look at him,
+
+71
+00:05:26,330 --> 00:05:29,263
+I didn't see
+whatever I saw before.
+
+72
+00:05:36,796 --> 00:05:41,330
+[HIRAMA] So, the two of you
+will be staying at the hotel
+for a few more days.
+
+73
+00:05:41,430 --> 00:05:44,930
+We'll have an officer escort you
+if you need to visit your house,
+
+74
+00:05:45,030 --> 00:05:47,230
+so just be sure
+to let us know in advance.
+
+75
+00:05:47,330 --> 00:05:49,596
+No thanks, that's not necessary.
+
+76
+00:05:49,696 --> 00:05:52,130
+Yeah, well, I insist.
+
+77
+00:05:59,930 --> 00:06:03,030
+[SHINICHI] Um, Mr. Hirama?
+[HIRAMA] (hmm?)
+
+78
+00:06:03,130 --> 00:06:05,263
+I have a question
+about the baby, sir.
+
+79
+00:06:05,363 --> 00:06:08,296
+I assume you're talking about
+the one with Reiko Tamura.
+
+80
+00:06:08,396 --> 00:06:10,596
+Well, we need to do more tests.
+
+81
+00:06:10,696 --> 00:06:14,596
+After all, the poor little thing
+was being raised by a parasite.
+
+82
+00:06:14,696 --> 00:06:18,563
+[SHINICHI] So, what happens if
+you confirm the baby's normal?
+
+83
+00:06:18,663 --> 00:06:23,663
+If that's the case, the child
+will then be raised in an
+appropriate facility.
+
+84
+00:06:23,763 --> 00:06:24,830
+So, um...
+
+85
+00:06:24,930 --> 00:06:27,196
+Why would you be
+worried about that?
+
+86
+00:06:27,296 --> 00:06:30,096
+Uh, no... It's just I...
+
+87
+00:06:30,196 --> 00:06:34,863
+[HIRAMA] If you were to come
+forward and say that you are
+related to Reiko Tamura,
+
+88
+00:06:34,963 --> 00:06:36,896
+then I'd have YOU look after it.
+
+89
+00:06:36,996 --> 00:06:39,030
+[SHINICHI] Huh? What?!
+
+90
+00:06:43,663 --> 00:06:45,730
+[HIRAMA] I was just joking.
+
+91
+00:06:45,830 --> 00:06:48,396
+Oh... (weak chuckle)
+
+92
+00:06:49,763 --> 00:06:52,130
+<i>"Deep in his eyes," huh?</i>
+
+93
+00:06:52,230 --> 00:06:54,363
+<i>What the hell did he see?</i>
+
+94
+00:06:57,296 --> 00:06:59,796
+[DAD] Shinichi, need the bath?
+
+95
+00:06:59,896 --> 00:07:01,730
+Nah, you go ahead.
+
+96
+00:07:01,830 --> 00:07:03,496
+[DAD] Okay, will do.
+
+97
+00:07:06,030 --> 00:07:08,563
+(door opening &amp; closing)
+
+98
+00:07:08,663 --> 00:07:12,096
+<i>Ah man, who was that guy?</i>
+
+99
+00:07:12,196 --> 00:07:15,230
+<i>Just thinking about him</i>
+<i>gives me the chills.</i>
+
+100
+00:07:15,330 --> 00:07:17,630
+<i>I've seen all sorts of</i>
+<i>man‐eating monsters,</i>
+
+101
+00:07:17,730 --> 00:07:19,463
+<i>but that guy...</i>
+
+102
+00:07:19,563 --> 00:07:22,663
+Shinichi, it would seem
+that you're exhausted,
+
+103
+00:07:22,763 --> 00:07:26,263
+and not just physically,
+but also mentally as well.
+
+104
+00:07:26,363 --> 00:07:30,130
+I met someone really messed up
+while you were asleep earlier.
+
+105
+00:07:30,930 --> 00:07:32,096
+Human?
+
+106
+00:07:32,196 --> 00:07:33,530
+[SHINICHI] Yeah...
+
+107
+00:07:34,163 --> 00:07:35,663
+But this guy...
+
+108
+00:07:36,796 --> 00:07:38,296
+He must've been...
+
+109
+00:07:38,963 --> 00:07:40,463
+a killer.
+
+110
+00:07:41,663 --> 00:07:43,330
+[SHINICHI] I just...
+
+111
+00:07:43,430 --> 00:07:45,663
+I don't know what's
+what anymore.
+
+112
+00:07:46,896 --> 00:07:48,963
+I mean, that guy was really off,
+
+113
+00:07:49,063 --> 00:07:50,963
+and just terrifying.
+
+114
+00:07:51,063 --> 00:07:54,596
+And yet, Reiko Tamura,
+a parasite that ate people,
+
+115
+00:07:54,696 --> 00:07:56,996
+actually saved me...
+
+116
+00:07:57,096 --> 00:07:59,296
+And healed the hole in my heart.
+
+117
+00:08:00,330 --> 00:08:03,430
+[MIGI] I still find it
+impossible to comprehend
+
+118
+00:08:03,530 --> 00:08:05,330
+Tamura's behavior.
+
+119
+00:08:05,430 --> 00:08:08,896
+We are two halves
+of the same whole.
+
+120
+00:08:08,996 --> 00:08:12,363
+Parasites and humanity
+are of one family.
+
+121
+00:08:17,330 --> 00:08:19,496
+[TAKIZAWA] Therefore,
+in regards to the
+
+122
+00:08:19,596 --> 00:08:23,063
+"Legal Interpretation of
+Emergency Measures and
+Response to
+
+123
+00:08:23,163 --> 00:08:26,363
+Indiscriminate Killings
+by Parasites"...
+
+124
+00:08:26,463 --> 00:08:29,796
+The government has indeed given
+its approval for this operation.
+
+125
+00:08:29,896 --> 00:08:34,230
+But I'd like you to keep in mind
+that there are still many,
+many gray areas.
+
+126
+00:08:34,330 --> 00:08:35,630
+(uh‐hmm)
+[YAMAGISHI] (chuckles)
+
+127
+00:08:35,730 --> 00:08:37,763
+[YAMAGISHI]
+Well, yes there are.
+
+128
+00:08:37,863 --> 00:08:39,730
+Good to see you, Inspector.
+
+129
+00:08:39,830 --> 00:08:41,663
+Assistant Inspector.
+
+130
+00:08:42,330 --> 00:08:44,496
+Well, ASSISTANT Inspector,
+
+131
+00:08:44,596 --> 00:08:48,896
+there's talk you'll make
+superintendent by the day
+of this operation.
+
+132
+00:08:48,996 --> 00:08:50,930
+You're a really funny guy.
+
+133
+00:08:51,030 --> 00:08:53,463
+In fact, he'll be commanding
+the front‐line forces
+
+134
+00:08:53,563 --> 00:08:55,530
+during the upcoming
+tactical operation.
+
+135
+00:08:55,630 --> 00:08:57,096
+The name's Yamagishi.
+
+136
+00:08:57,196 --> 00:08:59,296
+[TAKIZAWA]
+As you've already been informed,
+[HIRAMA] (hmm?)
+
+137
+00:08:59,396 --> 00:09:04,030
+[TAKIZAWA] Mr. Hirama will be in
+charge of overseeing the support
+functions of this operation.
+
+138
+00:09:04,130 --> 00:09:07,263
+Meanwhile, Mr. Yamagishi,
+has his own set of objectives.
+
+139
+00:09:07,363 --> 00:09:09,930
+Identifying and
+eliminating the enemy.
+
+140
+00:09:10,530 --> 00:09:12,196
+Um, Director...
+
+141
+00:09:12,296 --> 00:09:14,663
+I feel that Uragami,
+the man I mentioned to you,
+
+142
+00:09:14,763 --> 00:09:18,430
+could be a very powerful asset
+if we use him correctly.
+
+143
+00:09:18,530 --> 00:09:21,830
+I think we need to reassess
+our proposed operations
+
+144
+00:09:21,930 --> 00:09:23,730
+and incorporate him
+into the core strategy.
+
+145
+00:09:23,830 --> 00:09:27,563
+[YAMAGISHI] Yeah, of course I
+appreciate the input, but...
+
+146
+00:09:27,663 --> 00:09:31,063
+As for this "psychic power"
+of his, I dunno.
+
+147
+00:09:31,163 --> 00:09:33,863
+I can't really trust
+a convicted killer.
+
+148
+00:09:33,963 --> 00:09:36,396
+Using a rogue element
+like that guy?
+
+149
+00:09:36,496 --> 00:09:39,063
+It could hamper how our
+tactical forces operate,
+
+150
+00:09:39,163 --> 00:09:41,063
+especially when it matters most.
+
+151
+00:09:41,163 --> 00:09:43,130
+Now, he wouldn't be there
+as an operative.
+
+152
+00:09:43,230 --> 00:09:46,463
+We'd only be using him
+as an extra pair of eyes.
+
+153
+00:09:46,563 --> 00:09:48,130
+A "pair of eyes"?
+
+154
+00:09:48,230 --> 00:09:50,063
+But we already have
+a detection system
+
+155
+00:09:50,163 --> 00:09:51,930
+that'll be set up
+to handle that.
+
+156
+00:09:52,030 --> 00:09:54,096
+It's not like you're facing
+some flock of sheep
+
+157
+00:09:54,196 --> 00:09:56,896
+that can just be
+herded up by dogs.
+
+158
+00:09:56,996 --> 00:09:59,030
+You are clearly
+attributing these creatures
+
+159
+00:09:59,130 --> 00:10:00,796
+with far too much humanity.
+
+160
+00:10:00,896 --> 00:10:05,930
+We're not out to
+conduct a manhunt here,
+Assistant Inspector.
+
+161
+00:10:06,030 --> 00:10:08,396
+This is pest extermination.
+
+162
+00:10:15,746 --> 00:10:18,320
+We haven't been able to
+get in touch with
+Reiko Tamura for days.
+
+163
+00:10:18,420 --> 00:10:22,154
+The same goes for Kusano,
+Hikawa, and Maesawa.
+
+164
+00:10:22,254 --> 00:10:26,954
+Three dismembered corpses were
+recently discovered in a
+municipal construction site,
+
+165
+00:10:27,054 --> 00:10:30,854
+and the following day,
+a female who was believed
+to be a parasite
+
+166
+00:10:30,954 --> 00:10:32,720
+was shot dead in a park.
+
+167
+00:10:32,820 --> 00:10:37,120
+[HIROKAWA] However, all four
+bodies were retrieved by
+a special agency,
+
+168
+00:10:37,220 --> 00:10:40,454
+and none of their identities
+have as yet been revealed.
+
+169
+00:10:40,554 --> 00:10:45,187
+We both know that Kusano never
+cared for Reiko Tamura
+or her methods.
+
+170
+00:10:45,287 --> 00:10:48,854
+I'd say he conspired to
+kill her without our consent,
+
+171
+00:10:48,954 --> 00:10:51,620
+but instead ended up
+being the victim himself.
+
+172
+00:10:51,720 --> 00:10:54,687
+[HIROKAWA]
+So you think the woman
+who was shot dead in the park
+
+173
+00:10:54,787 --> 00:10:56,420
+was Tamura, yes?
+
+174
+00:10:57,087 --> 00:10:58,520
+Most likely.
+
+175
+00:10:58,620 --> 00:11:02,287
+Now that a special anti‐parasite
+agency has been created,
+
+176
+00:11:02,387 --> 00:11:05,754
+I am no longer receiving
+confidential information.
+
+177
+00:11:05,854 --> 00:11:10,087
+That means the government
+is finally starting to
+take this seriously.
+
+178
+00:11:10,187 --> 00:11:12,454
+That would seem to be the case.
+
+179
+00:11:15,520 --> 00:11:18,087
+[SATOMI] Shinichi!
+[SHINICHI] (huh?)
+
+180
+00:11:18,187 --> 00:11:19,687
+[SHINICHI] Murano!
+
+181
+00:11:21,020 --> 00:11:23,654
+I sure have been good
+at making you worry.
+
+182
+00:11:23,754 --> 00:11:24,854
+(mm‐mm)
+
+183
+00:11:24,954 --> 00:11:26,954
+Oh, here!
+
+184
+00:11:28,520 --> 00:11:31,120
+These are all the notes I took
+while you were gone.
+
+185
+00:11:32,087 --> 00:11:33,287
+Oh, thank you.
+
+186
+00:11:33,387 --> 00:11:34,654
+I'll make some copies of them.
+
+187
+00:11:34,754 --> 00:11:36,787
+[YUKO] Hey, it's been a while!
+[SATOMI] (giggles)
+
+188
+00:11:36,887 --> 00:11:38,487
+[YUKO] Hey, Murano! (giggles)
+
+189
+00:11:38,587 --> 00:11:40,754
+You done with your
+little vacation?
+[YUKO] (hmm?)
+
+190
+00:11:40,854 --> 00:11:42,520
+Uh... uh...
+
+191
+00:11:44,854 --> 00:11:46,187
+[PE TEACHER]
+All right, listen up!
+
+192
+00:11:46,287 --> 00:11:48,787
+This will be your last timed
+trial in high school!
+
+193
+00:11:48,887 --> 00:11:51,754
+Give it everything ya got, guys.
+Don't leave anything out there!
+
+194
+00:11:51,854 --> 00:11:55,554
+Oh, eat it.
+[FURUTANI] I don't think I like
+the idea of Coach holding a gun.
+
+195
+00:11:55,654 --> 00:11:58,387
+'Kay, Izumi, I've always
+wanted to say this,
+
+196
+00:11:58,487 --> 00:12:00,454
+you have never taken
+any of this seriously.
+
+197
+00:12:00,554 --> 00:12:03,720
+So just ONCE, for me, you gotta
+run like you gotta pair!
+
+198
+00:12:03,820 --> 00:12:06,687
+<i>Yeah, I couldn't really go</i>
+<i>all out before, could I?</i>
+
+199
+00:12:07,787 --> 00:12:09,687
+<i>The last one, huh?</i>
+
+200
+00:12:09,787 --> 00:12:11,620
+[PE TEACHER] Get set!
+
+201
+00:12:11,720 --> 00:12:13,054
+(starting gun)
+
+202
+00:12:20,154 --> 00:12:22,320
+[SHINICHI] (breathing hard)
+(stop watch clicks)
+
+203
+00:12:25,887 --> 00:12:27,287
+(wha...)
+
+204
+00:12:27,387 --> 00:12:29,720
+Jesus! Ten point five seconds?
+
+205
+00:12:29,820 --> 00:12:31,487
+No freakin' way.
+
+206
+00:12:34,420 --> 00:12:37,487
+<i>Whatever.</i>
+<i>I could've done it in nine.</i>
+
+207
+00:12:39,987 --> 00:12:43,420
+[NAGAI] What's the matter?
+You too embarrassed to
+change with the rest of us?
+
+208
+00:12:43,520 --> 00:12:45,354
+Uh...
+[FURUTANI] (juvenile chuckle)
+
+209
+00:12:45,454 --> 00:12:48,820
+We're all dudes here,
+so don't go gettin' all shy!
+
+210
+00:12:48,920 --> 00:12:50,987
+[FURUTANI] (uh...)
+
+211
+00:12:53,354 --> 00:12:54,887
+Sorry, man.
+
+212
+00:12:54,987 --> 00:12:56,954
+(sighs)
+Nah, don't worry about it.
+
+213
+00:12:57,054 --> 00:12:58,554
+It's nothing.
+
+214
+00:12:58,654 --> 00:13:00,720
+(urk) (huh?)
+
+215
+00:13:00,820 --> 00:13:02,320
+Dumb‐ass!
+
+216
+00:13:09,620 --> 00:13:11,120
+[SATOMI] Hy‐aa!
+
+217
+00:13:12,687 --> 00:13:14,187
+(huh?)
+
+218
+00:13:15,487 --> 00:13:16,987
+(soft chuckle)
+
+219
+00:13:20,087 --> 00:13:22,487
+[SATOMI] We'll be
+graduating in three months.
+
+220
+00:13:23,520 --> 00:13:25,087
+[SHINICHI] Yeah...
+
+221
+00:13:25,187 --> 00:13:26,787
+[SATOMI] So much has happened.
+
+222
+00:13:26,887 --> 00:13:28,554
+It's kinda unreal.
+
+223
+00:13:29,920 --> 00:13:32,254
+Way too much, if you ask me.
+
+224
+00:13:33,354 --> 00:13:36,254
+Yeah, but there were
+good things, too.
+
+225
+00:13:38,887 --> 00:13:41,054
+Guess now I've gotta
+do some studying.
+
+226
+00:13:41,154 --> 00:13:44,187
+Huh?! You're taking
+the entrance exams?
+
+227
+00:13:44,287 --> 00:13:46,320
+[SHINICHI] Yeah. of course!
+
+228
+00:13:49,054 --> 00:13:50,354
+Hey, ya know what?
+
+229
+00:13:50,454 --> 00:13:54,020
+When I get to college, I‐
+(gasps)
+
+230
+00:13:59,387 --> 00:14:00,687
+Let's go.
+
+231
+00:14:07,620 --> 00:14:09,454
+We can do it, y'know?
+
+232
+00:14:12,820 --> 00:14:15,287
+[HIRAMA]
+In fact, I am certain of it.
+
+233
+00:14:15,387 --> 00:14:19,987
+And yet, I can't help but
+feel as though we're
+missing something.
+
+234
+00:14:20,754 --> 00:14:22,154
+I don't know what it is,
+
+235
+00:14:22,254 --> 00:14:24,987
+but it's definitely something.
+
+236
+00:14:25,087 --> 00:14:28,020
+I'd very much like
+to hear your thoughts.
+
+237
+00:14:29,887 --> 00:14:31,554
+[SATOMI] Why's it always...
+
+238
+00:14:32,220 --> 00:14:34,220
+have to be Shinichi?
+
+239
+00:14:35,720 --> 00:14:38,087
+It shouldn't be JUST him.
+
+240
+00:14:38,187 --> 00:14:40,454
+Everyone at this school...
+
+241
+00:14:40,554 --> 00:14:43,454
+We're all trying
+our best to move on.
+
+242
+00:14:45,120 --> 00:14:48,020
+We all just want things
+to be normal again...
+
+243
+00:14:48,787 --> 00:14:51,320
+go back to how they were.
+
+244
+00:14:51,420 --> 00:14:53,987
+Instead,
+we have to live on edge,
+
+245
+00:14:54,887 --> 00:14:56,720
+afraid of what'll happen next!
+
+246
+00:15:04,487 --> 00:15:07,187
+[YAMAGISHI] He looks like
+just a regular high school kid.
+
+247
+00:15:07,287 --> 00:15:09,954
+[HIRAMA]
+He's the witness I mentioned.
+
+248
+00:15:10,054 --> 00:15:12,820
+Ah, so you're the guy?
+
+249
+00:15:12,920 --> 00:15:15,554
+I heard that you got the chance
+to see Hirama and his men
+
+250
+00:15:15,654 --> 00:15:17,620
+put one of them down recently.
+
+251
+00:15:17,720 --> 00:15:19,320
+That's right.
+
+252
+00:15:19,420 --> 00:15:21,954
+I know that you're
+a civilian and everything,
+
+253
+00:15:22,054 --> 00:15:24,954
+but do you have any ideas
+about any type of weapons
+
+254
+00:15:25,054 --> 00:15:27,287
+that would be
+effective against them?
+
+255
+00:15:28,654 --> 00:15:31,720
+A flamethrower would be
+an excellent choice.
+
+256
+00:15:31,820 --> 00:15:33,454
+But they can move so fast.
+
+257
+00:15:33,554 --> 00:15:36,387
+Of course,
+fire alone will not be enough.
+
+258
+00:15:36,487 --> 00:15:38,754
+But I do think
+it'll be effective.
+
+259
+00:15:38,854 --> 00:15:42,187
+To put it simply,
+it will startle them.
+
+260
+00:15:42,287 --> 00:15:45,354
+At least the
+surface part, anyway.
+[SHINICHI] (ohh...)
+
+261
+00:15:45,454 --> 00:15:48,120
+Now,
+we're as intelligent as humans,
+
+262
+00:15:48,220 --> 00:15:51,887
+and we parasites don't have
+an irrational fear of fire.
+
+263
+00:15:51,987 --> 00:15:53,987
+But...
+
+264
+00:15:54,087 --> 00:15:56,220
+if we did
+encounter it suddenly,
+
+265
+00:15:56,320 --> 00:15:58,920
+we'd suffer an
+internal disconnect.
+
+266
+00:15:59,020 --> 00:16:02,420
+In short, we would be startled.
+
+267
+00:16:02,520 --> 00:16:03,720
+Uh‐huh...
+
+268
+00:16:03,820 --> 00:16:07,254
+We know Goto's body contains
+several parasitic sections,
+
+269
+00:16:07,354 --> 00:16:10,787
+but each of those beings are
+controlled by a single
+consciousness.
+
+270
+00:16:10,887 --> 00:16:12,354
+So if that consciousness
+is startled,
+
+271
+00:16:12,454 --> 00:16:15,654
+it should effectively
+unbalance him significantly.
+
+272
+00:16:15,754 --> 00:16:18,220
+Makes sense, I guess.
+
+273
+00:16:18,320 --> 00:16:22,687
+So we should use flamethrowers?
+(snide chuckle)
+
+274
+00:16:22,787 --> 00:16:23,720
+Huh?
+
+275
+00:16:23,820 --> 00:16:25,187
+[YAMAGISHI] Ah, I'm sorry.
+
+276
+00:16:25,287 --> 00:16:28,354
+Okay,
+I'm sure that'd probably work.
+
+277
+00:16:28,454 --> 00:16:32,887
+But still, no matter how many
+parasites there are
+in one body,
+
+278
+00:16:32,987 --> 00:16:36,187
+there's just one heart.
+[SHINICHI] (gasps)
+
+279
+00:16:49,187 --> 00:16:51,087
+[SHINICHI] The day has come...
+
+280
+00:17:02,120 --> 00:17:04,054
+[WOMAN] What's going on?
+
+281
+00:17:04,154 --> 00:17:05,954
+[MAN] I have no idea.
+
+282
+00:17:06,054 --> 00:17:08,287
+It looks like the riot police.
+
+283
+00:17:08,687 --> 00:17:10,187
+But why?
+
+284
+00:17:22,787 --> 00:17:24,487
+<i>So, this is it.</i>
+
+285
+00:17:30,054 --> 00:17:32,120
+(keyboard clacking)
+(high pitched equipment hum)
+
+286
+00:17:36,954 --> 00:17:38,587
+Sensors ready...
+
+287
+00:17:38,687 --> 00:17:40,354
+and standing by.
+
+288
+00:17:42,720 --> 00:17:45,387
+Let's do this.
+
+289
+00:17:45,487 --> 00:17:47,720
+[MIZUSHIMA] (on PA)
+Attention! This is
+an emergency announcement!
+
+290
+00:17:47,820 --> 00:17:51,754
+Everyone within the building,
+please listen to the following
+instructions very carefully.
+
+291
+00:17:51,854 --> 00:17:55,520
+I'm Detective Mizushima with
+the Higashi‐Fukuyama
+Police Department.
+
+292
+00:17:55,620 --> 00:17:58,554
+A male assailant armed with
+a hunting rifle has entered
+the building
+
+293
+00:17:58,654 --> 00:18:01,854
+and is now hiding
+somewhere on the roof.
+(continues in background)
+
+294
+00:18:01,954 --> 00:18:05,320
+[YAMAGISHI] (on radio)
+Mutsuki and Kisaragi Squads will
+rendezvous in the main hall.
+
+295
+00:18:05,420 --> 00:18:07,387
+Yayoi Squad will
+cover the annex.
+
+296
+00:18:07,487 --> 00:18:10,920
+Uzuki Squad, take the second
+floor and seal all exits.
+
+297
+00:18:11,020 --> 00:18:13,154
+Satsuki Squad,
+protect the detection system.
+
+298
+00:18:13,254 --> 00:18:15,720
+Minazuki Squad,
+neutralize the chameleons.
+
+299
+00:18:15,820 --> 00:18:17,787
+Let's move men; make it count.
+
+300
+00:18:17,887 --> 00:18:21,054
+[MIZUSHIMA] (on PA) ...please
+proceed to the main hall on
+the first floor at this time.
+
+301
+00:18:24,920 --> 00:18:26,420
+(bing!)
+
+302
+00:18:32,920 --> 00:18:35,587
+[HIROKAWA]
+<i>They say they're police?</i>
+
+303
+00:18:35,687 --> 00:18:39,387
+<i>But I'm sure NONE of them</i>
+<i>are peace officers.</i>
+
+304
+00:18:39,487 --> 00:18:43,187
+<i>You're really doing this,</i>
+<i>you disgusting humans?</i>
+
+305
+00:18:46,420 --> 00:18:48,820
+This is where the fun begins.
+
+306
+00:18:48,920 --> 00:18:53,987
+We will strip these bastards
+of their masks and lead
+them to the slaughter.
+
+307
+00:18:54,087 --> 00:18:56,654
+The suspect is currently
+on the north side of the roof!
+
+308
+00:18:56,754 --> 00:19:00,220
+Now, we'll be able to evacuate
+everyone so he can't see you,
+
+309
+00:19:00,320 --> 00:19:03,220
+but he may take notice if the
+entire building leaves at once.
+
+310
+00:19:03,320 --> 00:19:06,554
+Therefore, we will be leaving
+in groups of seven.
+
+311
+00:19:10,587 --> 00:19:12,987
+[URAGAMI]
+I'm tellin' ya, I don't know.
+
+312
+00:19:13,087 --> 00:19:15,287
+I hafta see 'em in person.
+
+313
+00:19:16,120 --> 00:19:18,154
+A monitor's useless.
+
+314
+00:19:19,554 --> 00:19:22,154
+Still, this is
+pretty impressive though!
+
+315
+00:19:22,254 --> 00:19:24,220
+It looks like some
+kinda war zone.
+
+316
+00:19:24,320 --> 00:19:27,187
+I'm not so sure you even
+really need me around.
+
+317
+00:19:27,287 --> 00:19:30,087
+(door opens)
+[URAGAMI] (huh?)
+
+318
+00:19:30,187 --> 00:19:32,287
+[URAGAMI] Oh, it's you.
+[SHINICHI] (huh?)
+
+319
+00:19:32,387 --> 00:19:34,554
+So bringing in the
+armed forces wasn't enough.
+
+320
+00:19:34,654 --> 00:19:37,754
+You had to recruit a killer
+and some damn teenager, too?
+
+321
+00:19:37,854 --> 00:19:39,054
+Man, you guys are up the creek.
+
+322
+00:19:39,154 --> 00:19:40,687
+[KATSUMATA] That's enough!
+Shut the hell up!
+
+323
+00:19:40,787 --> 00:19:42,120
+(urk!)
+
+324
+00:19:44,220 --> 00:19:46,520
+[HIRAMA] You see any?
+
+325
+00:19:46,620 --> 00:19:48,120
+Well, do you?
+
+326
+00:19:52,087 --> 00:19:53,920
+I don't know, sir.
+
+327
+00:19:54,020 --> 00:19:57,720
+Most of all, we would like
+to find the deviant with
+the multiple parasites
+
+328
+00:19:57,820 --> 00:20:00,254
+that you were telling us
+about earlier.
+
+329
+00:20:01,420 --> 00:20:03,487
+<i>The "deviant"?</i>
+
+330
+00:20:03,587 --> 00:20:06,554
+And then, of course,
+there's the other one:
+
+331
+00:20:06,654 --> 00:20:08,487
+there is Mayor Hirokawa.
+
+332
+00:20:10,087 --> 00:20:11,620
+<i>That's right...</i>
+
+333
+00:20:11,720 --> 00:20:13,554
+<i>Hirokawa's the key!</i>
+
+334
+00:20:13,654 --> 00:20:17,620
+<i>But what... what was she</i>
+<i>trying to say about him?</i>
+
+335
+00:20:17,720 --> 00:20:20,687
+They said we're supposed to
+evacuate in groups of seven.
+
+336
+00:20:20,787 --> 00:20:22,620
+You should go first, Mr. Mayor.
+
+337
+00:20:22,720 --> 00:20:24,054
+No, I couldn't.
+
+338
+00:20:24,154 --> 00:20:27,787
+Please give the children
+and elderly first priority.
+
+339
+00:20:27,887 --> 00:20:29,287
+And then the women.
+
+340
+00:20:29,387 --> 00:20:31,154
+Please ensure that
+all city workers
+
+341
+00:20:31,254 --> 00:20:33,387
+are shifted toward
+the end of the line.
+
+342
+00:20:33,487 --> 00:20:34,620
+(uh...)
+
+343
+00:20:37,987 --> 00:20:40,087
+[SOLDIER]
+Here come the first seven.
+
+344
+00:20:41,354 --> 00:20:43,854
+[YAMAGISHI] HQ to all squads.
+If shots are fired
+
+345
+00:20:43,954 --> 00:20:47,087
+and the chameleons make any
+attempt to escape or retaliate,
+
+346
+00:20:47,187 --> 00:20:49,487
+initiate safeguards at once.
+
+347
+00:20:49,587 --> 00:20:51,087
+[RADIO] Roger.
+
+348
+00:20:53,187 --> 00:20:55,720
+[ODA] I will now remove all
+matter from the sensor image
+
+349
+00:20:55,820 --> 00:20:58,587
+that does not
+contain human DNA.
+
+350
+00:21:01,287 --> 00:21:04,220
+(sighs) Nothing in this group.
+
+351
+00:21:04,320 --> 00:21:06,620
+All right, let's send out
+the next seven.
+
+352
+00:21:10,220 --> 00:21:12,020
+[ODA]
+There's nothing here, either.
+
+353
+00:21:13,954 --> 00:21:17,554
+[SHINICHI] (wishpering)
+Migi, you have any idea how
+many of them are in there?
+
+354
+00:21:17,654 --> 00:21:20,887
+[MIGI] We're pretty far away,
+so I can't say for sure.
+
+355
+00:21:20,987 --> 00:21:23,020
+But there are several present.
+
+356
+00:21:25,687 --> 00:21:27,020
+[ODA] There!
+
+357
+00:21:28,154 --> 00:21:29,654
+It's that one!
+
+358
+00:21:31,054 --> 00:21:33,487
+So the first one is a woman.
+
+359
+00:22:54,987 --> 00:22:58,554
+[SHINICHI]
+Next time:
+"Crime and Punishment"
+
