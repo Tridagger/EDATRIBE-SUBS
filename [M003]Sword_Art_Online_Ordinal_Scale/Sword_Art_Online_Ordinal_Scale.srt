@@ -1,0 +1,6140 @@
+﻿1
+00:00:51,185 --> 00:00:53,954
+I wish we could see real stars in Aincrad.
+
+2
+00:00:54,317 --> 00:00:56,740
+Yeah, but this isn't so bad.
+
+3
+00:00:56,947 --> 00:01:00,079
+I've never seen a shooting
+star in the real world before.
+
+4
+00:01:00,329 --> 00:01:02,590
+Where I live, the sky's too bright at night.
+
+5
+00:01:03,583 --> 00:01:06,007
+A city‐girl. That explains a lot.
+
+6
+00:01:06,149 --> 00:01:09,237
+Oh, come on! Don't even tease me like that!
+
+7
+00:01:10,671 --> 00:01:14,148
+There's this one spot in my town
+that's pretty famous for stargazing.
+
+8
+00:01:14,505 --> 00:01:16,408
+It's even got a tiny observatory.
+
+9
+00:01:16,888 --> 00:01:18,128
+Oh, I know!
+
+10
+00:01:18,224 --> 00:01:20,654
+Let's make a date to go see the stars there someday!
+
+11
+00:01:20,828 --> 00:01:23,386
+Sure. Someday.
+
+12
+00:01:24,222 --> 00:01:27,765
+We just have to make sure we survive
+long enough to clear this game.
+
+13
+00:01:29,220 --> 00:01:34,032
+Yeah. And as soon as we do, I'll get you a real ring.
+
+14
+00:01:34,678 --> 00:01:35,432
+Mm‐hm.
+
+15
+00:02:14,220 --> 00:02:17,023
+On November 6th, 2022.
+
+16
+00:02:17,525 --> 00:02:21,324
+the NerveGear, a FullDive virtual reality device,
+
+17
+00:02:21,456 --> 00:02:25,516
+launched its first game, Sword Art Online.
+
+18
+00:02:25,897 --> 00:02:30,677
+Its developer, Akihiko Kayaba,
+told the 10,000 players who logged in,
+
+19
+00:02:30,807 --> 00:02:32,683
+they could not log out.
+
+20
+00:02:32,922 --> 00:02:36,369
+And not only were they trapped, if a player died in‐game,
+
+21
+00:02:36,488 --> 00:02:38,840
+they would also die in the real world.
+
+22
+00:02:40,237 --> 00:02:44,568
+Amid growing despair, some took up
+swords, hoping to clear the game.
+
+23
+00:02:45,490 --> 00:02:48,516
+Some became isolated and took their own lives.
+
+24
+00:02:48,834 --> 00:02:52,481
+While others ended up turning their
+swords on their fellow players.
+
+25
+00:02:54,223 --> 00:02:57,947
+This nightmare continued for
+what seemed like an eternity.
+
+26
+00:02:58,273 --> 00:03:01,642
+Then, on November 7th, 2024,
+
+27
+00:03:02,070 --> 00:03:04,939
+a heroic player dressed head‐to‐toe in black,
+
+28
+00:03:05,527 --> 00:03:09,483
+cleared the game and set everyone free. Finally.
+
+29
+00:03:12,598 --> 00:03:15,523
+Close to 4,000 people died in the end.
+
+30
+00:03:15,983 --> 00:03:18,231
+But with the death of the game's creator,
+
+31
+00:03:18,445 --> 00:03:22,268
+Akihiko Kayaba, the nightmare was over.
+
+32
+00:03:24,517 --> 00:03:28,425
+The players who lived through
+it are known as SAO survivors.
+
+33
+00:03:28,814 --> 00:03:30,433
+And slowly but surely,
+
+34
+00:03:30,795 --> 00:03:33,461
+they're getting back their lives in the real world.
+
+35
+00:04:07,912 --> 00:04:10,326
+Um, sorry to bother you folks.
+
+36
+00:04:10,557 --> 00:04:13,006
+I couldn't help but notice those things you're wearing.
+
+37
+00:04:13,259 --> 00:04:17,398
+Huh? What, this? It's an Augma!
+
+38
+00:04:19,051 --> 00:04:21,085
+Welcome to Augma.
+
+39
+00:04:22,776 --> 00:04:27,845
+Ever since it was made available to the public,
+it has quickly become the gadget to have.
+
+40
+00:04:28,139 --> 00:04:32,009
+Today, we'll look into the Augma,
+the next‐gen wearable device.
+
+41
+00:04:32,789 --> 00:04:35,680
+If you compare the Augma with
+its predecessor, the AmuSphere,
+
+42
+00:04:35,705 --> 00:04:37,967
+you might think since it doesn't have a FullDive function,
+
+43
+00:04:37,992 --> 00:04:39,960
+it's a step backward, technology‐wise.
+
+44
+00:04:40,230 --> 00:04:41,924
+But that's so totally not true.
+
+45
+00:04:41,972 --> 00:04:46,706
+The user's fully conscious while using the Augma
+and that opens up a whole world of possibilities.
+
+46
+00:04:46,841 --> 00:04:50,330
+Isn't comparing the two systems a little
+like comparing apples to oranges, though?
+
+47
+00:04:50,447 --> 00:04:55,962
+The AmuSphere immerses the user in a virtual reality,
+while the Augma immerses the user in augmented reality.
+
+48
+00:04:56,001 --> 00:04:57,427
+You're absolutely right.
+
+49
+00:04:57,599 --> 00:05:02,939
+And if you wanna talk about safety, the Augma doesn't
+come with any of the risks a FullDive rig has for users.
+
+50
+00:05:03,208 --> 00:05:07,863
+In fact, more and more people have been using
+it for exercise and to track health goals.
+
+51
+00:05:08,158 --> 00:05:11,390
+Now we'll take a look at the
+system's newest, hottest game,
+
+52
+00:05:11,415 --> 00:05:12,409
+Ordinal Scale.
+
+53
+00:05:13,933 --> 00:05:16,465
+The most exciting feature about Ordinal Scale,
+
+54
+00:05:16,490 --> 00:05:19,323
+in my opinion, anyway, is the ranking system.
+
+55
+00:05:19,556 --> 00:05:23,062
+Each player starts with a number that
+reflects their ranking in the game.
+
+56
+00:05:23,097 --> 00:05:26,093
+The more a person plays, the higher their rank's gonna be.
+
+57
+00:05:27,841 --> 00:05:31,955
+Once you get your rank high enough,
+you can unlock rewards outside the game.
+
+58
+00:05:31,997 --> 00:05:34,967
+Stuff like products and services from partner companies!
+
+59
+00:05:35,031 --> 00:05:36,635
+Would you look at that!
+
+60
+00:05:36,840 --> 00:05:41,015
+There's a discount from a big online
+retailer and early access to tickets.
+
+61
+00:05:41,057 --> 00:05:42,903
+There's exclusive shopping sites
+
+62
+00:05:42,928 --> 00:05:45,652
+and a coupon for a free extra large beef bowl, too!
+
+63
+00:05:46,471 --> 00:05:48,742
+Kids always go nuts for freebies.
+
+64
+00:05:48,925 --> 00:05:52,000
+If they're that good in the lower ranks,
+imagine what the top rank will get.
+
+65
+00:05:53,874 --> 00:05:55,654
+When service for the game started,
+
+66
+00:05:55,679 --> 00:05:58,054
+drones were launched to ease the strain on the network.
+
+67
+00:05:58,157 --> 00:06:00,763
+They were strange at first,
+but folks seem used to them now.
+
+68
+00:06:01,275 --> 00:06:06,397
+One of the main reasons the game is gaining
+popularity is thanks to its mascot, Yuna.
+
+69
+00:06:06,897 --> 00:06:12,594
+She's the world's first AR pop star and a testament
+to how far AI tech has come over the years.
+
+70
+00:06:12,935 --> 00:06:15,628
+In fact, her mannerisms are so life‐like,
+
+71
+00:06:15,755 --> 00:06:18,591
+some think she's actually human and not a program.
+
+72
+00:06:18,813 --> 00:06:20,386
+She's mysterious!
+
+73
+00:06:20,553 --> 00:06:22,682
+That's probably the main reason she's so popular.
+
+74
+00:06:22,778 --> 00:06:24,519
+I just started collecting her figures myself...
+
+75
+00:06:24,561 --> 00:06:26,314
+Uh, Yuna's first live concert
+
+76
+00:06:26,361 --> 00:06:28,052
+is scheduled for the end of this month
+
+77
+00:06:28,077 --> 00:06:30,488
+and tickets for it, all 30,000 of them,
+
+78
+00:06:30,531 --> 00:06:32,535
+sold out almost instantly.
+
+79
+00:06:32,655 --> 00:06:34,330
+I had to get mine from a scalper
+
+80
+00:06:34,371 --> 00:06:36,042
+and they damn‐near cost me my condo...
+
+81
+00:06:36,083 --> 00:06:38,635
+The popularity of Augma and Ordinal Scale
+
+82
+00:06:38,660 --> 00:06:40,591
+isn't slowing down anytime soon!
+
+83
+00:06:55,006 --> 00:06:56,593
+All right, we cleared it!
+
+84
+00:06:56,688 --> 00:06:59,157
+Good job, Silica! Nice assist, Liz!
+
+85
+00:06:59,182 --> 00:07:01,133
+We all got a hundred points for beating it.
+
+86
+00:07:01,249 --> 00:07:05,087
+Look! It says we each get a free slice of cake! Sweet!
+
+87
+00:07:05,182 --> 00:07:07,689
+You guys play games way too much these days.
+
+88
+00:07:07,730 --> 00:07:10,653
+I‐I never thought I'd hear that coming from you!
+
+89
+00:07:10,815 --> 00:07:13,617
+Heck, every time we play, we get points to shop at stores.
+
+90
+00:07:13,659 --> 00:07:15,208
+Might as well play our butts off.
+
+91
+00:07:15,383 --> 00:07:18,209
+I bet deep down, you wanted to play, too, didn't you?
+
+92
+00:07:19,363 --> 00:07:21,849
+Well, I love this thing. It's super convenient.
+
+93
+00:07:22,127 --> 00:07:23,931
+It lets you watch TV anywhere,
+
+94
+00:07:23,956 --> 00:07:25,980
+it's easier to navigate than a smart phone
+
+95
+00:07:26,005 --> 00:07:27,979
+and the weather report's a lifesaver.
+
+96
+00:07:28,021 --> 00:07:30,826
+Best of all, we can talk to Yui whenever we want.
+
+97
+00:07:30,851 --> 00:07:31,573
+Yup!
+
+98
+00:07:32,291 --> 00:07:34,784
+You sound like you're totally sold on the Augma!
+
+99
+00:07:35,127 --> 00:07:36,914
+Mm, I wouldn't say that.
+
+100
+00:07:36,969 --> 00:07:41,116
+But, hey, they did hand them out to everyone
+going to the survivor's school, right?
+
+101
+00:07:41,283 --> 00:07:43,626
+So,the least we do is take them out for a spin
+
+102
+00:07:43,651 --> 00:07:44,763
+and see what they can do.
+
+103
+00:07:44,804 --> 00:07:46,075
+I'm sorry for the wait.
+
+104
+00:07:46,100 --> 00:07:48,436
+Here are your bonus treats for clearing the game.
+
+105
+00:07:51,161 --> 00:07:52,790
+Dibs on that one!
+
+106
+00:07:54,991 --> 00:07:58,045
+The AI's so sharp, it knows what kind of cake we like.
+
+107
+00:07:58,420 --> 00:08:00,674
+It does a thing they call "Deep Learning".
+
+108
+00:08:00,707 --> 00:08:02,185
+Pretty thoughtful.
+
+109
+00:08:02,210 --> 00:08:04,854
+It's even more thoughtful than certain people we know.
+
+110
+00:08:06,236 --> 00:08:09,532
+I hear it can even tell you how
+many calories are in that cake.
+
+111
+00:08:16,052 --> 00:08:19,021
+Wait up, Liz! Where are you going?
+
+112
+00:08:38,369 --> 00:08:39,496
+Asuna?
+
+113
+00:08:42,482 --> 00:08:43,943
+I still can't believe it.
+
+114
+00:08:44,214 --> 00:08:48,033
+All of us at the survivor's school got
+free tickets to go to Yuna's concert.
+
+115
+00:08:48,297 --> 00:08:50,811
+Going to a concert's kinda weird for a field trip.
+
+116
+00:08:50,853 --> 00:08:53,567
+I know. Everything about that school is weird.
+
+117
+00:08:53,609 --> 00:08:55,946
+Yeah, but now you get to see your girl crush.
+
+118
+00:08:55,988 --> 00:08:58,577
+What? I‐I don't have a crush on her!
+
+119
+00:08:58,619 --> 00:09:01,875
+Who was belting out her songs at karaoke with Suguha?
+
+120
+00:09:01,917 --> 00:09:04,633
+You know every line to every song and I'll prove it!
+
+121
+00:09:47,379 --> 00:09:49,125
+You were great, Silica!
+
+122
+00:09:50,668 --> 00:09:53,812
+Kirito? You're gonna come to the concert with us, right?
+
+123
+00:09:53,900 --> 00:09:56,688
+Huh? I wasn't planning on it.
+
+124
+00:09:56,985 --> 00:09:59,783
+I'm not much of a fan, if you wanna know the truth.
+
+125
+00:09:59,945 --> 00:10:02,538
+What? You should go, it'll be fun!
+
+126
+00:10:02,615 --> 00:10:04,709
+Well, I don't know, maybe.
+
+127
+00:10:06,671 --> 00:10:08,637
+Anyway, I gotta admit,
+
+128
+00:10:08,662 --> 00:10:10,830
+you can do a lot of cool stuff with this gadget.
+
+129
+00:10:11,472 --> 00:10:14,269
+Still, I think FullDives are more my thing.
+
+130
+00:10:14,485 --> 00:10:15,279
+You're kidding.
+
+131
+00:10:15,446 --> 00:10:18,799
+No. I guess I just got used to living in different worlds.
+
+132
+00:10:23,544 --> 00:10:26,228
+You doofus. You sound like you wanna go back.
+
+133
+00:10:27,404 --> 00:10:29,430
+Oh! Speaking of Aincrad,
+
+134
+00:10:29,684 --> 00:10:32,535
+Do you guys think that rumor about Ordinal Scale is true?
+
+135
+00:10:32,797 --> 00:10:36,316
+You know, the one about boss monsters
+from old SAO showing up in it?
+
+136
+00:10:36,427 --> 00:10:39,111
+Oh, right. The mysterious event battles.
+
+137
+00:10:39,224 --> 00:10:42,200
+Really? Is it like some kind of promotion?
+
+138
+00:10:42,403 --> 00:10:43,276
+I don't know.
+
+139
+00:10:43,506 --> 00:10:45,484
+I haven't had the chance to check one out yet.
+
+140
+00:10:45,683 --> 00:10:50,776
+The locations are secret till the last minute, so it's
+hard for folks who don't have a car to get there in time.
+
+141
+00:10:51,070 --> 00:10:52,660
+It'd be awesome to find out, though.
+
+142
+00:10:52,708 --> 00:10:56,003
+So all we need is a ride? Hmm.
+
+143
+00:11:02,059 --> 00:11:04,345
+Kirito!
+
+144
+00:11:23,009 --> 00:11:25,088
+Looks like we made it just in time.
+
+145
+00:11:25,290 --> 00:11:27,583
+They released the location a half‐hour ago.
+
+146
+00:11:27,704 --> 00:11:29,857
+And there's already so many people here!
+
+147
+00:11:30,674 --> 00:11:33,496
+That means there'll be even more by the time it starts.
+
+148
+00:11:33,535 --> 00:11:35,124
+About time you showed up?
+
+149
+00:11:35,330 --> 00:11:37,713
+Sweet! You brought Asuna with you!
+
+150
+00:11:37,793 --> 00:11:42,220
+No, I brought him! He didn't want to come,
+but after I beat the others at rock‐paper‐scissors,
+
+151
+00:11:42,371 --> 00:11:43,515
+he didn't have a choice!
+
+152
+00:11:43,769 --> 00:11:45,699
+Huh? Yeah, whatever.
+
+153
+00:11:46,050 --> 00:11:48,766
+Guys, Let's show her how badass we are!
+
+154
+00:11:48,791 --> 00:11:50,181
+Yeah!
+
+155
+00:11:50,206 --> 00:11:51,673
+All right! - It's gonna be awesome!
+
+156
+00:11:51,698 --> 00:11:53,501
+Kirito, it's almost time to start.
+
+157
+00:11:53,620 --> 00:11:54,716
+Oh, right.
+
+158
+00:11:58,352 --> 00:12:01,150
+Ordinal Scale , activate!
+
+159
+00:12:43,595 --> 00:12:44,311
+That's...
+
+160
+00:12:44,596 --> 00:12:46,448
+The boss from Floor 10 in Aincrad.
+
+161
+00:12:46,574 --> 00:12:48,286
+Kagachi the Samurai Lord!
+
+162
+00:12:48,671 --> 00:12:50,833
+He looks exactly like him, doesn't he?
+
+163
+00:12:50,904 --> 00:12:53,319
+Too bad we can't use our sword skills here.
+
+164
+00:12:53,493 --> 00:12:56,186
+I wonder if he's gonna use the same attack patterns.
+
+165
+00:13:05,665 --> 00:13:06,778
+Yuna?
+
+166
+00:13:06,865 --> 00:13:08,426
+I hope everyone's ready!
+
+167
+00:13:08,518 --> 00:13:12,116
+It's time to battle! So, start the music!
+
+168
+00:13:12,928 --> 00:13:15,256
+Uh... Oh, awesome! Yuna's singing!
+
+169
+00:13:15,296 --> 00:13:17,709
+It's a special stage with a bonus!
+
+170
+00:13:41,768 --> 00:13:43,689
+I'm gonna piss myself!
+
+171
+00:13:44,076 --> 00:13:45,610
+How do we beat this thing?
+
+172
+00:13:45,635 --> 00:13:46,871
+He's frigging huge!
+
+173
+00:13:48,155 --> 00:13:50,486
+What do you say, Kiri‐dude?
+
+174
+00:13:53,793 --> 00:13:55,666
+No, wait! Time out!
+
+175
+00:13:55,691 --> 00:13:56,502
+Time out!
+
+176
+00:14:14,467 --> 00:14:18,349
+Don't let your HP hit zero! Your rank will get docked!
+
+177
+00:14:18,374 --> 00:14:19,501
+I know that!
+
+178
+00:14:22,223 --> 00:14:24,746
+Our guns didn't do jack to it at this range.
+
+179
+00:14:24,811 --> 00:14:26,566
+No way am I gonna get up close!
+
+180
+00:14:26,661 --> 00:14:27,256
+Hey!
+
+181
+00:14:31,181 --> 00:14:35,083
+Come on, you guys! That bonus has our name on it!
+
+182
+00:14:40,802 --> 00:14:41,805
+I got it!
+
+183
+00:14:41,837 --> 00:14:43,041
+Nice block!
+
+184
+00:14:46,276 --> 00:14:47,107
+Tank!
+
+185
+00:14:47,541 --> 00:14:48,851
+I'm on it!
+
+186
+00:15:06,640 --> 00:15:09,101
+Eight showed up. Perfect.
+
+187
+00:15:17,158 --> 00:15:20,860
+Body feels heavy. This isn't like VR at all.
+
+188
+00:15:21,798 --> 00:15:23,245
+It's coming for you!
+
+189
+00:15:23,348 --> 00:15:24,269
+Kirito!
+
+190
+00:15:33,073 --> 00:15:34,256
+Whoa!
+
+191
+00:15:36,141 --> 00:15:37,841
+Holy crap! It's hard to move!
+
+192
+00:15:38,253 --> 00:15:40,326
+You're just a little out of shape, is all!
+
+193
+00:15:40,653 --> 00:15:42,137
+I'm not out of shape!
+
+194
+00:15:43,768 --> 00:15:45,139
+The hell's he doing?
+
+195
+00:15:45,482 --> 00:15:47,686
+Watch it, I got the kill‐shot! ‐Huh?
+
+196
+00:15:53,197 --> 00:15:53,889
+Oh.
+
+197
+00:16:12,893 --> 00:16:13,933
+Nice one!
+
+198
+00:16:14,153 --> 00:16:15,154
+Rank 2?
+
+199
+00:16:22,294 --> 00:16:25,619
+He's making his killer move! Tanks! Follow me!
+
+200
+00:16:34,511 --> 00:16:36,576
+Nice hit, man! Come on!
+
+201
+00:16:36,862 --> 00:16:39,038
+Yes! Wait for me!
+
+202
+00:17:00,248 --> 00:17:01,714
+Move! Retreat!
+
+203
+00:17:01,739 --> 00:17:02,756
+Right behind you!
+
+204
+00:17:12,685 --> 00:17:13,860
+All right!
+
+205
+00:17:20,194 --> 00:17:21,833
+Switch.
+
+206
+00:17:25,094 --> 00:17:26,216
+Go!
+
+207
+00:17:41,831 --> 00:17:43,074
+That was awesome!
+
+208
+00:17:43,099 --> 00:17:43,459
+Yeah!
+
+209
+00:17:43,500 --> 00:17:46,473
+Congratulations on defeating the boss!
+
+210
+00:17:46,866 --> 00:17:48,745
+I just boosted everyone's points!
+
+211
+00:17:51,623 --> 00:17:55,372
+And I have a special reward for
+the player who worked the hardest!
+
+212
+00:17:55,952 --> 00:17:56,793
+Yes!
+
+213
+00:17:59,973 --> 00:18:00,827
+Oh.
+
+214
+00:18:01,985 --> 00:18:05,605
+You're this battle's MVP. Congratulations!
+
+215
+00:18:09,404 --> 00:18:11,380
+See you at the next battle!
+
+216
+00:18:17,611 --> 00:18:19,102
+Nice job, Asuna.
+
+217
+00:18:21,326 --> 00:18:23,156
+So that guy's number two?
+
+218
+00:18:23,409 --> 00:18:25,423
+He's a powerful player, that's for sure.
+
+219
+00:18:28,048 --> 00:18:31,221
+Dude, my rank shot up from just this one battle.
+
+220
+00:18:31,331 --> 00:18:32,046
+Look.
+
+221
+00:18:32,350 --> 00:18:35,168
+Man, those SAO bosses pay out!
+
+222
+00:18:35,193 --> 00:18:38,085
+If the other users find out,
+this game's gonna get crowded!
+
+223
+00:18:39,284 --> 00:18:40,574
+Huh?
+
+224
+00:18:40,762 --> 00:18:41,677
+Well, well!
+
+225
+00:18:41,702 --> 00:18:44,247
+Looks like you barely moved up in rank, Kiri‐dawg!
+
+226
+00:18:44,289 --> 00:18:47,678
+Like I care. I'm leaving the AR raids to you guys.
+
+227
+00:18:49,008 --> 00:18:51,047
+Make sure you get the lady home safe.
+
+228
+00:18:51,072 --> 00:18:52,232
+Of course I will!
+
+229
+00:18:52,335 --> 00:18:55,114
+Hey, if the kid here gets fresh with you, give me a call.
+
+230
+00:18:55,139 --> 00:18:56,308
+I'll come save you!
+
+231
+00:18:56,333 --> 00:18:57,148
+You got it!
+
+232
+00:19:12,287 --> 00:19:15,334
+Huh? What the heck's an item doing here?
+
+233
+00:19:18,211 --> 00:19:20,906
+What the...? Oh, it's you.
+
+234
+00:19:21,723 --> 00:19:24,138
+Ah, so you wanna steal my find, huh?
+
+235
+00:19:24,281 --> 00:19:26,848
+I don't give a damn if you are ranked number two.
+
+236
+00:19:26,903 --> 00:19:28,920
+I ain't gonna give it up that easy.
+
+237
+00:19:39,798 --> 00:19:43,698
+Man! That boss moved the same as the one from SAO.
+
+238
+00:19:43,793 --> 00:19:45,677
+Wish I could say I moved the same.
+
+239
+00:19:45,740 --> 00:19:48,793
+After all that running around, my whole body's sore.
+
+240
+00:19:48,926 --> 00:19:51,247
+Can't believe you guys took it down so quick.
+
+241
+00:19:51,342 --> 00:19:53,797
+For one thing, Asuna and I fought it before.
+
+242
+00:19:54,146 --> 00:19:58,772
+Yeah, but still, it wasn't easy. You could tell the
+other players weren't used to working as a team.
+
+243
+00:19:58,842 --> 00:20:01,234
+By the end of it, Kirito was exhausted.
+
+244
+00:20:01,716 --> 00:20:04,617
+That's only 'cause I'm not used to fighting in AR.
+
+245
+00:20:04,776 --> 00:20:05,411
+Hmm?
+
+246
+00:20:06,103 --> 00:20:08,708
+Oh, and you'll never guess who showed up to cheer us on.
+
+247
+00:20:08,891 --> 00:20:10,845
+You know that girl, Yuna? She gave us a reward
+
+248
+00:20:10,879 --> 00:20:13,635
+Huh? Yuna was at the boss fight with you guys?
+
+249
+00:20:13,676 --> 00:20:14,682
+For real?
+
+250
+00:20:17,225 --> 00:20:18,497
+What's she like?
+
+251
+00:20:18,812 --> 00:20:21,066
+That was pretty cool, seeing her live.
+
+252
+00:20:21,215 --> 00:20:24,901
+But like a dumbass, I forgot to put
+my name down for one of those tickets.
+
+253
+00:20:25,044 --> 00:20:26,601
+Too bad you missed out, man.
+
+254
+00:20:26,759 --> 00:20:30,334
+When they were doing those Ordinal Scale
+sign‐ups, I scored myself a pair.
+
+255
+00:20:30,429 --> 00:20:32,209
+Yeah, I got a pair, too.
+
+256
+00:20:33,067 --> 00:20:34,748
+You got two?
+
+257
+00:20:35,317 --> 00:20:36,806
+Oh, come on! Hook me up!
+
+258
+00:20:36,848 --> 00:20:37,884
+All right, all right!
+
+259
+00:20:37,909 --> 00:20:40,146
+Get off! Stop begging, I'll let you have one.
+
+260
+00:20:40,171 --> 00:20:40,973
+Stare.
+
+261
+00:20:40,998 --> 00:20:43,110
+Yes, Leafa, I'll give you a ticket.
+
+262
+00:20:43,445 --> 00:20:44,897
+Yay!
+
+263
+00:20:45,009 --> 00:20:49,775
+Uh, I just remembered,
+I have kendo boot camp next week.
+
+264
+00:20:53,304 --> 00:20:56,395
+Is anyone else as weirded
+out about this as I am?
+
+265
+00:20:56,458 --> 00:21:01,645
+I mean, what's up with an old SAO boss
+showing up at an Ordinal Scale battle.
+
+266
+00:21:01,835 --> 00:21:04,807
+If it were a tie‐in between
+games, wouldn't we have heard?
+
+267
+00:21:04,870 --> 00:21:07,206
+Mm‐hm. But I don't think that's what's going on.
+
+268
+00:21:07,231 --> 00:21:10,999
+Argus, the company that used to run SAO
+, was shut down a while ago.
+
+269
+00:21:11,115 --> 00:21:13,396
+What about the other players at the event?
+
+270
+00:21:13,505 --> 00:21:15,509
+Did they know the boss was from SAO , too?
+
+271
+00:21:15,622 --> 00:21:18,108
+Mm. No, I'm pretty sure most of them didn't.
+
+272
+00:21:18,222 --> 00:21:22,628
+No one knew its attack patterns,
+except us and maybe one or two others.
+
+273
+00:21:25,330 --> 00:21:27,039
+Switch.
+
+274
+00:21:27,658 --> 00:21:29,202
+Isn't that the impression you got?
+
+275
+00:21:29,319 --> 00:21:31,725
+Yeah. Most of them never saw it before.
+
+276
+00:21:32,083 --> 00:21:34,871
+The thing is, if the old bosses from SAO keep showing up,
+
+277
+00:21:34,998 --> 00:21:37,719
+it's only a matter of time before folks start catching on.
+
+278
+00:21:37,842 --> 00:21:40,307
+And those battle events are where the points are at.
+
+279
+00:21:40,829 --> 00:21:45,421
+Sounds like someone's trying to bring
+old Aincrad to the real world. Damn.
+
+280
+00:21:45,652 --> 00:21:46,766
+So what?
+
+281
+00:21:46,846 --> 00:21:50,841
+The Augma's nothing like the NerveGear,
+so no one's gonna die. It's safe.
+
+282
+00:21:50,905 --> 00:21:53,543
+Anyway, Yui, see if anything's fishy.
+
+283
+00:21:53,662 --> 00:21:54,844
+Okay, Daddy!
+
+284
+00:21:54,996 --> 00:21:56,591
+Heck, if I can hang out with Yuna,
+
+285
+00:21:56,632 --> 00:21:58,181
+I'll totally go to a battle!
+
+286
+00:21:58,206 --> 00:21:58,836
+Me, too!
+
+287
+00:21:59,391 --> 00:22:01,561
+And next time, he'll give me a ride on his bike.
+
+288
+00:22:02,100 --> 00:22:06,430
+I wish these events would happen at better
+times and at places that are easier to get to.
+
+289
+00:22:06,565 --> 00:22:10,742
+That's what us guys in Fuurinkazan are for!
+If any of you ladies need a ride,
+
+290
+00:22:10,767 --> 00:22:12,680
+just pick up the phone and we'll pick you up!
+
+291
+00:22:12,705 --> 00:22:14,500
+Yeah, that's what worries us, Klein.
+
+292
+00:22:14,636 --> 00:22:16,305
+But! Oh, you suck.
+
+293
+00:22:17,090 --> 00:22:18,011
+Yuna.
+
+294
+00:22:21,517 --> 00:22:22,851
+What's wrong, Yuna?
+
+295
+00:22:22,925 --> 00:22:24,354
+What is this thingy?
+
+296
+00:22:24,927 --> 00:22:27,347
+Proof that everyone loved your singing.
+
+297
+00:22:27,665 --> 00:22:29,405
+Really? This little guy?
+
+298
+00:22:29,810 --> 00:22:30,660
+Hmm.
+
+299
+00:22:31,059 --> 00:22:33,330
+There'll be plenty more where that came from...
+
+300
+00:22:35,459 --> 00:22:37,463
+after I get my revenge on them.
+
+301
+00:22:44,856 --> 00:22:46,481
+I'm heading out now, Kazuto!
+
+302
+00:22:47,389 --> 00:22:49,552
+Okay. Have fun at boot camp.
+
+303
+00:22:49,909 --> 00:22:52,491
+You gonna change out of those sweats anytime soon?
+
+304
+00:22:52,530 --> 00:22:55,177
+Yeah, well, I'm just gonna stay home today.
+
+305
+00:22:55,510 --> 00:22:56,790
+And research some colleges.
+
+306
+00:22:56,815 --> 00:22:59,299
+That's good, but you should get some exercise, too.
+
+307
+00:22:59,490 --> 00:23:02,111
+Grab a shinai and go swing it around outside, at least.
+
+308
+00:23:02,136 --> 00:23:03,869
+Yeah, maybe. If I feel like it.
+
+309
+00:23:04,028 --> 00:23:04,958
+Don't forget to bring back some of those
+
+310
+00:23:04,983 --> 00:23:07,896
+Whatever. You know, you should try using the Augma more.
+
+311
+00:23:08,025 --> 00:23:10,271
+You could win a free gym membership!
+
+312
+00:23:10,694 --> 00:23:12,033
+Well, see you!
+
+313
+00:23:39,519 --> 00:23:41,863
+AR's everywhere I look these days.
+
+314
+00:23:50,928 --> 00:23:51,967
+Link start!
+
+315
+00:23:59,837 --> 00:24:02,040
+Asuna! Hey.
+
+316
+00:24:02,177 --> 00:24:04,099
+Hey, you! So, what's going on?
+
+317
+00:24:04,304 --> 00:24:05,474
+Is Leafa coming?
+
+318
+00:24:05,561 --> 00:24:08,565
+No. She just left for that Kendo boot camp.
+
+319
+00:24:08,812 --> 00:24:10,089
+Is she gone for long?
+
+320
+00:24:10,114 --> 00:24:11,151
+A few days.
+
+321
+00:24:11,299 --> 00:24:14,198
+Waking up in the morning's gonna be tough.
+She's my alarm clock.
+
+322
+00:24:15,413 --> 00:24:16,246
+Dork!
+
+323
+00:24:17,407 --> 00:24:19,375
+Even though she's gone, make sure you eat.
+
+324
+00:24:19,459 --> 00:24:22,421
+Of course! You know, I can cook for myself.
+
+325
+00:24:22,580 --> 00:24:23,978
+If you say so.
+
+326
+00:24:24,343 --> 00:24:27,594
+But when you have stuff on your mind,
+you tend to forget things like eating right.
+
+327
+00:24:27,619 --> 00:24:30,899
+Daddy only makes pasta with one ingredient, pepperoncini.
+
+328
+00:24:30,940 --> 00:24:32,899
+TMI, Yui. TMI.
+
+329
+00:24:36,268 --> 00:24:39,343
+Kirito, I was thinking about our plans.
+
+330
+00:24:39,771 --> 00:24:42,088
+My mom said she'd like to meet you one of these days.
+
+331
+00:24:42,171 --> 00:24:45,237
+Yeah, one of these days. Sure.
+
+332
+00:24:45,690 --> 00:24:46,430
+Mm.
+
+333
+00:24:53,017 --> 00:24:56,019
+They postponed another event quest in ALO.
+
+334
+00:24:56,241 --> 00:24:57,408
+Again?
+
+335
+00:24:57,583 --> 00:25:02,811
+I just checked and in the last two weeks,
+ALO has had a 30 percent drop in logins.
+
+336
+00:25:03,113 --> 00:25:06,402
+I guess it's because everyone's
+busy playing Ordinal Scale.
+
+337
+00:25:06,775 --> 00:25:09,016
+Yeah, maybe. For now.
+
+338
+00:25:09,056 --> 00:25:11,104
+But I'm sure they'll come back eventually.
+
+339
+00:25:11,765 --> 00:25:12,858
+Yeah.
+
+340
+00:26:02,114 --> 00:26:02,535
+Huh?
+
+341
+00:26:03,171 --> 00:26:06,134
+Hey, Asuna! Right on time!
+
+342
+00:26:06,942 --> 00:26:08,417
+Thanks for coming out tonight.
+
+343
+00:26:08,684 --> 00:26:10,446
+Hope that text didn't wake you up.
+
+344
+00:26:10,648 --> 00:26:13,771
+Oh, no. I wasn't in bed yet. You caught me taking a bath.
+
+345
+00:26:17,129 --> 00:26:18,698
+You're missing one of your friends.
+
+346
+00:26:18,739 --> 00:26:22,269
+Oh, yeah. We sent him a message,
+but he hasn't called back yet.
+
+347
+00:26:22,541 --> 00:26:25,702
+How about you go on ahead,
+we'll jump in once he gets here.
+
+348
+00:26:25,781 --> 00:26:26,345
+Okay.
+
+349
+00:26:26,797 --> 00:26:28,222
+But you better hurry.
+
+350
+00:26:28,269 --> 00:26:30,680
+Otherwise, I'm going to scoop
+up all your points for myself.
+
+351
+00:26:30,962 --> 00:26:33,122
+Hey, let's not be greedy!
+
+352
+00:26:34,646 --> 00:26:35,832
+See you in there.
+
+353
+00:26:35,857 --> 00:26:36,888
+Okay.
+
+354
+00:27:03,434 --> 00:27:05,118
+Is everyone ready?
+
+355
+00:27:06,408 --> 00:27:08,724
+Yeah! Wooo!
+
+356
+00:27:08,996 --> 00:27:12,410
+It's time to battle! So, start the music!
+
+357
+00:27:18,209 --> 00:27:20,656
+Crap, Yuna showed up! We gotta get in there!
+
+358
+00:27:20,712 --> 00:27:22,007
+Is Dale gonna show, or what?
+
+359
+00:27:22,032 --> 00:27:24,955
+Damn it. That loser still hasn't answered my text.
+
+360
+00:27:25,184 --> 00:27:27,308
+We better hurry, or we'll miss out on that prey!
+
+361
+00:27:27,333 --> 00:27:30,214
+Actually, tonight, you're the prey!
+
+362
+00:27:33,454 --> 00:27:35,057
+What's a boss doing here?
+
+363
+00:27:43,388 --> 00:27:44,847
+It's a new song!
+
+364
+00:27:44,872 --> 00:27:46,081
+Aw, yeah!
+
+365
+00:27:55,733 --> 00:27:57,134
+I'm impressed.
+
+366
+00:27:57,935 --> 00:28:01,034
+I can see why they were some of
+the best in the Assault Team.
+
+367
+00:28:10,061 --> 00:28:10,926
+But...
+
+368
+00:28:11,880 --> 00:28:15,343
+I'll teach them the difference between AR and VR.
+
+369
+00:28:19,276 --> 00:28:21,890
+Oh, yeah! Bring that bonus!
+
+370
+00:28:25,624 --> 00:28:28,331
+VR never hurt like that, did it?
+
+371
+00:28:33,227 --> 00:28:35,824
+Son of a bitch! I'm gonna kick your ass!
+
+372
+00:28:41,434 --> 00:28:43,571
+Come on, don't be like that.
+
+373
+00:28:45,508 --> 00:28:46,439
+Bastard.
+
+374
+00:28:50,316 --> 00:28:52,588
+Now let's have some fun.
+
+375
+00:29:10,585 --> 00:29:12,617
+Here. You dropped this.
+
+376
+00:29:20,117 --> 00:29:21,929
+Now keep your eyes open.
+
+377
+00:30:08,239 --> 00:30:09,360
+It's winding up.
+
+378
+00:30:10,670 --> 00:30:12,206
+It's prepping for its big attack!
+
+379
+00:30:12,403 --> 00:30:14,253
+You Tanks, draw its aggro!
+
+380
+00:30:14,294 --> 00:30:15,027
+Okay.
+
+381
+00:30:16,717 --> 00:30:18,170
+Its killer move is coming.
+
+382
+00:30:18,195 --> 00:30:20,355
+When you see it hover, aim for the wings!
+
+383
+00:30:20,380 --> 00:30:21,842
+Huh? Right!
+
+384
+00:30:22,048 --> 00:30:24,263
+Everyone moves in, once it hits the ground!
+
+385
+00:30:24,312 --> 00:30:25,190
+You got it!
+
+386
+00:30:26,705 --> 00:30:28,380
+Here, chickie, chickie!
+
+387
+00:30:33,068 --> 00:30:34,000
+Fire!
+
+388
+00:30:37,331 --> 00:30:38,059
+Go!
+
+389
+00:30:47,675 --> 00:30:48,509
+Oh, shit!
+
+390
+00:31:09,139 --> 00:31:11,369
+Yo, you were amazing out there.
+
+391
+00:31:11,497 --> 00:31:12,690
+Nice strategy!
+
+392
+00:31:12,715 --> 00:31:15,224
+Yeah, you were awesome! You play any other games?
+
+393
+00:31:15,351 --> 00:31:17,353
+Huh? Oh, uh...
+
+394
+00:31:17,456 --> 00:31:18,664
+Hello again!
+
+395
+00:31:18,839 --> 00:31:20,515
+Congratulations!
+
+396
+00:31:20,999 --> 00:31:21,737
+Oh.
+
+397
+00:31:25,603 --> 00:31:28,284
+Oh, well. See you later, Asuna.
+
+398
+00:31:30,561 --> 00:31:32,756
+Lightning Flash Asuna.
+
+399
+00:31:33,426 --> 00:31:35,737
+Death isn't permanent in Ordinal Scale.
+
+400
+00:31:35,991 --> 00:31:39,668
+And without the fear of death,
+a player's potential is unlimited.
+
+401
+00:31:40,551 --> 00:31:43,973
+Next time we meet in game,
+I'll show you my potential.
+
+402
+00:32:05,348 --> 00:32:07,455
+Here's the latest on Ordinal Scale,
+
+403
+00:32:07,480 --> 00:32:09,578
+the AR game everyone's talking about.
+
+404
+00:32:09,689 --> 00:32:13,349
+Players are telling us that some of
+the bosses from SAO 's old Aincrad,
+
+405
+00:32:13,421 --> 00:32:15,830
+have been showing up in OS' event battles.
+
+406
+00:32:15,953 --> 00:32:20,255
+The word on the forums is, a player can rack
+up a boat‐load of points at those raids.
+
+407
+00:32:20,398 --> 00:32:24,178
+And not only that, there's a good chance
+you'll catch Yuna singing at one of them!
+
+408
+00:32:25,221 --> 00:32:27,769
+Leveling up and seeing Yuna would be awesome!
+
+409
+00:32:27,811 --> 00:32:29,192
+Easy now!
+
+410
+00:32:29,535 --> 00:32:32,673
+As we all know, Sword Art Online was shut down for good.
+
+411
+00:32:32,704 --> 00:32:35,652
+But I bet you didn't know that there's
+been a ton of new interest in it,
+
+412
+00:32:35,707 --> 00:32:40,029
+thanks to a book that came out last month
+called The Complete SAO Incident Report.
+
+413
+00:32:40,330 --> 00:32:41,743
+Huh. Hmm.
+
+414
+00:32:41,931 --> 00:32:44,187
+Talk about jumping on the bandwagon late.
+
+415
+00:32:44,426 --> 00:32:46,457
+I wonder if the book's popularity,
+
+416
+00:32:46,529 --> 00:32:50,565
+along with the recent spike in Augma users,
+are the reasons for the huge drop in logins
+
+417
+00:32:50,621 --> 00:32:53,737
+on the two big VR games, ALO and GGO.
+
+418
+00:32:53,989 --> 00:32:56,702
+Do you think people are getting bored with VR?
+
+419
+00:32:56,794 --> 00:32:59,907
+I have no idea, so let's ask some familiar faces,
+
+420
+00:32:59,994 --> 00:33:03,395
+who might be able to shed some light
+on what's going on in the VR world.
+
+421
+00:33:03,532 --> 00:33:04,507
+Take it away!
+
+422
+00:33:04,571 --> 00:33:08,794
+In the next ALO tourney, I want to fight
+someone that'll have me shaking in my boots.
+
+423
+00:33:08,883 --> 00:33:11,215
+Less players means less challenge for me.
+
+424
+00:33:11,405 --> 00:33:13,459
+Hell, they might as well give me the trophy now.
+
+425
+00:33:13,484 --> 00:33:16,267
+Yeah, well, you didn't win last time, did you?
+
+426
+00:33:16,714 --> 00:33:21,249
+This world holds a special place in our hearts
+and there's no way we're going to abandon it.
+
+427
+00:33:21,670 --> 00:33:25,257
+Yes, it's true. There are less
+players in Sylph territory now.
+
+428
+00:33:25,425 --> 00:33:28,649
+We can't hold major events like we used
+to, which is a shame.
+
+429
+00:33:28,912 --> 00:33:31,354
+But if you want to know the truth, I'm not worried.
+
+430
+00:33:31,479 --> 00:33:33,871
+I'm sure everyone will be back someday.
+
+431
+00:33:33,974 --> 00:33:36,525
+Why'd you desert me, Fukajiro?
+
+432
+00:33:36,604 --> 00:33:38,931
+I got a new grenade launcher for you and everything!
+
+433
+00:33:38,956 --> 00:33:41,317
+You know how hard it is to get one of these?
+
+434
+00:33:41,531 --> 00:33:42,365
+Where are you,Leafa?
+
+435
+00:33:42,390 --> 00:33:43,928
+Come back!
+
+436
+00:33:46,542 --> 00:33:48,043
+Sorry about that.
+
+437
+00:33:48,068 --> 00:33:51,268
+And now, please welcome our surprise guest. Enjoy!
+
+438
+00:33:51,314 --> 00:33:53,151
+How's everyone doing tonight?
+
+439
+00:33:54,549 --> 00:33:57,489
+There's just four days left till my first live concert!
+
+440
+00:33:57,532 --> 00:33:59,707
+I hope you're all looking forward to it.
+
+441
+00:34:38,503 --> 00:34:40,185
+Hi, Daddy! Good morning.
+
+442
+00:34:40,575 --> 00:34:41,884
+Good morning, Yui.
+
+443
+00:34:43,001 --> 00:34:43,866
+Where are we?
+
+444
+00:34:43,891 --> 00:34:44,350
+Oh.
+
+445
+00:34:44,629 --> 00:34:47,369
+This is the battlefield Asuna played on last night.
+
+446
+00:34:47,522 --> 00:34:50,111
+She's putting a lot of effort into this game, huh?
+
+447
+00:34:50,564 --> 00:34:51,675
+Yeah, she is.
+
+448
+00:34:53,654 --> 00:34:55,712
+Is there something special about that day?
+
+449
+00:34:55,815 --> 00:35:00,692
+Yup. That's when I promised Asuna I'd take
+her up to Mt. Doudaira to watch the meteor shower.
+
+450
+00:35:00,867 --> 00:35:04,149
+That sounds fun! Can I go, too? Can I?
+
+451
+00:35:04,515 --> 00:35:06,206
+What do you think? Of course!
+
+452
+00:35:06,231 --> 00:35:08,836
+Goodie! I'm gonna wear something cute!
+
+453
+00:35:09,926 --> 00:35:13,026
+Back in SAO, we promised each
+other that if we got out, we'd...
+
+454
+00:35:13,051 --> 00:35:17,219
+Hey, Daddy! This would be a great time to
+do some fight training for Ordinal Scale.
+
+455
+00:35:17,441 --> 00:35:18,203
+What?
+
+456
+00:35:18,228 --> 00:35:21,350
+Mommy said she was worried about
+you not getting enough exercise.
+
+457
+00:35:21,405 --> 00:35:24,670
+Go on, show her how cool you are,
+or your marriage will be in trouble!
+
+458
+00:35:27,053 --> 00:35:29,064
+Ordinal Scale, activate.
+
+459
+00:35:35,618 --> 00:35:37,494
+This doesn't feel right at all.
+
+460
+00:35:37,760 --> 00:35:39,344
+There's like a lag, or something.
+
+461
+00:35:39,485 --> 00:35:42,546
+It's a different physical sensation. That's all!
+
+462
+00:35:43,786 --> 00:35:45,923
+Practice is the only way to get better!
+
+463
+00:35:50,372 --> 00:35:51,563
+Maybe if I...
+
+464
+00:35:51,911 --> 00:35:55,105
+Oh, I'm sorry!
+
+465
+00:36:04,696 --> 00:36:05,823
+Who are you?
+
+466
+00:36:24,067 --> 00:36:25,338
+Did you see that, Yui?
+
+467
+00:36:25,419 --> 00:36:26,125
+Yes.
+
+468
+00:36:26,220 --> 00:36:28,055
+She didn't have an NPC tag.
+
+469
+00:36:28,458 --> 00:36:30,390
+She wasn't a player, either.
+
+470
+00:36:30,614 --> 00:36:33,783
+Then, is she some kind of AR ghost?
+
+471
+00:36:33,927 --> 00:36:36,620
+No, Daddy. That's impossible.
+
+472
+00:36:37,017 --> 00:36:38,518
+I guess it is.
+
+473
+00:36:39,553 --> 00:36:41,782
+It looked like she was saying something.
+
+474
+00:36:42,127 --> 00:36:45,017
+By the way her mouth moved, I think she said the words,
+
+475
+00:36:45,144 --> 00:36:47,408
+"Look for...", but that's all I could tell.
+
+476
+00:36:54,107 --> 00:36:55,976
+I didn't mean to scare you.
+
+477
+00:36:57,167 --> 00:36:59,262
+I'm sorry I went without you last night.
+
+478
+00:36:59,533 --> 00:37:01,503
+No, that's okay. I don't mind.
+
+479
+00:37:01,996 --> 00:37:07,160
+By the way, at that last battle we were at,
+you said you saw some other SAO survivors.
+
+480
+00:37:07,311 --> 00:37:09,773
+Yeah. That one player ranked second.
+
+481
+00:37:09,958 --> 00:37:11,960
+Really? That guy, huh?
+
+482
+00:37:12,045 --> 00:37:15,319
+I think he was in the Knights of the Blood Oath. Maybe.
+
+483
+00:37:15,438 --> 00:37:16,194
+"Maybe".
+
+484
+00:37:16,555 --> 00:37:20,158
+Yeah, it's like, it's him,
+but he's different than he was in SAO.
+
+485
+00:37:21,049 --> 00:37:25,108
+Back then, he went by "Nautilus"
+and I remember he had potential.
+
+486
+00:37:25,402 --> 00:37:29,945
+I also remember he couldn't go on boss raids with
+us, because he was afraid of dying.
+
+487
+00:37:30,147 --> 00:37:32,727
+Well, he's definitely changed his playing style.
+
+488
+00:37:33,546 --> 00:37:36,310
+His agility in AR is unbelievable.
+
+489
+00:37:36,833 --> 00:37:38,460
+Like a gymnast, or something.
+
+490
+00:37:38,809 --> 00:37:41,182
+Hmm. Did you talk to him?
+
+491
+00:37:41,341 --> 00:37:44,501
+Mm‐mm. I didn't know how he'd react to seeing me again.
+
+492
+00:37:45,195 --> 00:37:49,110
+Still we were in the same guild,
+so I'm a little concerned about him.
+
+493
+00:37:49,235 --> 00:37:51,713
+It's hard to drop being second‐in‐command, huh?
+
+494
+00:37:51,738 --> 00:37:52,764
+Watch it, soldier!
+
+495
+00:37:56,739 --> 00:37:58,128
+Hey, Asuna,
+
+496
+00:37:58,415 --> 00:38:00,512
+have you heard any stories about this park?
+
+497
+00:38:00,616 --> 00:38:02,252
+You know, like, about ghosts.
+
+498
+00:38:02,308 --> 00:38:04,165
+Oh, my God, would you stop.
+
+499
+00:38:04,563 --> 00:38:07,455
+You know how freaked out I get,
+talking about stuff like that.
+
+500
+00:38:07,526 --> 00:38:09,519
+I know, I know! I'm sorry.
+
+501
+00:38:13,195 --> 00:38:14,628
+Anyway, Kirito,
+
+502
+00:38:14,828 --> 00:38:16,727
+let's talk about how we're going to break the news.
+
+503
+00:38:16,830 --> 00:38:17,791
+Uh, "news"?
+
+504
+00:38:17,847 --> 00:38:21,405
+My mom knows something's up with us,
+so she's been grilling me about you.
+
+505
+00:38:21,698 --> 00:38:24,273
+Oh, right, that news. Mm hm.
+
+506
+00:38:24,600 --> 00:38:26,318
+She's not mad or anything.
+
+507
+00:38:26,696 --> 00:38:28,406
+But we should figure out how to tell her.
+
+508
+00:38:28,509 --> 00:38:29,987
+Yeah. You're right.
+
+509
+00:38:30,261 --> 00:38:33,576
+Daddy! Mommy! I found something out about the game!
+
+510
+00:38:34,419 --> 00:38:36,130
+I have something to show everyone.
+
+511
+00:38:36,326 --> 00:38:41,055
+So far, when a boss monster has appeared at an
+event, it has always been at 9:00 p. m.
+
+512
+00:38:41,547 --> 00:38:46,152
+This is the location where Mommy and Daddy
+fought Kagachi the Samurai Lord the other day.
+
+513
+00:38:47,926 --> 00:38:50,929
+And this is the location where Mommy fought last night.
+
+514
+00:38:51,008 --> 00:38:54,567
+In a few seconds, you'll see the locations
+where the other nine bosses appeared.
+
+515
+00:38:55,083 --> 00:38:58,466
+I'll also superimpose a flattened
+map of Old Aincrad over it.
+
+516
+00:38:59,916 --> 00:39:00,940
+No way!
+
+517
+00:39:01,347 --> 00:39:05,675
+Every place a boss showed up in OS lines
+up with a dungeon from Old Aincrad!
+
+518
+00:39:06,518 --> 00:39:09,457
+The admin seem to have picked open spaces in the city,
+
+519
+00:39:09,529 --> 00:39:12,135
+with coordinates that most closely match the dungeons.
+
+520
+00:39:12,191 --> 00:39:14,551
+With this, we can make certain predictions.
+
+521
+00:39:14,820 --> 00:39:20,556
+For example, tonight at 9:00, a boss will most
+likely appear at the Ebisu Garden Place in Shibuya.
+
+522
+00:39:21,262 --> 00:39:22,399
+Oh, this is great!
+
+523
+00:39:22,686 --> 00:39:24,832
+If we know where it's going to be, we can go, too!
+
+524
+00:39:24,975 --> 00:39:27,294
+Won't your parents mind you're out that late?
+
+525
+00:39:27,627 --> 00:39:30,051
+Mine won't, as long as I'm hanging with you guys.
+
+526
+00:39:30,196 --> 00:39:31,418
+They're so weird.
+
+527
+00:39:31,443 --> 00:39:33,119
+If this was VR, they'd pitch a fit.
+
+528
+00:39:33,174 --> 00:39:34,332
+Yeah, I bet!
+
+529
+00:39:35,510 --> 00:39:39,006
+Well, have fun, guys.
+I have to work tonight, so I can't make it.
+
+530
+00:39:39,404 --> 00:39:41,746
+How about you? Are you gonna go to this one?
+
+531
+00:39:42,119 --> 00:39:43,821
+Nah. I'll pass on tonight.
+
+532
+00:39:43,846 --> 00:39:47,705
+Oh, jeez! Are you still not used to fighting in AR?
+
+533
+00:39:47,872 --> 00:39:48,682
+Nope.
+
+534
+00:39:49,067 --> 00:39:50,820
+Oh, well, suit yourself.
+
+535
+00:39:51,272 --> 00:39:52,116
+Darn it.
+
+536
+00:39:52,141 --> 00:39:52,582
+Huh?
+
+537
+00:39:52,607 --> 00:39:53,983
+All right, ladies!
+
+538
+00:39:54,022 --> 00:39:57,923
+Let's gear up and show that Yuna chick
+how us veteran players like to party!
+
+539
+00:39:58,956 --> 00:40:00,298
+Yeah!
+
+540
+00:40:00,734 --> 00:40:02,364
+By the way, where's Klein?
+
+541
+00:40:02,435 --> 00:40:07,194
+Who knows? He's probably somewhere in Ordinal
+, grinding for points, or something.
+
+542
+00:40:07,408 --> 00:40:10,347
+You know, I saw him last night,
+right before the battle started.
+
+543
+00:40:10,372 --> 00:40:12,748
+But I don't think he ever actually joined it.
+
+544
+00:40:12,834 --> 00:40:16,005
+They were waiting on one of the
+other Fuurinkazan guys to show.
+
+545
+00:40:16,030 --> 00:40:16,981
+Oh, yeah?
+
+546
+00:40:17,021 --> 00:40:21,298
+What sucks about AR battles is you have
+go to an actual place to participate.
+
+547
+00:40:21,391 --> 00:40:23,311
+Oh, speaking of going places,
+
+548
+00:40:23,346 --> 00:40:26,763
+we should figure out when we're all going
+to meet up to go see the meteor shower.
+
+549
+00:40:28,089 --> 00:40:28,970
+Shh!
+
+550
+00:40:30,400 --> 00:40:33,460
+You know what? We should hammer out tonight's plan.
+
+551
+00:40:33,930 --> 00:40:36,717
+Okay, so where does everyone wanna meet? Ideas?
+
+552
+00:40:36,742 --> 00:40:37,219
+Yui.
+
+553
+00:40:37,482 --> 00:40:38,499
+Yes, Daddy?
+
+554
+00:40:38,534 --> 00:40:41,795
+I wanted to keep the meteor shower
+thing a secret from the others.
+
+555
+00:40:41,820 --> 00:40:43,525
+Ooh! I'm so sorry.
+
+556
+00:40:43,550 --> 00:40:45,655
+Eh, it's okay. You didn't know.
+
+557
+00:40:45,973 --> 00:40:48,895
+Anyway, about the boss location data you got,
+
+558
+00:40:49,183 --> 00:40:51,089
+could you send it to my cell later on?
+
+559
+00:40:51,272 --> 00:40:52,978
+Yes! I'd be happy to!
+
+560
+00:41:19,199 --> 00:41:20,796
+Hi, Kirito, it's me.
+
+561
+00:41:20,907 --> 00:41:22,153
+Oh, hey, Asuna.
+
+562
+00:41:22,566 --> 00:41:23,646
+Hang on a second.
+
+563
+00:41:25,737 --> 00:41:27,698
+That is some plain pasta.
+
+564
+00:41:27,818 --> 00:41:29,207
+Yeah, I know.
+
+565
+00:41:29,360 --> 00:41:31,575
+It's the only recipe my cooking app recommends,
+
+566
+00:41:31,600 --> 00:41:32,927
+so I'm going with it.
+
+567
+00:41:33,069 --> 00:41:36,143
+Your diet is so not balanced, it's not even funny.
+
+568
+00:41:38,647 --> 00:41:42,545
+Here's an idea. How about you make
+me some of your ragout rabbit stew?
+
+569
+00:41:42,548 --> 00:41:44,112
+Right, I'll just whip one up.
+
+570
+00:41:44,636 --> 00:41:48,353
+I know! What if I got some ingredients,
+came over and made something like it?
+
+571
+00:41:48,378 --> 00:41:50,476
+Oh, sure! That'd be great.
+
+572
+00:41:52,209 --> 00:41:56,355
+Hey, so about that ghost you mentioned earlier today.
+
+573
+00:41:56,569 --> 00:41:57,111
+Huh?
+
+574
+00:41:57,166 --> 00:41:59,857
+You asked if I heard about a ghost in Yoyogi Park?
+
+575
+00:41:59,882 --> 00:42:01,185
+Oh, right.
+
+576
+00:42:01,600 --> 00:42:03,324
+Anyway, I did some digging.
+
+577
+00:42:03,371 --> 00:42:05,618
+Some players say they've seen a ghost.
+
+578
+00:42:05,643 --> 00:42:10,321
+Not in Yoyogi Park, but in other places.
+They say it looks like a young girl in a hoodie.
+
+579
+00:42:10,538 --> 00:42:12,103
+You're kidding me.
+
+580
+00:42:12,145 --> 00:42:14,525
+What's wrong? Wait, did you see her?
+
+581
+00:42:14,614 --> 00:42:19,577
+I didn't! But like, maybe whoever saw
+it, just saw an NPC instead! Maybe.
+
+582
+00:42:19,816 --> 00:42:21,627
+Mm. Maybe...
+
+583
+00:42:22,185 --> 00:42:24,814
+Oh, by the way, I found the tent and sleeping bag.
+
+584
+00:42:24,957 --> 00:42:26,333
+They look like they're good to go.
+
+585
+00:42:26,366 --> 00:42:27,414
+That's great!
+
+586
+00:42:27,859 --> 00:42:29,615
+It's a good thing you have stuff like that.
+
+587
+00:42:29,861 --> 00:42:32,394
+Oh, don't forget to thank your
+dad for letting us borrow them!
+
+588
+00:42:32,435 --> 00:42:33,594
+Mm. Sure.
+
+589
+00:42:34,263 --> 00:42:36,350
+I can't wait. This'll be fun!
+
+590
+00:42:39,366 --> 00:42:42,452
+Bye-bye, Klein. Leader of the Fuurinkazan guild.
+
+591
+00:42:45,921 --> 00:42:48,317
+We sure had a big crowd last night, huh?
+
+592
+00:42:48,461 --> 00:42:49,842
+Yeah, I guess we did.
+
+593
+00:42:50,582 --> 00:42:52,297
+The next one will be even bigger.
+
+594
+00:42:52,601 --> 00:42:53,479
+Yeah?
+
+595
+00:42:57,695 --> 00:42:59,591
+Don't tell me you're interested in this.
+
+596
+00:42:59,630 --> 00:43:01,600
+So many words. It looks boring.
+
+597
+00:43:01,782 --> 00:43:04,832
+No. It reads like a diary of my memories.
+
+598
+00:43:04,857 --> 00:43:06,922
+Hm. The swordsman said,
+
+599
+00:43:06,970 --> 00:43:10,600
+"Once I draw my other sword, the battle's over for you."
+
+600
+00:43:10,799 --> 00:43:13,937
+He sounds totally cool!
+Come on, read the rest of it to me!
+
+601
+00:44:11,008 --> 00:44:12,429
+I finally found you.
+
+602
+00:44:13,844 --> 00:44:15,517
+I didn't know you were looking.
+
+603
+00:44:16,123 --> 00:44:18,625
+Well, you're not a ghost, that's for sure.
+
+604
+00:44:23,099 --> 00:44:24,734
+Hey, who are you?
+
+605
+00:44:24,910 --> 00:44:26,910
+Is there something you want me to find?
+
+606
+00:44:31,824 --> 00:44:32,942
+No, wait!
+
+607
+00:44:38,437 --> 00:44:39,545
+Hello?
+
+608
+00:44:39,593 --> 00:44:41,878
+Hey, it's me. About time you picked up.
+
+609
+00:44:41,903 --> 00:44:44,367
+Sorry. I was on the road. What's up?
+
+610
+00:44:44,660 --> 00:44:47,767
+I found Klein. He's in the hospital in Yoyogi.
+
+611
+00:44:48,102 --> 00:44:51,343
+Been there since last night. His arm's all busted up.
+
+612
+00:44:51,581 --> 00:44:53,678
+What? He get in an accident?
+
+613
+00:44:54,051 --> 00:44:58,739
+I don't know. He said he ran into some trouble
+on the way to one of them Ordinal Scale battles.
+
+614
+00:44:58,873 --> 00:45:00,875
+That's all I got before he conked out.
+
+615
+00:45:01,179 --> 00:45:01,940
+Damn.
+
+616
+00:45:02,758 --> 00:45:04,245
+Let me know when you find out more.
+
+617
+00:45:04,530 --> 00:45:07,370
+Yeah. You be careful on that bike, man.
+
+618
+00:45:11,504 --> 00:45:12,338
+Daddy?
+
+619
+00:45:23,061 --> 00:45:25,751
+Gosh, I hope Yuna shows up to this battle.
+
+620
+00:45:27,005 --> 00:45:29,790
+Silica, what do you think the deal is with Yuna?
+
+621
+00:45:30,003 --> 00:45:33,395
+I mean, do you think she's a program,
+like what the developer says?
+
+622
+00:45:33,420 --> 00:45:35,484
+Or do you think she might actually be human?
+
+623
+00:45:35,716 --> 00:45:39,602
+Well, I'm pretty sure she's not a human.
+
+624
+00:45:39,718 --> 00:45:42,055
+But she also doesn't seem like an AI, either.
+
+625
+00:45:42,119 --> 00:45:47,457
+Hey, if you ask me, I can't think of a single human
+that can sing with such a crystal‐clear, flawless voice.
+
+626
+00:45:47,482 --> 00:45:50,515
+So you're saying my voice isn't crystal‐clear, is that it?
+
+627
+00:45:51,498 --> 00:45:53,152
+You sound good, for a human.
+
+628
+00:45:53,186 --> 00:45:55,863
+Liz, I'm never going to karaoke with you again.
+
+629
+00:45:56,738 --> 00:45:59,144
+Oh, come on. I'm sorry.
+
+630
+00:45:59,796 --> 00:46:00,758
+It's starting.
+
+631
+00:46:18,888 --> 00:46:20,334
+Is everyone ready?
+
+632
+00:46:20,850 --> 00:46:24,393
+It's time to battle! So start the music!
+
+633
+00:46:24,719 --> 00:46:25,838
+Yuna!
+
+634
+00:46:29,111 --> 00:46:30,551
+We so lucked out!
+
+635
+00:46:31,440 --> 00:46:33,918
+You ladies ready to get tons of points tonight?
+
+636
+00:46:33,960 --> 00:46:35,222
+Yeah!
+
+637
+00:46:38,520 --> 00:46:41,625
+I hate it when I have to be the tank!
+
+638
+00:46:45,092 --> 00:46:46,203
+Our plan worked!
+
+639
+00:46:46,425 --> 00:46:48,371
+"Worked"? We almost got squashed!
+
+640
+00:46:48,706 --> 00:46:51,985
+Hot damn! You girls are kicking all the ass out here.
+
+641
+00:46:56,348 --> 00:46:58,350
+Come on, slow pokes! Try and keep up!
+
+642
+00:46:58,493 --> 00:47:01,134
+Hey! Those are our points, buster.
+
+643
+00:47:06,724 --> 00:47:08,448
+Ordinal Scale, activate!
+
+644
+00:47:11,253 --> 00:47:12,000
+Daddy?
+
+645
+00:47:12,079 --> 00:47:12,635
+Shh.
+
+646
+00:47:13,623 --> 00:47:16,315
+I think I know her from somewhere else.
+
+647
+00:47:19,166 --> 00:47:20,716
+Your name's Nautilus.
+
+648
+00:47:21,065 --> 00:47:23,503
+We were in the Knights of the Blood Oath together.
+
+649
+00:47:24,317 --> 00:47:27,271
+These days, I go by a different name, Asuna.
+
+650
+00:47:29,763 --> 00:47:30,630
+Eiji?
+
+651
+00:47:34,938 --> 00:47:36,717
+You play this game really well.
+
+652
+00:47:36,965 --> 00:47:42,215
+I'm not who I used to be. And you've gotten less intense.
+
+653
+00:47:42,874 --> 00:47:44,161
+Oh, really?
+
+654
+00:47:44,439 --> 00:47:46,925
+Yeah. Back then, you were tougher.
+
+655
+00:47:58,647 --> 00:47:59,830
+I know her.
+
+656
+00:47:59,855 --> 00:48:01,195
+Going down!
+
+657
+00:48:04,280 --> 00:48:05,690
+It's almost time.
+
+658
+00:48:24,697 --> 00:48:27,050
+Move in! Everyone, attack!
+
+659
+00:48:29,887 --> 00:48:30,744
+What the...?
+
+660
+00:48:31,648 --> 00:48:33,401
+Is another boss showing up?
+
+661
+00:48:38,219 --> 00:48:39,163
+Pina!
+
+662
+00:48:39,894 --> 00:48:41,092
+It's tiny!
+
+663
+00:48:42,572 --> 00:48:44,463
+Did you come to help us fight?
+
+664
+00:48:57,539 --> 00:48:59,334
+Silica! This way!
+
+665
+00:49:04,732 --> 00:49:08,012
+Daddy! That boss is called Dorcel the Chaos Drake!
+
+666
+00:49:08,037 --> 00:49:09,919
+It lived way up on Floor 91!
+
+667
+00:49:10,251 --> 00:49:11,729
+Floor 91?
+
+668
+00:49:13,590 --> 00:49:14,804
+Let me at that thing!
+
+669
+00:49:15,480 --> 00:49:16,424
+Oh, shit!
+
+670
+00:49:19,596 --> 00:49:21,629
+Why are you mad at me? What did I do?
+
+671
+00:49:22,917 --> 00:49:24,621
+I'm sorry‐‐ Ah!
+
+672
+00:49:25,665 --> 00:49:26,659
+Silica!
+
+673
+00:49:28,335 --> 00:49:29,755
+Silica!
+
+674
+00:49:58,845 --> 00:50:01,450
+Asuna? Come on, Asuna, wake up!
+
+675
+00:50:05,074 --> 00:50:06,074
+Asuna!
+
+676
+00:50:07,711 --> 00:50:08,711
+Are you okay?
+
+677
+00:50:16,975 --> 00:50:18,030
+You dick!
+
+678
+00:50:19,202 --> 00:50:20,580
+What the hell's your prob...?
+
+679
+00:50:27,193 --> 00:50:28,415
+You're pathetic.
+
+680
+00:50:28,678 --> 00:50:31,284
+You might've been the greatest swordsman in VR,
+
+681
+00:50:31,482 --> 00:50:33,292
+but you're nothing in AR.
+
+682
+00:50:33,317 --> 00:50:34,476
+Son of a bitch!
+
+683
+00:50:37,821 --> 00:50:41,556
+Hey, you! Ever hear of game etiquette?
+
+684
+00:50:54,046 --> 00:50:55,863
+Time's up!
+
+685
+00:51:02,818 --> 00:51:04,889
+See you later!
+
+686
+00:51:05,877 --> 00:51:07,647
+Wait! What about the bonus?
+
+687
+00:51:07,798 --> 00:51:10,674
+Hey, I thought you were gonna help Asuna!
+
+688
+00:51:10,769 --> 00:51:12,580
+Please kiss me!
+
+689
+00:51:19,082 --> 00:51:21,027
+Asuna! Are you okay?
+
+690
+00:51:25,504 --> 00:51:26,773
+Well, this sucks.
+
+691
+00:51:27,154 --> 00:51:28,508
+Better luck next time.
+
+692
+00:51:32,549 --> 00:51:36,685
+I'm sorry, Asuna. This is all because I was being stupid.
+
+693
+00:51:37,449 --> 00:51:41,366
+Can you believe that number two guy
+pushed Silica like that? What an asshole!
+
+694
+00:51:41,564 --> 00:51:43,439
+Uh‐huh. Nice save, Asuna.
+
+695
+00:51:43,940 --> 00:51:46,672
+That's another reason they made
+you second‐in‐command back in...
+
+696
+00:51:48,541 --> 00:51:50,510
+Hey, what's wrong? Did you get hurt?
+
+697
+00:51:50,654 --> 00:51:52,513
+Mm‐mm. No, it's nothing.
+
+698
+00:51:53,485 --> 00:51:54,538
+Want me to take you home?
+
+699
+00:51:55,050 --> 00:51:56,544
+Mm‐hm. We'll help you up.
+
+700
+00:51:56,956 --> 00:51:58,235
+Hang onto my arm.
+
+701
+00:52:00,822 --> 00:52:02,868
+Good night, Asuna. I'll call you tomorrow.
+
+702
+00:52:04,162 --> 00:52:04,948
+Kirito?
+
+703
+00:52:05,558 --> 00:52:06,544
+Yeah, what's up?
+
+704
+00:52:07,163 --> 00:52:11,874
+I, uh, I was wondering if you
+still remembered the day we met.
+
+705
+00:52:12,334 --> 00:52:15,617
+Sure. It was on Floor 1 of Aincrad.
+
+706
+00:52:15,720 --> 00:52:16,856
+That boss raid meeting?
+
+707
+00:52:17,507 --> 00:52:20,069
+Yeah. Right. And then, you...
+
+708
+00:52:20,477 --> 00:52:22,720
+Then you asked me to join your party, didn't you?
+
+709
+00:52:22,863 --> 00:52:26,651
+Uh‐huh. I still can't believe I
+had the guts to even talk to you.
+
+710
+00:52:53,592 --> 00:52:56,753
+This is so cool. You can already see the lake from here.
+
+711
+00:52:56,816 --> 00:52:58,707
+No, you can see the lake, I...
+
+712
+00:53:04,157 --> 00:53:07,120
+Kirito, you shouldn't be out here on your own!
+
+713
+00:53:08,271 --> 00:53:09,288
+Kirito?
+
+714
+00:53:36,093 --> 00:53:37,072
+Kirito!
+
+715
+00:53:40,970 --> 00:53:41,965
+Who are you?
+
+716
+00:53:43,206 --> 00:53:44,438
+I'm...
+
+717
+00:53:57,943 --> 00:53:58,691
+A dream.
+
+718
+00:54:00,619 --> 00:54:01,621
+Kirito.
+
+719
+00:54:10,339 --> 00:54:11,650
+Kirito.
+
+720
+00:54:15,661 --> 00:54:17,506
+Why can't I remember?
+
+721
+00:54:29,756 --> 00:54:30,758
+Are you okay?
+
+722
+00:54:35,799 --> 00:54:38,136
+What's going on? Can't you sleep?
+
+723
+00:54:40,028 --> 00:54:41,602
+Why are you sitting in the dark?
+
+724
+00:54:44,275 --> 00:54:47,238
+Thanks for coming. I'm sorry if I woke you.
+
+725
+00:54:47,396 --> 00:54:50,421
+It's okay. Did something happen?
+
+726
+00:54:58,619 --> 00:54:59,954
+This cabin...
+
+727
+00:55:00,067 --> 00:55:02,351
+About how long would you say we've lived here?
+
+728
+00:55:02,459 --> 00:55:07,358
+Well, we bought it in SAO,
+so it's been two and a half years now?
+
+729
+00:55:07,779 --> 00:55:09,526
+It has, hasn't it?
+
+730
+00:55:11,411 --> 00:55:12,673
+Asuna?
+
+731
+00:55:13,127 --> 00:55:15,710
+What...? I knew it. I can't remember.
+
+732
+00:55:16,273 --> 00:55:17,983
+What do you mean? What?
+
+733
+00:55:18,346 --> 00:55:20,262
+Everything that happened in Aincrad.
+
+734
+00:55:20,381 --> 00:55:21,984
+I can't recall any of it.
+
+735
+00:55:22,349 --> 00:55:24,061
+The first time you and I met.
+
+736
+00:55:24,103 --> 00:55:25,559
+All the battles we fought.
+
+737
+00:55:25,823 --> 00:55:27,245
+Us living here together.
+
+738
+00:55:27,340 --> 00:55:29,488
+What the heck are you talking about?
+
+739
+00:55:29,659 --> 00:55:30,885
+You're joking, right?
+
+740
+00:55:32,942 --> 00:55:34,706
+In the last few hours,
+
+741
+00:55:34,737 --> 00:55:37,438
+the memories I had of SAO faded away.
+
+742
+00:55:37,875 --> 00:55:39,447
+There's nothing left now.
+
+743
+00:55:58,828 --> 00:56:02,832
+I'll have to go through all the data
+before I can say for certain what happened.
+
+744
+00:56:02,911 --> 00:56:04,056
+But by the looks of it,
+
+745
+00:56:04,081 --> 00:56:08,149
+Asuna's brain seems to have undergone
+some kind of limited memory scan.
+
+746
+00:56:08,336 --> 00:56:09,925
+Limited memory scan?
+
+747
+00:56:10,131 --> 00:56:13,483
+So like, whatever did this only
+targeted her memories of SAO ?
+
+748
+00:56:13,634 --> 00:56:14,997
+How's that even possible?
+
+749
+00:56:15,064 --> 00:56:16,702
+I can think of one way, actually.
+
+750
+00:56:16,837 --> 00:56:18,395
+If she were put in a situation,
+
+751
+00:56:18,420 --> 00:56:20,747
+which forced her to recall moments in SAO ,
+
+752
+00:56:21,032 --> 00:56:24,376
+the single neurons connected to
+those memories would be identified.
+
+753
+00:56:24,717 --> 00:56:27,562
+Then by showering the neurons with electron pulses,
+
+754
+00:56:27,626 --> 00:56:29,461
+the image of each memory is scanned.
+
+755
+00:56:30,192 --> 00:56:34,783
+In the past few days, there've been multiple
+reports of people with symptoms similar to Asuna's.
+
+756
+00:56:35,339 --> 00:56:37,795
+It could be a coincidence, but I doubt it.
+
+757
+00:56:38,082 --> 00:56:39,970
+Each patient had something in common.
+
+758
+00:56:40,330 --> 00:56:42,753
+They all played that AR game's event battles.
+
+759
+00:56:42,967 --> 00:56:45,683
+Then the Augma's causing it.
+
+760
+00:56:45,906 --> 00:56:47,715
+I can't be certain of that yet.
+
+761
+00:56:48,982 --> 00:56:50,786
+Is Asuna going to be all right?
+
+762
+00:56:50,902 --> 00:56:55,438
+Well, as of right now, I don't see any sign
+of actual physical damage to her brain.
+
+763
+00:56:55,742 --> 00:56:59,320
+My theory is, her ability to
+recall her memories was affected
+
+764
+00:56:59,345 --> 00:57:02,090
+because the electron
+pulses degenerated her spine.
+
+765
+00:57:02,624 --> 00:57:08,200
+Unfortunately, I can't tell whether or not she'll
+show any further symptoms until I run some more tests.
+
+766
+00:57:08,628 --> 00:57:10,083
+Wait, so you're saying
+
+767
+00:57:10,417 --> 00:57:13,578
+there's still a chance she'll
+lose even more of her memories?
+
+768
+00:57:26,974 --> 00:57:28,618
+I'm sorry, Kirito.
+
+769
+00:57:29,221 --> 00:57:30,120
+Don't worry.
+
+770
+00:57:30,446 --> 00:57:33,059
+You can still remember what happened lately, right?
+
+771
+00:57:34,650 --> 00:57:35,270
+Mm‐hm.
+
+772
+00:57:35,937 --> 00:57:38,573
+This doesn't mean you're never gonna remember SAO again.
+
+773
+00:57:39,375 --> 00:57:40,662
+You will, you'll see.
+
+774
+00:57:49,561 --> 00:57:50,323
+Asuna?
+
+775
+00:57:53,646 --> 00:57:55,066
+What's wrong, Asuna?
+
+776
+00:57:57,919 --> 00:57:58,975
+Asuna!
+
+777
+00:58:00,717 --> 00:58:02,130
+Are you okay?
+
+778
+00:58:37,232 --> 00:58:37,835
+Well?
+
+779
+00:58:42,460 --> 00:58:43,853
+I'm sorry, Kirito.
+
+780
+00:58:43,968 --> 00:58:46,161
+I can't remember anything about SAO.
+
+781
+00:58:46,479 --> 00:58:50,474
+I remember when we bought this place in
+ALO, but not when we first got it.
+
+782
+00:58:50,588 --> 00:58:52,827
+Everything about SAO 's a blank.
+
+783
+00:58:53,598 --> 00:58:54,481
+Mommy!
+
+784
+00:58:54,743 --> 00:58:55,957
+I'm sorry.
+
+785
+00:58:56,469 --> 00:58:59,334
+I hate that I can't remember the life we had back then.
+
+786
+00:58:59,743 --> 00:59:03,814
+I'm going to try to find out what's
+really going on in Ordinal Scale.
+
+787
+00:59:03,997 --> 00:59:07,851
+I'm sure I'll find some kind of clue
+that'll help you get your memory back.
+
+788
+00:59:08,662 --> 00:59:10,870
+Mm. Thank you, Yui.
+
+789
+00:59:13,813 --> 00:59:19,530
+Even if I can't remember it now, this really is
+the place we called home back then, isn't it?
+
+790
+00:59:20,062 --> 00:59:20,848
+Yeah.
+
+791
+00:59:27,454 --> 00:59:28,801
+I'll go make us some tea.
+
+792
+00:59:28,874 --> 00:59:30,263
+Oh, I wanna help!
+
+793
+00:59:30,345 --> 00:59:32,162
+No. I can make it.
+
+794
+00:59:32,391 --> 00:59:33,934
+The change of pace will do me good.
+
+795
+01:00:26,826 --> 01:00:31,121
+Now, I'm even more powerful than
+Lightning Flash and the Black Swordsman.
+
+796
+01:00:31,647 --> 01:00:32,830
+Who would've thought?
+
+797
+01:00:33,777 --> 01:00:37,097
+If it weren't for Ordinal Scale, I'd still be nothing.
+
+798
+01:01:10,432 --> 01:01:12,937
+Soon, I'll make good on the promise I made her.
+
+799
+01:01:20,232 --> 01:01:20,867
+Hello?
+
+800
+01:01:25,315 --> 01:01:27,006
+So how's your arm doing?
+
+801
+01:01:27,714 --> 01:01:28,978
+Eh, it's not too...
+
+802
+01:01:30,210 --> 01:01:32,695
+I feel worse about making you guys worry.
+
+803
+01:01:33,245 --> 01:01:35,945
+Do you feel any, I don't know, different?
+
+804
+01:01:36,264 --> 01:01:36,891
+Huh?
+
+805
+01:01:37,739 --> 01:01:39,902
+Do you remember what happened in SAO ?
+
+806
+01:01:42,874 --> 01:01:45,321
+No. If I try and think about it,
+
+807
+01:01:45,392 --> 01:01:48,162
+it's like my head's all stuck in this big‐ass fog.
+
+808
+01:01:49,007 --> 01:01:52,914
+Well, it's not like it was all
+fun and games for us, right?
+
+809
+01:01:53,967 --> 01:01:54,777
+I don't know.
+
+810
+01:01:55,256 --> 01:01:57,135
+Maybe it's better I don't remember.
+
+811
+01:02:08,785 --> 01:02:11,064
+I can't wait. This'll be fun!
+
+812
+01:02:22,481 --> 01:02:24,401
+Welcome to Augma!
+
+813
+01:02:38,847 --> 01:02:39,571
+Damn!
+
+814
+01:02:44,059 --> 01:02:46,434
+Launch search for Ordinal Scale rankings.
+
+815
+01:03:02,485 --> 01:03:03,263
+Hey!
+
+816
+01:03:04,280 --> 01:03:06,249
+Oh, uh! Sorry.
+
+817
+01:03:07,068 --> 01:03:07,957
+Let's go, man.
+
+818
+01:03:07,982 --> 01:03:08,616
+Yeah.
+
+819
+01:03:15,085 --> 01:03:20,240
+I can't tell if it's a side effect due to a glitch
+in the system, or a deliberately designed feature.
+
+820
+01:03:20,631 --> 01:03:23,465
+If it's the latter and someone did this intentionally,
+
+821
+01:03:23,490 --> 01:03:25,539
+I'm afraid this is only the beginning.
+
+822
+01:03:25,634 --> 01:03:26,874
+Let me get this straight.
+
+823
+01:03:27,352 --> 01:03:30,864
+You're saying that if any of the other
+SAO survivors play Ordinal Scale,
+
+824
+01:03:30,889 --> 01:03:33,062
+there's a chance they'll lose their memories, too.
+
+825
+01:03:33,111 --> 01:03:34,208
+Just like Asuna?
+
+826
+01:03:36,424 --> 01:03:39,601
+If I'm not careful, it could happen to me, too.
+
+827
+01:03:40,936 --> 01:03:43,559
+If I can't remember those two years with her,
+
+828
+01:03:43,964 --> 01:03:45,898
+will I also forget I love her?
+
+829
+01:03:47,460 --> 01:03:48,731
+I'm sorry, Daddy!
+
+830
+01:03:48,930 --> 01:03:51,136
+I couldn't find the player called Eiji.
+
+831
+01:03:51,440 --> 01:03:54,289
+I used his name and visual data from the last battle,
+
+832
+01:03:54,395 --> 01:03:56,419
+but the search didn't turn up a thing.
+
+833
+01:03:56,595 --> 01:03:57,397
+Oh, well...
+
+834
+01:03:57,478 --> 01:03:58,630
+Don't give up, Daddy.
+
+835
+01:03:58,655 --> 01:04:01,021
+While you're fighting the boss, I'll be gathering data.
+
+836
+01:04:01,053 --> 01:04:02,902
+I'm sure I'll find something to go on!
+
+837
+01:04:02,927 --> 01:04:03,857
+I know you will.
+
+838
+01:04:03,968 --> 01:04:05,208
+I'm counting on you.
+
+839
+01:04:05,233 --> 01:04:05,688
+Right.
+
+840
+01:04:05,892 --> 01:04:07,705
+Well, well! Look who it is.
+
+841
+01:04:07,730 --> 01:04:08,028
+Huh?
+
+842
+01:04:09,355 --> 01:04:10,634
+What are you doing here?
+
+843
+01:04:10,978 --> 01:04:12,694
+What are you doing here?
+
+844
+01:04:12,805 --> 01:04:16,235
+You just told everyone not to
+fight the bosses and here you are.
+
+845
+01:04:16,338 --> 01:04:19,079
+I know. But it really is dangerous.
+
+846
+01:04:19,320 --> 01:04:22,473
+If a boss kills you, you'll lose your memory like Asuna.
+
+847
+01:04:22,520 --> 01:04:23,641
+I'll be fine.
+
+848
+01:04:23,847 --> 01:04:26,468
+I'm not an SAO survivor like you guys.
+
+849
+01:04:26,579 --> 01:04:30,822
+If I don't have those memories to scan,
+nothing's gonna happen to me. Right, Yui?
+
+850
+01:04:31,139 --> 01:04:34,340
+Yes. You should be safe. I think.
+
+851
+01:04:34,365 --> 01:04:35,246
+Yeah, but we don't know if...
+
+852
+01:04:35,271 --> 01:04:38,888
+If you're really that worried,
+then you'll just have to keep me safe, won't you?
+
+853
+01:04:39,007 --> 01:04:41,374
+If anyone can keep her safe, it's you, Daddy.
+
+854
+01:04:46,556 --> 01:04:48,754
+Ordinal Scale, activate!
+
+855
+01:05:01,173 --> 01:05:02,183
+What the‐‐?
+
+856
+01:05:02,278 --> 01:05:05,233
+That's Dire Tusk, the boss from Floor 18!
+
+857
+01:05:05,519 --> 01:05:07,520
+What happened to Floor 13's boss?
+
+858
+01:05:07,673 --> 01:05:12,479
+I just checked and a total of ten monsters have
+appeared at different locations across the city!
+
+859
+01:05:12,510 --> 01:05:14,593
+They're pulling out all the stops tonight.
+
+860
+01:05:14,650 --> 01:05:18,484
+Dire Tusk is here, because the
+admin shuffled the locations around!
+
+861
+01:05:21,188 --> 01:05:22,925
+Crap, that's Dire Tusk, all right.
+
+862
+01:05:22,967 --> 01:05:23,799
+Come on!
+
+863
+01:05:35,201 --> 01:05:37,393
+It's gonna wind up for an attack next.
+
+864
+01:05:37,830 --> 01:05:39,213
+Then let's light him up!
+
+865
+01:05:43,083 --> 01:05:45,061
+Awesome! He's like a sitting duck!
+
+866
+01:05:46,268 --> 01:05:47,340
+No, get away!
+
+867
+01:05:58,615 --> 01:05:59,472
+Oh, crap!
+
+868
+01:06:31,124 --> 01:06:32,126
+Pace yourself!
+
+869
+01:07:16,793 --> 01:07:18,206
+He didn't show up tonight.
+
+870
+01:07:18,605 --> 01:07:19,675
+Nice one.
+
+871
+01:07:19,939 --> 01:07:21,370
+Yeah. Thanks to you.
+
+872
+01:07:21,425 --> 01:07:23,664
+Take me out for cake and we'll call it even.
+
+873
+01:07:23,750 --> 01:07:26,041
+How about a coupon for a free beef bowl instead?
+
+874
+01:07:26,176 --> 01:07:28,009
+Do I look like I want a beef bowl?
+
+875
+01:07:28,098 --> 01:07:30,751
+I'll settle for a ride home on your bike, cheapskate.
+
+876
+01:07:32,905 --> 01:07:33,675
+Yuuna?
+
+877
+01:07:38,347 --> 01:07:39,406
+Hey, wait!
+
+878
+01:07:39,912 --> 01:07:40,993
+Who are you?
+
+879
+01:07:46,498 --> 01:07:47,635
+I'm sorry, Daddy.
+
+880
+01:07:47,660 --> 01:07:50,552
+I was following a clue, but I got blocked by a firewall.
+
+881
+01:07:50,742 --> 01:07:52,077
+During the battle just now,
+
+882
+01:07:52,172 --> 01:07:54,896
+I found out that a mysterious program activated
+
+883
+01:07:54,938 --> 01:07:58,616
+right when a SAO survivor took
+on critical damage from the boss.
+
+884
+01:07:58,758 --> 01:07:59,893
+Son of a...
+
+885
+01:08:02,532 --> 01:08:03,794
+You want a drink?
+
+886
+01:08:03,931 --> 01:08:04,611
+Mm‐mm.
+
+887
+01:08:16,856 --> 01:08:18,023
+Look for...
+
+888
+01:08:18,746 --> 01:08:19,779
+Of course!
+
+889
+01:08:19,914 --> 01:08:21,533
+Yui! That girl in the hoodie.
+
+890
+01:08:21,709 --> 01:08:24,174
+You know which direction she
+pointed each time we saw her?
+
+891
+01:08:24,199 --> 01:08:26,009
+Yes, I have the coordinates.
+
+892
+01:08:26,120 --> 01:08:28,630
+Bring up a map of Tokyo and show me where they all lead.
+
+893
+01:08:35,385 --> 01:08:38,012
+They crisscross in Ookayama!
+
+894
+01:08:38,107 --> 01:08:39,792
+You know what that building is, Yui?
+
+895
+01:08:39,986 --> 01:08:43,034
+That's where the Touto University of Engineering is.
+
+896
+01:08:43,827 --> 01:08:45,648
+Why does she want me to look there?
+
+897
+01:08:45,838 --> 01:08:48,938
+I'll cross‐reference the school's
+database and the player called Eiji.
+
+898
+01:08:49,065 --> 01:08:50,340
+It'll just take a second.
+
+899
+01:08:54,250 --> 01:08:55,482
+I know this guy.
+
+900
+01:08:56,223 --> 01:08:58,356
+That's Professor Tetsuhiro Shigemura.
+
+901
+01:08:58,495 --> 01:08:59,732
+He designed the Augma.
+
+902
+01:09:02,095 --> 01:09:03,705
+He did, huh?
+
+903
+01:09:07,146 --> 01:09:13,462
+Based on the evidence, the most glaring flaw in a
+FullDive VR device is the FullDive function itself.
+
+904
+01:09:14,266 --> 01:09:18,433
+When a person has to sever their
+physical senses to play a VR game,
+
+905
+01:09:18,458 --> 01:09:21,802
+that person is taking on
+incalculable risks to their health.
+
+906
+01:09:22,346 --> 01:09:27,552
+True, FullDive tech has been applied to activities
+other than gaming such as communication,
+
+907
+01:09:27,695 --> 01:09:29,728
+browsing, and digital production.
+
+908
+01:09:30,244 --> 01:09:33,320
+But none of those activities require all of one's senses.
+
+909
+01:09:33,486 --> 01:09:36,791
+Sight, sound and limited tactile information are enough.
+
+910
+01:09:36,973 --> 01:09:39,666
+So instead of using a dangerous FullDive device,
+
+911
+01:09:39,691 --> 01:09:41,820
+one should use an AR device,
+
+912
+01:09:41,891 --> 01:09:44,027
+which has been proven to be safe and stable.
+
+913
+01:09:46,118 --> 01:09:48,881
+Are there any questions on what we've covered so far?
+
+914
+01:09:51,782 --> 01:09:53,049
+Yes. You there.
+
+915
+01:09:54,738 --> 01:09:59,719
+Professor, would you say AR devices have
+certain risks that VR devices don't?
+
+916
+01:09:59,982 --> 01:10:01,920
+If so, what are your thoughts on that?
+
+917
+01:10:02,039 --> 01:10:06,659
+Yes, well, are you talking about traffic
+accidents, while wearing an AR device?
+
+918
+01:10:06,751 --> 01:10:12,860
+No. I'm talking about risks like permanently altering
+and damaging the user's perception of reality.
+
+919
+01:10:13,130 --> 01:10:16,570
+FullDive tech just makes a
+virtual world seem like reality.
+
+920
+01:10:16,763 --> 01:10:18,898
+But AR tech alters reality itself.
+
+921
+01:10:18,993 --> 01:10:20,628
+Don't you think that's dangerous?
+
+922
+01:10:24,115 --> 01:10:26,198
+I'll answer that question next time.
+
+923
+01:10:26,484 --> 01:10:27,827
+Class dismissed.
+
+924
+01:10:28,556 --> 01:10:30,161
+I'll cut right to the chase.
+
+925
+01:10:30,677 --> 01:10:32,497
+Do you know someone named Eiji?
+
+926
+01:10:32,616 --> 01:10:34,785
+He's the second rank player in Ordinal Scale.
+
+927
+01:10:35,301 --> 01:10:36,049
+No.
+
+928
+01:10:36,080 --> 01:10:38,877
+But he was in your class and he even took your lab.
+
+929
+01:10:39,170 --> 01:10:41,354
+I've had many students over the years.
+
+930
+01:10:41,379 --> 01:10:43,151
+Okay, let's try a different question.
+
+931
+01:10:43,176 --> 01:10:47,320
+Did you know that the Augma is causing
+SAO survivors to lose their memories?
+
+932
+01:10:47,942 --> 01:10:51,081
+Did you know the Augma has a
+feature users don't know about?
+
+933
+01:10:51,106 --> 01:10:53,734
+A feature that scans their brain while they're wearing it?
+
+934
+01:10:55,807 --> 01:10:58,111
+I didn't know I was going to be interrogated.
+
+935
+01:10:58,136 --> 01:11:00,478
+Kikuoka told me you just wanted to audit my class.
+
+936
+01:11:00,503 --> 01:11:03,219
+If the Augma does have a dangerous feature built in,
+
+937
+01:11:03,545 --> 01:11:05,540
+it won't be long before it's found out.
+
+938
+01:11:06,056 --> 01:11:10,378
+And once that happens, the Augma's gonna be
+banned, just like the NerveGear was.
+
+939
+01:11:10,545 --> 01:11:11,348
+And you?
+
+940
+01:11:11,547 --> 01:11:14,874
+You'll end up the same as your former
+student, Akihiko Kayaba.
+
+941
+01:11:15,672 --> 01:11:17,766
+I don't know what you're talking about.
+
+942
+01:11:18,179 --> 01:11:21,789
+But let's say the Augma has this
+brain‐scanning function you described,
+
+943
+01:11:21,814 --> 01:11:24,505
+why is it bad if someone forgets about SAO ?
+
+944
+01:11:24,608 --> 01:11:25,935
+In the words of Nietzsche,
+
+945
+01:11:26,435 --> 01:11:27,896
+"Blessed are the forgetful,
+
+946
+01:11:27,947 --> 01:11:30,138
+for they get the better even of their blunders."
+
+947
+01:11:30,233 --> 01:11:35,371
+So now ask yourself, do you think those
+survivors want to remember their horrifying past?
+
+948
+01:11:36,414 --> 01:11:38,821
+If you wish to speak further, make an appointment.
+
+949
+01:11:39,249 --> 01:11:40,402
+I'm very busy, though,
+
+950
+01:11:40,427 --> 01:11:42,571
+so there's no guarantee I'll be able to see you.
+
+951
+01:11:52,147 --> 01:11:54,583
+I didn't know you built robots too, professor.
+
+952
+01:11:56,107 --> 01:11:57,109
+Thanks for your time.
+
+953
+01:12:04,896 --> 01:12:07,748
+That's right. Dr. Shigemura has a daughter.
+
+954
+01:12:08,462 --> 01:12:11,618
+Or rather, had. She died two years ago.
+
+955
+01:12:13,078 --> 01:12:14,159
+Yuuna?
+
+956
+01:12:14,486 --> 01:12:16,877
+I'm sure you put two‐and‐two together already,
+
+957
+01:12:16,933 --> 01:12:18,688
+but I might as well confirm it for you.
+
+958
+01:12:19,148 --> 01:12:20,864
+The cause of death was the NerveGear.
+
+959
+01:12:21,205 --> 01:12:22,771
+She was a victim of SAO.
+
+960
+01:12:23,001 --> 01:12:25,472
+Huh? Why would he do this?
+
+961
+01:12:26,115 --> 01:12:27,665
+What the hell's he trying to prove?
+
+962
+01:12:27,690 --> 01:12:32,441
+Well, maybe he honestly thinks he's doing
+good by making the SAO survivors forget.
+
+963
+01:12:32,901 --> 01:12:37,787
+Yeah, well, I can't prove it yet,
+but I'm sure the Augma's dangerous to users.
+
+964
+01:12:38,080 --> 01:12:39,130
+I need your help.
+
+965
+01:12:39,424 --> 01:12:42,126
+Please, Mr. Kikuoka. Shut down the service.
+
+966
+01:12:42,541 --> 01:12:47,139
+The Ministry of Economy is tied up with this,
+so we have to be careful with how we proceed.
+
+967
+01:12:47,974 --> 01:12:50,103
+I am looking into everything you've told me.
+
+968
+01:12:50,683 --> 01:12:52,492
+But I can't move without proof.
+
+969
+01:12:52,950 --> 01:12:56,173
+A bunch of the Ordinal Scale players are SAO survivors.
+
+970
+01:12:56,657 --> 01:12:59,337
+And if they fight any of the bosses from Old Aincrad,
+
+971
+01:12:59,517 --> 01:13:02,068
+you're gonna have a lot more people losing their memories.
+
+972
+01:13:02,093 --> 01:13:04,213
+I know and I'm doing the best I can.
+
+973
+01:13:04,713 --> 01:13:08,843
+I checked with the hospital about Klein and his
+friends and confirmed their symptoms with the doctors.
+
+974
+01:13:09,401 --> 01:13:12,055
+But I'm more concerned about their
+broken bones than their memories.
+
+975
+01:13:12,801 --> 01:13:15,510
+You should take your own advice
+and don't fight any more bosses.
+
+976
+01:13:16,329 --> 01:13:18,101
+Your memories are important to me, too.
+
+977
+01:13:18,220 --> 01:13:19,125
+Don't forget that.
+
+978
+01:13:37,288 --> 01:13:38,544
+Hey, what's up?
+
+979
+01:13:39,053 --> 01:13:41,626
+Nothing. I just wanted to hear your voice.
+
+980
+01:13:41,881 --> 01:13:42,682
+Oh.
+
+981
+01:13:44,899 --> 01:13:46,113
+Listen, Asuna.
+
+982
+01:13:46,447 --> 01:13:47,998
+Is it cool if I come over?
+
+983
+01:13:48,196 --> 01:13:48,704
+Now?
+
+984
+01:13:48,894 --> 01:13:51,367
+Um, yeah. Or later, if that's better.
+
+985
+01:13:51,621 --> 01:13:53,297
+No, now's fine.
+
+986
+01:13:53,448 --> 01:13:56,243
+I'd come to you, but I'm kind of scared to go outside.
+
+987
+01:13:56,348 --> 01:13:59,320
+No, I get it. I'll be at your
+place in about 20 minutes.
+
+988
+01:13:59,519 --> 01:14:02,688
+I'm in Ookayama right now, but traffic's not too bad.
+
+989
+01:14:03,842 --> 01:14:06,384
+Sorry. The door was already open.
+
+990
+01:14:06,455 --> 01:14:09,147
+Heh, why do you sound so nervous? It's okay!
+
+991
+01:14:09,290 --> 01:14:10,605
+My parents are both at work.
+
+992
+01:14:10,649 --> 01:14:12,901
+Yeah, but it's my first time here.
+
+993
+01:14:13,056 --> 01:14:16,480
+Oh, crap. I should've brought your
+folks a gift. Like a plant, or something.
+
+994
+01:14:16,917 --> 01:14:18,902
+Don't be silly! It's fine, I swear.
+
+995
+01:14:19,039 --> 01:14:20,198
+Come on, this way.
+
+996
+01:14:21,723 --> 01:14:28,230
+I was talking to someone today and they said survivors
+like us are better off forgetting what happened in SAO.
+
+997
+01:14:28,294 --> 01:14:31,209
+I got to thinking and maybe he's got a point there.
+
+998
+01:14:31,891 --> 01:14:33,818
+We saw a lot of horrible things happen.
+
+999
+01:14:33,973 --> 01:14:36,396
+It was scary and sad.
+
+1000
+01:14:36,459 --> 01:14:42,836
+But the memories we have of those two years, good and
+bad, are what shaped us into the people we are today.
+
+1001
+01:14:47,593 --> 01:14:50,852
+Everyone's been telling me about
+how high‐tech your room is.
+
+1002
+01:14:51,349 --> 01:14:52,873
+It's not what I thought.
+
+1003
+01:14:53,217 --> 01:14:56,362
+In a way, it sort of reminds me
+about your place in Selmburg.
+
+1004
+01:14:57,825 --> 01:15:00,112
+I'll go bring us up some drinks and snacks.
+
+1005
+01:15:00,287 --> 01:15:01,106
+Yeah, sure.
+
+1006
+01:15:01,131 --> 01:15:02,567
+Make yourself at home, okay?
+
+1007
+01:15:30,862 --> 01:15:31,831
+Uh...
+
+1008
+01:15:32,775 --> 01:15:34,190
+To the future me.
+
+1009
+01:15:34,658 --> 01:15:37,319
+It's been a long time since I've written in this diary.
+
+1010
+01:15:37,553 --> 01:15:41,474
+These days, I'm worried I'll forget what's
+happened to me since I came back to the real world,
+
+1011
+01:15:41,775 --> 01:15:44,399
+so I'll write how I feel now in case I do.
+
+1012
+01:15:45,343 --> 01:15:47,361
+I met Kirito four years ago,
+
+1013
+01:15:47,575 --> 01:15:49,496
+but I only remember the last two.
+
+1014
+01:15:49,909 --> 01:15:54,476
+The moments with him, I can still
+remember, are precious, like jewels.
+
+1015
+01:15:55,454 --> 01:15:59,167
+There's a good chance Ordinal Scale will
+cause me to forget things more and more.
+
+1016
+01:15:59,689 --> 01:16:00,929
+And that scares me.
+
+1017
+01:16:01,415 --> 01:16:04,464
+But as long as I can keep making new memories with Kirito,
+
+1018
+01:16:04,988 --> 01:16:06,036
+I should be fine.
+
+1019
+01:16:07,149 --> 01:16:13,140
+My calendar says I'm supposed to go to the mountains in
+Saitama in a couple of days to watch the stars with him.
+
+1020
+01:16:13,800 --> 01:16:17,361
+But I don't remember the day we
+made plans to go there anymore.
+
+1021
+01:16:18,702 --> 01:16:21,880
+I went back and read this diary and from what I can tell,
+
+1022
+01:16:22,034 --> 01:16:25,025
+Kirito said he wanted to give me some kind of present.
+
+1023
+01:16:25,542 --> 01:16:28,219
+I hope he'll forgive me for not remembering what.
+
+1024
+01:16:30,205 --> 01:16:31,470
+I want to get him something,
+
+1025
+01:16:31,512 --> 01:16:33,701
+but since I'm not allowed to have a job yet,
+
+1026
+01:16:33,923 --> 01:16:37,857
+I'm going to use all my points and
+whatever I have saved to buy him a gift.
+
+1027
+01:16:40,073 --> 01:16:44,045
+My beloved Kirito. What will I do if I forget him?
+
+1028
+01:16:44,587 --> 01:16:47,303
+What will I do if I forget these feelings I have?
+
+1029
+01:16:47,900 --> 01:16:50,774
+And what if it turns out I can't
+make new memories with him?
+
+1030
+01:16:52,261 --> 01:16:54,493
+It scares me to even think about it.
+
+1031
+01:16:55,249 --> 01:16:57,806
+I pray that the person I am tomorrow
+
+1032
+01:16:58,028 --> 01:17:00,673
+doesn't forget the feelings I have for him now.
+
+1033
+01:17:07,291 --> 01:17:10,256
+It's okay. You can read the whole thing if you want.
+
+1034
+01:17:26,807 --> 01:17:30,395
+I'm sorry. I'm so sorry.
+
+1035
+01:17:33,051 --> 01:17:36,148
+I love you, Kirito. So much.
+
+1036
+01:17:37,531 --> 01:17:40,581
+Even if I forgot everything that happened in SAO ,
+
+1037
+01:17:40,898 --> 01:17:43,909
+my feelings for you will never ever change.
+
+1038
+01:17:46,199 --> 01:17:49,201
+They won't for me, either. I love you.
+
+1039
+01:17:49,711 --> 01:17:51,785
+Always have. Always will.
+
+1040
+01:17:58,974 --> 01:17:59,957
+I know.
+
+1041
+01:18:04,405 --> 01:18:08,540
+I'm gonna get your memories
+back, no matter what. I promise.
+
+1042
+01:18:08,610 --> 01:18:10,580
+You know I won't let you down, right?
+
+1043
+01:18:12,655 --> 01:18:13,282
+Mm‐hm.
+
+1044
+01:18:15,810 --> 01:18:17,348
+Oh, a shooting star.
+
+1045
+01:18:17,985 --> 01:18:20,271
+Well, Eiji, tomorrow's the big day.
+
+1046
+01:18:20,385 --> 01:18:24,310
+I get to be on stage in an enormous
+arena and sing for everyone.
+
+1047
+01:18:24,500 --> 01:18:26,534
+Yeah. You nervous about it?
+
+1048
+01:18:26,621 --> 01:18:27,861
+No. Not at all.
+
+1049
+01:18:27,988 --> 01:18:32,088
+I finally get my chance to sing for
+a huge audience. How cool is that?
+
+1050
+01:18:32,413 --> 01:18:35,647
+This performance is gonna make
+me the world's number one diva.
+
+1051
+01:18:35,695 --> 01:18:36,481
+That's right.
+
+1052
+01:18:36,713 --> 01:18:40,153
+Tomorrow's going to make you the
+biggest and brightest star of them all.
+
+1053
+01:18:40,216 --> 01:18:42,830
+Hey! Would you please read some more of that book to me?
+
+1054
+01:18:43,338 --> 01:18:44,752
+Sure. You got it.
+
+1055
+01:18:45,635 --> 01:18:48,257
+This time, could you find the
+part in it where you show up?
+
+1056
+01:18:48,297 --> 01:18:49,733
+I wanna hear about you.
+
+1057
+01:18:51,029 --> 01:18:51,998
+I'm not in it.
+
+1058
+01:18:52,023 --> 01:18:52,335
+Huh?
+
+1059
+01:18:52,360 --> 01:18:54,484
+I don't show up anywhere in this thing.
+
+1060
+01:18:55,097 --> 01:18:59,100
+I guess folks like us, the ones who couldn't
+fight, aren't worth remembering.
+
+1061
+01:19:00,380 --> 01:19:01,237
+Yes?
+
+1062
+01:19:04,266 --> 01:19:06,488
+You're taking far too long getting this done.
+
+1063
+01:19:07,228 --> 01:19:10,255
+Someone's caught on to our plan. You need to hurry.
+
+1064
+01:19:10,485 --> 01:19:12,233
+Yes. I know that, sir.
+
+1065
+01:19:12,551 --> 01:19:15,840
+I made sure all the pieces are
+in place for the final stage.
+
+1066
+01:19:16,228 --> 01:19:18,879
+You're not having second
+thoughts about our deal, are you?
+
+1067
+01:19:19,034 --> 01:19:21,425
+Not as long as you hold up your end of it.
+
+1068
+01:19:21,560 --> 01:19:22,704
+I will, sir.
+
+1069
+01:19:23,189 --> 01:19:25,150
+By the way, about Yuna...
+
+1070
+01:19:25,295 --> 01:19:29,409
+Lately, it seems like she has other
+things on her mind besides singing.
+
+1071
+01:19:29,505 --> 01:19:32,128
+That's probably her self‐preservation program.
+
+1072
+01:19:32,421 --> 01:19:35,129
+If anything, it's proof the plan is going smoothly.
+
+1073
+01:19:36,142 --> 01:19:37,479
+If you say so.
+
+1074
+01:20:56,625 --> 01:20:57,836
+Yuuna, right?
+
+1075
+01:20:59,338 --> 01:21:01,134
+So where is this place?
+
+1076
+01:21:01,325 --> 01:21:03,311
+Is it a dream? The virtual world?
+
+1077
+01:21:03,336 --> 01:21:06,577
+Dreams and virtual worlds are
+the same thing, more or less.
+
+1078
+01:21:06,831 --> 01:21:10,652
+The second you wake up,
+the experience becomes a fleeting memory.
+
+1079
+01:21:10,940 --> 01:21:11,876
+I guess.
+
+1080
+01:21:12,209 --> 01:21:14,982
+Here's a thought, maybe it's all just a dream.
+
+1081
+01:21:15,148 --> 01:21:18,961
+Everything like clearing that death
+game and coming back to the real world.
+
+1082
+01:21:19,026 --> 01:21:23,136
+And what if, when you open your eyes,
+you wake up trapped in Aincrad again?
+
+1083
+01:21:23,562 --> 01:21:25,208
+Did you ever think about that?
+
+1084
+01:21:26,855 --> 01:21:30,007
+I have, but I never wished it was true, not even once.
+
+1085
+01:21:30,594 --> 01:21:33,225
+And by the sound of it, you're an SAO survivor, too.
+
+1086
+01:21:34,377 --> 01:21:36,458
+Are you Professor Shigemura's daughter?
+
+1087
+01:21:36,632 --> 01:21:37,951
+Are you still alive?
+
+1088
+01:21:39,429 --> 01:21:42,892
+Why'd you send me to your dad? What do you want me to do?
+
+1089
+01:21:43,354 --> 01:21:46,394
+Why would your dad wanna steal Asuna's memories of SAO ?
+
+1090
+01:21:46,775 --> 01:21:48,353
+What's the Augma really for?
+
+1091
+01:22:07,211 --> 01:22:08,425
+That song!
+
+1092
+01:22:15,291 --> 01:22:19,477
+All I want is to go on singing. It's all I ever wanted.
+
+1093
+01:22:19,897 --> 01:22:21,471
+And I wanna save Asuna.
+
+1094
+01:22:21,629 --> 01:22:24,005
+So are you gonna tell me how or not?
+
+1095
+01:22:24,203 --> 01:22:27,007
+Getting her memories back isn't going to be easy.
+
+1096
+01:22:27,364 --> 01:22:30,463
+The rank you have now isn't nearly high enough to do it.
+
+1097
+01:22:30,939 --> 01:22:33,586
+Well? Don't just stand there. Wake up.
+
+1098
+01:22:35,612 --> 01:22:38,074
+Whoa, easy! You okay, guy?
+
+1099
+01:22:38,788 --> 01:22:39,594
+Yeah.
+
+1100
+01:22:40,214 --> 01:22:42,406
+What, you fell asleep playing that Augma game?
+
+1101
+01:22:42,969 --> 01:22:45,677
+Seems like everybody's got one of those things these days.
+
+1102
+01:22:45,853 --> 01:22:47,764
+Careful you don't fall on your face.
+
+1103
+01:23:03,809 --> 01:23:05,049
+You wanna know the truth,
+
+1104
+01:23:05,074 --> 01:23:07,519
+I think Silica blames herself for what happened.
+
+1105
+01:23:07,677 --> 01:23:08,971
+I didn't even know.
+
+1106
+01:23:09,282 --> 01:23:11,849
+If only I could've gone to one of those battles.
+
+1107
+01:23:12,755 --> 01:23:15,820
+Klein got himself hurt at one
+and ended up in the hospital.
+
+1108
+01:23:16,067 --> 01:23:17,866
+It's probably better you stayed away.
+
+1109
+01:23:17,975 --> 01:23:18,904
+You said it.
+
+1110
+01:23:19,035 --> 01:23:22,748
+Kirito told everyone not fight the
+bosses in OS because it's so dangerous.
+
+1111
+01:23:22,788 --> 01:23:24,807
+And then, he goes to fight them by himself.
+
+1112
+01:23:24,982 --> 01:23:27,215
+I sort of helped him on the last one, though.
+
+1113
+01:23:28,614 --> 01:23:29,861
+But then, you know what?
+
+1114
+01:23:29,886 --> 01:23:32,428
+I'm gonna make a video to teach him some kendo moves.
+
+1115
+01:23:32,453 --> 01:23:34,608
+Then he'll cruise through those battles, no sweat.
+
+1116
+01:23:34,873 --> 01:23:37,989
+Mm‐hm. Violence brings siblings together.
+
+1117
+01:23:38,031 --> 01:23:38,990
+Come on!
+
+1118
+01:23:39,015 --> 01:23:40,618
+We're singing the next song together.
+
+1119
+01:23:40,777 --> 01:23:43,626
+We're here to practice, remember?
+The concert's tomorrow!
+
+1120
+01:23:43,764 --> 01:23:45,494
+Take the mic and get in here.
+
+1121
+01:23:48,143 --> 01:23:50,295
+I don't know if this is cheering her up.
+
+1122
+01:23:52,639 --> 01:23:55,436
+What do you mean?
+It looks like Asuna's having fun.
+
+1123
+01:23:55,872 --> 01:23:57,406
+If you say so...
+
+1124
+01:24:05,534 --> 01:24:06,835
+Dude, you okay?
+
+1125
+01:24:06,881 --> 01:24:07,843
+What's wrong?
+
+1126
+01:24:16,118 --> 01:24:18,674
+Multiple bosses have appeared,
+just like last night.
+
+1127
+01:24:18,785 --> 01:24:21,382
+But this time, it's the ones from Floors 20 to 30.
+
+1128
+01:24:21,747 --> 01:24:23,964
+I'm gonna take all of them down tonight.
+
+1129
+01:24:36,279 --> 01:24:39,730
+I can't believe he's knocking down its HP all by himself.
+
+1130
+01:24:39,780 --> 01:24:41,282
+He's a badass.
+
+1131
+01:24:46,377 --> 01:24:47,838
+Jeez! Chill out!
+
+1132
+01:24:48,116 --> 01:24:50,217
+What are you getting so worked up for?
+
+1133
+01:24:50,444 --> 01:24:51,636
+It's only a game.
+
+1134
+01:24:55,427 --> 01:24:56,345
+Move!
+
+1135
+01:25:03,786 --> 01:25:07,996
+It's time for a bonus stage. Good luck, everyone.
+
+1136
+01:25:08,464 --> 01:25:10,257
+We totally scored!
+
+1137
+01:25:48,668 --> 01:25:50,707
+Congratulations.
+
+1138
+01:25:51,724 --> 01:25:56,372
+It looks like you finally learned how to
+handle yourself in this game, Black Swordsman.
+
+1139
+01:25:56,983 --> 01:25:58,033
+You bastard!
+
+1140
+01:26:09,860 --> 01:26:12,700
+Instead of Yuna rewarding you, I will.
+
+1141
+01:26:57,987 --> 01:27:01,338
+Wow. Yuna's more popular than I thought.
+
+1142
+01:27:01,363 --> 01:27:04,063
+Ugh. My throat's sore from karaoke.
+
+1143
+01:27:04,301 --> 01:27:06,066
+That's what you get for overdoing it.
+
+1144
+01:27:06,470 --> 01:27:08,636
+Silica, thank you for yesterday.
+
+1145
+01:27:08,661 --> 01:27:09,846
+Oh, sure!
+
+1146
+01:27:10,350 --> 01:27:13,358
+Oh, man. Wish Klein and Suguha could be here.
+
+1147
+01:27:13,771 --> 01:27:15,525
+Wait. Where's Kirito?
+
+1148
+01:27:15,599 --> 01:27:18,206
+He said he was going to stop by the restroom first.
+
+1149
+01:27:27,572 --> 01:27:29,667
+Okay, I'm here like you wanted.
+
+1150
+01:27:31,942 --> 01:27:34,978
+You're gonna give me her memory
+back, or do I have to take it?
+
+1151
+01:27:35,003 --> 01:27:37,749
+What's the rush, Black Swordsman?
+
+1152
+01:27:37,927 --> 01:27:40,307
+You called yourself Nautilus back then.
+
+1153
+01:27:40,483 --> 01:27:43,850
+Cool name for a guy who wouldn't
+fight, 'coz he was too scared of dying.
+
+1154
+01:27:43,875 --> 01:27:45,519
+I'm called Eiji now!
+
+1155
+01:27:48,837 --> 01:27:50,676
+Guess I can't escape my past.
+
+1156
+01:27:51,128 --> 01:27:53,456
+I'm surprised you remember a little runt like me.
+
+1157
+01:27:53,481 --> 01:27:56,198
+Actually, I don't remember you. A friend did.
+
+1158
+01:27:56,380 --> 01:27:59,097
+Hmm? A friend, like Asuna, I bet.
+
+1159
+01:27:59,263 --> 01:28:02,537
+It's not enough you have her,
+you probably want Yuuna, too.
+
+1160
+01:28:02,712 --> 01:28:04,230
+What are you talking about?
+
+1161
+01:28:04,255 --> 01:28:05,056
+Never mind.
+
+1162
+01:28:05,357 --> 01:28:06,884
+You think you're so cool.
+
+1163
+01:28:06,963 --> 01:28:09,513
+You know, there's a reason I'm ranked second in this game.
+
+1164
+01:28:09,538 --> 01:28:11,213
+Do you really think you can beat me?
+
+1165
+01:28:11,238 --> 01:28:13,041
+I won't know until I try.
+
+1166
+01:28:13,318 --> 01:28:15,543
+Besides, it's not like you're number one.
+
+1167
+01:28:21,408 --> 01:28:23,545
+Ordinal Scale, activate!
+
+1168
+01:29:09,895 --> 01:29:11,746
+I wish I could change things.
+
+1169
+01:29:12,436 --> 01:29:15,663
+I used my position as chairman
+of Argus' board of directors,
+
+1170
+01:29:16,020 --> 01:29:18,752
+to get Yuuna a NerveGear and a copy of SAO.
+
+1171
+01:29:19,459 --> 01:29:22,066
+I was just trying to make my daughter happy.
+
+1172
+01:29:22,887 --> 01:29:26,403
+But in the end, it was
+  my stupidity that killed her.
+
+1173
+01:29:27,413 --> 01:29:28,290
+Yuuna!
+
+1174
+01:29:36,217 --> 01:29:39,488
+Hah! I can see how everyone believed you'd clear SAO.
+
+1175
+01:29:39,513 --> 01:29:44,054
+You've got some moves! Wish I could say
+the same about you. Second rank my ass!
+
+1176
+01:29:48,294 --> 01:29:51,402
+People only remember the players
+who fought on the front lines.
+
+1177
+01:29:51,444 --> 01:29:53,875
+But Yuuna and me? We didn't fight,
+
+1178
+01:29:53,900 --> 01:29:56,747
+so we get treated like we didn't even exist!
+
+1179
+01:29:56,788 --> 01:29:58,959
+Wait, you guys were together in SAO ?
+
+1180
+01:29:59,001 --> 01:30:00,781
+That's right!
+
+1181
+01:30:01,719 --> 01:30:04,673
+And I was with her at the end. I watched her vanish!
+
+1182
+01:30:05,112 --> 01:30:07,574
+I hated myself for being so weak!
+
+1183
+01:30:07,637 --> 01:30:11,896
+The girl I loved was in danger and I
+couldn't lift a finger to save her!
+
+1184
+01:30:13,645 --> 01:30:17,181
+Her brain had become so damaged
+by the effects of the NerveGear,
+
+1185
+01:30:17,555 --> 01:30:19,247
+it was impossible to save her.
+
+1186
+01:30:19,458 --> 01:30:22,528
+But if I could acquire the memories of her
+
+1187
+01:30:22,559 --> 01:30:26,475
+from the other SAO players and find a way to combine them,
+
+1188
+01:30:26,640 --> 01:30:29,247
+the Deep Learning function would do the rest.
+
+1189
+01:30:29,669 --> 01:30:33,228
+And it could give my daughter new life, as an AI.
+
+1190
+01:30:44,511 --> 01:30:47,282
+The numbers in the Ordinal System are absolute.
+
+1191
+01:30:47,623 --> 01:30:50,548
+Whoever is ranked number one becomes immortal.
+
+1192
+01:30:50,980 --> 01:30:53,916
+After all, that's how you designed it, Kayaba.
+
+1193
+01:30:56,157 --> 01:31:00,708
+Yuna, is it? It sounds like
+"una", the Latin word for "one".
+
+1194
+01:31:01,512 --> 01:31:04,827
+Aincrad was controlled by a
+system using cardinal numbers.
+
+1195
+01:31:05,017 --> 01:31:08,497
+Ordinal Scale is controlled by
+a system using ordinal numbers.
+
+1196
+01:31:09,514 --> 01:31:13,240
+A system I originally developed for
+SAO, but discarded early on.
+
+1197
+01:31:13,694 --> 01:31:15,613
+It seems you resurrected it, doctor,
+
+1198
+01:31:15,727 --> 01:31:17,300
+and developed a new game.
+
+1199
+01:31:18,236 --> 01:31:21,763
+The man I used to be would've done the
+same, had I been in your place.
+
+1200
+01:31:22,107 --> 01:31:23,337
+But now, doctor,
+
+1201
+01:31:23,616 --> 01:31:26,580
+the man I've become believes in something greater.
+
+1202
+01:31:27,770 --> 01:31:31,020
+An existence that can transcend the system itself.
+
+1203
+01:31:34,693 --> 01:31:37,837
+Who cares if we take away everyone's memories of SAO ?
+
+1204
+01:31:37,862 --> 01:31:39,523
+We're doing them a favor!
+
+1205
+01:31:41,074 --> 01:31:43,496
+Let's see how good you are without this!
+
+1206
+01:31:47,113 --> 01:31:49,326
+Goddamn you!
+
+1207
+01:31:59,067 --> 01:32:00,642
+We all suffered back then.
+
+1208
+01:32:00,785 --> 01:32:04,714
+But I won't lose to a guy that rejects the
+past, because he thinks he suffered more.
+
+1209
+01:32:07,258 --> 01:32:10,713
+Are you gonna give me Asuna's memory
+back, or do you wanna keep going?
+
+1210
+01:32:48,622 --> 01:32:50,000
+That was so fun!
+
+1211
+01:33:20,765 --> 01:33:22,230
+It's too late now.
+
+1212
+01:33:22,455 --> 01:33:25,750
+Practically every SAO survivor is upstairs.
+
+1213
+01:33:27,028 --> 01:33:28,173
+In a few minutes,
+
+1214
+01:33:28,198 --> 01:33:32,550
+we're going to start scanning the brains of
+every survivor and take their memories of SAO.
+
+1215
+01:33:32,581 --> 01:33:34,607
+Their memories of that hell.
+
+1216
+01:33:34,933 --> 01:33:37,145
+And then we'll bring Yuuna back to life.
+
+1217
+01:33:37,187 --> 01:33:39,478
+Huh? What're you talking about?
+
+1218
+01:33:39,567 --> 01:33:42,123
+Like I said. It's too late now.
+
+1219
+01:33:42,338 --> 01:33:44,349
+And you can't stop it.
+
+1220
+01:33:51,899 --> 01:33:55,783
+Okay, so here's what I learned from Kamura,
+the company that manufactures the Augma.
+
+1221
+01:33:56,116 --> 01:33:59,477
+The drones flying inside the stadium
+are equipped with a special function.
+
+1222
+01:33:59,717 --> 01:34:03,537
+According to my source, they can boost
+the output of the Augmas wirelessly.
+
+1223
+01:34:03,562 --> 01:34:05,104
+So, what does that mean?
+
+1224
+01:34:05,129 --> 01:34:08,035
+It means if they run that brain scan inside the stadium,
+
+1225
+01:34:08,177 --> 01:34:11,530
+we might be dealing with something worse
+than just partial memory loss.
+
+1226
+01:34:12,825 --> 01:34:13,927
+Holy shit!
+
+1227
+01:34:13,970 --> 01:34:14,676
+You said it.
+
+1228
+01:34:15,226 --> 01:34:20,434
+The scan could permanently damage the brain and
+might even kill people, just like the NerveGear.
+
+1229
+01:34:29,542 --> 01:34:30,550
+I'll get the professor.
+
+1230
+01:34:30,908 --> 01:34:33,376
+You get everyone to take off their Augmas.
+
+1231
+01:34:33,812 --> 01:34:35,259
+Hopefully, they'll listen to you.
+
+1232
+01:34:38,806 --> 01:34:40,214
+Oh, my God!
+
+1233
+01:34:40,719 --> 01:34:42,220
+Is this part of the show?
+
+1234
+01:34:43,862 --> 01:34:44,945
+Let us out!
+
+1235
+01:34:44,970 --> 01:34:46,159
+Open the door!
+
+1236
+01:34:59,820 --> 01:35:01,130
+Asuna!
+
+1237
+01:35:05,890 --> 01:35:08,040
+Asuna! You okay?
+
+1238
+01:35:09,981 --> 01:35:11,179
+Kirito!
+
+1239
+01:35:12,499 --> 01:35:16,017
+Damn it. Looks like Kirito will have
+to handle things on his own in there.
+
+1240
+01:35:16,495 --> 01:35:17,519
+Come on!
+
+1241
+01:35:23,208 --> 01:35:24,194
+Yuuna?
+
+1242
+01:35:24,656 --> 01:35:27,610
+Please, Dad. You have to stop this now.
+
+1243
+01:35:27,896 --> 01:35:30,319
+No. You're not quite ready yet.
+
+1244
+01:35:30,496 --> 01:35:33,544
+But I don't want to come back to life.
+
+1245
+01:35:33,616 --> 01:35:34,714
+Of course you don't.
+
+1246
+01:35:34,929 --> 01:35:38,740
+You're still an AI and that's what your
+self‐preservation program is making you say.
+
+1247
+01:35:39,322 --> 01:35:42,563
+It won't be long now, so just be a good girl and wait.
+
+1248
+01:35:42,744 --> 01:35:44,190
+But, Dad...
+
+1249
+01:35:44,381 --> 01:35:47,519
+The AI crawler is collecting
+all the data from the players.
+
+1250
+01:35:48,035 --> 01:35:49,362
+She's almost done.
+
+1251
+01:35:49,897 --> 01:35:53,755
+It's her final task. She did a fine job.
+
+1252
+01:35:53,878 --> 01:35:55,391
+You have to stop this!
+
+1253
+01:35:55,448 --> 01:35:57,802
+If you run a high‐output scan inside there,
+
+1254
+01:35:57,843 --> 01:36:00,945
+those people might not just lose
+their memories, they could die!
+
+1255
+01:36:00,970 --> 01:36:02,439
+That is enough, Yuuna!
+
+1256
+01:36:19,188 --> 01:36:21,769
+I would happily sell my soul to the devil,
+
+1257
+01:36:21,850 --> 01:36:24,415
+if it meant I could bring you back to life.
+
+1258
+01:36:24,895 --> 01:36:29,281
+I swear I'd... do anything,
+
+1259
+01:36:29,373 --> 01:36:31,837
+even if it meant I ended up like Kayaba.
+
+1260
+01:36:31,995 --> 01:36:34,910
+All I want is to get you back in my life.
+
+1261
+01:36:48,589 --> 01:36:49,549
+Step back!
+
+1262
+01:36:58,548 --> 01:37:00,597
+He's not making it easy for us.
+
+1263
+01:37:01,217 --> 01:37:04,014
+That camera's recording. Find out where it's connected.
+
+1264
+01:37:07,328 --> 01:37:10,177
+That should keep you busy for a while, Kikuoka.
+
+1265
+01:37:14,764 --> 01:37:17,924
+I'm sorry, sir. I lost to one of the players.
+
+1266
+01:37:18,063 --> 01:37:20,819
+But you can go ahead with the brain scan on the crowd.
+
+1267
+01:37:20,857 --> 01:37:24,767
+I can't wait to see Yuuna again. The way she was.
+
+1268
+01:37:24,837 --> 01:37:27,562
+You still have one last task to finish, though.
+
+1269
+01:37:27,815 --> 01:37:28,516
+What?
+
+1270
+01:37:28,707 --> 01:37:31,742
+You have to give me your memories of Yuuna as well.
+
+1271
+01:37:31,823 --> 01:37:32,409
+Huh?
+
+1272
+01:37:32,599 --> 01:37:34,579
+Of all the players in SAO,
+
+1273
+01:37:34,604 --> 01:37:37,167
+you were the one who spent the most time with her.
+
+1274
+01:37:37,318 --> 01:37:38,773
+What did you expect?
+
+1275
+01:37:39,687 --> 01:37:43,364
+Besides, if you can't even
+master the equipment I gave you,
+
+1276
+01:37:43,396 --> 01:37:44,477
+what use are you?
+
+1277
+01:37:44,598 --> 01:37:46,838
+What? But what about our deal?
+
+1278
+01:37:46,973 --> 01:37:49,872
+You said you'd make it,
+so I could be with Yuuna forever!
+
+1279
+01:37:50,151 --> 01:37:51,278
+Farewell.
+
+1280
+01:38:09,799 --> 01:38:10,498
+Yuuna!
+
+1281
+01:38:10,523 --> 01:38:11,959
+Help me, Kirito!
+
+1282
+01:38:12,031 --> 01:38:14,977
+If we don't stop this, everyone here is going to die!
+
+1283
+01:38:15,272 --> 01:38:18,569
+Once the average of their emotive counters passes 10,000,
+
+1284
+01:38:18,594 --> 01:38:21,738
+a high output scan will activate and destroy their brains!
+
+1285
+01:38:22,277 --> 01:38:23,015
+I'm on it!
+
+1286
+01:38:23,367 --> 01:38:26,346
+Everyone! Take off your Augmas! Now!
+
+1287
+01:38:26,371 --> 01:38:28,507
+Take them off, or you'll die!
+
+1288
+01:38:29,636 --> 01:38:30,774
+It's no use.
+
+1289
+01:38:30,816 --> 01:38:35,701
+My dad put the bosses in the other events, so everyone
+here would fight, thinking it's part of the game!
+
+1290
+01:38:36,006 --> 01:38:37,422
+What am I supposed to do?
+
+1291
+01:38:37,447 --> 01:38:39,265
+Go to the place we met yesterday.
+
+1292
+01:38:39,332 --> 01:38:41,687
+That was Floor 100 in Old Aincrad!
+
+1293
+01:38:41,806 --> 01:38:43,340
+Go there and beat the boss!
+
+1294
+01:38:44,475 --> 01:38:47,303
+It's our last hope. Sit down.
+
+1295
+01:38:47,328 --> 01:38:50,356
+I'm going to unlock the Augma's FullDive function now.
+
+1296
+01:38:50,381 --> 01:38:52,390
+You can FullDive with the Augma?
+
+1297
+01:38:52,415 --> 01:38:57,011
+The Augma's just a version of the NerveGear
+with limited functions. Now get going!
+
+1298
+01:38:59,571 --> 01:39:00,493
+I'm ready!
+
+1299
+01:39:01,875 --> 01:39:02,822
+You guys...
+
+1300
+01:39:07,048 --> 01:39:07,755
+Let's do this.
+
+1301
+01:39:07,794 --> 01:39:08,140
+Yeah!
+
+1302
+01:39:08,182 --> 01:39:09,509
+Good luck, Daddy!
+
+1303
+01:39:09,729 --> 01:39:11,197
+Yui. Guard your mom.
+
+1304
+01:39:11,310 --> 01:39:11,951
+Right!
+
+1305
+01:39:12,571 --> 01:39:13,286
+Kirito!
+
+1306
+01:39:13,311 --> 01:39:15,137
+Don't worry, this won't take long.
+
+1307
+01:39:15,423 --> 01:39:17,186
+We're the only chance these people have
+
+1308
+01:39:17,345 --> 01:39:19,203
+but I'm gonna need you to wait here.
+
+1309
+01:39:22,041 --> 01:39:22,942
+Kirito...
+
+1310
+01:39:23,333 --> 01:39:25,568
+Keep that safe, till I get back, okay?
+
+1311
+01:39:30,094 --> 01:39:31,388
+Link start!
+
+1312
+01:39:39,480 --> 01:39:40,401
+No way!
+
+1313
+01:39:40,736 --> 01:39:44,047
+So this is Floor 100, The Ruby Palace!
+
+1314
+01:39:44,111 --> 01:39:47,726
+Can't believe after two years,
+we finally get to take a crack at it!
+
+1315
+01:40:00,676 --> 01:40:01,553
+Agil!
+
+1316
+01:40:05,517 --> 01:40:08,605
+So you're the last boss of SAO , huh?
+
+1317
+01:40:09,597 --> 01:40:10,576
+Let's go!
+
+1318
+01:40:33,714 --> 01:40:34,674
+Switch out!
+
+1319
+01:40:36,195 --> 01:40:37,081
+Switch!
+
+1320
+01:40:54,586 --> 01:40:55,605
+Shit.
+
+1321
+01:40:55,731 --> 01:40:57,108
+No way.
+
+1322
+01:40:57,264 --> 01:40:59,760
+Oh, man. How do we beat that thing?
+
+1323
+01:41:18,504 --> 01:41:20,219
+I'm sorry, Asuna.
+
+1324
+01:41:20,505 --> 01:41:22,879
+I'm the reason your memory was stolen.
+
+1325
+01:41:22,993 --> 01:41:28,209
+My father's collecting the other SAO players'
+memories of me from when I was alive in Aincrad.
+
+1326
+01:41:28,839 --> 01:41:33,780
+He's using the old bosses to force the survivors
+here to remember their fear of dying in SAO.
+
+1327
+01:41:33,968 --> 01:41:37,203
+Then he'll run a scan on their
+brains to extract the memories.
+
+1328
+01:41:38,293 --> 01:41:42,471
+If that happens, it might end up
+damaging everyone's brains permanently.
+
+1329
+01:41:42,496 --> 01:41:44,012
+It might even kill them!
+
+1330
+01:41:44,337 --> 01:41:45,696
+Oh, my God!
+
+1331
+01:41:47,431 --> 01:41:48,610
+No, don't!
+
+1332
+01:41:50,203 --> 01:41:52,744
+If I take it off his head, he'll be saved.
+
+1333
+01:41:52,769 --> 01:41:54,880
+But then, what about the other players?
+
+1334
+01:41:55,079 --> 01:41:56,644
+They're still in danger.
+
+1335
+01:42:06,846 --> 01:42:12,162
+Yuuna, you died in SAO, because you were
+brave enough to leave the safe zone.
+
+1336
+01:42:13,291 --> 01:42:16,427
+You fought a boss and tried to clear a floor, didn't you?
+
+1337
+01:42:17,015 --> 01:42:19,010
+I can't sit here and do nothing.
+
+1338
+01:42:19,582 --> 01:42:22,221
+Yui? I'm going to help Kirito and the others.
+
+1339
+01:42:22,284 --> 01:42:24,754
+Okay, Mommy. I'll join you in a little bit.
+
+1340
+01:42:29,083 --> 01:42:30,466
+Link start!
+
+1341
+01:42:32,628 --> 01:42:34,455
+Oh, no!
+
+1342
+01:42:37,148 --> 01:42:38,173
+Silica!
+
+1343
+01:42:40,899 --> 01:42:41,725
+Kirito!
+
+1344
+01:42:41,750 --> 01:42:42,669
+Silica!
+
+1345
+01:42:45,109 --> 01:42:46,459
+No!
+
+1346
+01:42:47,454 --> 01:42:48,331
+Crap!
+
+1347
+01:43:01,991 --> 01:43:02,706
+Asuna!
+
+1348
+01:43:02,731 --> 01:43:03,710
+I got you!
+
+1349
+01:43:04,154 --> 01:43:07,035
+It's my fault! You lost your memories because of me!
+
+1350
+01:43:07,062 --> 01:43:10,723
+No, stop blaming yourself. It's okay now.
+
+1351
+01:43:13,043 --> 01:43:14,137
+Asuna!
+
+1352
+01:43:18,868 --> 01:43:20,734
+Hi, guys. Sorry I'm late.
+
+1353
+01:43:21,067 --> 01:43:22,498
+You okay to be here?
+
+1354
+01:43:23,355 --> 01:43:27,002
+Mm‐hm. I'm ready to fight. I'm not afraid anymore.
+
+1355
+01:43:27,613 --> 01:43:28,194
+Good.
+
+1356
+01:43:44,443 --> 01:43:46,906
+Kazuto! Sorry I'm late!
+
+1357
+01:43:48,374 --> 01:43:51,092
+Daddy, Mommy! I brought everyone else, too!
+
+1358
+01:43:53,945 --> 01:43:55,518
+This is gonna be fun!
+
+1359
+01:43:55,543 --> 01:43:56,512
+Stay sharp, general!
+
+1360
+01:43:56,988 --> 01:43:59,340
+Ha! We rule in VR!
+
+1361
+01:44:01,525 --> 01:44:03,188
+Skeena Guail!
+Guy‐sah Oru‐muru!
+
+1362
+01:44:07,698 --> 01:44:09,277
+She's a big lady!
+
+1363
+01:44:09,388 --> 01:44:10,398
+They're here, too?
+
+1364
+01:44:10,423 --> 01:44:11,019
+Yay!
+
+1365
+01:44:11,217 --> 01:44:12,393
+Time's running out!
+
+1366
+01:44:12,472 --> 01:44:13,411
+Hit it again!
+
+1367
+01:44:13,436 --> 01:44:16,381
+Don't just stand there! You've got work to do!
+
+1368
+01:44:24,636 --> 01:44:25,604
+What the...?
+
+1369
+01:44:26,368 --> 01:44:27,011
+Pina!
+
+1370
+01:44:29,062 --> 01:44:31,843
+I loaded up your saved data from the SAO server.
+
+1371
+01:44:32,145 --> 01:44:34,292
+I thought you'd be more comfortable this way.
+
+1372
+01:44:34,480 --> 01:44:36,213
+I also brought your gear, Sinon!
+
+1373
+01:44:40,455 --> 01:44:42,346
+All right! Let's do this!
+
+1374
+01:44:42,537 --> 01:44:43,426
+Yeah!
+
+1375
+01:45:21,680 --> 01:45:22,778
+Hurry! Block it!
+
+1376
+01:45:25,836 --> 01:45:27,042
+You and me, Asuna!
+
+1377
+01:45:27,067 --> 01:45:27,528
+Right!
+
+1378
+01:45:32,882 --> 01:45:33,610
+Damn it!
+
+1379
+01:45:38,578 --> 01:45:39,253
+Switch!
+
+1380
+01:45:39,477 --> 01:45:41,098
+I know what skill to use.
+
+1381
+01:46:34,751 --> 01:46:37,496
+Now you really have cleared the game, Kirito.
+
+1382
+01:46:37,539 --> 01:46:38,428
+Kayaba?
+
+1383
+01:46:39,167 --> 01:46:41,780
+You only have one thing left to do.
+
+1384
+01:47:45,539 --> 01:47:46,457
+It's Yuna!
+
+1385
+01:48:02,869 --> 01:48:05,226
+Why is this happening?
+
+1386
+01:48:05,400 --> 01:48:09,102
+I was so close, Yuuna! So close!
+
+1387
+01:48:16,670 --> 01:48:17,948
+Don't worry, Dad.
+
+1388
+01:48:18,408 --> 01:48:21,198
+No matter what, I'll always be in your memories.
+
+1389
+01:48:21,493 --> 01:48:22,830
+Forever and ever.
+
+1390
+01:49:04,872 --> 01:49:07,073
+You sounded great up there, Yuuna.
+
+1391
+01:49:07,279 --> 01:49:08,251
+Thanks a lot.
+
+1392
+01:49:11,076 --> 01:49:13,213
+The data for my primary body
+
+1393
+01:49:13,238 --> 01:49:16,685
+was based on the resource script
+of the boss from Floor 100.
+
+1394
+01:49:16,941 --> 01:49:20,172
+Its language engine is what allowed me to move around.
+
+1395
+01:49:20,197 --> 01:49:24,098
+But the boss was defeated and its
+saved data will be initialized.
+
+1396
+01:49:24,336 --> 01:49:26,459
+So now I have to say goodbye to you.
+
+1397
+01:49:26,484 --> 01:49:27,325
+No way.
+
+1398
+01:49:27,350 --> 01:49:28,889
+It's not a bad thing.
+
+1399
+01:49:29,399 --> 01:49:35,093
+I got to sing in front of a huge audience,
+so my wish was fulfilled. I couldn't be happier.
+
+1400
+01:49:35,593 --> 01:49:38,146
+Before I go, I have to give this back to you.
+
+1401
+01:49:38,979 --> 01:49:41,991
+Your fear of death is what
+caused you to lose your memories.
+
+1402
+01:49:42,284 --> 01:49:44,587
+But you overcame it and fought anyway.
+
+1403
+01:49:45,217 --> 01:49:47,621
+I'm sure everything will come back to you now.
+
+1404
+01:50:02,934 --> 01:50:06,380
+You remembered my wish, Eiji. Thank you.
+
+1405
+01:50:46,837 --> 01:50:49,668
+The AR idol, Yuna, is making headlines again.
+
+1406
+01:50:49,825 --> 01:50:55,099
+During her concert at the New National Stadium,
+several boss monsters from Ordinal Scale appeared.
+
+1407
+01:50:55,258 --> 01:50:59,294
+The promoters of the show said today
+that it was a surprise event for the fans.
+
+1408
+01:50:59,897 --> 01:51:01,115
+In other game‐related news,
+
+1409
+01:51:01,140 --> 01:51:03,847
+Kamura Incorporated, the company behind the Augma,
+
+1410
+01:51:03,872 --> 01:51:05,778
+revealed that their head of development,
+
+1411
+01:51:05,803 --> 01:51:09,963
+Dr. Shigemura of Toto Institute, has decided to step down.
+
+1412
+01:51:14,279 --> 01:51:16,221
+Bet you're glad to be out of that hospital.
+
+1413
+01:51:16,262 --> 01:51:17,561
+Yeah, how's your arm doing?
+
+1414
+01:51:17,586 --> 01:51:19,953
+Ow! Nah, I'm kidding, it's fine.
+
+1415
+01:51:19,978 --> 01:51:22,659
+But I'll be sticking to VR games from now on.
+
+1416
+01:51:22,684 --> 01:51:25,027
+But you got to meet more girls in AR.
+
+1417
+01:51:25,052 --> 01:51:29,174
+Eh, it's no big deal. Nobody meets
+their dream girl in games, anyway.
+
+1418
+01:51:29,399 --> 01:51:31,750
+You better pray my wife never hears you say that.
+
+1419
+01:51:32,011 --> 01:51:34,932
+Yo, she gave up her ticket for your broke ass.
+
+1420
+01:51:34,967 --> 01:51:36,134
+Ow! What's your problem?
+
+1421
+01:51:36,159 --> 01:51:36,866
+Apologize!
+
+1422
+01:51:36,905 --> 01:51:39,708
+Um, guys, I brought something back for everyone.
+
+1423
+01:51:39,914 --> 01:51:41,899
+Where was this boot camp you went to?
+
+1424
+01:51:41,924 --> 01:51:42,836
+Shimane.
+
+1425
+01:51:42,935 --> 01:51:44,929
+The place we stayed didn't have computers.
+
+1426
+01:51:44,954 --> 01:51:48,303
+If I didn't smuggle in my Amusphere,
+I would've died from boredom!
+
+1427
+01:51:48,653 --> 01:51:49,661
+Eh...
+
+1428
+01:51:49,867 --> 01:51:52,259
+By the way, where's Kirito and Asuna?
+
+1429
+01:51:52,501 --> 01:51:54,422
+They said they had other plans tonight.
+
+1430
+01:51:54,463 --> 01:51:55,592
+Anyone know what they're doing?
+
+1431
+01:51:55,633 --> 01:51:57,637
+Oh, who cares about them.
+
+1432
+01:51:57,758 --> 01:51:59,432
+If they're not here, they're missing out.
+
+1433
+01:51:59,473 --> 01:52:00,786
+Some friend.
+
+1434
+01:52:00,967 --> 01:52:04,223
+I get discharged and he can't come by for a drink?
+
+1435
+01:52:04,296 --> 01:52:05,193
+He can suck it.
+
+1436
+01:52:05,354 --> 01:52:07,990
+On second thought, you can buy your own drinks tonight.
+
+1437
+01:52:08,078 --> 01:52:09,516
+You all owe me for that ticket.
+
+1438
+01:52:09,555 --> 01:52:13,084
+You greedy... You got that ticket for
+free, you cardboard‐sword dealer!
+
+1439
+01:52:13,289 --> 01:52:14,767
+Oh, whatever.
+
+1440
+01:52:15,125 --> 01:52:19,323
+At least I got ALO. Now that it's hopping
+again, maybe I'll meet some new hotties.
+
+1441
+01:52:19,827 --> 01:52:20,615
+Nope.
+
+1442
+01:52:23,502 --> 01:52:25,752
+You were right, it gets dark up here.
+
+1443
+01:52:25,884 --> 01:52:27,822
+Yeah. Can you see, Yui?
+
+1444
+01:52:27,864 --> 01:52:30,284
+Yup! I can see just fine, Daddy!
+
+1445
+01:52:30,787 --> 01:52:33,542
+The color balance is skewing a little green, though.
+
+1446
+01:52:35,130 --> 01:52:37,689
+For a while there,
+I didn't think we'd get to come here.
+
+1447
+01:52:37,801 --> 01:52:40,222
+Oh, and in the end, I left without telling my mom.
+
+1448
+01:52:40,264 --> 01:52:41,100
+You what?
+
+1449
+01:52:41,852 --> 01:52:43,314
+You're kidding, right?
+
+1450
+01:52:48,405 --> 01:52:50,290
+I'll talk to her when we get back.
+
+1451
+01:52:54,796 --> 01:52:58,474
+Do you remember what we promised
+each other back in Aincrad now?
+
+1452
+01:52:58,759 --> 01:53:00,642
+What, to go stargazing?
+
+1453
+01:53:00,763 --> 01:53:03,476
+Well, yeah. That was part of it.
+
+1454
+01:53:03,575 --> 01:53:05,815
+I'm kidding. I remember.
+
+1455
+01:53:05,966 --> 01:53:08,863
+You said if we ever got out, you'd give me a real ring.
+
+1456
+01:53:11,660 --> 01:53:12,924
+Here. For you!
+
+1457
+01:53:12,949 --> 01:53:13,539
+Um.
+
+1458
+01:53:13,581 --> 01:53:17,356
+It's not fair if you're the only one
+handing out presents, so I got you one.
+
+1459
+01:53:17,929 --> 01:53:18,799
+Thank you.
+
+1460
+01:53:24,274 --> 01:53:27,944
+This time, put it on my finger. And this time, for real.
+
+1461
+01:53:43,056 --> 01:53:44,677
+Look! A shooting star!
+
+1462
+01:53:49,459 --> 01:53:50,348
+Wow!
+
+1463
+01:53:50,380 --> 01:53:51,380
+Amazing!
+
+1464
+01:59:17,265 --> 01:59:19,471
+Why all the mystery, Kikuoka?
+
+1465
+01:59:19,645 --> 01:59:21,733
+What did you bring me down here for?
+
+1466
+01:59:21,876 --> 01:59:24,481
+I appreciate you getting the charges against me dropped,
+
+1467
+01:59:24,567 --> 01:59:26,992
+but it's time you told me what this is about.
+
+1468
+01:59:27,095 --> 01:59:30,131
+Actually, doctor, I want to talk about the future.
+
+1469
+01:59:30,519 --> 01:59:32,934
+I've been keeping a close eye on your research.
+
+1470
+01:59:33,164 --> 01:59:37,073
+And now, I feel like I've seen
+how far a top‐down AI can go.
+
+1471
+01:59:37,708 --> 01:59:40,720
+But I have my sights on a different kind of future.
+
+1472
+01:59:41,609 --> 01:59:43,993
+You're the head of the Shigemura Research Lab.
+
+1473
+01:59:44,303 --> 01:59:47,975
+Your students included Akihiko Kayaba and Nobuyuki Sugou.
+
+1474
+01:59:48,276 --> 01:59:51,653
+So I know what I'm about to show you will interest you.
+
+1475
+01:59:54,298 --> 01:59:56,848
+Kikuoka, what is that?
+
+1476
+01:59:58,654 --> 02:00:00,677
+Welcome to Rath.
+
