@@ -42,7 +42,7 @@ OneDirve：http://pan.edatribe.com
 | --- | ------------------------------------------------------------------------------ | ------------ | -------- | ---- |
 | M001 | [Your Name.](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M001]Your_Name) | 你的名字     | 2016     | 完成 |
 | M002 | [No Game No Life: Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M002]No_Game_No_Life_Zero)      | 游戏人生Zero | 2017     | 完成 |
-| M003 | Sword Art Online: Ordinal Scale  | 刀剑神域：序列之争 | 2017 | 进行 |
+| M003 | [Sword Art Online: Ordinal Scale](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M003]Sword_Art_Online_Ordinal_Scale)  | 刀剑神域：序列之争 | 2017 | 完成 |
 
 ### 字幕制作说明
 #### 详细解释
