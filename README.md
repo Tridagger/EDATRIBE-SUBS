@@ -32,7 +32,18 @@ OneDirve：http://pan.edatribe.com
 | A016 | A Certain Scientific Railgun S                                                                                      | 某科学超电磁炮S                          | 24集 | 计划 |
 | A017 | Parasyte: The Maxim                                                                                                 | 寄生兽：生命的准则                       | 24集 | 计划 |
 | A018 | Charlotte                                                                                                           | 夏洛特                                   | 13集 | 计划 |
-| A019     |             DARLING in the FRANXX                                                                                                        |                                          |   24集   |   计划   |
+| A019 | DARLING in the FRANXX                                                                                               |                                          | 24集 | 计划 |
+| A020 | Good Luck Girl!                                                                                                     | 贫乏神来了!                              | 13集 | 计划 |
+| A021 | Code Geass: Lelouch of the Rebellion                                                                                | 反逆的鲁鲁修                             | 50集 | 计划 |
+| A022 | Ping Pong the Animation                                                                                             | 乒乓                                     | 11集 | 计划 |
+| A023 | Guilty Crown                                                                                                        | 罪恶王冠                                 | 22集 | 计划 |
+| A024 | Yuri!!! on ICE                                                                                                      | 冰上的尤里                               | 12集 | 计划 |
+| A025 | Sankarea                                                                                                            | 散华礼弥                                 | 13集 | 计划 |
+| A026 | Haganai                                                                                                             | 我的朋友很少                             | 24集 | 计划 |
+| A027 | Claymore                                                                                                            | 大剑                                     | 26集 | 计划 |
+| A028 | Lucky Star                                                                                                          | 幸运星                                   | 24集 | 计划 |
+| A029 | Accel World                                                                                                         | 加速世界                                 | 24集 | 计划 |
+| A030     |      The Future Diary                                                                                                               |        未来日记                                  |   26集   |    计划  |
 
 
 
