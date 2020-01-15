@@ -20,7 +20,7 @@ OneDirve：http://pan.edatribe.com
 | A002 | [Puella Magi Madoka Magica](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A002]Puella_Magi_Madoka_Magica) | 魔法少女小圆                             | 12集 | 完成 |
 | A003 | [Fate/Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A003]Fate_Zero)                                 | 命运之夜前传                             | 25集 | 完成 |
 | A004 | [No-Rin](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A004]No-Rin)                                       | 农林                                     | 12集 | 完成 |
-| A005 | No Game No Life                                                                                                     | 游戏人生                                 | 12集 | 计划 |
+| A005 | No Game No Life                                                                                                     | 游戏人生                                 | 12集 | 进行 |
 | A006 | Death Note                                                                                                          | 死亡笔记                                 | 37集 | 计划 |
 | A007 | Assassination Classroom                                                                                             | 暗杀教室                                 | 47集 | 计划 |
 | A008 | WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?                               | 末日时在做什么？有没有空？可以来拯救吗？ | 12集 | 计划 |
