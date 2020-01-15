@@ -83,7 +83,7 @@ OneDirve：http://pan.edatribe.com
 字幕可通过Github下载，如果不会用Github也可以通过 [QQ群](https://jq.qq.com/?_wv=1027&k=5kCsfB9) 获取原CC字幕。
 
  - ###### 字幕制作
-字幕制作过程就是删除听障辅助文本，处理不合理的断句，调整时间轴，进行拼写检查。详细教程请见此链接http://pan.edatribe.com
+字幕制作过程就是删除听障辅助文本，处理不合理的断句，调整时间轴，进行拼写检查。详细教程请见此链接http://pan.edatribe.com/%E5%AD%97%E5%B9%95%E5%88%B6%E4%BD%9C%E6%95%99%E7%A8%8B/
 
  - ###### 字幕上传
 制作好的字幕可以提交push request，如果不会github也可以通过  [QQ群](https://jq.qq.com/?_wv=1027&k=5kCsfB9) 联系子弹，或者其他伙伴帮忙push。
