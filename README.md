@@ -26,7 +26,7 @@ OneDirve：http://pan.edatribe.com
 | A008 | WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?                               | 末日时在做什么？有没有空？可以来拯救吗？ | 12集 | 计划 |
 | A009 | Sword Art Online                                                                                                    | 刀剑神域                                 | 25集 | 计划 |
 | A010 | Sword Art Online II                                                                                                 | 刀剑神域第2季                            | 24集 | 计划 |
-| A011 | Erased                                                                                                              | 只有我不在的街道                         | 12集 | 计划 |
+| A011 | Erased                                                                                                              | 只有我不在的街道                         | 12集 | 进行 |
 | A012 | Hyouka                                                                                                              | 冰菓                                     | 22集 | 计划 |
 | A013 | The Devil Is a Part-Timer!                                                                                          | 打工吧！魔王大人                         | 13集 | 计划 |
 | A014 | Nichijou: My Ordinary Life                                                                                          | 日常                                     | 26集 | 计划 |
