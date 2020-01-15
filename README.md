@@ -79,16 +79,16 @@ OneDirve：http://pan.edatribe.com
 
 #### 字幕制作流程
 因为从视频网站上下载的CC字幕里面包含听障辅助文本，有些对话的断句不合理，时间轴不是很匹配，还有一些单词拼写存在错误，观看体验并不是很好，所以针对上述这些问题对字幕重新制作。
-###### 原CC字幕下载
+ - ###### 原CC字幕下载
 字幕可通过Github下载，如果不会用Github也可以通过 [QQ群](https://jq.qq.com/?_wv=1027&k=5kCsfB9) 获取原CC字幕。
 
-###### 字幕制作
+ - ###### 字幕制作
 字幕制作过程就是删除听障辅助文本，处理不合理的断句，调整时间轴，进行拼写检查。详细教程请见此链接http://pan.edatribe.com
 
-###### 字幕上传
+ - ###### 字幕上传
 制作好的字幕可以提交push request，如果不会github也可以通过  [QQ群](https://jq.qq.com/?_wv=1027&k=5kCsfB9) 联系子弹，或者其他伙伴帮忙push。
 
-#### 字幕修改
+ - ###### 字幕修改
 如果发现已完成字幕中存在错误，想要修改，请通过 [QQ群](https://jq.qq.com/?_wv=1027&k=5kCsfB9) 联系，或者发 [issue](https://github.com/Tridagger/EDATRIBE-SUBS/issues)。
 
 ### 转载及再利用说明
