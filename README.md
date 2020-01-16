@@ -80,7 +80,7 @@ OneDirve：http://pan.edatribe.com
 #### 字幕制作流程
 因为从视频网站上下载的CC字幕里面包含听障辅助文本，有些对话的断句不合理，时间轴不是很匹配，还有一些单词拼写存在错误，观看体验并不是很好，所以针对上述这些问题对字幕重新制作。
  - ###### 原CC字幕下载
-字幕可通过Github下载，如果不会用Github也可以通过 [QQ群](https://jq.qq.com/?_wv=1027&k=5kCsfB9) 获取原CC字幕。
+字幕可通过Github下载，如果不会用Github也可以通过 [QQ群](https://jq.qq.com/?_wv=1027&k=5kCsfB9) 或者 pan.edatribe.com 获取原CC字幕。
 
  - ###### 字幕制作
 字幕制作过程就是删除听障辅助文本，处理不合理的断句，调整时间轴，进行拼写检查。详细教程请见此链接http://pan.edatribe.com/%E5%AD%97%E5%B9%95%E5%88%B6%E4%BD%9C%E6%95%99%E7%A8%8B/
