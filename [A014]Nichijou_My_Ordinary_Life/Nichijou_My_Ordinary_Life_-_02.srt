@@ -1,1691 +1,1383 @@
 ﻿1
-00:00:11,291 --> 00:00:13,750
-[YUUKO] All right!
-Everyone ready to play?
+00:00:02,238 --> 00:00:04,688
+All right! Everyone ready to play?
 
 2
-00:00:13,833 --> 00:00:14,583
-[YUUKO]
+00:00:04,771 --> 00:00:05,521
 Rock!
 
 3
-00:00:14,666 --> 00:00:15,458
+00:00:05,604 --> 00:00:06,396
 Paper!
 
 4
-00:00:15,541 --> 00:00:16,375
+00:00:06,479 --> 00:00:07,313
 Scissors!
 
 5
-00:00:16,458 --> 00:00:17,291
+00:00:07,396 --> 00:00:08,229
 Aw, man!
 
 6
-00:00:17,375 --> 00:00:18,500
-[MIO]
+00:00:08,313 --> 00:00:09,438
 Aw, yeah!
 
 7
-00:00:18,583 --> 00:00:20,208
+00:00:09,521 --> 00:00:11,146
 Looks like I'm going first.
 
 8
-00:00:20,291 --> 00:00:24,416
-♪ De-li-cious pine-ap-ple! ♪
+00:00:11,229 --> 00:00:15,354
+♪ De-Li-cious pine-ap-ple! ♪
 
 9
-00:00:26,291 --> 00:00:27,250
+00:00:17,229 --> 00:00:18,188
 Rock! Paper!
 
 10
-00:00:27,333 --> 00:00:28,666
+00:00:18,271 --> 00:00:19,604
 Scissors!
 
 11
-00:00:28,750 --> 00:00:31,291
+00:00:19,688 --> 00:00:22,229
 Sweet! Here I come!
 
 12
-00:00:31,375 --> 00:00:34,333
-Hey, hold up! Rules say
-only one step at a time!
+00:00:22,313 --> 00:00:25,271
+Hey, hold up! Rules say only one step at a time!
 
 13
-00:00:34,416 --> 00:00:37,458
+00:00:25,354 --> 00:00:28,396
 Oh, I'm well aware.
 
 14
-00:00:37,541 --> 00:00:40,916
-G-li-co
+00:00:28,479 --> 00:00:31,854
+G-Li-co
 
 15
-00:00:41,000 --> 00:00:43,041
+00:00:31,938 --> 00:00:33,979
 Cor-por-ation.
 
 16
-00:00:43,125 --> 00:00:43,958
+00:00:34,063 --> 00:00:34,896
 Cheater!
 
 17
-00:00:44,041 --> 00:00:45,291
+00:00:34,979 --> 00:00:36,229
 What? But how?
 
 18
-00:00:45,375 --> 00:00:47,166
-You can't add stuff
-on at the end!
+00:00:36,313 --> 00:00:38,104
+You can't add stuff on at the end!
 
 19
-00:00:47,250 --> 00:00:50,458
-Why? I'm just using
-the company's full name.
+00:00:38,188 --> 00:00:41,396
+Why? I'm just using the company's full name.
 
 20
-00:00:50,541 --> 00:00:52,500
+00:00:41,479 --> 00:00:43,438
 Hey! That's fair, isn't it Mai?
 
 21
-00:00:52,583 --> 00:00:54,583
+00:00:43,521 --> 00:00:45,521
 Fifty-fifty.
 
 22
-00:00:57,708 --> 00:01:00,416
-[MIO]
+00:00:48,646 --> 00:00:51,354
 Okay, fine. I'll let it slide.
 
 23
-00:01:00,500 --> 00:01:02,375
-But next time, I'm allowed
-to bend the rules
+00:00:51,438 --> 00:00:53,313
+But next time, I'm allowed to bend the rules
 
 24
-00:01:02,458 --> 00:01:05,541
-to work in my favor so we can
-even things out a little.
+00:00:53,396 --> 00:00:56,479
+to work in my favor so we can even things out a little.
 
 25
-00:01:05,625 --> 00:01:08,208
-[BOTH]
+00:00:56,563 --> 00:00:59,146
 Now, rock, paper, scissors.
 
 26
-00:01:08,291 --> 00:01:10,708
-[YUUKO] Look at that!
-Mai gets to go next!
+00:00:59,229 --> 00:01:01,646
+Look at that! Mai gets to go next!
 
 27
-00:01:13,250 --> 00:01:17,333
-[MAI]
+00:01:04,188 --> 00:01:08,271
 Chi-yo-ta.
 
 28
-00:01:17,416 --> 00:01:24,500
-Ni-ke-ra-ha-to-ho-
-ra-su-te-no-ha-te...
+00:01:08,354 --> 00:01:15,438
+Ni-ke-Ra-ha-to-ho- Ra-su-Te-no-ha-Te...
 
 29
-00:01:24,583 --> 00:01:30,166
-...ki-ra-to-na-ri-ha-shi-te-to.
+00:01:15,521 --> 00:01:21,104
+...ki-Ra-to-Na-ri-ha-shi-Te-to.
 
 30
-00:01:32,708 --> 00:01:35,833
+00:01:23,646 --> 00:01:26,771
 Incantation of Revival.
 
 31
-00:03:19,291 --> 00:03:20,708
+00:03:10,229 --> 00:03:11,646
 It stopped working.
 
 32
-00:03:20,791 --> 00:03:22,375
+00:03:11,729 --> 00:03:13,313
 Aww, mom!
 
 33
-00:03:22,458 --> 00:03:25,625
-I thought I told you
-to wake me up at seven!
+00:03:13,396 --> 00:03:16,563
+I thought I told you to wake me up at seven!
 
 34
-00:03:25,708 --> 00:03:27,000
+00:03:16,646 --> 00:03:17,938
 Where were you?!
 
 35
-00:03:27,083 --> 00:03:28,041
+00:03:18,021 --> 00:03:18,979
 Uh.
 
 36
-00:03:31,625 --> 00:03:34,541
-[MIO]
+00:03:22,563 --> 00:03:25,479
 Seriously? Kick volleyball?
 
 37
-00:03:39,750 --> 00:03:42,041
+00:03:30,688 --> 00:03:32,979
 Just perfect!
 
 38
-00:03:42,125 --> 00:03:44,791
+00:03:33,063 --> 00:03:35,729
 I am gonna be so late!
 
 39
-00:03:44,875 --> 00:03:47,083
-[MIO] Of all days, that alarm
-clock just had to choose
+00:03:35,813 --> 00:03:38,021
+Of all days, that alarm clock just had to choose
 
 40
-00:03:47,166 --> 00:03:49,250
-the most inconvenient
-time to crap out!
+00:03:38,104 --> 00:03:40,188
+the most inconvenient time to crap out!
 
 41
-00:03:49,333 --> 00:03:51,208
-Even in death, I guess it
-found a way to alarm me,
+00:03:40,271 --> 00:03:42,146
+Even in death, I guess it found a way to alarm me,
 
 42
-00:03:51,291 --> 00:03:53,291
-but that's not the way
-it's supposed to!
+00:03:42,229 --> 00:03:44,229
+but that's not the way it's supposed to!
 
 43
-00:03:53,375 --> 00:03:55,166
+00:03:44,313 --> 00:03:46,104
 Ugh, I hate irony!
 
 44
-00:03:55,250 --> 00:03:57,041
-[MIO panting]
+00:03:53,646 --> 00:03:56,188
+All right, if I book it at my top speed,
 
 45
-00:04:02,708 --> 00:04:05,250
-[MIO] All right, if I
-book it at my top speed,
-
-46
-00:04:05,333 --> 00:04:07,375
+00:03:56,271 --> 00:03:58,313
 I might be able to make it.
 
-47
-00:04:08,583 --> 00:04:10,166
-[MIO]
+46
+00:03:59,521 --> 00:04:01,104
 Wait. Hang on.
 
-48
-00:04:10,250 --> 00:04:11,333
+47
+00:04:01,188 --> 00:04:02,271
 Rewind.
 
-49
-00:04:18,250 --> 00:04:20,666
-[MIO] There was something
-beary suspicious!
+48
+00:04:09,188 --> 00:04:11,604
+There was something beary suspicious!
 
-50
-00:04:20,750 --> 00:04:22,416
+49
+00:04:11,688 --> 00:04:13,354
 Please tell me it's gone.
 
-51
-00:04:22,500 --> 00:04:24,083
+50
+00:04:13,438 --> 00:04:15,021
 Nope! Here it comes!
 
-52
-00:04:24,166 --> 00:04:27,666
-[MIO gasping]
-
-53
-00:04:27,750 --> 00:04:29,375
-[MIO]
+51
+00:04:18,688 --> 00:04:20,313
 Whoa, what the what?!
 
-54
-00:04:29,458 --> 00:04:31,208
+52
+00:04:20,396 --> 00:04:22,146
 Who is this pro sprinter?!
 
-55
-00:04:31,291 --> 00:04:35,208
-And what are they doing
-chasing little ol' me?
+53
+00:04:22,229 --> 00:04:26,146
+And what are they doing chasing little ol' me?
 
-56
-00:04:36,625 --> 00:04:38,083
-[MIO]
+54
+00:04:27,563 --> 00:04:29,021
 There it goes!
 
-57
-00:04:41,708 --> 00:04:43,500
-[panting]
-
-58
-00:04:56,166 --> 00:04:57,375
-[MIO]
+55
+00:04:47,104 --> 00:04:48,313
 Bring it.
 
-59
-00:04:57,458 --> 00:04:58,416
-[gasps]
-
-60
-00:05:01,083 --> 00:05:03,083
-[BEAR]
+56
+00:04:52,021 --> 00:04:54,021
 Um. Excuse me.
 
-61
-00:05:06,875 --> 00:05:09,875
-[BEAR] Did you happen
-to drop this wooden fish?
+57
+00:04:57,813 --> 00:05:00,813
+Did you happen to drop this wooden fish?
 
-62
-00:05:11,458 --> 00:05:12,708
+58
+00:05:02,396 --> 00:05:03,646
 Uh!
 
-63
-00:05:16,291 --> 00:05:19,291
-[BEAR] Or perhaps,
-it was this golden one?
+59
+00:05:07,229 --> 00:05:10,229
+Or perhaps, it was this golden one?
 
-64
-00:05:19,375 --> 00:05:21,208
-[MIO]
+60
+00:05:10,313 --> 00:05:12,146
 I'm so dead.
 
-65
-00:05:21,291 --> 00:05:23,166
+61
+00:05:12,229 --> 00:05:14,104
 I have no choice.
 
-66
-00:05:23,250 --> 00:05:25,125
+62
+00:05:14,188 --> 00:05:16,063
 There's only one way.
 
-67
-00:05:28,416 --> 00:05:30,000
-[MIO]
+63
+00:05:19,354 --> 00:05:20,938
 Please take this and go.
 
-68
-00:05:30,083 --> 00:05:32,375
-[laughs]
-
-69
-00:05:32,458 --> 00:05:35,291
-[BEAR]
+64
+00:05:23,396 --> 00:05:26,229
 Sometimes, I can be a bear.
 
-70
-00:05:35,375 --> 00:05:37,416
-And other times,
-I can be...
+65
+00:05:26,313 --> 00:05:28,354
+And other times, I can be...
 
-71
-00:05:37,500 --> 00:05:39,791
+66
+00:05:28,438 --> 00:05:30,729
 ...hard to bear.
 
-72
-00:05:39,875 --> 00:05:45,625
-However!
-My true identity is...!
+67
+00:05:30,813 --> 00:05:36,563
+However! My true identity is...!
 
-73
-00:05:45,708 --> 00:05:48,625
-[MIO gasping]
-
-74
-00:05:48,708 --> 00:05:52,958
-[laughing]
-
-75
-00:05:59,958 --> 00:06:02,708
-[YOSHINO]
+68
+00:05:50,896 --> 00:05:53,646
 Oh! That was priceless!
 
-76
-00:06:06,375 --> 00:06:07,625
+69
+00:05:57,313 --> 00:05:58,563
 Tada!
 
-77
-00:06:07,708 --> 00:06:10,000
-It was actually your older
-sister this entire time!
+70
+00:05:58,646 --> 00:06:00,938
+It was actually your older sister this entire time!
 
-78
-00:06:10,083 --> 00:06:11,291
+71
+00:06:01,021 --> 00:06:02,229
 Bet you didn't see that coming,
 
-79
-00:06:11,375 --> 00:06:13,541
-since I used your
-uniform as a disguise.
+72
+00:06:02,313 --> 00:06:04,479
+since I used your uniform as a disguise.
 
-80
-00:06:13,625 --> 00:06:14,750
+73
+00:06:04,563 --> 00:06:05,688
 Man! That was a bla--
 
-81
-00:06:14,833 --> 00:06:16,875
-[YOSHINO groans]
+74
+00:06:09,438 --> 00:06:11,396
+Hm... A rather commendable corkscrew punch
 
-82
-00:06:16,958 --> 00:06:18,416
-[MEN gasp]
-
-83
-00:06:18,500 --> 00:06:20,458
-[GENTLEMAN 2A] Hm... A rather
-commendable corkscrew punch
-
-84
-00:06:20,541 --> 00:06:21,875
+75
+00:06:11,479 --> 00:06:12,813
 on this fine morning.
 
-85
-00:06:21,958 --> 00:06:24,250
-Indeed! It was quite
-beautiful to behold!
+76
+00:06:12,896 --> 00:06:15,188
+Indeed! It was quite beautiful to behold!
 
-86
-00:06:24,333 --> 00:06:26,208
+77
+00:06:15,271 --> 00:06:17,146
 Hey, give me some credit.
 
-87
-00:06:26,291 --> 00:06:28,916
-Disabling your alarm clock
-to set this up wasn't easy.
+78
+00:06:17,229 --> 00:06:19,854
+Disabling your alarm clock to set this up wasn't easy.
 
-88
-00:06:29,000 --> 00:06:30,583
+79
+00:06:19,938 --> 00:06:21,521
 So it's all your fault!
 
-89
-00:06:30,666 --> 00:06:32,750
-All right, just chill out.
-I'll make it up to you.
+80
+00:06:21,604 --> 00:06:23,688
+All right, just chill out. I'll make it up to you.
 
-90
-00:06:32,833 --> 00:06:35,333
-I know, we can go get
-some ramen, on me. 'Kay?
+81
+00:06:23,771 --> 00:06:26,271
+I know, we can go get some ramen, on me. 'Kay?
 
-91
-00:06:35,416 --> 00:06:36,541
-[YOSHINO groans]
+82
+00:06:27,563 --> 00:06:30,146
+That's my money in the first place!
 
-92
-00:06:36,625 --> 00:06:39,208
-[MIO] That's my money
-in the first place!
-
-93
-00:06:43,083 --> 00:06:46,583
-[MAI]
+83
+00:06:34,021 --> 00:06:37,521
 Chi... yo... ta...
 
-94
-00:06:46,666 --> 00:06:49,250
+84
+00:06:37,604 --> 00:06:40,188
 Ni-ke-ra-ha-to
 
-95
-00:06:49,333 --> 00:06:52,791
+85
+00:06:40,271 --> 00:06:43,729
 ho-ra-su-te-no-ha-te-ki
 
-96
-00:06:52,875 --> 00:06:56,000
+86
+00:06:43,813 --> 00:06:46,938
 ra-to-na-ri-ha-shi-te-to.
 
-97
-00:07:00,625 --> 00:07:02,333
-[HAKASE humming]
-
-98
-00:07:08,166 --> 00:07:11,375
-[HAKASE]
+87
+00:06:59,104 --> 00:07:02,313
 A shark. Wow!
 
-99
-00:07:11,458 --> 00:07:13,000
-[NANO]
+88
+00:07:02,396 --> 00:07:03,938
 I'm home!
 
-100
-00:07:13,083 --> 00:07:15,416
+89
+00:07:04,021 --> 00:07:06,354
 Oh! What are you up to, Hakase?
 
-101
-00:07:15,500 --> 00:07:17,666
+90
+00:07:06,438 --> 00:07:08,604
 Nano! Check it out!
 
-102
-00:07:17,750 --> 00:07:20,625
+91
+00:07:08,688 --> 00:07:11,563
 That cloud's a shark!
 
-103
-00:07:20,708 --> 00:07:25,625
-[NANO]
+92
+00:07:11,646 --> 00:07:16,563
 Oooo! Let me sneak a peek.
 
-104
-00:07:25,708 --> 00:07:28,458
-[gasps] Would you look at that!
+93
+00:07:16,646 --> 00:07:19,396
+Would you look at that!
 
-105
-00:07:28,541 --> 00:07:30,833
+94
+00:07:19,479 --> 00:07:21,771
 Isn't it awesome?
 
-106
-00:07:30,916 --> 00:07:33,291
+95
+00:07:21,854 --> 00:07:24,229
 It really is.
 
-107
-00:07:33,375 --> 00:07:37,875
-That's right! Almost forgot.
-Look what I bought for you!
+96
+00:07:24,313 --> 00:07:28,813
+That's right! Almost forgot. Look what I bought for you!
 
-108
-00:07:37,958 --> 00:07:39,416
+97
+00:07:28,896 --> 00:07:30,354
 Milk.
 
-109
-00:07:53,625 --> 00:07:56,333
-[HAKASE]
+98
+00:07:44,563 --> 00:07:47,271
 Is it 4.5%? That's the best!
 
-110
-00:07:56,416 --> 00:07:58,541
+99
+00:07:47,354 --> 00:07:49,479
 Yup, it's the creamier kind.
 
-111
-00:07:58,625 --> 00:08:00,416
+100
+00:07:49,563 --> 00:07:51,354
 But why this specific type?
 
-112
-00:08:00,500 --> 00:08:02,583
-And what made you want
-it so suddenly today?
+101
+00:07:51,438 --> 00:07:53,521
+And what made you want it so suddenly today?
 
-113
-00:08:02,666 --> 00:08:06,666
+102
+00:07:53,604 --> 00:07:57,604
 Heh! Oh, you'll see.
 
-114
-00:08:08,250 --> 00:08:09,708
-[NANO gasping]
+103
+00:08:03,979 --> 00:08:07,896
+It goes great with my swiss roll!
 
-115
-00:08:13,041 --> 00:08:16,958
-It goes great with
-my swiss roll!
-
-116
-00:08:17,041 --> 00:08:19,416
-[NANO gasping]
-
-117
-00:08:19,500 --> 00:08:20,916
+104
+00:08:10,438 --> 00:08:11,854
 Wait!
 
-118
-00:08:21,000 --> 00:08:23,041
-Why would you install such a
-strange additional feature?
+105
+00:08:11,938 --> 00:08:13,979
+Why would you install such a strange additional feature?
 
-119
-00:08:23,125 --> 00:08:24,625
-[HAKASE]
+106
+00:08:14,063 --> 00:08:15,563
 I needed you to hold my cake.
 
-120
-00:08:24,708 --> 00:08:28,000
-[NANO]
+107
+00:08:15,646 --> 00:08:18,938
 That doesn't make any sense!
 
-121
-00:08:28,083 --> 00:08:30,625
+108
+00:08:19,021 --> 00:08:21,563
 Nano! Please pass me the milk!
 
-122
-00:08:30,708 --> 00:08:32,250
+109
+00:08:21,646 --> 00:08:23,188
 This isn't the time for that!
 
-123
-00:08:32,333 --> 00:08:34,625
-I think I have the right to be
-informed when a whole cake
+110
+00:08:23,271 --> 00:08:25,563
+I think I have the right to be informed when a whole cake
 
-124
-00:08:34,708 --> 00:08:36,875
+111
+00:08:25,646 --> 00:08:27,813
 is being stored inside my arm!
 
-125
-00:08:38,166 --> 00:08:41,041
+112
+00:08:29,104 --> 00:08:31,979
 Ah! So yummy and cold!
 
-126
-00:08:41,125 --> 00:08:43,916
-[NANO]
+113
+00:08:32,063 --> 00:08:34,854
 Please stop ignoring the issue.
 
-127
-00:08:44,000 --> 00:08:46,791
-Imagine if someone
-outside saw my arm open.
+114
+00:08:34,938 --> 00:08:37,729
+Imagine if someone outside saw my arm open.
 
-128
-00:08:46,875 --> 00:08:52,208
-Rolly, rolly, roll!
-Rolly, rolly, rolly!
+115
+00:08:37,813 --> 00:08:43,146
+Rolly, rolly, roll! Rolly, rolly, rolly!
 
-129
-00:09:02,708 --> 00:09:04,083
+116
+00:08:53,646 --> 00:08:55,021
 Excuse me.
 
-130
-00:09:04,166 --> 00:09:05,291
+117
+00:08:55,104 --> 00:08:56,229
 What's up?
 
-131
-00:09:05,375 --> 00:09:08,833
-I, uh. Could I have
-some cake too, please?
+118
+00:08:56,313 --> 00:08:59,771
+I, uh. Could I have some cake too, please?
 
-132
-00:09:08,916 --> 00:09:10,375
+119
+00:08:59,854 --> 00:09:01,313
 Yeah, sure.
 
-133
-00:09:10,750 --> 00:09:11,500
-[gasps]
-
-134
-00:09:11,583 --> 00:09:13,458
-[HAKASE]
+120
+00:09:02,521 --> 00:09:04,396
 Gimme one second.
 
-135
-00:09:15,333 --> 00:09:16,625
+121
+00:09:06,271 --> 00:09:07,563
 Here ya go!
 
-136
-00:09:16,708 --> 00:09:18,833
+122
+00:09:07,646 --> 00:09:09,771
 I really appreciate it.
 
-137
-00:09:26,833 --> 00:09:30,125
-Uh. You kind of forgot
-the cake part.
+123
+00:09:17,771 --> 00:09:21,063
+Uh. You kind of forgot the cake part.
 
-138
-00:09:30,208 --> 00:09:31,375
+124
+00:09:21,146 --> 00:09:22,313
 Huh?
 
-139
-00:09:34,166 --> 00:09:41,375
-I know! I have an extra
-sweet bun you can eat!
+125
+00:09:25,104 --> 00:09:32,313
+I know! I have an extra sweet bun you can eat!
 
-140
-00:09:41,458 --> 00:09:44,083
-[whimpering]
-
-141
-00:09:44,166 --> 00:09:45,625
-[HAKASE]
+126
+00:09:35,104 --> 00:09:36,563
 Help yourself!
 
-142
-00:09:45,708 --> 00:09:46,958
-[NANO]
+127
+00:09:36,646 --> 00:09:37,896
 It went back in!
 
-143
-00:09:47,041 --> 00:09:48,541
+128
+00:09:37,979 --> 00:09:39,479
 Oops! That's my bad!
 
-144
-00:09:48,625 --> 00:09:50,291
+129
+00:09:39,563 --> 00:09:41,229
 I accidently pushed the button.
 
-145
-00:09:50,375 --> 00:09:52,833
-Ahh! Why do you keep
-installing so many
+130
+00:09:41,313 --> 00:09:43,771
+Ahh! Why do you keep installing so many
 
-146
-00:09:52,916 --> 00:09:54,458
+131
+00:09:43,854 --> 00:09:45,396
 bizarre functions in me?
 
-147
-00:09:54,541 --> 00:09:56,791
-Have you ever even considered
-how people would react
+132
+00:09:45,479 --> 00:09:47,729
+Have you ever even considered how people would react
 
-148
-00:09:56,875 --> 00:09:59,208
-if they saw my head
-pop open in public?
+133
+00:09:47,813 --> 00:09:50,146
+if they saw my head pop open in public?
 
-149
-00:09:59,291 --> 00:10:00,583
+134
+00:09:50,229 --> 00:09:51,521
 What would happen?
 
-150
-00:10:00,666 --> 00:10:01,916
+135
+00:09:51,604 --> 00:09:52,854
 Well, uh...
 
-151
-00:10:03,541 --> 00:10:05,083
+136
+00:09:54,479 --> 00:09:56,021
 Didja hear their new album?
 
-152
-00:10:05,166 --> 00:10:08,458
-[MAN C]
+137
+00:09:56,104 --> 00:09:59,396
 Yeah, it was great!
 
-153
-00:10:08,541 --> 00:10:10,375
-[MAN B gasping]
+138
+00:10:01,396 --> 00:10:04,104
+'Kay! I'll add a feature that lets you play music!
 
-154
-00:10:10,458 --> 00:10:13,166
-'Kay! I'll add a feature
-that lets you play music!
-
-155
-00:10:13,250 --> 00:10:14,750
+139
+00:10:04,188 --> 00:10:05,688
 I think you missed the point!
 
-156
-00:10:14,833 --> 00:10:18,416
-I'd like you to stop adding
-functionalities for no reason!
+140
+00:10:05,771 --> 00:10:09,354
+I'd like you to stop adding functionalities for no reason!
 
-157
-00:10:18,500 --> 00:10:19,833
-[exhales]
+141
+00:10:10,854 --> 00:10:13,896
+You're not listening to me at all, are you?
 
-158
-00:10:19,916 --> 00:10:22,958
-You're not listening
-to me at all, are you?
-
-159
-00:10:35,541 --> 00:10:36,916
+142
+00:10:26,479 --> 00:10:27,854
 Jeez...
 
-160
-00:10:55,000 --> 00:10:56,541
+143
+00:10:45,938 --> 00:10:47,479
 Uh?
 
-161
-00:10:59,958 --> 00:11:01,458
+144
+00:10:50,896 --> 00:10:52,396
 What is it?
 
-162
-00:11:01,541 --> 00:11:03,458
+145
+00:10:52,479 --> 00:10:54,396
 A sweet bun.
 
-163
-00:11:03,541 --> 00:11:05,000
+146
+00:10:54,479 --> 00:10:55,304
 No you don't!
 
-164
-00:11:05,083 --> 00:11:07,333
+147
+00:10:55,329 --> 00:10:58,271
 Not after you already had an
 entire swiss roll to yourself.
 
-165
-00:11:07,416 --> 00:11:09,166
+148
+00:10:58,354 --> 00:11:00,104
 What?!
 
-166
-00:11:20,958 --> 00:11:23,708
-[NANO]
+149
+00:11:11,896 --> 00:11:14,646
 Something wrong, what'd I do?
 
-167
-00:11:23,791 --> 00:11:25,208
+150
+00:11:14,729 --> 00:11:16,146
 'Kay, Fine!
 
-168
-00:11:25,291 --> 00:11:27,666
-I'll just have my other bigger,
-better, rolly-rolly cake!
+151
+00:11:16,229 --> 00:11:18,604
+I'll just have my other bigger, better, rolly-rolly cake!
 
-169
-00:11:27,750 --> 00:11:29,333
+152
+00:11:18,688 --> 00:11:20,271
 What?! Really?!
 
-170
-00:11:29,416 --> 00:11:31,791
-Not again! Where is it going
-to come out from this time?
+153
+00:11:20,354 --> 00:11:22,729
+Not again! Where is it going to come out from this time?
 
-171
-00:11:31,875 --> 00:11:34,083
+154
+00:11:22,813 --> 00:11:25,021
 My stomach? Or my leg? Or--
 
-172
-00:11:38,625 --> 00:11:41,125
-[NANO gasps]
+155
+00:11:29,563 --> 00:11:32,063
 For real?
 
-173
-00:11:41,208 --> 00:11:42,958
-Wait, why didn't you
-just put all of the food
+156
+00:11:32,146 --> 00:11:33,896
+Wait, why didn't you just put all of the food
 
-174
-00:11:43,041 --> 00:11:44,958
-in the refrigerator
-from the beginning?
+157
+00:11:33,979 --> 00:11:35,896
+in the refrigerator from the beginning?
 
-175
-00:11:45,041 --> 00:11:46,625
---Don't wanna!
---Wha...?!
+158
+00:11:35,979 --> 00:11:37,563
+--Don't wanna! --Wha...?!
 
-176
-00:11:54,875 --> 00:11:58,208
-[BOTH] ♪ First comes a rock,
-what's it gonna be? ♪
+159
+00:11:45,813 --> 00:11:49,146
+♪ First comes a rock, what's it gonna be? ♪
 
-177
-00:11:58,291 --> 00:12:01,958
-♪ Rock-paper-scissors
-and a one, two, three! ♪
+160
+00:11:49,229 --> 00:11:52,896
+♪ Rock-paper-scissors and a one, two, three! ♪
 
-178
-00:12:20,750 --> 00:12:24,416
-[bell ringing]
-
-179
-00:12:25,333 --> 00:12:26,625
+161
+00:12:16,271 --> 00:12:17,563
 I'm pooped.
 
-180
-00:12:26,708 --> 00:12:29,375
-[YUUKO]
+162
+00:12:17,646 --> 00:12:20,313
 Oh, Mio!
 
-181
-00:12:29,458 --> 00:12:32,458
-What's up?
-Your face looks weird.
+163
+00:12:20,396 --> 00:12:23,396
+What's up? Your face looks weird.
 
-182
-00:12:32,541 --> 00:12:34,291
+164
+00:12:23,479 --> 00:12:25,229
 Can I see your homework?
 
-183
-00:12:34,375 --> 00:12:35,625
-[sighs]
+165
+00:12:26,646 --> 00:12:29,188
+Don't tell me that you forgot to do yours again.
 
-184
-00:12:35,708 --> 00:12:38,250
-Don't tell me that you
-forgot to do yours again.
+166
+00:12:29,271 --> 00:12:31,896
+Well... I'm not exactly proud of it.
 
-185
-00:12:38,333 --> 00:12:40,958
-Well... I'm not
-exactly proud of it.
+167
+00:12:31,979 --> 00:12:34,188
+Girl, you know you're never gonna learn
 
-186
-00:12:41,041 --> 00:12:43,250
-[MIO] Girl, you know
-you're never gonna learn
-
-187
-00:12:43,333 --> 00:12:44,500
+168
+00:12:34,271 --> 00:12:35,438
 if you keep doing this.
 
-188
-00:12:44,583 --> 00:12:46,041
+169
+00:12:35,521 --> 00:12:36,979
 Oh, yeah, I get that.
 
-189
-00:12:46,125 --> 00:12:48,041
+170
+00:12:37,063 --> 00:12:38,979
 Come on. Just this one time?
 
-190
-00:12:48,125 --> 00:12:51,000
-I promise I'll never
-do it again. Please?
+171
+00:12:39,063 --> 00:12:41,938
+I promise I'll never do it again. Please?
 
-191
-00:12:51,083 --> 00:12:52,208
-[MIO]
+172
+00:12:42,021 --> 00:12:43,146
 Yuuko.
 
-192
-00:12:52,291 --> 00:12:54,000
-That's what you say
-every time this happens.
+173
+00:12:43,229 --> 00:12:44,938
+That's what you say every time this happens.
 
-193
-00:12:54,083 --> 00:12:55,666
+174
+00:12:45,021 --> 00:12:46,604
 I swear on my life!
 
-194
-00:12:55,750 --> 00:12:58,416
-[MIO] Yeah, and you say
-that every time, too.
+175
+00:12:46,688 --> 00:12:49,354
+Yeah, and you say that every time, too.
 
-195
-00:12:58,500 --> 00:13:01,291
-Oh. Do I? [laughs nervously]
+176
+00:12:49,438 --> 00:12:52,229
+Oh. Do I?
 
-196
-00:13:01,375 --> 00:13:05,125
-Fine. Twist my arm,
-why don'tcha.
+177
+00:12:52,313 --> 00:12:56,063
+Fine. Twist my arm, why don'tcha.
 
-197
-00:13:05,208 --> 00:13:07,208
+178
+00:12:56,146 --> 00:12:58,146
 This is for real the last one.
 
-198
-00:13:07,291 --> 00:13:08,625
+179
+00:12:58,229 --> 00:12:59,563
 Like, for real, real.
 
-199
-00:13:08,708 --> 00:13:10,166
+180
+00:12:59,646 --> 00:13:01,104
 I hear ya loud n' clear!
 
-200
-00:13:10,250 --> 00:13:12,541
-You're totally saving
-my butt with this, Mio!
+181
+00:13:01,188 --> 00:13:03,479
+You're totally saving my butt with this, Mio!
 
-201
-00:13:12,625 --> 00:13:14,125
-[AZUMA]
+182
+00:13:03,563 --> 00:13:05,063
 Hey, Yuuko!
 
-202
-00:13:14,208 --> 00:13:16,083
-You have to come over
-here and see this.
+183
+00:13:05,146 --> 00:13:07,021
+You have to come over here and see this.
 
-203
-00:13:16,166 --> 00:13:19,375
-[YUUKO] All right, I'll bring
-this back as soon as I'm done.
+184
+00:13:07,104 --> 00:13:10,313
+All right, I'll bring this back as soon as I'm done.
 
-204
-00:13:19,458 --> 00:13:21,791
+185
+00:13:10,396 --> 00:13:12,729
 Coming! Lemme see what you got!
 
-205
-00:13:23,625 --> 00:13:24,916
-[YUUKOMIO]
+186
+00:13:14,563 --> 00:13:15,854
 Hang on.
 
-206
-00:13:25,000 --> 00:13:27,958
-I get the feeling I'm forgetting
-something important.
+187
+00:13:15,938 --> 00:13:18,896
+I get the feeling I'm forgetting something important.
 
-207
-00:13:28,041 --> 00:13:31,250
-After finishing my
-homework last night...
+188
+00:13:18,979 --> 00:13:22,188
+After finishing my homework last night...
 
-208
-00:13:31,333 --> 00:13:33,333
+189
+00:13:22,271 --> 00:13:24,271
 I did a thing...
 
-209
-00:13:33,416 --> 00:13:34,583
-[SASAHARA]
+190
+00:13:24,354 --> 00:13:25,521
 I won't...
 
-210
-00:13:34,666 --> 00:13:36,208
-[MIO]
+191
+00:13:25,604 --> 00:13:27,146
 I drew something.
 
-211
-00:13:36,291 --> 00:13:38,208
-[SASAHARA]
+192
+00:13:27,229 --> 00:13:29,146
 ...let you.
 
-212
-00:13:38,291 --> 00:13:40,083
-[MIO]
+193
+00:13:29,229 --> 00:13:31,021
 And that thing I drew...
 
-213
-00:13:41,875 --> 00:13:42,958
-[MIO]
+194
+00:13:32,813 --> 00:13:33,896
 I forgot to erase it!
 
-214
-00:13:43,041 --> 00:13:44,500
-[SASAHARA]
+195
+00:13:33,979 --> 00:13:35,438
 I won't let you do this.
 
-215
-00:13:44,583 --> 00:13:47,083
+196
+00:13:35,521 --> 00:13:38,021
 It's still in there!
 
-216
-00:13:49,625 --> 00:13:52,375
+197
+00:13:40,563 --> 00:13:43,313
 Hey! Got a little problem here!
 
-217
-00:13:52,458 --> 00:13:53,250
-[gasps]
-
-218
-00:13:53,333 --> 00:13:54,625
-[AZUMA]
+198
+00:13:44,271 --> 00:13:45,563
 Yeah, I getcha!
 
-219
-00:13:54,708 --> 00:13:55,875
+199
+00:13:45,646 --> 00:13:46,813
 I know!
 
+200
+00:13:46,896 --> 00:13:48,646
+Yuuko!
+
+201
+00:13:48,729 --> 00:13:50,563
+Hey, I just remembered that I totally forgot
+
+202
+00:13:50,646 --> 00:13:51,729
+to do my homework, too!
+
+203
+00:13:51,813 --> 00:13:53,396
+So, you don't need my notebook after all!
+
+204
+00:13:53,479 --> 00:13:55,938
+So, yeah, I'll be taking this thing back now.
+
+205
+00:13:56,021 --> 00:13:57,438
+Sorry 'bout it!
+
+206
+00:14:01,396 --> 00:14:02,729
+Yuuko?
+
+207
+00:14:02,813 --> 00:14:05,313
+Come on, you don't need it anymore--
+
+208
+00:14:05,396 --> 00:14:07,271
+I know you're just trying to pull a fast one on me,
+
+209
+00:14:07,354 --> 00:14:08,771
+but I'm not gonna fall for it!
+
+210
+00:14:08,854 --> 00:14:11,146
+I'll have it back in no time, I promise!
+
+211
+00:14:11,229 --> 00:14:12,354
+'Kay?
+
+212
+00:14:12,438 --> 00:14:15,354
+All right, now where were we?
+
+213
+00:14:15,438 --> 00:14:16,479
+This is bad.
+
+214
+00:14:16,563 --> 00:14:19,438
+Really, really bad.
+
+215
+00:14:19,521 --> 00:14:20,813
+If anyone sees that drawing,
+
+216
+00:14:20,896 --> 00:14:23,146
+my reputation is gonna go down the drain!
+
+217
+00:14:23,229 --> 00:14:25,479
+Why does my fate have to be in the hands of Yuuko
+
+218
+00:14:25,563 --> 00:14:29,146
+of all people?! If she starts spreading rumors...
+
+219
+00:14:34,563 --> 00:14:37,021
+It'll be catastrophic!
+
 220
-00:13:55,958 --> 00:13:57,708
-[MIO]
+00:14:40,604 --> 00:14:41,771
 Yuuko!
 
 221
-00:13:57,791 --> 00:13:59,625
-Hey, I just remembered
-that I totally forgot
+00:14:41,854 --> 00:14:44,438
+So, turns out I gave you the wrong notebook.
 
 222
-00:13:59,708 --> 00:14:00,791
-to do my homework, too!
-
-223
-00:14:00,875 --> 00:14:02,458
-So, you don't need
-my notebook after all!
-
-224
-00:14:02,541 --> 00:14:05,000
-So, yeah, I'll be taking
-this thing back now.
-
-225
-00:14:05,083 --> 00:14:06,500
-Sorry 'bout it!
-
-226
-00:14:10,458 --> 00:14:11,791
-Yuuko?
-
-227
-00:14:11,875 --> 00:14:14,375
-Come on, you don't
-need it anymore--
-
-228
-00:14:14,458 --> 00:14:16,333
-I know you're just trying
-to pull a fast one on me,
-
-229
-00:14:16,416 --> 00:14:17,833
-but I'm not gonna fall for it!
-
-230
-00:14:17,916 --> 00:14:20,208
-I'll have it back in
-no time, I promise!
-
-231
-00:14:20,291 --> 00:14:21,416
-'Kay?
-
-232
-00:14:21,500 --> 00:14:24,416
-All right, now where were we?
-
-233
-00:14:24,500 --> 00:14:25,541
-[MIO]
-This is bad.
-
-234
-00:14:25,625 --> 00:14:28,500
-Really, really bad.
-
-235
-00:14:28,583 --> 00:14:29,875
-If anyone sees that drawing,
-
-236
-00:14:29,958 --> 00:14:32,208
-my reputation is gonna
-go down the drain!
-
-237
-00:14:32,291 --> 00:14:34,541
-Why does my fate have to
-be in the hands of Yuuko
-
-238
-00:14:34,625 --> 00:14:38,208
-of all people?! If she starts
-spreading rumors...
-
-239
-00:14:38,291 --> 00:14:39,166
-[gasps]
-
-240
-00:14:39,250 --> 00:14:41,041
-[YUUKO laughs]
-
-241
-00:14:43,625 --> 00:14:46,083
-[MIO]
-It'll be catastrophic!
-
-242
-00:14:47,166 --> 00:14:49,583
-[YUUKO humming]
-
-243
-00:14:49,666 --> 00:14:50,833
-[MIO]
-Yuuko!
-
-244
-00:14:50,916 --> 00:14:53,500
-So, turns out I gave you
-the wrong notebook.
-
-245
-00:14:53,583 --> 00:14:54,958
+00:14:44,521 --> 00:14:45,896
 This one here's for math.
 
-246
-00:14:55,041 --> 00:14:57,375
+223
+00:14:45,979 --> 00:14:48,313
 Huh? But wait, look.
 
-247
-00:14:57,458 --> 00:14:59,333
-This says "math"
-right here on the front.
+224
+00:14:48,396 --> 00:14:50,271
+This says "math" right here on the front.
 
-248
-00:14:59,416 --> 00:15:02,541
-[screams, whimpers]
+225
+00:14:54,813 --> 00:14:57,146
+Never mind! I need it back, 'cause uh...
 
-249
-00:15:03,875 --> 00:15:06,208
-Never mind! I need
-it back, 'cause uh...
-
-250
-00:15:06,291 --> 00:15:08,458
+226
+00:14:57,229 --> 00:14:59,396
 I have a bad stomach ache!
 
-251
-00:15:12,541 --> 00:15:13,458
+227
+00:15:03,479 --> 00:15:04,396
 Uh-huh.
 
-252
-00:15:13,541 --> 00:15:14,875
-[MIO]
+228
+00:15:04,479 --> 00:15:05,813
 Gah!
 
-253
-00:15:14,958 --> 00:15:17,791
-I'll be done in a jiffy,
-so hold your horses, would ya?
+229
+00:15:05,896 --> 00:15:08,729
+I'll be done in a jiffy, so hold your horses, would ya?
 
-254
-00:15:17,875 --> 00:15:21,083
-[MIO] It's all over.
-She's gonna see it, and then...
+230
+00:15:08,813 --> 00:15:12,021
+It's all over. She's gonna see it, and then...
 
-255
-00:15:21,166 --> 00:15:26,833
-That's it. My short-lived high
-school life is done for!
+231
+00:15:12,104 --> 00:15:17,771
+That's it. My short-lived high school life is done for!
 
-256
-00:15:26,916 --> 00:15:28,708
-[MIO whimpering]
+232
+00:15:17,854 --> 00:15:19,646
 Listen!
 
-257
-00:15:28,791 --> 00:15:32,791
-I'll buy it off you
-for a thousand yen!
+233
+00:15:19,729 --> 00:15:23,729
+I'll buy it off you for a thousand yen!
 
-258
-00:15:41,166 --> 00:15:42,916
+234
+00:15:32,104 --> 00:15:33,854
 Why are you running away?!
 
-259
-00:15:43,000 --> 00:15:44,500
+235
+00:15:33,938 --> 00:15:35,438
 Come back!
 
-260
-00:15:44,583 --> 00:15:46,916
-Fine then!
-You want the truth?!
+236
+00:15:35,521 --> 00:15:37,854
+Fine then! You want the truth?!
 
-261
-00:15:47,000 --> 00:15:49,541
+237
+00:15:37,938 --> 00:15:40,479
 I'll tell you!
 
-262
-00:15:49,625 --> 00:15:52,083
+238
+00:15:40,563 --> 00:15:43,021
 It's gonna explode!
 
-263
-00:15:58,041 --> 00:15:59,333
-[MIO]
+239
+00:15:48,979 --> 00:15:50,271
 There's no way.
 
-264
-00:15:59,416 --> 00:16:01,916
-She's too fast for me
-to catch up to her.
+240
+00:15:50,354 --> 00:15:52,854
+She's too fast for me to catch up to her.
 
-265
-00:16:02,000 --> 00:16:03,625
+241
+00:15:52,938 --> 00:15:54,563
 I'll miss you, life.
 
-266
-00:16:03,708 --> 00:16:06,000
+242
+00:15:54,646 --> 00:15:56,938
 It was good while it lasted.
 
-267
-00:16:06,083 --> 00:16:09,375
-Thank you, existence,
-for everything.
+243
+00:15:57,021 --> 00:16:00,313
+Thank you, existence, for everything.
 
-268
-00:16:09,458 --> 00:16:11,625
+244
+00:16:00,396 --> 00:16:02,563
 We had a lot of fun, didn't we?
 
-269
-00:16:11,708 --> 00:16:15,291
-Sure, it got a little weird
-sometimes, but overall,
+245
+00:16:02,646 --> 00:16:06,229
+Sure, it got a little weird sometimes, but overall,
 
-270
-00:16:15,375 --> 00:16:18,625
-I was pretty happy
-with how things were.
+246
+00:16:06,313 --> 00:16:09,563
+I was pretty happy with how things were.
 
-271
-00:16:18,708 --> 00:16:24,208
-But this is the end!
-My life is truly over now!
+247
+00:16:09,646 --> 00:16:15,146
+But this is the end! My life is truly over now!
 
-272
-00:16:24,291 --> 00:16:26,500
+248
+00:16:15,229 --> 00:16:17,438
 And my banquet of boys...
 
-273
-00:16:26,583 --> 00:16:28,833
+249
+00:16:17,521 --> 00:16:19,771
 I bid you adieu, as well.
 
-274
-00:16:28,916 --> 00:16:30,291
+250
+00:16:19,854 --> 00:16:21,229
 Goodbye.
 
-275
-00:16:30,375 --> 00:16:34,666
-Wait! There's no way
-I'll let that happen!
+251
+00:16:21,313 --> 00:16:25,604
+Wait! There's no way I'll let that happen!
 
-276
-00:16:34,750 --> 00:16:41,666
-The fire in my heart...
-must become an inferno!
+252
+00:16:25,688 --> 00:16:32,604
+The fire in my heart... must become an inferno!
 
-277
-00:17:32,125 --> 00:17:33,708
-[MIO]
+253
+00:17:23,063 --> 00:17:24,646
 In the end...
 
-278
-00:17:33,791 --> 00:17:35,541
+254
+00:17:24,729 --> 00:17:26,479
 ...I failed.
 
-279
-00:17:39,041 --> 00:17:40,666
+255
+00:17:29,979 --> 00:17:31,604
 Wait, Yuuko!
 
-280
-00:17:40,750 --> 00:17:43,083
+256
+00:17:31,688 --> 00:17:34,021
 Stop running!
 
-281
-00:17:43,166 --> 00:17:45,916
+257
+00:17:34,104 --> 00:17:36,854
 You're in the hall!
 
-282
-00:17:49,000 --> 00:17:50,125
-[YUUKO yelps]
-
-283
-00:17:55,750 --> 00:17:57,500
+258
+00:17:46,688 --> 00:17:48,438
 Hey. Are you okay--
 
-284
-00:17:57,583 --> 00:17:58,583
+259
+00:17:48,521 --> 00:17:49,521
 Uh!
 
-285
-00:18:08,333 --> 00:18:09,791
+260
+00:17:59,271 --> 00:18:00,729
 Here.
 
-286
-00:18:09,875 --> 00:18:11,750
-[AKAGI] Pass your notebooks
-to the person in front of you.
+261
+00:18:00,813 --> 00:18:02,688
+Pass your notebooks to the person in front of you.
 
-287
-00:18:11,833 --> 00:18:15,333
-And if you forgot your homework,
-please speak up now.
+262
+00:18:02,771 --> 00:18:06,271
+And if you forgot your homework, please speak up now.
 
-288
-00:18:15,416 --> 00:18:16,833
-[MIO sighs]
+263
+00:18:07,854 --> 00:18:10,063
+It was almost really bad there for a second.
 
-289
-00:18:16,916 --> 00:18:19,125
-[MIO] It was almost really
-bad there for a second.
+264
+00:18:10,146 --> 00:18:12,354
+But I guess all's well that ends well.
 
-290
-00:18:19,208 --> 00:18:21,416
-But I guess all's
-well that ends well.
+265
+00:18:12,438 --> 00:18:18,271
+Now I can go back to living my ordinary... life.
 
-291
-00:18:21,500 --> 00:18:27,333
-Now I can go back to living
-my ordinary... life.
-
-292
-00:18:27,416 --> 00:18:28,791
+266
+00:18:18,354 --> 00:18:19,729
 Ahh!
 
-293
-00:18:28,875 --> 00:18:29,625
+267
+00:18:19,813 --> 00:18:20,563
 Huh?
 
-294
-00:18:29,708 --> 00:18:30,750
-[MIO]
+268
+00:18:20,646 --> 00:18:21,688
 I never erased it!
 
-295
-00:18:30,833 --> 00:18:32,750
-[SASAHARA]
+269
+00:18:21,771 --> 00:18:23,688
 Yo.
 
-296
-00:18:32,833 --> 00:18:35,708
+270
+00:18:23,771 --> 00:18:26,646
 What seems to be the problem?
 
-297
-00:18:35,791 --> 00:18:38,625
-[MIO]
+271
+00:18:26,729 --> 00:18:29,563
 Teacher! I, uh...
 
-298
-00:18:38,708 --> 00:18:40,583
+272
+00:18:29,646 --> 00:18:31,521
 Forgot my homework!
 
-299
-00:18:42,791 --> 00:18:45,291
-[NANO]
+273
+00:18:33,729 --> 00:18:36,229
 There we go.
 
-300
-00:18:45,375 --> 00:18:47,666
-Hakase, would you mind
-tidying up the room
+274
+00:18:36,313 --> 00:18:38,604
+Hakase, would you mind tidying up the room
 
-301
-00:18:47,750 --> 00:18:49,958
-and putting your
-stuff away, please?
+275
+00:18:38,688 --> 00:18:40,896
+and putting your stuff away, please?
 
-302
-00:19:02,416 --> 00:19:04,083
-Sorry, but I just
-don't think I'm ready
+276
+00:18:53,354 --> 00:18:55,021
+Sorry, but I just don't think I'm ready
 
-303
-00:19:04,166 --> 00:19:06,250
+277
+00:18:55,104 --> 00:18:57,188
 to do something like that.
 
-304
-00:19:06,333 --> 00:19:08,500
+278
+00:18:57,271 --> 00:18:59,438
 I'm gonna go play now.
 
-305
-00:19:10,833 --> 00:19:12,625
-[NANO]
+279
+00:19:01,771 --> 00:19:03,563
 Uh...
 
-306
-00:19:14,958 --> 00:19:16,541
-But then, I ended up telling
-him everything anyway!
+280
+00:19:05,896 --> 00:19:07,479
+But then, I ended up telling him everything anyway!
 
-307
-00:19:16,625 --> 00:19:19,250
-Wow, are you serious?
-Come on, dude!
+281
+00:19:07,563 --> 00:19:10,188
+Wow, are you serious? Come on, dude!
 
-308
-00:19:19,333 --> 00:19:21,583
-[IZUMI panting]
+282
+00:19:10,271 --> 00:19:12,521
 Um, excuse me!
 
-309
-00:19:21,666 --> 00:19:24,166
+283
+00:19:12,604 --> 00:19:15,104
 Annaka! Could I have a moment?
 
-310
-00:19:24,250 --> 00:19:25,541
-[ANNAKA]
+284
+00:19:15,188 --> 00:19:16,479
 Yes?
 
-311
-00:19:25,625 --> 00:19:29,250
-Well, you see. This is just
-a minor thing, but...
+285
+00:19:16,563 --> 00:19:20,188
+Well, you see. This is just a minor thing, but...
 
-312
-00:19:29,333 --> 00:19:33,625
-I think your hair ribbon might
-be too big. Don't you?
+286
+00:19:20,271 --> 00:19:24,563
+I think your hair ribbon might be too big. Don't you?
 
-313
-00:19:33,708 --> 00:19:35,750
+287
+00:19:24,646 --> 00:19:26,688
 But look! Bunny ears!
 
-314
-00:19:42,000 --> 00:19:44,750
-[HAKASE chewing]
-
-315
-00:19:44,833 --> 00:19:47,125
+288
+00:19:35,771 --> 00:19:38,063
 Sweet buns are tasty.
 
-316
-00:19:47,208 --> 00:19:48,583
+289
+00:19:38,146 --> 00:19:39,521
 You said it.
 
-317
-00:19:53,375 --> 00:19:54,875
-[SHOPKEEPER 2A]
+290
+00:19:44,313 --> 00:19:45,813
 Welcome, miss!
 
-318
-00:20:16,958 --> 00:20:19,500
-Sasahara. You do realize
-that you're a member
+291
+00:20:07,896 --> 00:20:10,438
+Sasahara. You do realize that you're a member
 
-319
-00:20:19,583 --> 00:20:22,125
-of the cultural festival
-committee, right?
+292
+00:20:10,521 --> 00:20:13,063
+of the cultural festival committee, right?
 
-320
-00:20:22,208 --> 00:20:25,750
-Can you at least try to be a
-bit more serious about this?
+293
+00:20:13,146 --> 00:20:16,688
+Can you at least try to be a bit more serious about this?
 
-321
-00:20:25,833 --> 00:20:28,208
+294
+00:20:16,771 --> 00:20:19,146
 Oh, I'm being quite serious.
 
-322
-00:20:28,291 --> 00:20:29,958
-As the president
-of the drama club,
+295
+00:20:19,229 --> 00:20:20,896
+As the president of the drama club,
 
-323
-00:20:30,041 --> 00:20:32,208
-I'm always doing
-my part around here.
+296
+00:20:20,979 --> 00:20:23,146
+I'm always doing my part around here.
 
-324
-00:20:32,291 --> 00:20:35,250
-Or did you perhaps not notice
-that, Miss Tachibana?
+297
+00:20:23,229 --> 00:20:26,188
+Or did you perhaps not notice that, Miss Tachibana?
 
-325
-00:20:35,333 --> 00:20:38,500
-[MISATO]
+298
+00:20:26,271 --> 00:20:29,438
 Don't patronize me!
 
-326
-00:20:38,583 --> 00:20:39,375
+299
+00:20:29,521 --> 00:20:30,313
 It's sweet.
 
-327
-00:20:39,458 --> 00:20:40,541
-[MISATO]
+300
+00:20:30,396 --> 00:20:31,479
 Would you listen?!
 
-328
-00:20:40,625 --> 00:20:42,166
-We're supposed to decide
-on the programming
+301
+00:20:31,563 --> 00:20:33,104
+We're supposed to decide on the programming
 
-329
-00:20:42,250 --> 00:20:43,583
+302
+00:20:33,188 --> 00:20:34,521
 for the culture festival.
 
-330
-00:20:43,666 --> 00:20:46,541
-Your drama club has
-nothing to do with it!
+303
+00:20:34,604 --> 00:20:37,479
+Your drama club has nothing to do with it!
 
-331
-00:20:46,625 --> 00:20:48,666
-Seems like they
-changed the brands.
+304
+00:20:37,563 --> 00:20:39,604
+Seems like they changed the brands.
 
-332
-00:20:48,750 --> 00:20:50,333
-[MISATO growling]
+305
+00:20:45,688 --> 00:20:47,729
+Why on earth did I have to be paired up
 
-333
-00:20:54,750 --> 00:20:56,791
-Why on earth did I
-have to be paired up
-
-334
-00:20:56,875 --> 00:20:58,333
+306
+00:20:47,813 --> 00:20:49,271
 with you of all people?
 
-335
-00:20:58,416 --> 00:21:01,083
+307
+00:20:49,354 --> 00:20:52,021
 It tastes quite nice.
 
-336
-00:21:01,166 --> 00:21:04,583
-[sighs] Here I am, wasting my
-time when the kendo tournament
+308
+00:20:52,104 --> 00:20:55,521
+Here I am, wasting my time when the kendo tournament
 
-337
-00:21:04,666 --> 00:21:06,708
+309
+00:20:55,604 --> 00:20:57,646
 is coming up. Ah, man.
 
-338
-00:21:06,791 --> 00:21:08,041
+310
+00:20:57,729 --> 00:20:58,979
 I never should have volunteered
 
-339
-00:21:08,125 --> 00:21:10,791
-to be a committee member
-in the first place.
+311
+00:20:59,063 --> 00:21:01,729
+to be a committee member in the first place.
 
-340
-00:21:17,791 --> 00:21:18,541
+312
+00:21:08,729 --> 00:21:09,479
 Heh.
 
-341
-00:21:18,625 --> 00:21:19,708
-[gunshot]
+313
+00:21:12,438 --> 00:21:15,146
+What are you doing?! We need to come up with an idea!
 
-342
-00:21:21,500 --> 00:21:24,208
-What are you doing?! We need
-to come up with an idea!
+314
+00:21:15,229 --> 00:21:18,104
+But you're too busy reading manga over here.
 
-343
-00:21:24,291 --> 00:21:27,166
-But you're too busy reading
-manga over here.
+315
+00:21:18,188 --> 00:21:20,896
+Sorry, but this volume was just released.
 
-344
-00:21:27,250 --> 00:21:29,958
-Sorry, but this volume
-was just released.
+316
+00:21:20,979 --> 00:21:24,146
+Don't you have at least one good thought?
 
-345
-00:21:30,041 --> 00:21:33,208
-Don't you have at least
-one good thought?
+317
+00:21:24,229 --> 00:21:27,688
+Was my Wine Tasting Tournament idea not suitable for you?
 
-346
-00:21:33,291 --> 00:21:36,750
-Was my Wine Tasting Tournament
-idea not suitable for you?
-
-347
-00:21:36,833 --> 00:21:38,250
+318
+00:21:27,771 --> 00:21:29,188
 Of course it wasn't!
 
-348
-00:21:38,333 --> 00:21:39,625
+319
+00:21:29,271 --> 00:21:30,563
 I already turned it down!
 
-349
-00:21:39,708 --> 00:21:41,291
+320
+00:21:30,646 --> 00:21:32,229
 Think of something!
 
-350
-00:21:51,625 --> 00:21:54,958
+321
+00:21:42,563 --> 00:21:45,896
 Hey, Sasahara.
 
-351
-00:21:58,458 --> 00:22:00,958
-So, what's your excuse
-for slacking this time?!
+322
+00:21:49,396 --> 00:21:51,896
+So, what's your excuse for slacking this time?!
 
-352
-00:22:01,041 --> 00:22:04,708
-Well. I'm fresh out of
-ideas, for starters.
+323
+00:21:51,979 --> 00:21:55,646
+Well. I'm fresh out of ideas, for starters.
 
-353
-00:22:04,791 --> 00:22:08,583
-Huh. I'm not getting
-a signal here.
+324
+00:21:55,729 --> 00:21:59,521
+Huh. I'm not getting a signal here.
 
-354
-00:22:16,708 --> 00:22:19,958
-[MISATO] What?! And where
-do you think you're going?
+325
+00:22:07,646 --> 00:22:10,896
+What?! And where do you think you're going?
 
-355
-00:22:20,041 --> 00:22:22,666
-I'm taking a visit
-to the restroom.
+326
+00:22:10,979 --> 00:22:13,604
+I'm taking a visit to the restroom.
 
-356
-00:22:25,541 --> 00:22:27,458
-[MISATO]
+327
+00:22:16,479 --> 00:22:18,396
 This freakin' guy.
 
-357
-00:22:27,541 --> 00:22:31,250
-[SASAHARA] Huh. It seems like
-she was in no mood today.
+328
+00:22:18,479 --> 00:22:22,188
+Huh. It seems like she was in no mood today.
 
-358
-00:22:31,333 --> 00:22:34,083
-I thought my Wine Tasting
-Tournament was a stellar idea,
+329
+00:22:22,271 --> 00:22:25,021
+I thought my Wine Tasting Tournament was a stellar idea,
 
-359
-00:22:34,166 --> 00:22:36,541
+330
+00:22:25,104 --> 00:22:27,479
 but she thought otherwise.
 
-360
-00:22:36,625 --> 00:22:40,750
-However, she has yet to suggest
-a single idea of her own.
+331
+00:22:27,563 --> 00:22:31,688
+However, she has yet to suggest a single idea of her own.
 
-361
-00:22:40,833 --> 00:22:46,416
-Honestly, I'd fear for my life
-if I mentioned that to her.
+332
+00:22:31,771 --> 00:22:37,354
+Honestly, I'd fear for my life if I mentioned that to her.
 
-362
-00:22:46,500 --> 00:22:49,875
-There's only one way out, I must
-be the one to present an idea
+333
+00:22:37,438 --> 00:22:40,813
+There's only one way out,
+I must be the one to present an idea
 
-363
-00:22:49,958 --> 00:22:51,666
+334
+00:22:40,896 --> 00:22:42,604
 that she agrees with.
 
-364
-00:22:51,750 --> 00:22:53,250
+335
+00:22:42,688 --> 00:22:44,188
 But that means...
 
-365
-00:22:53,333 --> 00:22:56,916
-I need to bring myself down
-to a commoner's level.
+336
+00:22:44,271 --> 00:22:47,854
+I need to bring myself down to a commoner's level.
 
-366
-00:23:00,125 --> 00:23:03,250
-[SASAHARA] I suppose I have no
-other options at this point.
+337
+00:22:51,063 --> 00:22:54,188
+I suppose I have no other options at this point.
 
-367
-00:23:17,750 --> 00:23:21,250
+338
+00:23:08,688 --> 00:23:12,188
 It's not like you're special to
 me or anything like that, okay?
 
-368
-00:25:01,125 --> 00:25:03,291
-[WORD-TIME NARRATOR]
+339
+00:24:52,063 --> 00:24:54,229
 The purity of Asia.
 
-369
-00:25:06,000 --> 00:25:07,875
-[SWEET BUN]
+340
+00:24:56,938 --> 00:24:58,813
 I am a sweet bun.
 
-370
-00:25:07,958 --> 00:25:10,458
-Since I'm not very popular
-in the Kansai region,
+341
+00:24:58,896 --> 00:25:01,396
+Since I'm not very popular in the Kansai region,
 
-371
-00:25:10,541 --> 00:25:13,250
-people aren't exactly sure
-what to call me sometimes.
+342
+00:25:01,479 --> 00:25:04,188
+people aren't exactly sure what to call me sometimes.
 
-372
-00:25:13,333 --> 00:25:14,666
+343
+00:25:04,271 --> 00:25:05,604
 But now you know!
 
-373
-00:25:14,750 --> 00:25:17,750
-The next episode of
-<i>My Ordinary Life</i> is Episode 03.
+344
+00:25:05,688 --> 00:25:08,688
+The next episode of <i>My Ordinary Life</i> is Episode 03.
 
-374
-00:25:17,833 --> 00:25:19,333
+345
+00:25:08,771 --> 00:25:10,271
 Look forward to it!
 
