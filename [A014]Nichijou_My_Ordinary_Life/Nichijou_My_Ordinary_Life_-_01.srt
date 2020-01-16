@@ -82,7 +82,8 @@ But you had that for breakfast yesterday.
 
 21
 00:01:14,786 --> 00:01:18,452
-Besides, fish are packed with essential vitamins and minerals.
+Besides, fish are packed with
+essential vitamins and minerals.
 
 22
 00:01:18,536 --> 00:01:20,411
