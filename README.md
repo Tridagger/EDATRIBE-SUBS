@@ -29,7 +29,7 @@ OneDirve：http://pan.edatribe.com
 | A011 | Erased                                                                                                              | 只有我不在的街道                         | 12集 | 进行 |
 | A012 | Hyouka                                                                                                              | 冰菓                                     | 22集 | 计划 |
 | A013 | The Devil Is a Part-Timer!                                                                                          | 打工吧！魔王大人                         | 13集 | 计划 |
-| A014 | Nichijou: My Ordinary Life                                                                                          | 日常                                     | 26集 | 计划 |
+| A014 | Nichijou: My Ordinary Life                                                                                          | 日常                                     | 26集 | 进行 |
 | A015 | A Certain Scientific Railgun                                                                                        | 某科学超电磁炮                           | 24集 | 计划 |
 | A016 | A Certain Scientific Railgun S                                                                                      | 某科学超电磁炮S                          | 24集 | 计划 |
 | A017 | Parasyte: The Maxim                                                                                                 | 寄生兽：生命的准则                       | 24集 | 计划 |
