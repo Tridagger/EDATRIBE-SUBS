@@ -45,7 +45,8 @@ OneDirve：http://pan.edatribe.com
 | A027 | Claymore                                                                                                            | 大剑                                     | 26集 | 计划 |
 | A028 | Lucky Star                                                                                                          | 幸运星                                   | 24集 | 计划 |
 | A029 | Accel World                                                                                                         | 加速世界                                 | 24集 | 计划 |
-| A030     |      The Future Diary                                                                                                               |        未来日记                                  |   26集   |    计划  |
+| A030 | The Future Diary                                                                                                    | 未来日记                                 | 26集 | 计划 |
+| A031 | Dragon Ball                                                                                                         | 龙珠                                     | 153集 | 计划 |
 
 
 
