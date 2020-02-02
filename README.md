@@ -23,7 +23,7 @@ OneDirve：http://pan.edatribe.com
 | A005 | No Game No Life                                                                                                     | 游戏人生                                 | 12集 | 进行 |
 | A006 | Death Note                                                                                                          | 死亡笔记                                 | 37集 | 计划 |
 | A007 | Assassination Classroom                                                                                             | 暗杀教室                                 | 47集 | 计划 |
-| A008 | WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?                               | 末日时在做什么？有没有空？可以来拯救吗？ | 12集 | 计划 |
+| A008 | WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?                               | 末日时在做什么？有没有空？可以来拯救吗？ | 12集 | 进行 |
 | A009 | Sword Art Online                                                                                                    | 刀剑神域                                 | 25集 | 计划 |
 | A010 | Sword Art Online II                                                                                                 | 刀剑神域第2季                            | 24集 | 计划 |
 | A011 | Erased                                                                                                              | 只有我不在的街道                         | 12集 | 进行 |
@@ -32,7 +32,7 @@ OneDirve：http://pan.edatribe.com
 | A014 | Nichijou: My Ordinary Life                                                                                          | 日常                                     | 26集 | 进行 |
 | A015 | A Certain Scientific Railgun                                                                                        | 某科学超电磁炮                           | 24集 | 计划 |
 | A016 | A Certain Scientific Railgun S                                                                                      | 某科学超电磁炮S                          | 24集 | 计划 |
-| A017 | Parasyte: The Maxim                                                                                                 | 寄生兽：生命的准则                       | 24集 | 计划 |
+| A017 | Parasyte: The Maxim                                                                                                 | 寄生兽：生命的准则                       | 24集 | 进行 |
 | A018 | Charlotte                                                                                                           | 夏洛特                                   | 13集 | 计划 |
 | A019 | DARLING in the FRANXX                                                                                               |                                          | 24集 | 计划 |
 | A020 | Good Luck Girl!                                                                                                     | 贫乏神来了!                              | 13集 | 计划 |
