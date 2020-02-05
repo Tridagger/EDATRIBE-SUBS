@@ -130,3 +130,4 @@ OneDirve：http://pan.edatribe.com
  - Amaindex
  - Hypnos
  - 星光
+ - 永生sss
