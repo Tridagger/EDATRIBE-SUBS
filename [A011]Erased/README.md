@@ -1,2 +1,2 @@
 ![](pic.jpg)
-【进行】Starlight
+【完成】Starlight
