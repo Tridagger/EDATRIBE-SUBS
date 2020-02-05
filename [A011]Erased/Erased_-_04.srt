@@ -1,1666 +1,1525 @@
 ﻿1
-00:00:06,507 --> 00:00:08,942
-[adult Satoru thinking]
+00:00:01,998 --> 00:00:04,433
 <i>March 1st, 18 years ago.</i>
 
 2
-00:00:08,942 --> 00:00:13,647
+00:00:04,433 --> 00:00:09,138
 <i>On my way home, I saw Kayo</i>
 <i>standing alone in the park.</i>
 
 3
-00:00:13,647 --> 00:00:16,416
+00:00:09,138 --> 00:00:11,907
 <i>I guess it was</i>
 <i>a little before 6:00.</i>
 
 4
-00:00:17,851 --> 00:00:21,187
+00:00:13,342 --> 00:00:16,678
 <i>That night I was on my way</i>
 <i>to the hideout.</i>
 
 5
-00:00:21,187 --> 00:00:24,390
+00:00:16,678 --> 00:00:19,881
 <i>I think it was</i>
 <i>to try and find my gloves.</i>
 
 6
-00:00:24,390 --> 00:00:27,628
+00:00:19,881 --> 00:00:23,119
 <i>But I don't remember if I</i>
 <i>found them there or not.</i>
 
 7
-00:00:27,628 --> 00:00:32,032
+00:00:23,119 --> 00:00:27,523
 <i>After I left, I saw Yuuki</i>
 <i>sitting by himself on the bank,</i>
 
 8
-00:00:32,032 --> 00:00:34,501
+00:00:27,523 --> 00:00:29,992
 <i>looking out at the river.</i>
 
 9
-00:00:34,501 --> 00:00:36,402
+00:00:29,992 --> 00:00:31,503
 <i>On the way back home,</i>
 
 10
-00:00:36,402 --> 00:00:39,372
+00:00:31,528 --> 00:00:34,466
 <i>I took a shortcut that took me</i>
 <i>by the park again.</i>
 
 11
-00:00:39,372 --> 00:00:43,309
+00:00:34,491 --> 00:00:38,800
 <i>But this time when I looked in,</i>
 <i>Kayo was gone.</i>
 
 12
-00:00:47,080 --> 00:00:48,649
-[teacher] Let's talk
+00:00:42,571 --> 00:00:43,961
+Let's talk
 about averages.
 
 13
-00:00:48,649 --> 00:00:51,417
+00:00:43,986 --> 00:00:46,908
 <i>A week from now,</i>
 <i>Kayo will be the first victim</i>
 
 14
-00:00:51,417 --> 00:00:54,454
+00:00:46,908 --> 00:00:49,945
 <i>in a series</i>
 <i>of kidnappings and murders.</i>
 
 15
-00:00:54,454 --> 00:00:56,657
+00:00:49,945 --> 00:00:52,148
 <i>Day X.</i>
 
 16
-00:00:56,657 --> 00:00:59,526
+00:00:52,148 --> 00:00:55,017
 <i>If I can get her</i>
 <i>to survive March 1st</i>
 
 17
-00:00:59,526 --> 00:01:01,995
+00:00:55,017 --> 00:00:57,486
 <i>and spend the 2nd with me</i>
 <i>at my birthday party,</i>
 
 18
-00:01:01,995 --> 00:01:05,131
+00:00:57,486 --> 00:01:00,622
 <i>that should be enough</i>
 <i>to change her future.</i>
 
 19
-00:01:06,499 --> 00:01:09,803
+00:01:01,990 --> 00:01:05,294
 <i>I'm not gonna let her die.</i>
 
 20
-00:01:09,803 --> 00:01:11,705
-[theme song plays]
-
-21
-00:01:22,983 --> 00:01:25,251
-[man singing in Japanese]
-
-22
-00:02:41,928 --> 00:02:44,430
-[food sizzling]
-
-23
-00:02:44,430 --> 00:02:46,266
+00:02:37,749 --> 00:02:39,585
 Good morning,
 you sleepy head.
 
-24
-00:02:46,266 --> 00:02:47,534
+21
+00:02:39,585 --> 00:02:40,752
 Morning.
 
-25
-00:02:47,534 --> 00:02:50,003
+22
+00:02:40,777 --> 00:02:43,322
 Up and at 'em.
 Food's almost ready.
 
-26
-00:02:50,003 --> 00:02:51,805
-[yawns] OK.
+23
+00:02:43,704 --> 00:02:44,974
+OK.
 
-27
-00:02:51,805 --> 00:02:53,740
+24
+00:02:45,124 --> 00:02:47,059
 Thanks for breakfast.
 
-28
-00:02:55,676 --> 00:02:57,177
+25
+00:02:48,828 --> 00:02:50,329
 Uh, hey, Mom?
 
-29
-00:02:57,177 --> 00:02:58,679
-[Sachiko] Hmm?
+26
+00:02:50,354 --> 00:02:51,856
+Hmm?
 
-30
-00:02:58,679 --> 00:03:01,281
-[Satoru] I was thinking
+27
+00:02:51,881 --> 00:02:54,483
+I was thinking
 of going out this Saturday.
 
-31
-00:03:01,281 --> 00:03:02,549
-[Sachiko] Like on a date?
+28
+00:02:54,508 --> 00:02:55,776
+Like on a date?
 
-32
-00:03:02,549 --> 00:03:03,950
-[Satoru] No! I was gonna go
+29
+00:02:55,801 --> 00:02:59,357
+No! I was gonna go to the
+Science Center with some friends.
 
-33
-00:03:03,950 --> 00:03:06,219
-to the Science Center
-with some friends.
-
-34
-00:03:06,219 --> 00:03:09,723
-[Sachiko chuckling]
+30
+00:02:59,382 --> 00:03:03,065
 Oh, well. If it were a date,
 I'd give you spending cash.
 
-35
-00:03:09,723 --> 00:03:11,558
-[adult Satoru]
+31
+00:03:03,090 --> 00:03:04,362
 <i>Shit, for real?</i>
 
-36
-00:03:11,558 --> 00:03:14,094
+32
+00:03:04,877 --> 00:03:07,619
 ‐It is a date, isn't it?
 ‐Mm‐hmm.
 
-37
-00:03:14,094 --> 00:03:16,362
-[Sachiko] Then bring her by.
+33
+00:03:07,644 --> 00:03:09,883
+Then bring her by.
 I'd love to meet her.
 
-38
-00:03:16,362 --> 00:03:18,298
+34
+00:03:09,908 --> 00:03:11,617
 We can have hotpot
 or something.
 
-39
-00:03:18,298 --> 00:03:20,901
+35
+00:03:11,617 --> 00:03:14,220
 Actually, I invited Kayo
 to the party.
 
-40
-00:03:20,901 --> 00:03:23,970
+36
+00:03:14,220 --> 00:03:17,812
 Oh. Kayo from
 a few streets over, huh?
 
-41
-00:03:23,970 --> 00:03:27,373
+37
+00:03:17,837 --> 00:03:20,692
 <i>Damn, she's good at getting</i>
 <i>info out of people.</i>
 
-42
-00:03:27,373 --> 00:03:30,143
-[Sachiko] You can go.
+38
+00:03:20,692 --> 00:03:23,120
+You can go.
 Just be safe.
 
-43
-00:03:30,143 --> 00:03:31,912
+39
+00:03:23,971 --> 00:03:25,464
 Thanks, Mom.
 
-44
-00:03:31,912 --> 00:03:34,047
+40
+00:03:25,489 --> 00:03:27,366
 Hurry up and finish
 your breakfast, kiddo.
 
-45
-00:03:34,047 --> 00:03:35,516
+41
+00:03:27,366 --> 00:03:28,101
 Mm‐hmm.
 
-46
-00:03:35,516 --> 00:03:39,352
-‐[girl] Stand... bow.
-‐[students] Bye!
+42
+00:03:28,835 --> 00:03:32,671
+- ‐ Stand... bow.
+- ‐ Bye!
 
-47
-00:03:39,352 --> 00:03:41,855
+43
+00:03:32,671 --> 00:03:35,174
 Liveman's gonna be on.
 Cool, huh?
 
-48
-00:03:41,855 --> 00:03:44,324
-‐[boy 1] What's a falcon?
-‐[boy 2] It's a bird, duh!
+44
+00:03:35,174 --> 00:03:37,643
+- ‐ What's a falcon?
+- ‐ It's a bird, duh!
 
-49
-00:03:44,324 --> 00:03:46,392
-[girl] You're so smart.
+45
+00:03:37,643 --> 00:03:39,472
+You're so smart.
 
-50
-00:03:46,392 --> 00:03:50,030
+46
+00:03:40,267 --> 00:03:43,135
 <i>This Saturday,</i>
 <i>Kayo's not staying home.</i>
 
-51
-00:03:50,030 --> 00:03:54,535
+47
+00:03:43,747 --> 00:03:47,041
 <i>I'm gonna take her away</i>
 <i>from her mom and the beatings.</i>
 
-52
-00:03:54,535 --> 00:03:56,302
-‐[girl] Mr. Yashiro?
-‐[boy] Um, sir?
+48
+00:03:47,854 --> 00:03:49,507
+- ‐ Mr. Yashiro?
+- ‐ Um, sir?
 
-53
-00:03:56,302 --> 00:03:57,604
+49
+00:03:49,532 --> 00:03:50,570
 What's up, guys?
 
-54
-00:03:57,604 --> 00:03:59,573
+50
+00:03:50,595 --> 00:03:52,637
 Can you explain this?
 I don't get it.
 
-55
-00:03:59,573 --> 00:04:02,042
+51
+00:03:52,662 --> 00:03:55,481
 Sure. Hmm. That's a tough one.
 
-56
-00:04:02,042 --> 00:04:04,911
-[growls] What a bunch
+52
+00:03:56,116 --> 00:03:58,230
+What a bunch
 of flirty little tramps.
 
-57
-00:04:04,911 --> 00:04:06,346
+53
+00:03:58,230 --> 00:03:59,665
 Ecch.
 
-58
-00:04:06,346 --> 00:04:08,448
+54
+00:03:59,665 --> 00:04:03,883
 What are you talking about?
+It's not like you never did that too, you know.
 
-59
-00:04:08,448 --> 00:04:11,351
-It's not like you never
-did that too, you know.
-
-60
-00:04:11,351 --> 00:04:14,588
+55
+00:04:04,344 --> 00:04:07,581
 Instead of dissing him, go up
 there and show him who's boss.
 
-61
-00:04:14,588 --> 00:04:17,457
+56
+00:04:07,907 --> 00:04:10,639
 What's "dis" mean?
 You trying to sound cool?
 
-62
-00:04:17,457 --> 00:04:19,626
+57
+00:04:10,664 --> 00:04:12,945
 <i>Oh! Gotta watch what I say.</i>
 
-63
-00:04:19,626 --> 00:04:23,163
-[Misato] The teacher doesn't
-care about me anymore,
-he thinks I'm a thief.
+58
+00:04:12,945 --> 00:04:16,482
+The teacher doesn't care about me
+anymore, he thinks I'm a thief.
 
-64
-00:04:23,163 --> 00:04:26,166
+59
+00:04:16,482 --> 00:04:19,485
 Bet you do, too.
 
-65
-00:04:26,166 --> 00:04:27,934
+60
+00:04:19,485 --> 00:04:21,253
 Not that I care.
 
-66
-00:04:30,804 --> 00:04:33,974
-[Satoru] Hey, guys,
+61
+00:04:24,624 --> 00:04:27,293
+Hey, guys,
 I got an idea.
 
-67
-00:04:33,974 --> 00:04:35,241
+62
+00:04:27,293 --> 00:04:28,560
 Oh, yeah? What is it?
 
-68
-00:04:35,241 --> 00:04:38,779
-[Satoru] Um, let's go to
+63
+00:04:28,560 --> 00:04:32,098
+Um, let's go to
 the Science Center on Saturday.
 
-69
-00:04:38,779 --> 00:04:42,348
+64
+00:04:32,098 --> 00:04:35,667
 ‐I'll ask Kayo to go, too.
 ‐Yeah, that's a great idea!
 
-70
-00:04:42,348 --> 00:04:44,718
+65
+00:04:35,667 --> 00:04:37,865
 ‐Ohhh!
 ‐I can't make it.
 
-71
-00:04:44,718 --> 00:04:46,887
+66
+00:04:37,890 --> 00:04:39,938
 Sorry, but I've already
 made plans that day.
 
-72
-00:04:46,887 --> 00:04:48,288
-[Satoru] Oh, really?
+67
+00:04:39,963 --> 00:04:41,607
+Oh, really?
 
-73
-00:04:48,288 --> 00:04:50,023
+68
+00:04:41,607 --> 00:04:43,342
 Uh, same for me, too, dude.
 
-74
-00:04:50,023 --> 00:04:52,158
+69
+00:04:43,342 --> 00:04:45,477
 I, uh, got some important things
 need doing.
 
-75
-00:04:52,158 --> 00:04:56,262
+70
+00:04:45,477 --> 00:04:49,581
 Yeah, what he said.
-I'd like to go,
-but I can't either. Sorry.
+I'd like to go, but I can't either. Sorry.
 
-76
-00:04:56,262 --> 00:04:58,331
-‐Yeah, me too.
-‐[Satoru] Oh.
+71
+00:04:49,581 --> 00:04:51,650
+- ‐Yeah, me too.
+- ‐ Oh.
 
-77
-00:04:58,331 --> 00:05:01,401
-[Kazu] It's better if it's
+72
+00:04:51,650 --> 00:04:54,720
+It's better if it's
 just you and Kayo anyway.
 
-78
-00:05:01,401 --> 00:05:03,637
-[Osamu] See ya.
+73
+00:04:54,720 --> 00:04:56,956
+See ya.
 
-79
-00:05:03,637 --> 00:05:06,907
-[Kayo] Satoru, everything OK?
+74
+00:04:56,956 --> 00:05:00,226
+Satoru, everything OK?
 
-80
-00:05:06,907 --> 00:05:09,075
+75
+00:05:00,226 --> 00:05:02,394
 Oh, yeah.
 
-81
-00:05:09,075 --> 00:05:11,545
-[speaking and thinking]
-I told them I couldn't
-hang out Saturday
+76
+00:05:02,394 --> 00:05:06,286
+I told them I couldn't hang out
+Saturday 'cause I had a date with you.
 
-82
-00:05:11,545 --> 00:05:13,213
-'cause I had a date
-with you.
+77
+00:05:06,311 --> 00:05:08,434
+<i>What a lie.</i>
 
-83
-00:05:13,213 --> 00:05:15,115
-[thinking] <i>What a lie.</i>
-
-84
-00:05:15,115 --> 00:05:17,417
+78
+00:05:08,434 --> 00:05:10,736
 <i>I did it again.</i>
 
-85
-00:05:17,417 --> 00:05:23,824
+79
+00:05:10,736 --> 00:05:17,143
 But... my mom wants me to get
 home early Saturday, so...
 
-86
-00:05:23,824 --> 00:05:26,259
+80
+00:05:17,143 --> 00:05:19,578
 I just wanna take you
 someplace cool.
 
-87
-00:05:26,259 --> 00:05:28,995
+81
+00:05:19,578 --> 00:05:22,314
 I'll ask her
 and get permission.
 
-88
-00:05:28,995 --> 00:05:31,598
-[teacher] Kenya.
+82
+00:05:22,314 --> 00:05:24,917
+Kenya.
 
-89
-00:05:31,598 --> 00:05:34,835
+83
+00:05:24,917 --> 00:05:28,154
 Could I see you in
 the faculty office for a sec?
 
-90
-00:05:34,835 --> 00:05:38,038
-[Akemi] No way. You kids are
+84
+00:05:28,154 --> 00:05:31,357
+No way. You kids are
 too young to go out on a date.
 
-91
-00:05:38,038 --> 00:05:41,675
-[Satoru] But it's more
-like a field trip.
-We'll be learning stuff.
+85
+00:05:31,357 --> 00:05:34,994
+But it's more like a field trip.
+ We'll be learning stuff.
 
-92
-00:05:41,675 --> 00:05:43,944
+86
+00:05:34,994 --> 00:05:37,263
 You can stay home
 and learn stuff.
 
-93
-00:05:43,944 --> 00:05:47,147
+87
+00:05:37,263 --> 00:05:40,466
 Besides, Kayo helps me
 around the house Saturdays.
 
-94
-00:05:47,147 --> 00:05:48,982
+88
+00:05:40,466 --> 00:05:42,301
 Oh, yeah, with what?
 
-95
-00:05:48,982 --> 00:05:51,317
-[adult Satoru]
+89
+00:05:42,301 --> 00:05:44,636
 <i>Blowing off steam?</i>
 <i>Your right hook?</i>
 
-96
-00:05:51,317 --> 00:05:54,120
+90
+00:05:44,636 --> 00:05:47,629
 Little smart ass, I don't
 have to tell you a damn thing.
 
-97
-00:05:54,120 --> 00:05:57,490
-[Satoru] I just wanna know
-why you don't want Kayo
-to go with me.
+91
+00:05:47,654 --> 00:05:50,459
+I just wanna know why you
+don't want Kayo to go with me.
 
-98
-00:05:57,490 --> 00:05:59,225
-[Akemi] I got
+92
+00:05:50,484 --> 00:05:52,544
+I got
 a zillion reasons why.
 
-99
-00:05:59,225 --> 00:06:01,261
+93
+00:05:52,544 --> 00:05:54,580
 First, you guys are too young
 to be dating.
 
-100
-00:06:01,261 --> 00:06:04,197
+94
+00:05:54,580 --> 00:05:57,516
 Second, who's responsible
 if something happens? You?
 
-101
-00:06:04,197 --> 00:06:07,400
-[adult Satoru]
+95
+00:05:57,516 --> 00:06:00,719
 <i>Don't even go there</i>
 <i>with me, bitch.</i>
 
-102
-00:06:07,400 --> 00:06:08,969
-[Akemi] What's your problem?
+96
+00:06:00,719 --> 00:06:02,288
+What's your problem?
 
-103
-00:06:08,969 --> 00:06:11,171
+97
+00:06:02,288 --> 00:06:04,490
 What do you get
 out of taking her anywhere?
 
-104
-00:06:11,171 --> 00:06:12,973
+98
+00:06:04,490 --> 00:06:06,292
 She's just a gloomy little girl.
 
-105
-00:06:12,973 --> 00:06:16,042
+99
+00:06:06,292 --> 00:06:09,361
 I'm not getting anything.
 All I want's to keep her safe!
 
-106
-00:06:16,042 --> 00:06:17,310
+100
+00:06:09,361 --> 00:06:10,629
 Safe, huh?
 
-107
-00:06:17,310 --> 00:06:20,346
+101
+00:06:10,629 --> 00:06:13,665
 What do you think
 you're keeping her safe from?
 
-108
-00:06:20,346 --> 00:06:22,315
+102
+00:06:13,665 --> 00:06:15,634
 You her knight
 in shining armor?
 
-109
-00:06:22,315 --> 00:06:23,884
-[adult Satoru]
+103
+00:06:15,634 --> 00:06:16,980
 <i>Goddamn it.</i>
 
-110
-00:06:23,884 --> 00:06:26,486
+104
+00:06:17,005 --> 00:06:19,805
 <i>Now she knows I know</i>
 <i>she beats on her.</i>
 
-111
-00:06:26,486 --> 00:06:31,057
+105
+00:06:19,805 --> 00:06:24,376
 What do you want to do, Kayo?
 You wanna go out with him?
 
-112
-00:06:34,027 --> 00:06:37,564
+106
+00:06:27,346 --> 00:06:31,423
 Uggh! You're not going
 anywhere, you slut!
 
-113
-00:06:37,564 --> 00:06:39,499
-[Satoru] Mom!
+107
+00:06:31,724 --> 00:06:32,818
+Mom!
 
-114
-00:06:39,499 --> 00:06:41,167
+108
+00:06:32,818 --> 00:06:34,671
 Watch it, Ms. Hinazuki.
 
-115
-00:06:41,167 --> 00:06:44,337
+109
+00:06:34,696 --> 00:06:37,656
 You shouldn't say nasty things
 like that about your daughter.
 
-116
-00:06:44,337 --> 00:06:47,240
+110
+00:06:37,656 --> 00:06:40,534
 Ms. Fujinuma, I...
 
-117
-00:06:47,240 --> 00:06:50,511
+111
+00:06:41,974 --> 00:06:44,049
 This isn't any of your business.
 
-118
-00:06:50,511 --> 00:06:53,313
+112
+00:06:44,136 --> 00:06:46,632
 Actually, half of this
 is my business.
 
-119
-00:06:53,313 --> 00:06:56,917
-A trip to the Science Center
-can be very educational
-for a kid.
+113
+00:06:46,632 --> 00:06:50,236
+A trip to the Science Center can
+be very educational for a kid.
 
-120
-00:06:56,917 --> 00:06:58,785
+114
+00:06:50,236 --> 00:06:52,104
 Don't you think
 we should encourage that?
 
-121
-00:06:58,785 --> 00:07:01,087
+115
+00:06:52,104 --> 00:06:54,406
 We are their parents.
 
-122
-00:07:01,087 --> 00:07:04,791
+116
+00:06:54,406 --> 00:06:58,110
 I'm a single mom, too, so I know
 how tough it can get.
 
-123
-00:07:04,791 --> 00:07:06,860
+117
+00:06:58,110 --> 00:07:00,179
 Come by sometime
 and we'll talk.
 
-124
-00:07:09,362 --> 00:07:11,532
+118
+00:07:02,681 --> 00:07:04,851
 Kayo, get inside.
 
-125
-00:07:11,532 --> 00:07:12,833
-[Kayo] OK.
+119
+00:07:04,851 --> 00:07:06,152
+OK.
 
-126
-00:07:12,833 --> 00:07:15,669
+120
+00:07:06,152 --> 00:07:08,988
 So, Saturday, I'll see you then.
 
-127
-00:07:15,669 --> 00:07:17,838
-[door creaks shut]
-
-128
-00:07:20,140 --> 00:07:22,108
+121
+00:07:13,459 --> 00:07:15,427
 Did I screw everything up?
 
-129
-00:07:22,108 --> 00:07:24,044
+122
+00:07:15,427 --> 00:07:17,363
 No. You were great.
 
-130
-00:07:25,378 --> 00:07:27,480
-[Sachiko] Guess it's lucky
+123
+00:07:18,697 --> 00:07:21,283
+Guess it's lucky
 I showed up when I did.
 
-131
-00:07:27,480 --> 00:07:31,552
-I got off work early
-and saw you, so naturally
-I had to follow you.
+124
+00:07:21,308 --> 00:07:24,871
+I got off work early and saw you,
+so naturally I had to follow you.
 
-132
-00:07:31,552 --> 00:07:33,019
-[Satoru] What do you mean
+125
+00:07:24,871 --> 00:07:26,338
+What do you mean
 "naturally"?
 
-133
-00:07:33,019 --> 00:07:36,156
+126
+00:07:26,338 --> 00:07:29,475
 Oh, nothing.
 I'm just kidding, is all.
 
-134
-00:07:36,156 --> 00:07:40,527
+127
+00:07:29,475 --> 00:07:33,846
 Anyway, you don't have to worry
 about Kayo tonight.
 
-135
-00:07:40,527 --> 00:07:43,196
+128
+00:07:33,846 --> 00:07:36,515
 Did you notice how nice
 her clothes were?
 
-136
-00:07:43,196 --> 00:07:47,133
+129
+00:07:36,515 --> 00:07:40,452
 Her mom goes to a lot of trouble
 to make her look presentable.
 
-137
-00:07:47,133 --> 00:07:49,503
-[Satoru] Do you know what's
+130
+00:07:40,452 --> 00:07:42,822
+Do you know what's
 going on over there?
 
-138
-00:07:49,503 --> 00:07:52,639
-[Satoru] I didn't, but after
+131
+00:07:42,822 --> 00:07:46,286
+I didn't, but after
 what I just heard and saw,
 
-139
-00:07:52,639 --> 00:07:54,508
+132
+00:07:46,500 --> 00:07:48,002
 I have my suspicions.
 
-140
-00:07:54,508 --> 00:07:57,210
-[adult Satoru]
+133
+00:07:48,098 --> 00:07:50,529
 <i>My mom wasn't a reporter</i>
 <i>for nothing.</i>
 
-141
-00:07:57,210 --> 00:08:00,714
-‐[Sachiko] Kayo's a cutie,
-isn't she?
-‐Uh...
+134
+00:07:50,529 --> 00:07:54,033
+‐ Kayo's a cutie, isn't she?
+ ‐Uh...
 
-142
-00:08:00,714 --> 00:08:02,683
-[adult Satoru]
+135
+00:07:54,033 --> 00:07:56,002
 <i>Dude, you're 29!</i>
 
-143
-00:08:02,683 --> 00:08:06,653
-‐[Sachiko chuckles]
-‐[Sachiko] Hang in there,
+136
+00:07:56,002 --> 00:07:59,972
+‐ ‐ Hang in there,
 kiddo, for her.
 
-144
-00:08:06,653 --> 00:08:09,556
-[Satoru] I will.
+137
+00:07:59,972 --> 00:08:01,135
+I will.
 
-145
-00:08:09,556 --> 00:08:12,559
-[adult Satoru] <i>It's Saturday,</i>
+138
+00:08:02,875 --> 00:08:05,878
+<i>It's Saturday,</i>
 <i>February the 27th.</i>
 
-146
-00:08:12,559 --> 00:08:16,496
+139
+00:08:05,878 --> 00:08:09,815
 <i>It's sunny and clear,</i>
 <i>and for the last couple days,</i>
 
-147
-00:08:16,496 --> 00:08:21,702
-<i>Kayo's mom</i>
-<i>hasn't beaten her up,</i>
-<i>just like my mom said.</i>
+140
+00:08:09,815 --> 00:08:13,501
+<i>Kayo's mom hasn't beaten her
+up, just like my mom said.</i>
 
-148
-00:08:21,702 --> 00:08:23,870
-[Satoru] Lookit, he's my friend.
+141
+00:08:15,021 --> 00:08:17,189
+Lookit, he's my friend.
 
-149
-00:08:23,870 --> 00:08:25,471
-[Kayo] You're an idiot.
+142
+00:08:17,189 --> 00:08:19,149
+You're an idiot.
 
-150
-00:08:25,471 --> 00:08:29,643
-[Satoru] Isn't this place
-the coolest?
-I love it!
+143
+00:08:19,753 --> 00:08:22,962
+Isn't this place the coolest?
+ I love it!
 
-151
-00:08:29,643 --> 00:08:33,213
+144
+00:08:23,803 --> 00:08:26,532
 I think we're
 the only ones here.
 
-152
-00:08:33,213 --> 00:08:36,917
-[Satoru]
+145
+00:08:26,958 --> 00:08:30,236
 When it's quiet like this,
 I pretend I snuck in.
 
-153
-00:08:36,917 --> 00:08:40,987
+146
+00:08:30,236 --> 00:08:33,489
 Then, if someone comes,
 I hide from them.
 
-154
-00:08:40,987 --> 00:08:43,957
-[adult Satoru]
+147
+00:08:34,306 --> 00:08:37,276
 <i>Huh. She didn't call me</i>
 <i>an idiot.</i>
 
-155
-00:08:43,957 --> 00:08:45,959
+148
+00:08:37,276 --> 00:08:39,278
 Take a look inside this thing.
 
-156
-00:08:50,330 --> 00:08:53,634
+149
+00:08:43,649 --> 00:08:46,953
 You wanna check out the next
 show in the planetarium?
 
-157
-00:09:02,108 --> 00:09:07,180
+150
+00:08:55,721 --> 00:08:59,016
 We already saw
 enough stars on the mountain.
 
-158
-00:09:07,180 --> 00:09:10,116
+151
+00:09:00,499 --> 00:09:02,400
 Yeah, I guess.
 
-159
-00:09:10,116 --> 00:09:12,686
+152
+00:09:03,435 --> 00:09:05,904
 Hey, I have to use
 the bathroom.
 
-160
-00:09:12,686 --> 00:09:15,021
-[Kayo] OK. I'll be here.
+153
+00:09:05,929 --> 00:09:07,827
+OK. I'll be here.
 
-161
-00:09:17,190 --> 00:09:20,961
-[adult Satoru]
+154
+00:09:11,094 --> 00:09:13,693
 <i>What the heck was that</i>
 <i>feeling back there?</i>
 
-162
-00:09:23,063 --> 00:09:25,732
+155
+00:09:16,382 --> 00:09:19,051
 <i>It was like déjà vu.</i>
 
-163
-00:09:27,033 --> 00:09:29,069
+156
+00:09:20,067 --> 00:09:22,103
 <i>I remember coming here a lot,</i>
 
-164
-00:09:29,069 --> 00:09:32,005
+157
+00:09:22,388 --> 00:09:25,324
 <i>but this is my first time</i>
 <i>with Kayo.</i>
 
-165
-00:09:35,175 --> 00:09:36,710
+158
+00:09:28,264 --> 00:09:29,799
 I'm back.
 
-166
-00:09:36,710 --> 00:09:38,645
-[gasp]
-
-167
-00:09:40,313 --> 00:09:44,885
+159
+00:09:33,632 --> 00:09:38,204
 Satoru, thanks for inviting me
 to come today.
 
-168
-00:09:44,885 --> 00:09:47,688
+160
+00:09:38,204 --> 00:09:41,007
 Did you know that I like
 to come here, too?
 
-169
-00:09:47,688 --> 00:09:49,890
-[adult Satoru]
+161
+00:09:41,007 --> 00:09:43,209
 <i>Wait, did I?</i>
 
-170
-00:09:49,890 --> 00:09:52,458
+162
+00:09:43,209 --> 00:09:45,777
 <i>Is that why I chose it?</i>
 
-171
-00:09:52,458 --> 00:09:55,228
-<i>Or...</i> [with Kayo] <i>is this</i>
+163
+00:09:45,777 --> 00:09:48,547
+<i>Or...</i> <i>is this</i>
 <i>someplace special for me/you,</i>
 
-172
-00:09:55,228 --> 00:09:58,164
+164
+00:09:48,547 --> 00:09:51,483
 <i>'cause like I/you wanna</i>
 <i>make manga and stuff?</i>
 
-173
-00:09:58,164 --> 00:10:00,534
-[gasp]
-
-174
-00:10:00,534 --> 00:10:05,238
-[adult Satoru]
+165
+00:09:54,695 --> 00:09:58,136
 <i>We talked about the same thing</i>
 <i>18 years ago.</i>
 
-175
-00:10:05,238 --> 00:10:06,840
+166
+00:09:58,161 --> 00:10:00,159
 <i>Now I remember.</i>
 
-176
-00:10:06,840 --> 00:10:10,711
+167
+00:10:00,159 --> 00:10:04,030
 <i>I came here by myself</i>
 <i>and ran into Kayo.</i>
 
-177
-00:10:10,711 --> 00:10:12,779
-‐What's wrong?
-‐[Satoru gasps]
+168
+00:10:04,030 --> 00:10:06,098
+- ‐What's wrong?
+- ‐
 
-178
-00:10:12,779 --> 00:10:15,181
-[Satoru] Oh, uh, maybe...
+169
+00:10:06,098 --> 00:10:08,500
+Oh, uh, maybe...
 
-179
-00:10:17,217 --> 00:10:19,452
-[adult Satoru]
+170
+00:10:10,536 --> 00:10:12,771
 <i>Am I just repeating things?</i>
 
-180
-00:10:19,452 --> 00:10:22,355
+171
+00:10:12,771 --> 00:10:15,788
 <i>Have I been doing it</i>
 <i>unconsciously this whole time</i>
 
-181
-00:10:22,355 --> 00:10:26,059
+172
+00:10:15,813 --> 00:10:18,786
 <i>and... not changing</i>
 <i>the future at all?</i>
 
-182
-00:10:31,031 --> 00:10:33,934
-[clock ticks, Satoru gasps]
-
-183
-00:10:36,302 --> 00:10:39,840
+173
+00:10:29,621 --> 00:10:33,554
 ‐Hey, Kayo, lemme carry that.
 ‐OK.
 
-184
-00:10:39,840 --> 00:10:44,377
-<i>But there's so much</i>
-<i>that has changed because</i>
-<i>of what I did different.</i>
+174
+00:10:34,014 --> 00:10:37,696
+<i>But there's so much that has changed
+because of what I did different.</i>
 
-185
-00:10:44,377 --> 00:10:47,413
+175
+00:10:37,696 --> 00:10:40,732
 <i>I</i> can <i>change the future.</i>
 <i>I can.</i>
 
-186
-00:10:47,413 --> 00:10:48,849
-[Kayo] Satoru...
+176
+00:10:40,732 --> 00:10:42,168
+Satoru...
 
-187
-00:10:50,884 --> 00:10:53,820
+177
+00:10:44,203 --> 00:10:47,139
 I'm glad I had the guts
 to come today.
 
-188
-00:10:57,090 --> 00:10:58,358
+178
+00:10:50,092 --> 00:10:51,360
 Mm‐hmm.
 
-189
-00:10:58,358 --> 00:11:01,161
-‐[Kenya] Hey, guys.
-‐[Osamu] Hi, Kayo.
+179
+00:10:51,677 --> 00:10:54,179
+- ‐ Hey, guys.
+- ‐ Hi, Kayo.
 
-190
-00:11:01,161 --> 00:11:02,295
+180
+00:10:54,204 --> 00:10:55,212
 What's up?
 
-191
-00:11:02,295 --> 00:11:04,598
+181
+00:10:55,237 --> 00:10:57,540
 I finished the stuff
 I had to do early.
 
-192
-00:11:04,598 --> 00:11:07,200
+182
+00:10:57,565 --> 00:11:00,167
 Sorry we got here so late.
 
-193
-00:11:07,200 --> 00:11:09,435
-[adult Satoru]
+183
+00:11:00,519 --> 00:11:02,754
 <i>There, it changed.</i>
 
-194
-00:11:09,435 --> 00:11:12,973
-‐Is it OK we came?
-‐[Satoru] Yeah, of course it is.
+184
+00:11:02,754 --> 00:11:06,292
+- ‐Is it OK we came?
+- ‐ Yeah, of course it is.
 
-195
-00:11:12,973 --> 00:11:14,708
-‐[Satoru] Right, Kayo?
-‐[Kayo] Mm‐hmm.
+185
+00:11:06,292 --> 00:11:08,027
+- ‐ Right, Kayo?
+- ‐ Mm‐hmm.
 
-196
-00:11:14,708 --> 00:11:17,377
+186
+00:11:08,027 --> 00:11:10,212
 Hey, wanna hold
 our coats, too?
 
-197
-00:11:17,377 --> 00:11:18,979
-[laughter]
-
-198
-00:11:23,884 --> 00:11:27,754
-[indistinct chatter]
-
-199
-00:11:29,990 --> 00:11:32,392
+187
+00:11:21,383 --> 00:11:23,289
 Hi, Satoru. Good morning.
 
-200
-00:11:32,392 --> 00:11:34,260
+188
+00:11:23,314 --> 00:11:25,182
 Oh, hey, Kayo. Morning.
 
-201
-00:11:34,260 --> 00:11:38,464
-[adult Satoru]
+189
+00:11:25,653 --> 00:11:29,857
 <i>Yes! She's here on time</i>
 <i>on a Monday.</i>
 
-202
-00:11:38,464 --> 00:11:41,568
-[thinking <i>and</i> speaking]
+190
+00:11:29,857 --> 00:11:32,775
 <i>Damn, you're pretty.</i>
 
-203
-00:11:41,568 --> 00:11:43,136
+191
+00:11:32,800 --> 00:11:34,368
 Uh...
 
-204
-00:11:43,136 --> 00:11:45,105
-[adult Satoru]
+192
+00:11:34,393 --> 00:11:35,946
 <i>Oh, my God.</i>
 
-205
-00:11:45,105 --> 00:11:46,940
-‐[class shrieking]
-‐[Kazu] No way!
+193
+00:11:35,971 --> 00:11:38,308
+‐
+‐ No way!
 
-206
-00:11:46,940 --> 00:11:48,308
-[Hiromi] Satoru's so rad!
+194
+00:11:38,333 --> 00:11:39,701
+Satoru's so rad!
 
-207
-00:11:48,308 --> 00:11:50,076
-[girl] They're gonna
+195
+00:11:39,701 --> 00:11:41,469
+They're gonna
 get married!
 
-208
-00:11:50,076 --> 00:11:52,212
-[Kazu] They gotta get engaged
+196
+00:11:41,469 --> 00:11:43,605
+They gotta get engaged
 first, ya lame‐brain.
 
-209
-00:11:52,212 --> 00:11:54,247
-‐[Osamu] What's "engaged" mean?
-‐[girl] Congrats, you guys.
+197
+00:11:43,605 --> 00:11:45,225
+- ‐ What's "engaged" mean?
+- ‐ Congrats, you guys.
 
-210
-00:11:54,247 --> 00:11:57,150
+198
+00:11:45,250 --> 00:11:48,153
 Settle down.
 Let's do some learning today.
 
-211
-00:11:59,352 --> 00:12:02,756
-[adult Satoru]
+199
+00:11:50,745 --> 00:11:54,149
 <i>Tomorrow's the day</i>
 <i>Kayo disappears.</i>
 
-212
-00:12:02,756 --> 00:12:05,992
+200
+00:11:54,149 --> 00:11:56,887
 <i>March 1st.</i>
 
-213
-00:12:05,992 --> 00:12:08,161
-‐The moment of truth.
-‐[clock ticks]
+201
+00:11:56,912 --> 00:11:59,081
+- ‐The moment of truth.
+- ‐
 
-214
-00:12:08,161 --> 00:12:12,332
-‐[Satoru] Later, Hiromi.
+202
+00:11:59,554 --> 00:12:03,725
+‐ Later, Hiromi.
 ‐Yep, see you tomorrow.
 
-215
-00:12:12,332 --> 00:12:16,102
+203
+00:12:03,725 --> 00:12:07,255
 Hey, Kayo, wanna walk
 to school together?
 
-216
-00:12:16,102 --> 00:12:20,507
-‐I could swing by your place.
-‐[Kayo] OK.
+204
+00:12:07,280 --> 00:12:10,061
+- ‐I could swing by your place.
+- ‐ OK.
 
-217
-00:12:20,507 --> 00:12:22,976
+205
+00:12:11,453 --> 00:12:12,847
 Mom.
 
-218
-00:12:22,976 --> 00:12:24,444
-[Satoru] Hello.
+206
+00:12:14,099 --> 00:12:15,567
+Hello.
 
-219
-00:12:26,246 --> 00:12:29,816
+207
+00:12:17,639 --> 00:12:20,444
 I'll come and get you
 tomorrow morning. Bye!
 
-220
-00:12:32,418 --> 00:12:34,220
-[alarm beeping]
-
-221
-00:12:34,220 --> 00:12:37,624
+208
+00:12:26,108 --> 00:12:29,017
 ‐See you later, Mom.
 ‐OK.
 
-222
-00:12:37,624 --> 00:12:40,661
-[adult Satoru] <i>I left the house</i>
+209
+00:12:30,041 --> 00:12:31,695
+<i>I left the house</i>
 <i>a little early.</i>
 
-223
-00:12:40,661 --> 00:12:44,064
+210
+00:12:32,695 --> 00:12:35,432
 <i>It's March 1st, 1988.</i>
 
-224
-00:12:44,064 --> 00:12:48,234
+211
+00:12:36,095 --> 00:12:39,266
 <i>Kayo was kidnapped</i>
 <i>18 years ago today.</i>
 
-225
-00:12:48,234 --> 00:12:49,570
-[doorbell rings]
+212
+00:12:40,652 --> 00:12:42,486
+It's me, Kayo.
 
-226
-00:12:49,570 --> 00:12:51,404
-[Satoru] It's me, Kayo.
-
-227
-00:12:54,340 --> 00:12:57,544
+213
+00:12:45,733 --> 00:12:48,156
 <i>But things are different now.</i>
 
-228
-00:12:57,544 --> 00:13:00,046
+214
+00:12:48,937 --> 00:12:51,439
 Good morning, Satoru.
 
-229
-00:13:00,046 --> 00:13:01,447
+215
+00:12:51,439 --> 00:12:52,840
 Good morning.
 
-230
-00:13:03,750 --> 00:13:06,119
+216
+00:12:54,769 --> 00:12:57,138
 <i>No one's gonna hurt her.</i>
 
-231
-00:13:06,119 --> 00:13:08,154
+217
+00:12:57,321 --> 00:12:59,356
 Bye, Ms. Hinazuki.
 
-232
-00:13:14,360 --> 00:13:16,196
-<i>A lot of things have changed</i>
+218
+00:13:05,474 --> 00:13:10,079
+<i>A lot of things have changed between
+this time 18 years ago and now.</i>
 
-233
-00:13:16,196 --> 00:13:18,965
-<i>between this time</i>
-<i>18 years ago and now.</i>
-
-234
-00:13:18,965 --> 00:13:21,334
+219
+00:13:10,333 --> 00:13:12,702
 They're holding hands
 and everything now.
 
-235
-00:13:21,334 --> 00:13:24,838
+220
+00:13:12,727 --> 00:13:15,971
 <i>Kayo was targeted because she</i>
 <i>was always alone at the park.</i>
 
-236
-00:13:24,838 --> 00:13:27,173
+221
+00:13:15,996 --> 00:13:18,331
 <i>But she's not alone anymore.</i>
 
-237
-00:13:27,173 --> 00:13:30,143
+222
+00:13:18,566 --> 00:13:21,230
 You guys are all still coming
 over tomorrow night, right?
 
-238
-00:13:30,143 --> 00:13:31,778
-‐Yeah.
-‐Of course.
+223
+00:13:21,255 --> 00:13:22,890
+‐Yeah. ‐Of course.
 ‐Yep.
 
-239
-00:13:31,778 --> 00:13:35,215
+224
+00:13:22,915 --> 00:13:26,352
 <i>She's had friends to hang out</i>
 <i>with the past few days.</i>
 
-240
-00:13:36,349 --> 00:13:39,319
+225
+00:13:27,424 --> 00:13:30,394
 ‐I know. Wanna go play a game?
 ‐Uh...
 
-241
-00:13:39,319 --> 00:13:42,055
+226
+00:13:30,712 --> 00:13:33,448
 <i>And today she's with me.</i>
 
-242
-00:13:42,055 --> 00:13:45,125
+227
+00:13:33,448 --> 00:13:36,222
 I kind of wanted to get home
 early today.
 
-243
-00:13:45,125 --> 00:13:48,294
+228
+00:13:36,247 --> 00:13:39,416
 Come on, don't be like that.
 We'll have fun.
 
-244
-00:13:48,294 --> 00:13:49,663
+229
+00:13:39,441 --> 00:13:40,810
 OK.
 
-245
-00:13:49,663 --> 00:13:51,131
+230
+00:13:40,835 --> 00:13:42,303
 <i>It'll be fine.</i>
 
-246
-00:13:51,131 --> 00:13:53,567
-[Kayo] Looks like
+231
+00:13:42,524 --> 00:13:44,596
+Looks like
 I won again.
 
-247
-00:13:53,567 --> 00:13:55,035
+232
+00:13:44,621 --> 00:13:45,820
 You're good.
 
-248
-00:13:55,035 --> 00:13:57,403
-[adult Satoru]
+233
+00:13:45,845 --> 00:13:47,456
 <i>This sucks.</i>
 
-249
-00:13:57,403 --> 00:14:01,542
+234
+00:13:48,796 --> 00:13:52,935
 Satoru, I should be
 getting home.
 
-250
-00:14:01,542 --> 00:14:04,177
-[Satoru] Yeah.
+235
+00:13:52,935 --> 00:13:55,570
+Yeah.
 It's getting late.
 
-251
-00:14:26,933 --> 00:14:28,535
-[gasp]
+236
+00:14:19,531 --> 00:14:21,600
+It's snowing.
 
-252
-00:14:28,535 --> 00:14:30,604
-[Kayo] It's snowing.
-
-253
-00:15:09,910 --> 00:15:12,212
-[Satoru] I'll come by
+237
+00:15:01,303 --> 00:15:03,605
+I'll come by
 tomorrow, too.
 
-254
-00:15:12,212 --> 00:15:14,715
-[shouting]
+238
+00:15:03,605 --> 00:15:05,369
 See you in the morning!
 
-255
-00:15:14,715 --> 00:15:16,817
+239
+00:15:05,394 --> 00:15:07,496
 Bye.
 
-256
-00:15:16,817 --> 00:15:20,253
+240
+00:15:08,210 --> 00:15:11,646
 <i>I said it loud like that</i>
 <i>on purpose.</i>
 
-257
-00:15:20,253 --> 00:15:22,923
+241
+00:15:11,646 --> 00:15:14,316
 <i>That way, everyone heard me.</i>
 
-258
-00:15:22,923 --> 00:15:28,294
+242
+00:15:14,316 --> 00:15:19,687
 <i>Kayo, her mom, and anyone else</i>
 <i>who might be out there.</i>
 
-259
-00:15:28,294 --> 00:15:31,698
+243
+00:15:19,687 --> 00:15:23,091
 <i>They know I'm here now.</i>
 
-260
-00:15:34,500 --> 00:15:39,105
+244
+00:15:25,893 --> 00:15:30,498
 <i>Day X is almost over.</i>
 <i>It's too good to be true.</i>
 
-261
-00:15:39,105 --> 00:15:42,375
-[ticking]
-
-262
-00:15:46,947 --> 00:15:49,182
+245
+00:15:38,340 --> 00:15:40,307
 <i>I'm such a dumb ass.</i>
 
-263
-00:15:49,182 --> 00:15:51,685
+246
+00:15:40,332 --> 00:15:42,835
 <i>Like this is gonna change</i>
 <i>anything.</i>
 
-264
-00:16:04,030 --> 00:16:05,799
+247
+00:15:55,191 --> 00:15:56,960
 <i>I did it!</i>
 
-265
-00:16:05,799 --> 00:16:07,768
+248
+00:15:56,985 --> 00:15:58,954
 <i>The day's over.</i>
 
-266
-00:16:07,768 --> 00:16:10,103
+249
+00:15:58,979 --> 00:16:01,314
 <i>I changed history.</i>
 
-267
-00:16:14,007 --> 00:16:17,210
-‐[yawns]
-‐[Satoru] Good morning, Mom.
+250
+00:16:04,930 --> 00:16:07,750
+‐
+‐ Good morning, Mom.
 
-268
-00:16:17,210 --> 00:16:19,713
-[Sachiko] What the...?
+251
+00:16:08,603 --> 00:16:10,606
+What the...?
 It's not even 6:00.
 
-269
-00:16:19,713 --> 00:16:21,982
-‐[Satoru] I know. Bye!
+252
+00:16:10,631 --> 00:16:13,138
+‐ I know. Bye!
 ‐What about breakfast?!
 
-270
-00:16:21,982 --> 00:16:25,986
-[adult Satoru] <i>I couldn't sleep</i>
+253
+00:16:14,623 --> 00:16:16,483
+<i>I couldn't sleep</i>
 <i>after I got home.</i>
 
-271
-00:16:25,986 --> 00:16:30,557
+254
+00:16:16,945 --> 00:16:20,681
 <i>I wanted to see Kayo again,</i>
 <i>no matter how early it was.</i>
 
-272
-00:16:46,239 --> 00:16:48,842
+255
+00:16:37,632 --> 00:16:39,626
 Morning. Sleep well?
 
-273
-00:16:48,842 --> 00:16:50,777
+256
+00:16:39,651 --> 00:16:41,586
 You're an idiot.
 
-274
-00:16:52,879 --> 00:16:55,448
-[bell chimes]
+257
+00:16:44,876 --> 00:16:48,113
+‐ Are you guys still on for tonight?
+ ‐Yeah, dude, you know it.
 
-275
-00:16:55,448 --> 00:16:58,685
-‐[Satoru] Are you guys
-still on for tonight?
-‐Yeah, dude, you know it.
-
-276
-00:16:58,685 --> 00:17:01,522
-If there's one thing
-I like more than cake,
+258
+00:16:48,113 --> 00:16:50,950
+If there's one thing I like more than cake, 
 it's birthday cake.
 
-277
-00:17:01,522 --> 00:17:04,691
-‐[Satoru] Cool. You guys want
-to hit the market with me...?
-‐[teacher clapping] Hey!
+259
+00:16:50,950 --> 00:16:53,262
+Cool. You guys want to hit the market with me...?
 
-278
-00:17:04,691 --> 00:17:08,361
-Satoru, Kayo. I need your help
-putting these boxes away.
+260
+00:16:53,287 --> 00:16:57,411
+Hey!Satoru, Kayo.
+I need your help putting these boxes away.
 
-279
-00:17:08,361 --> 00:17:11,264
-[Satoru] Huh? Can't it wait
+261
+00:16:57,436 --> 00:17:00,339
+Huh? Can't it wait
 till tomorrow?
 
-280
-00:17:12,899 --> 00:17:14,701
-[Kayo] It sort of figures.
+262
+00:17:01,836 --> 00:17:03,638
+It sort of figures.
 
-281
-00:17:14,701 --> 00:17:17,671
+263
+00:17:04,129 --> 00:17:06,822
 We blew off the last time
 we had cleaning duties.
 
-282
-00:17:17,671 --> 00:17:20,674
-[Satoru] I guess.
+264
+00:17:06,847 --> 00:17:09,850
+I guess.
 Man, this is heavy.
 
-283
-00:17:20,674 --> 00:17:23,443
+265
+00:17:10,355 --> 00:17:12,346
 Some friends
 they turned out to be.
 
-284
-00:17:23,443 --> 00:17:25,812
+266
+00:17:12,371 --> 00:17:14,740
 Those doofuses
 totally bailed on us.
 
-285
-00:17:27,581 --> 00:17:32,519
-‐[clerk] That'll be
-5,000 yen, please.
-‐OK.
+267
+00:17:16,763 --> 00:17:19,976
+‐ That'll be 5,000 yen, please.
+ ‐OK.
 
-286
-00:17:32,519 --> 00:17:37,057
+268
+00:17:21,665 --> 00:17:25,883
 <i>Wait a sec.</i>
 <i>It cost 5,000 back then, too.</i>
 
-287
-00:17:37,057 --> 00:17:40,360
+269
+00:17:26,485 --> 00:17:29,452
 <i>I remember I was so stoked</i>
 <i>about it being my birthday,</i>
 
-288
-00:17:40,360 --> 00:17:42,362
+270
+00:17:29,477 --> 00:17:30,866
 <i>I spent all I had.</i>
 
-289
-00:17:42,362 --> 00:17:45,999
-<i>We made a ton of sandwiches,</i>
-<i>but since it was just</i>
-<i>my mom and me,</i>
+271
+00:17:31,421 --> 00:17:35,020
+<i>We made a ton of sandwiches,
+but since it was just my mom and me,</i>
 
-290
-00:17:45,999 --> 00:17:47,634
+272
+00:17:35,045 --> 00:17:36,680
 <i>we had a lot left over.</i>
 
-291
-00:17:51,071 --> 00:17:52,539
+273
+00:17:40,499 --> 00:17:41,755
 I'm home.
 
-292
-00:17:52,539 --> 00:17:56,076
-‐[party favors pop]
-‐[Kayo and Satoru gasp]
+274
+00:17:41,780 --> 00:17:43,573
+‐
+‐
 
-293
-00:17:56,076 --> 00:17:57,911
-[Osamu, giggling] Ready and...
+275
+00:17:45,099 --> 00:17:46,934
+Ready and...
 
-294
-00:17:57,911 --> 00:18:00,113
+276
+00:17:47,093 --> 00:17:49,295
 Kayo, Satoru!
 
-295
-00:18:00,113 --> 00:18:02,282
+277
+00:17:49,432 --> 00:17:51,601
 ‐Happy birthday!
 ‐Happy birthday, guys!
 
-296
-00:18:02,282 --> 00:18:05,852
-[Satoru] Wait. Mom,
+278
+00:17:51,710 --> 00:17:55,024
+Wait. Mom,
 you knew about this?
 
-297
-00:18:05,852 --> 00:18:07,521
-[Sachiko] I helped out a little,
+279
+00:17:55,049 --> 00:17:56,099
+I helped out a little,
 
-298
-00:18:07,521 --> 00:18:10,156
+280
+00:17:56,124 --> 00:17:59,287
 but they're the real masterminds
 behind this evil scheme.
 
-299
-00:18:10,156 --> 00:18:11,491
-[kids laugh]
-
-300
-00:18:11,491 --> 00:18:14,494
+281
+00:18:00,320 --> 00:18:03,744
 So then, today,
 those chores were planned, too?
 
-301
-00:18:14,494 --> 00:18:17,463
+282
+00:18:03,769 --> 00:18:06,412
 Uh‐huh. We asked Mr. Yashiro
 to stall you.
 
-302
-00:18:17,463 --> 00:18:20,100
+283
+00:18:06,680 --> 00:18:09,317
 He also told us it was
 Kayo's birthday today.
 
-303
-00:18:20,100 --> 00:18:22,803
-[chuckles] Guess our little
+284
+00:18:09,528 --> 00:18:12,051
+Guess our little
 surprise worked, huh?
 
-304
-00:18:22,803 --> 00:18:24,104
-[Satoru] Uh, yeah.
+285
+00:18:12,076 --> 00:18:13,377
+Uh, yeah.
 
-305
-00:18:24,104 --> 00:18:25,972
+286
+00:18:13,532 --> 00:18:15,094
 Guess what, Kayo.
 
-306
-00:18:25,972 --> 00:18:29,610
+287
+00:18:15,119 --> 00:18:18,245
 Satoru insisted on getting
 a cake just for you.
 
-307
-00:18:29,610 --> 00:18:33,413
+288
+00:18:19,038 --> 00:18:22,587
 I'm sorry, Satoru.
 I tried.
 
-308
-00:18:33,413 --> 00:18:35,916
+289
+00:18:22,612 --> 00:18:24,945
 But I couldn't finish
 your present in time.
 
-309
-00:18:35,916 --> 00:18:38,752
+290
+00:18:24,970 --> 00:18:27,806
 Seriously? You were
 making me something?
 
-310
-00:18:38,752 --> 00:18:40,186
+291
+00:18:27,831 --> 00:18:28,868
 Mm‐hmm.
 
-311
-00:18:40,186 --> 00:18:41,655
-[adult Satoru]
-<i>That's why she wanted</i>
+292
+00:18:29,375 --> 00:18:32,603
+<i>That's why she wanted
+to get home early yesterday.</i>
 
-312
-00:18:41,655 --> 00:18:43,590
-<i>to get home early yesterday.</i>
-
-313
-00:18:43,590 --> 00:18:47,661
+293
+00:18:33,018 --> 00:18:37,089
 Last night, I fell asleep
 before I could finish it.
 
-314
-00:18:47,661 --> 00:18:49,162
+294
+00:18:37,089 --> 00:18:38,315
 That's OK.
 
-315
-00:18:49,162 --> 00:18:51,164
+295
+00:18:38,340 --> 00:18:40,125
 You can give it to me later.
 
-316
-00:18:51,164 --> 00:18:52,899
+296
+00:18:40,314 --> 00:18:42,049
 Hey, guys.
 
-317
-00:18:52,899 --> 00:18:56,469
+297
+00:18:42,074 --> 00:18:45,644
 Let's make 5,000 yen
 worth of sandwiches!
 
-318
-00:18:56,469 --> 00:19:01,141
-‐[cheering]
-‐[Sachiko] What?
-You spent all the money?
+298
+00:18:45,669 --> 00:18:49,248
+- ‐ ‐ What?
+-  You spent all the money?
 
-319
-00:19:01,141 --> 00:19:04,444
-[adult Satoru]
+299
+00:18:50,330 --> 00:18:53,633
 <i>We all had a blast making</i>
 <i>those sandwiches together.</i>
 
-320
-00:19:06,379 --> 00:19:11,151
-<i>But this time,</i>
-<i>there weren't any left over</i>
-<i>at the end of the night.</i>
+300
+00:18:55,546 --> 00:18:59,921
+<i>But this time, there weren't any
+left over at the end of the night.</i>
 
-321
-00:19:11,151 --> 00:19:14,521
+301
+00:19:00,361 --> 00:19:03,731
 <i>Friends are the best, no doubt.</i>
 
-322
-00:19:15,822 --> 00:19:17,891
+302
+00:19:04,867 --> 00:19:06,936
 <i>Everyone brought presents</i>
 <i>for Kayo and me.</i>
 
-323
-00:19:17,891 --> 00:19:21,494
-[chuckles] <i>Talk about a haul.</i>
+303
+00:19:07,319 --> 00:19:10,922
+<i>Talk about a haul.</i>
 <i>And then...</i>
 
-324
-00:19:21,494 --> 00:19:23,530
-[Satoru] That's from me.
+304
+00:19:10,922 --> 00:19:12,441
+That's from me.
 
-325
-00:19:31,271 --> 00:19:33,406
+305
+00:19:20,250 --> 00:19:22,385
 Thank you, Satoru.
 
-326
-00:19:33,406 --> 00:19:35,909
+306
+00:19:22,725 --> 00:19:24,787
 Thank you, everyone.
 
-327
-00:19:37,443 --> 00:19:39,145
-[Kenya] You can leave
+307
+00:19:26,192 --> 00:19:27,894
+You can leave
 the cleaning up to us.
 
-328
-00:19:39,145 --> 00:19:41,181
-[Kazu] Yeah. Walk Kayo home.
+308
+00:19:27,919 --> 00:19:29,955
+Yeah. Walk Kayo home.
 
-329
-00:19:41,181 --> 00:19:42,816
-[Satoru shivering]
-
-330
-00:19:42,816 --> 00:19:45,519
+309
+00:19:31,507 --> 00:19:34,210
 ‐It's so cold!
 ‐You're an idiot.
 
-331
-00:19:48,154 --> 00:19:49,723
-[Satoru] G‐Good night.
+310
+00:19:37,062 --> 00:19:38,631
+G‐Good night.
 
-332
-00:19:51,892 --> 00:19:54,695
+311
+00:19:40,655 --> 00:19:43,767
 Here. Thank you for today.
 
-333
-00:19:54,695 --> 00:19:57,898
+312
+00:19:44,123 --> 00:19:47,056
 I'm glad I got to be friends
 with you and the others.
 
-334
-00:19:57,898 --> 00:20:01,201
+313
+00:19:47,936 --> 00:19:50,629
 I'll give you your present
 tomorrow.
 
-335
-00:20:01,201 --> 00:20:02,603
+314
+00:19:50,629 --> 00:19:52,031
 Promise.
 
-336
-00:20:03,904 --> 00:20:06,439
+315
+00:19:52,992 --> 00:19:55,527
 Mm‐hmm. Can't wait.
 
-337
-00:20:06,439 --> 00:20:09,242
+316
+00:19:55,751 --> 00:19:58,554
 ‐Good night.
 ‐Good night.
 
-338
-00:20:22,088 --> 00:20:24,791
+317
+00:20:11,241 --> 00:20:13,944
 <i>I did it. I did it.</i>
 
-339
-00:20:24,791 --> 00:20:26,960
+318
+00:20:13,969 --> 00:20:15,780
 <i>It worked!</i>
 
-340
-00:20:26,960 --> 00:20:29,262
+319
+00:20:16,069 --> 00:20:18,371
 <i>I changed history.</i>
 
-341
-00:20:35,936 --> 00:20:38,271
+320
+00:20:24,966 --> 00:20:27,301
 <i>Everyone had left</i>
 <i>by the time I got home.</i>
 
-342
-00:20:39,906 --> 00:20:42,475
+321
+00:20:28,871 --> 00:20:31,440
 <i>I was so exhausted</i>
 <i>from the past few days,</i>
 
-343
-00:20:42,475 --> 00:20:45,612
+322
+00:20:31,634 --> 00:20:34,771
 <i>all that built‐up tension</i>
 <i>finally popped.</i>
 
-344
-00:20:45,612 --> 00:20:49,850
+323
+00:20:34,796 --> 00:20:38,676
 <i>I collapsed on my futon</i>
 <i>and slept like a log.</i>
 
-345
-00:20:54,788 --> 00:20:56,957
-[adult Satoru]
+324
+00:20:43,465 --> 00:20:45,634
 <i>Son of a bitch, I'm late!</i>
 
-346
-00:20:56,957 --> 00:20:58,759
+325
+00:20:46,045 --> 00:20:47,847
 I'm here, sir, sorry!
 
-347
-00:20:58,759 --> 00:21:01,962
+326
+00:20:47,872 --> 00:20:51,075
 Just in time. I was about
 to mark you tardy.
 
-348
-00:21:01,962 --> 00:21:03,196
-[kids murmuring]
-
-349
-00:21:03,196 --> 00:21:04,698
+327
+00:20:52,599 --> 00:20:54,101
 <i>Made it.</i>
 
-350
-00:21:04,698 --> 00:21:08,769
-[teacher] OK. Does anyone know
+328
+00:20:54,126 --> 00:20:57,902
+OK. Does anyone know
 if Kayo's coming today?
 
-351
-00:21:20,747 --> 00:21:24,651
+329
+00:21:10,175 --> 00:21:13,572
 <i>Kayo didn't show up that day.</i>
 <i>Or the next one.</i>
 
-352
-00:21:26,186 --> 00:21:27,821
+330
+00:21:15,079 --> 00:21:16,714
 <i>And that promise she made me...</i>
 
-353
-00:21:27,821 --> 00:21:30,657
+331
+00:21:17,249 --> 00:21:20,085
 <i>she never got to keep it.</i>
-
-354
-00:21:32,526 --> 00:21:34,528
-[theme song plays]
-
-355
-00:21:36,262 --> 00:21:38,832
-[woman singing in Japanese]
 

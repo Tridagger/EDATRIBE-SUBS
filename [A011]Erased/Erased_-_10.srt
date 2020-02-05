@@ -1,1604 +1,1335 @@
 ﻿1
-00:00:06,328 --> 00:00:09,128
-[teacher] Congratulations,
+00:00:01,439 --> 00:00:03,359
+Congratulations,
 everyone.
 
 2
-00:00:10,861 --> 00:00:15,194
-[adult Satoru narrating]
-<i>In 1988, the first time</i>
-<i>I lived it,</i>
+00:00:05,551 --> 00:00:09,236
+<i>In 1988, the first time I lived it,</i>
 
 3
-00:00:15,194 --> 00:00:17,861
-<i>Kayo Hinazuki</i>
-<i>and Aya Nakanishi disappeared</i>
+00:00:09,608 --> 00:00:12,817
+<i>Kayo Hinazuki and Aya Nakanishi disappeared</i>
 
 4
-00:00:17,861 --> 00:00:20,128
-<i>and their bodies</i>
-<i>were found later.</i>
+00:00:12,842 --> 00:00:14,736
+<i>and their bodies were found later.</i>
 
 5
-00:00:20,128 --> 00:00:23,728
-<i>I was too helpless</i>
-<i>to save anyone.</i>
+00:00:15,291 --> 00:00:17,785
+<i>I was too helpless to save anyone.</i>
 
 6
-00:00:25,761 --> 00:00:29,561
-<i>I tried hard to forget,</i>
-<i>and I did.</i>
+00:00:20,600 --> 00:00:23,944
+<i>I tried hard to forget, and I did.</i>
 
 7
-00:00:29,561 --> 00:00:35,528
-<i>But in the end, I had</i>
-<i>a big gaping hole in my heart.</i>
+00:00:24,169 --> 00:00:28,157
+<i>But in the end, I had a big gaping hole in my heart.</i>
 
 8
-00:00:35,528 --> 00:00:39,561
-[teacher] These past six years,
-we've experienced success
-and failure,
+00:00:30,287 --> 00:00:33,978
+These past six years,
+we've experienced success and failure,
 
 9
-00:00:39,561 --> 00:00:41,394
+00:00:34,003 --> 00:00:35,660
 happiness and sadness.
 
 10
-00:00:41,394 --> 00:00:44,061
-Good or bad,
-the experiences we share
+00:00:36,555 --> 00:00:41,029
+Good or bad, the experiences we share
+fill a void we all have inside of us.
 
 11
-00:00:44,061 --> 00:00:46,994
-fill a void
-we all have inside of us.
-
-12
-00:00:46,994 --> 00:00:49,461
+00:00:41,809 --> 00:00:43,728
 Everyone. Even me.
 
-13
-00:00:49,461 --> 00:00:53,261
+12
+00:00:44,069 --> 00:00:47,869
 So keep filling it,
-and you'll enrich your life,
-and others' too.
+and you'll enrich your life, and others' too.
+
+13
+00:00:47,869 --> 00:00:50,915
+That’s what life's about. Never forget that.
 
 14
-00:00:53,261 --> 00:00:56,728
-That’s what life's about.
-Never forget that.
+00:02:30,428 --> 00:02:31,966
+Uh, hey there.
 
 15
-00:01:01,528 --> 00:01:03,961
-[theme song plays]
+00:02:33,542 --> 00:02:34,754
+Who are you?
 
 16
-00:01:14,694 --> 00:01:16,961
-[man singing in Japanese]
+00:02:35,122 --> 00:02:38,788
+- ‐ I'm Satoru Fujinuma.
+- ‐ I'm Kenya Kobayashi.
 
 17
-00:02:37,594 --> 00:02:40,461
-[Satoru] Uh, hey there.
+00:02:38,788 --> 00:02:40,558
+‐ I'm Hiromi Sugita.
 
 18
-00:02:40,461 --> 00:02:42,328
-[Aya] Who are you?
+00:02:40,797 --> 00:02:42,198
+Have we met before?
 
 19
-00:02:42,328 --> 00:02:45,994
-‐[Satoru] I'm Satoru Fujinuma.
-‐[Kenya] I'm Kenya Kobayashi.
+00:02:42,223 --> 00:02:44,140
+Uh, you're Aya Nakanishi.
 
 20
-00:02:45,994 --> 00:02:48,028
-‐[Hiromi] I'm Hiromi Sugita.
-
-21
-00:02:48,028 --> 00:02:49,794
-[Aya] Have we met before?
-
-22
-00:02:49,794 --> 00:02:51,494
-[Satoru] Uh, you're
-Aya Nakanishi.
-
-23
-00:02:51,494 --> 00:02:53,161
+00:02:44,165 --> 00:02:45,832
 I heard you're good at piano.
 
-24
-00:02:54,494 --> 00:02:56,161
-[Aya] Yeah, I guess.
+21
+00:02:47,129 --> 00:02:48,796
+Yeah, I guess.
 
-25
-00:02:56,161 --> 00:02:58,961
-So, did we meet
-in piano class?
+22
+00:02:48,821 --> 00:02:51,357
+So, did we meet in piano class?
 
-26
-00:02:58,961 --> 00:03:00,928
+23
+00:02:51,382 --> 00:02:52,905
 Well, actually, no.
 
-27
-00:03:00,928 --> 00:03:03,194
+24
+00:02:53,513 --> 00:02:55,779
 So, anyway, what you reading?
 
+25
+00:02:55,948 --> 00:02:58,557
+Oh, this? Shakespeare.
+
+26
+00:02:58,582 --> 00:03:01,781
+"King Lear." I've only read "Romeo and Juliet."
+
+27
+00:03:01,806 --> 00:03:05,288
+Reading this stuff and playing piano are my parents' idea.
+
 28
-00:03:03,194 --> 00:03:06,161
-[Aya] Oh, this? Shakespeare.
+00:03:06,533 --> 00:03:08,855
+I can't hear what they're talking about.
 
 29
-00:03:06,161 --> 00:03:08,928
-"King Lear." I've only read
-"Romeo and Juliet."
+00:03:08,855 --> 00:03:11,255
+Maybe we should try and get a little closer.
 
 30
-00:03:08,928 --> 00:03:12,494
-[Aya] Reading this stuff
-and playing piano
-are my parents' idea.
+00:03:11,255 --> 00:03:14,088
+Wait, now I remember where I've seen you before.
 
 31
-00:03:12,494 --> 00:03:16,061
-[Kazu] I can't hear
-what they're talking about.
-
-32
-00:03:16,061 --> 00:03:18,461
-Maybe we should try
-and get a little closer.
-
-33
-00:03:18,461 --> 00:03:21,294
-Wait, now I remember where
-I've seen you before.
-
-34
-00:03:21,294 --> 00:03:24,561
+00:03:14,088 --> 00:03:17,355
 You're the kids who are always
 sneaking into that old building.
 
-35
-00:03:24,561 --> 00:03:26,028
+32
+00:03:17,355 --> 00:03:18,822
 Aren't you?
 
-36
-00:03:26,028 --> 00:03:29,761
-Darn it. So much for having
-a secret hideout.
+33
+00:03:18,822 --> 00:03:22,471
+Darn it. So much for having a secret hideout.
 
-37
-00:03:29,761 --> 00:03:32,328
+34
+00:03:22,496 --> 00:03:25,400
 Hideout? That's so childish.
 
-38
-00:03:32,328 --> 00:03:36,594
-‐[gasp] You...
+35
+00:03:26,183 --> 00:03:29,388
+‐ You...
 ‐You shouldn't call it childish.
 
+36
+00:03:29,388 --> 00:03:32,232
+Yeah, well, the only ones who sneak around building forts
+
+37
+00:03:32,257 --> 00:03:34,117
+and secret hideouts are little boys.
+
+38
+00:03:34,222 --> 00:03:36,688
+I bet you like playing superhero too.
+
 39
-00:03:36,594 --> 00:03:39,294
-Yeah, well, the only ones
-who sneak around building forts
-
-40
-00:03:39,294 --> 00:03:41,428
-and secret hideouts
-are little boys.
-
-41
-00:03:41,428 --> 00:03:43,894
-I bet you like playing
-superhero too.
-
-42
-00:03:43,894 --> 00:03:46,494
+00:03:36,820 --> 00:03:39,420
 Don't make fun of superheroes!
 
-43
-00:03:46,494 --> 00:03:51,528
-‐[Hiromi] Easy, Satoru!
-‐[Aya] Nice meeting you,
-but I have to go now.
+40
+00:03:39,830 --> 00:03:43,344
+-Easy, Satoru!
+-Nice meeting you, but I have to go now.
 
-44
-00:03:51,528 --> 00:03:54,594
+41
+00:03:44,083 --> 00:03:45,353
 Bye, kids.
 
-45
-00:03:54,594 --> 00:03:55,928
-[Kazu] Hold up!
+42
+00:03:47,388 --> 00:03:48,722
+Hold up!
 
-46
-00:03:55,928 --> 00:03:57,494
-[boys] Kazu?!
+43
+00:03:48,722 --> 00:03:49,891
+Kazu?!
 
-47
-00:03:59,728 --> 00:04:03,494
+44
+00:03:52,214 --> 00:03:54,599
 ‐What do you want?
 ‐A hideout...
 
-48
-00:04:03,494 --> 00:04:05,161
+45
+00:03:56,218 --> 00:03:58,147
 is totally macho!
 
-49
-00:04:07,194 --> 00:04:08,494
+46
+00:03:59,988 --> 00:04:01,288
 Uh...
 
-50
-00:04:08,494 --> 00:04:11,694
-‐[laughs]
-‐You should come
-and see it sometime.
+47
+00:04:02,552 --> 00:04:04,488
+You should come and see it sometime.
 
-51
-00:04:11,694 --> 00:04:13,761
+48
+00:04:04,488 --> 00:04:06,025
 You'll get what I mean.
 
+49
+00:04:06,694 --> 00:04:08,651
+You're a bunch of weirdoes!
+
+50
+00:04:12,756 --> 00:04:14,659
+She’s childish.
+
+51
+00:04:16,555 --> 00:04:19,150
+You were so rad yesterday!
+
 52
-00:04:13,761 --> 00:04:16,428
-[Aya] You're a bunch
-of weirdoes!
-
-53
-00:04:20,061 --> 00:04:22,094
-[Kenya] She’s childish.
-
-54
-00:04:23,761 --> 00:04:26,028
-[Osamu] You were so rad
-yesterday!
-
-55
-00:04:26,028 --> 00:04:28,328
-[adult Satoru thinking]
+00:04:19,487 --> 00:04:20,868
 <i>It's my gloves,</i>
 
-56
-00:04:28,328 --> 00:04:31,794
-<i>right where I left them</i>
-<i>18 years ago.</i>
+53
+00:04:21,229 --> 00:04:23,595
+<i>right where I left them 18 years ago.</i>
 
-57
-00:04:31,794 --> 00:04:34,961
-‐Leveling up's
-a pain in the nuts.
+54
+00:04:24,588 --> 00:04:27,842
+‐Leveling up's a pain in the nuts.
 ‐That's what makes games fun.
 
-58
-00:04:34,961 --> 00:04:37,494
-Hey, Satoru, Aya's gonna be
-at the park soon,
+55
+00:04:27,867 --> 00:04:30,724
+Hey, Satoru,
+Aya's gonna be at the park soon,
 
-59
-00:04:37,494 --> 00:04:39,561
-so maybe we should
-start heading over.
+56
+00:04:30,749 --> 00:04:32,542
+so maybe we should start heading over.
 
-60
-00:04:39,561 --> 00:04:42,794
+57
+00:04:32,567 --> 00:04:36,250
 It's cool.
 I can see the bench from here.
 
-61
-00:04:42,794 --> 00:04:44,228
+58
+00:04:36,275 --> 00:04:37,295
 OK.
 
-62
-00:04:44,228 --> 00:04:46,961
-[adult Satoru thinking]
+59
+00:04:37,668 --> 00:04:39,566
 <i>Yesterday was a wash.</i>
 
-63
-00:04:46,961 --> 00:04:50,394
-<i>I gotta figure out</i>
-<i>how to get close to her.</i>
+60
+00:04:39,695 --> 00:04:42,123
+<i>I gotta figure out how to get close to her.</i>
 
-64
-00:04:50,394 --> 00:04:51,861
-[bam!]
+61
+00:04:46,697 --> 00:04:50,069
+All right, I'm here to see this macho hideout of yours.
 
-65
-00:04:53,594 --> 00:04:57,394
-All right, I'm here to see
-this macho hideout of yours.
-
-66
-00:04:59,528 --> 00:05:03,728
+62
+00:04:52,530 --> 00:04:56,730
 Um... thanks for coming, Aya.
 Can you stay awhile?
 
-67
-00:05:03,728 --> 00:05:06,428
+63
+00:04:56,790 --> 00:04:57,877
 Mm‐hmm.
 
-68
-00:05:06,428 --> 00:05:09,194
-‐[girl 1] See you.
-‐[girl 2] Bye‐bye.
+64
+00:04:59,532 --> 00:05:01,674
+- See you.
+- Bye‐bye.
 
-69
-00:05:09,194 --> 00:05:12,794
-[humming]
-
-70
-00:05:12,794 --> 00:05:14,461
+65
+00:05:05,588 --> 00:05:07,302
 You off to see Aya again?
 
-71
-00:05:14,461 --> 00:05:17,761
-[Kazu] Yep. We'll cruise by
-the hideout later.
+66
+00:05:07,564 --> 00:05:10,278
+Yep. We'll cruise by the hideout later.
 
-72
-00:05:17,761 --> 00:05:19,561
+67
+00:05:10,782 --> 00:05:12,582
 Well, guys, see you then!
 
-73
-00:05:19,561 --> 00:05:23,394
+68
+00:05:13,561 --> 00:05:16,346
 ‐Later days, teach!
 ‐"Goodbye" is more proper.
 
+69
+00:05:16,851 --> 00:05:19,288
+I can't picture Aya and Kazu liking each other.
+
+70
+00:05:19,288 --> 00:05:21,255
+Yeah, me neither, but the good thing is,
+
+71
+00:05:21,255 --> 00:05:23,053
+she's always got someone with her now.
+
+72
+00:05:23,078 --> 00:05:24,125
+Mm‐hmm.
+
+73
+00:05:25,355 --> 00:05:29,588
+Um, you guys, I... I just wanted to say thank you.
+
 74
-00:05:23,394 --> 00:05:26,494
-I can't picture Aya
-and Kazu liking each other.
+00:05:29,613 --> 00:05:30,697
+Why?
 
 75
-00:05:26,494 --> 00:05:28,461
-Yeah, me neither,
-but the good thing is,
+00:05:30,918 --> 00:05:34,921
+I think it's awesome how you're going
+around making sure none of us are alone.
 
 76
-00:05:28,461 --> 00:05:30,794
-she's always got
-someone with her now.
-
-77
-00:05:30,794 --> 00:05:32,561
-[Satoru] Mm‐hmm.
-
-78
-00:05:32,561 --> 00:05:36,794
-Um, you guys, I...
-I just wanted to say thank you.
-
-79
-00:05:36,794 --> 00:05:40,094
-‐Why?
-‐I think it's awesome
-how you're going around
-
-80
-00:05:40,094 --> 00:05:41,961
-making sure
-none of us are alone.
-
-81
-00:05:41,961 --> 00:05:43,894
+00:05:35,322 --> 00:05:36,796
 Both of my parents work,
 
-82
-00:05:43,894 --> 00:05:48,094
-and nothing felt worse
-than me getting home
-and the house being empty.
+77
+00:05:37,241 --> 00:05:40,838
+and nothing felt worse than me getting
+home and the house being empty.
 
-83
-00:05:48,094 --> 00:05:53,728
-It's pretty awesome how you kept
-Kayo and Aya and me from being
-alone all the time.
+78
+00:05:41,396 --> 00:05:46,267
+It's pretty awesome how you kept Kayo and
+Aya and me from being alone all the time.
 
-84
-00:05:53,728 --> 00:05:55,494
+79
+00:05:46,670 --> 00:05:48,436
 So thank you.
 
-85
-00:05:55,494 --> 00:05:57,594
-[giggles]
-
-86
-00:05:57,594 --> 00:06:02,661
-Hey, guys!
-We going to the hideout or what?
+80
+00:05:50,975 --> 00:05:55,921
+Hey, guys! We going to the hideout or what?
 I'm getting tired of waiting.
 
-87
-00:06:02,661 --> 00:06:07,161
-‐What's up? Where's Kazu?
-‐[Kenya] He went to go meet Aya.
+81
+00:05:56,153 --> 00:05:59,603
+- ‐What's up? Where's Kazu?
+- ‐ He went to go meet Aya.
 
-88
-00:06:07,161 --> 00:06:09,561
+82
+00:06:00,115 --> 00:06:02,877
 ‐How come?
 ‐You're joking, right?
 
-89
-00:06:09,561 --> 00:06:12,561
-It's not like she doesn't know
-where our hideout is.
+83
+00:06:02,902 --> 00:06:05,417
+It's not like she doesn't know where our hideout is.
 
-90
-00:06:12,561 --> 00:06:14,528
+84
+00:06:05,467 --> 00:06:07,322
 Maybe you should talk to him.
 
-91
-00:06:14,528 --> 00:06:17,194
-[Osamu] Oh, whatever.
+85
+00:06:07,322 --> 00:06:09,988
+Oh, whatever.
 Let's get going, already!
 
-92
-00:06:17,194 --> 00:06:18,594
-[others] OK.
+86
+00:06:09,988 --> 00:06:11,388
+OK.
 
-93
-00:06:18,594 --> 00:06:20,894
-[girls]
+87
+00:06:11,388 --> 00:06:13,688
 Goodbye, Mr. Yashiro.
 
-94
-00:06:25,328 --> 00:06:29,428
-‐[Osamu] Slow pokes
-‐[Satoru] What's the rush?
+88
+00:06:18,320 --> 00:06:21,200
+‐ Slow pokes
+‐ What's the rush?
 
-95
-00:06:29,428 --> 00:06:30,928
-[Hiromi] Wait up, guys!
+89
+00:06:22,113 --> 00:06:23,613
+Wait up, guys!
 
-96
-00:06:32,561 --> 00:06:33,928
-[indistinct chatter]
-
-97
-00:06:33,928 --> 00:06:35,561
-[adult Satoru thinking]
+90
+00:06:26,930 --> 00:06:28,563
 <i>Aya Nakanishi,</i>
 
-98
-00:06:35,561 --> 00:06:37,728
+91
+00:06:29,149 --> 00:06:30,690
 <i>Hiromi Sugita,</i>
 
-99
-00:06:37,728 --> 00:06:39,894
+92
+00:06:30,871 --> 00:06:32,688
 <i>and Kayo Hinazuki.</i>
 
-100
-00:06:39,894 --> 00:06:41,561
+93
+00:06:33,222 --> 00:06:34,760
 <i>They're all still alive,</i>
 
-101
-00:06:41,561 --> 00:06:44,628
-<i>so I guess that means</i>
-<i>the killer gave up on them.</i>
+94
+00:06:34,805 --> 00:06:37,551
+<i>so I guess that means the killer gave up on them.</i>
 
-102
-00:06:44,628 --> 00:06:47,728
-<i>But now that the clues</i>
-<i>from the bus are gone,</i>
+95
+00:06:38,065 --> 00:06:40,648
+<i>But now that the clues from the bus are gone,</i>
 
-103
-00:06:47,728 --> 00:06:49,461
+96
+00:06:40,782 --> 00:06:42,364
 <i>how am I gonna find him?</i>
 
-104
-00:06:49,461 --> 00:06:51,861
-There. Now he really
-looks like a girl.
+97
+00:06:42,441 --> 00:06:45,023
+There. Now he really looks like a girl.
 
-105
-00:06:51,861 --> 00:06:53,661
-‐[laughter]
-‐[Kazu] Whoa!
+98
+00:06:45,122 --> 00:06:46,455
+Whoa!
 
-106
-00:06:53,661 --> 00:06:58,761
+99
+00:06:46,846 --> 00:06:51,171
 Now what? Are you done?
 You know, playing detective.
 
-107
-00:06:58,761 --> 00:07:02,494
+100
+00:06:52,270 --> 00:06:55,119
 Not yet.
 I'm still on the case.
 
-108
-00:07:04,328 --> 00:07:07,694
-[adult Satoru narrating]
-<i>In 2006, my mom told Sawada</i>
+101
+00:06:57,646 --> 00:07:03,089
+<i>In 2006, my mom told Sawada she
+thought she knew who the killer was.</i>
 
-109
-00:07:07,694 --> 00:07:10,494
-<i>she thought she knew</i>
-<i>who the killer was.</i>
+102
+00:07:03,879 --> 00:07:08,518
+<i>It's possible it's someone she knows now, in 1988.</i>
 
-110
-00:07:10,494 --> 00:07:16,061
-<i>It's possible it's someone</i>
-<i>she knows now, in 1988.</i>
+103
+00:07:09,237 --> 00:07:11,504
+<i>Maybe like Mr. Yashiro and his candy,</i>
 
-111
-00:07:16,061 --> 00:07:18,328
-<i>Maybe like Mr. Yashiro</i>
-<i>and his candy,</i>
+104
+00:07:11,504 --> 00:07:13,370
+<i>the killer needs, a substitute, too,</i>
 
-112
-00:07:18,328 --> 00:07:20,194
-<i>the killer needs,</i>
-<i>a substitute, too,</i>
+105
+00:07:13,370 --> 00:07:16,620
+<i>someone to take the place of the kids that got away.</i>
 
-113
-00:07:20,194 --> 00:07:24,094
-<i>someone to take the place</i>
-<i>of the kids that got away.</i>
-
-114
-00:07:33,528 --> 00:07:35,328
+106
+00:07:26,008 --> 00:07:27,808
 Move it.
 
-115
-00:07:38,728 --> 00:07:42,694
-Well, me and Kenya
-are heading out now
-to go watch the hockey game.
+107
+00:07:31,670 --> 00:07:35,636
+Well, me and Kenya are heading out
+now to go watch the hockey game.
 
-116
-00:07:42,694 --> 00:07:44,828
+108
+00:07:35,636 --> 00:07:37,770
 ‐Is Hamada playing?
 ‐You know it.
 
-117
-00:07:44,828 --> 00:07:48,094
-Wish I could go.
-When you see him,
-tell him I said good luck.
+109
+00:07:37,770 --> 00:07:41,036
+Wish I could go. When you see
+him, tell him I said good luck.
 
-118
-00:07:48,094 --> 00:07:49,828
+110
+00:07:41,036 --> 00:07:43,135
 ‐Sure.
 ‐See ya later.
 
-119
-00:07:49,828 --> 00:07:52,494
-[Hiromi panting]
-
-120
-00:07:52,494 --> 00:07:54,761
+111
+00:07:44,874 --> 00:07:46,450
 Here I am.
 
-121
-00:07:54,761 --> 00:07:58,494
-You notice how Misato's been
-keeping to herself lately?
+112
+00:07:47,944 --> 00:07:51,436
+You notice how Misato's been keeping to herself lately?
 
-122
-00:07:58,494 --> 00:07:59,894
-[Satoru] No. Really?
+113
+00:07:51,436 --> 00:07:52,836
+No. Really?
 
-123
-00:07:59,894 --> 00:08:02,328
-[Hiromi] Yeah.
+114
+00:07:52,836 --> 00:07:55,270
+Yeah.
 People have been avoiding her,
 
-124
-00:08:02,328 --> 00:08:05,228
-ever since that lunch money
-thing happened.
+115
+00:07:55,270 --> 00:07:57,835
+ever since that lunch money thing happened.
 
-125
-00:08:05,228 --> 00:08:09,594
-Oh, man. I guess I could try
-talking to her on Monday.
+116
+00:07:58,787 --> 00:08:02,362
+Oh, man. I guess I could try talking to her on Monday.
 
-126
-00:08:09,594 --> 00:08:11,861
-[Hiromi] Cool.
+117
+00:08:02,546 --> 00:08:03,603
+Cool.
 
-127
-00:08:17,894 --> 00:08:19,328
-[Satoru] Thanks for breakfast!
+118
+00:08:10,786 --> 00:08:12,220
+Thanks for breakfast!
 
-128
-00:08:26,161 --> 00:08:28,528
+119
+00:08:19,300 --> 00:08:21,667
 Oh, yeah,
 I might be a little late today.
 
-129
-00:08:28,528 --> 00:08:31,328
-[Sachiko] Not too late, I hope.
+120
+00:08:21,667 --> 00:08:24,467
+Not too late, I hope.
 When you know what time,
 
-130
-00:08:31,328 --> 00:08:33,294
-how about you call
-and let me know, OK?
+121
+00:08:24,467 --> 00:08:26,433
+how about you call and let me know, OK?
 
-131
-00:08:33,294 --> 00:08:36,661
+122
+00:08:26,433 --> 00:08:29,458
 Mm‐hmm, I will.
 See ya later, Mom!
 
-132
-00:08:36,661 --> 00:08:39,028
+123
+00:08:29,483 --> 00:08:31,850
 Have a good day today, Satoru.
 
-133
-00:08:41,361 --> 00:08:43,728
-‐[girl 1] Mr. Yashiro's
-gonna take us.
-‐[girl 2] Really?
+124
+00:08:34,749 --> 00:08:37,198
+‐ Mr. Yashiro's gonna take us.
+‐ Really?
 
-134
-00:08:43,728 --> 00:08:47,528
-‐You‐know‐who will have to
-walk over there.
-‐[giggling]
+125
+00:08:37,427 --> 00:08:39,729
+You know who will have to walk over there.
 
-135
-00:08:47,528 --> 00:08:51,861
-‐[girl] Too bad for her.
-‐[adult Satoru thinking]
-<i>What can I say to her?</i>
+126
+00:08:41,148 --> 00:08:43,600
+‐ Too bad for her.
+‐ <i>What can I say to her?</i>
 
-136
-00:08:55,661 --> 00:08:58,161
+127
+00:08:48,327 --> 00:08:50,575
 Crap! Missed her.
 
-137
-00:09:03,961 --> 00:09:08,994
-Satoru, I heard you're gonna try
-helping Misato next.
+128
+00:08:57,102 --> 00:09:01,895
+Satoru, I heard you're gonna try helping Misato next.
 
-138
-00:09:08,994 --> 00:09:10,861
+129
+00:09:01,920 --> 00:09:03,787
 Mm‐hmm, but she just left.
 
-139
-00:09:10,861 --> 00:09:13,261
-I bet she's going
-to Wakaba Gym.
+130
+00:09:04,158 --> 00:09:06,558
+I bet she's going to Wakaba Gym.
 
-140
-00:09:13,261 --> 00:09:16,228
+131
+00:09:06,646 --> 00:09:09,367
 ‐Really?
 ‐Yeah, Hamada's playing,
 
-141
-00:09:16,228 --> 00:09:19,194
-so Mr. Yashiro invited her
-to go cheer him on.
+132
+00:09:09,367 --> 00:09:12,333
+so Mr. Yashiro invited her to go cheer him on.
 
-142
-00:09:19,194 --> 00:09:22,194
-You know what, she went
-to last week's game alone, too.
+133
+00:09:12,333 --> 00:09:15,333
+You know what,
+she went to last week's game alone, too.
 
-143
-00:09:22,194 --> 00:09:25,094
+134
+00:09:15,333 --> 00:09:18,233
 ‐Thanks.
 ‐Want us to go with you?
 
-144
-00:09:25,094 --> 00:09:28,961
-Nah, I think I better
-do this myself.
+135
+00:09:18,233 --> 00:09:22,100
+Nah, I think I better do this myself.
 It's no biggie.
 
-145
-00:09:28,961 --> 00:09:32,794
-OK, but I want
-a full report tomorrow.
+136
+00:09:22,100 --> 00:09:25,933
+OK, but I want a full report tomorrow.
 
-146
-00:09:32,794 --> 00:09:34,461
+137
+00:09:25,933 --> 00:09:27,600
 Got it, Detective Satoru?
 
-147
-00:09:34,461 --> 00:09:35,794
+138
+00:09:27,600 --> 00:09:28,933
 Sure.
 
-148
-00:09:35,794 --> 00:09:38,028
-We'll be at the hideout
-if you need backup.
+139
+00:09:28,933 --> 00:09:31,167
+We'll be at the hideout if you need backup.
 
-149
-00:09:38,028 --> 00:09:40,128
-‐Mm‐hmm. See you later!
-‐[Kazu] Later, dude!
+140
+00:09:31,167 --> 00:09:33,267
+- ‐Mm‐hmm. See you later!
+- ‐ Later, dude!
 
-150
-00:09:40,128 --> 00:09:41,794
-‐[Osamu] See you tomorrow!
-‐[Satoru] You got it.
+141
+00:09:33,267 --> 00:09:34,933
+- ‐ See you tomorrow!
+- ‐ You got it.
 
-151
-00:09:41,794 --> 00:09:44,294
-‐[Kenya] Bye!
-‐[Hiromi] See ya!
-‐[Satoru] Bye, you guys!
+142
+00:09:34,933 --> 00:09:37,433
+‐ Bye! ‐ See ya!
+‐ Bye, you guys!
 
-152
-00:09:44,294 --> 00:09:47,561
-Saying bye's
-a big deal with him.
+143
+00:09:38,677 --> 00:09:40,700
+Saying bye's a big deal with him.
 
-153
-00:09:47,561 --> 00:09:51,428
-I know, right? He acts like
-he'll never see us again.
+144
+00:09:40,700 --> 00:09:43,982
+I know, right?
+He acts like he'll never see us again.
 
-154
-00:09:55,328 --> 00:09:59,094
-Whoa! It's even colder
-in here than outside.
+145
+00:09:46,526 --> 00:09:50,292
+Whoa! It's even colder in here than outside.
 
-155
-00:09:59,094 --> 00:10:00,894
-[girl] Ohhh! Hamada!
+146
+00:09:50,292 --> 00:09:52,092
+Ohhh! Hamada!
 
-156
-00:10:00,894 --> 00:10:03,128
+147
+00:09:52,092 --> 00:09:54,326
 Show 'em who's boss out there.
 
-157
-00:10:03,128 --> 00:10:05,361
-I can't concentrate
-with you uglies yellin'!
+148
+00:09:54,326 --> 00:09:56,559
+I can't concentrate with you uglies yellin'!
 
-158
-00:10:05,361 --> 00:10:09,361
+149
+00:09:56,559 --> 00:10:00,559
 ‐Ah, we can yell if we want.
 ‐Watch the attitude, Kouichi.
 
-159
-00:10:09,361 --> 00:10:12,528
+150
+00:10:00,559 --> 00:10:03,726
 ‐Otherwise, no dinner for you.
 ‐What? But they're bugging <i>me!</i>
 
-160
-00:10:12,528 --> 00:10:14,494
-[girls laughing]
-
-161
-00:10:14,494 --> 00:10:16,194
-[chuckles]
-
-162
-00:10:20,228 --> 00:10:21,894
-[adult Satoru thinking]
+151
+00:10:11,426 --> 00:10:13,092
 <i>There she is.</i>
 
-163
-00:10:21,894 --> 00:10:23,861
+152
+00:10:13,092 --> 00:10:15,059
 <i>And she's alone.</i>
 
-164
-00:10:23,861 --> 00:10:27,961
-‐All right, guys, warm up
-and get your game face on.
-‐[team] Yes, sir!
+153
+00:10:15,059 --> 00:10:19,159
+-All right, guys, warm up and get your game face on.
+- Yes, sir!
 
-165
-00:10:27,961 --> 00:10:31,061
-[adult Satoru thinking]
-<i>Now the killer's lost</i>
-<i>two more potential victims,</i>
+154
+00:10:19,388 --> 00:10:23,989
+<i>Now the killer's lost two more potential victims,
+it makes sense he'd go for her next.</i>
 
-166
-00:10:31,061 --> 00:10:33,094
-<i>it makes sense</i>
-<i>he'd go for her next.</i>
-
-167
-00:10:33,094 --> 00:10:35,328
+155
+00:10:24,014 --> 00:10:25,874
 <i>She's a perfect target.</i>
 
-168
-00:10:40,594 --> 00:10:43,961
+156
+00:10:31,336 --> 00:10:33,483
 <i>She's going to the bathroom.</i>
 
-169
-00:10:43,961 --> 00:10:45,861
+157
+00:10:35,020 --> 00:10:36,920
 Game starts in five!
 
-170
-00:10:45,861 --> 00:10:48,228
-[player] You got it, coach!
+158
+00:10:36,945 --> 00:10:38,319
+You got it, coach!
 
-171
-00:10:48,228 --> 00:10:51,061
-[adult Satoru thinking]
+159
+00:10:39,475 --> 00:10:41,756
 <i>Why is she taking so long?</i>
 
-172
-00:10:54,761 --> 00:10:57,294
-[door opens]
+160
+00:10:50,152 --> 00:10:53,952
+I needed a candy break. What's wrong?
 
-173
-00:10:57,294 --> 00:10:58,694
-[gulp]
-
-174
-00:10:58,694 --> 00:11:02,494
-I needed a candy break.
-What's wrong?
-
-175
-00:11:02,494 --> 00:11:04,294
+161
+00:10:53,952 --> 00:10:55,752
 The game's about to start.
 
-176
-00:11:04,294 --> 00:11:05,928
-Are you standing guard
-for someone?
+162
+00:10:55,752 --> 00:10:57,386
+Are you standing guard for someone?
 
-177
-00:11:05,928 --> 00:11:09,094
+163
+00:10:57,386 --> 00:11:00,246
 Huh? Oh, uh... no.
 
-178
-00:11:09,094 --> 00:11:11,394
-I just wanted to talk
-to Misato.
+164
+00:11:00,274 --> 00:11:02,574
+I just wanted to talk to Misato.
 
-179
-00:11:11,394 --> 00:11:14,128
+165
+00:11:02,599 --> 00:11:05,333
 Misato. Hmm...
 
-180
-00:11:15,794 --> 00:11:17,994
+166
+00:11:07,252 --> 00:11:08,383
 Huh.
 
-181
-00:11:17,994 --> 00:11:21,028
+167
+00:11:09,353 --> 00:11:12,387
 ‐What, did she go outside?
 ‐Uh‐huh.
 
-182
-00:11:21,028 --> 00:11:23,494
-[adult Satoru thinking]
+168
+00:11:12,412 --> 00:11:14,219
 <i>Where did she take off to?</i>
 
-183
-00:11:28,028 --> 00:11:31,394
+169
+00:11:19,952 --> 00:11:21,888
 <i>That's Yuuki's dad's truck.</i>
 
-184
-00:11:31,394 --> 00:11:33,628
+170
+00:11:22,763 --> 00:11:24,997
 Mr. Yashiro,
 I need to follow someone.
 
-185
-00:11:33,628 --> 00:11:36,194
-‐Will you drive?
-‐[Yashiro] Hmm.
+171
+00:11:25,086 --> 00:11:26,900
+- ‐Will you drive?
+- ‐ Hmm.
 
-186
-00:11:40,494 --> 00:11:43,194
-[Yashiro] That doesn't
-even sound legal.
+172
+00:11:31,783 --> 00:11:33,917
+That doesn't even sound legal.
 
-187
-00:11:43,194 --> 00:11:46,061
+173
+00:11:34,364 --> 00:11:37,231
 It's nothing bad.
 We're just playing detective.
 
-188
-00:11:46,061 --> 00:11:48,561
-We pretend there's
-a kidnapper at large.
+174
+00:11:37,330 --> 00:11:39,673
+We pretend there's a kidnapper at large.
 
-189
-00:11:48,561 --> 00:11:51,594
-Then we try to find girls
-who seem like they're lonely
+175
+00:11:39,758 --> 00:11:42,580
+Then we try to find girls who seem like they're lonely
 
-190
-00:11:51,594 --> 00:11:53,294
+176
+00:11:42,605 --> 00:11:43,879
 and make friends with them.
 
-191
-00:11:53,294 --> 00:11:56,328
-If anything, we could end up
-stopping a real kidnapping.
+177
+00:11:44,574 --> 00:11:47,608
+If anything, we could end up stopping a real kidnapping.
 
-192
-00:11:56,328 --> 00:12:00,561
-My God, it might be just
-a game, but it's a good idea.
+178
+00:11:47,786 --> 00:11:51,501
+My God, it might be just a game, but it's a good idea.
 
-193
-00:12:00,561 --> 00:12:02,894
+179
+00:11:51,573 --> 00:11:53,403
 I'm glad you think so.
 
-194
-00:12:02,894 --> 00:12:06,428
+180
+00:11:54,064 --> 00:11:57,245
 Satoru, better buckle up.
 
-195
-00:12:06,428 --> 00:12:07,861
+181
+00:11:57,270 --> 00:11:58,281
 Oh.
 
-196
-00:12:07,861 --> 00:12:11,561
-[Satoru straining]
-
-197
-00:12:11,561 --> 00:12:15,494
-[Yashiro] Oh, yeah.
+182
+00:12:03,118 --> 00:12:06,125
+Oh, yeah.
 I have to get that fixed.
 
-198
-00:12:15,494 --> 00:12:17,028
+183
+00:12:06,396 --> 00:12:07,930
 There.
 
-199
-00:12:21,394 --> 00:12:24,728
-So, you've noticed Misato's been
-keeping to herself lately.
+184
+00:12:12,772 --> 00:12:16,106
+So, you've noticed Misato's
+been keeping to herself lately.
 
-200
-00:12:24,728 --> 00:12:27,994
-[Satoru] Actually, Hiromi
-told me a little while ago.
+185
+00:12:16,317 --> 00:12:19,333
+Actually, Hiromi told me a little while ago.
 
-201
-00:12:27,994 --> 00:12:32,961
-[Yashiro] Well, if you ask me,
-it's great you're being
-so proactive about it.
+186
+00:12:19,452 --> 00:12:23,889
+Well, if you ask me,
+it's great you're being so proactive about it.
 
-202
-00:12:32,961 --> 00:12:34,461
-[Satoru] I don't know
-about that.
+187
+00:12:23,914 --> 00:12:25,414
+I don't know about that.
 
-203
-00:12:34,461 --> 00:12:37,194
-I couldn't get up the nerve
-to talk to her before,
+188
+00:12:25,849 --> 00:12:28,582
+I couldn't get up the nerve to talk to her before,
 
-204
-00:12:37,194 --> 00:12:41,228
+189
+00:12:28,652 --> 00:12:32,129
 and, well, I started thinking
 she might make good bait.
 
-205
-00:12:42,728 --> 00:12:44,028
+190
+00:12:33,759 --> 00:12:35,189
 Really? Bait.
 
-206
-00:12:44,028 --> 00:12:45,894
+191
+00:12:35,367 --> 00:12:37,233
 So you're out to catch someone.
 
-207
-00:12:45,894 --> 00:12:49,628
-Now I know why you were working
-so hard to be friendly
-and outgoing.
+192
+00:12:37,273 --> 00:12:41,007
+Now I know why you were working so
+hard to be friendly and outgoing.
 
-208
-00:12:49,628 --> 00:12:51,228
+193
+00:12:41,032 --> 00:12:42,632
 You’re a man on a mission.
 
-209
-00:12:51,228 --> 00:12:54,694
-Mm‐hmm. Everybody has something
-that's missing from their lives,
+194
+00:12:42,686 --> 00:12:46,692
+Mm‐hmm. Everybody has something that's
+missing from their lives, even me.
 
-210
-00:12:54,694 --> 00:12:55,961
-even me.
-
-211
-00:12:55,961 --> 00:12:58,261
+195
+00:12:46,717 --> 00:12:48,555
 If I can fill that void...
 
-212
-00:12:58,261 --> 00:13:02,261
-[adult Satoru thinking] <i>Crap.</i>
+196
+00:12:49,985 --> 00:12:53,163
+<i>Crap.</i>
 <i>I just fed him his own line.</i>
 
-213
-00:13:04,528 --> 00:13:06,294
-[Yashiro] You and I
-have a lot in common.
+197
+00:12:55,986 --> 00:12:57,752
+You and I have a lot in common.
 
-214
-00:13:06,294 --> 00:13:09,261
-That happens to be
-my philosophy in life.
+198
+00:12:57,752 --> 00:13:00,719
+That happens to be my philosophy in life.
 
-215
-00:13:09,261 --> 00:13:11,461
-When I teach
-a sixth‐grade class,
+199
+00:13:00,719 --> 00:13:02,919
+When I teach a sixth‐grade class,
 
-216
-00:13:11,461 --> 00:13:14,261
-I like to bring it up
-in my graduation speech.
+200
+00:13:02,919 --> 00:13:05,719
+I like to bring it up in my graduation speech.
 
-217
-00:13:14,261 --> 00:13:16,728
-It sort of ties into
-what you said,
+201
+00:13:05,719 --> 00:13:07,944
+It sort of ties into what you said,
 
-218
-00:13:16,728 --> 00:13:18,494
+202
+00:13:07,969 --> 00:13:09,735
 about using Misato as bait?
 
-219
-00:13:18,494 --> 00:13:22,361
+203
+00:13:09,952 --> 00:13:13,819
 I can tell you regret it,
-but in my opinion,
-you shouldn't.
+but in my opinion, you shouldn't.
 
-220
-00:13:24,161 --> 00:13:26,928
+204
+00:13:15,594 --> 00:13:18,361
 There's no difference between
 a good deed and a bad one.
 
-221
-00:13:26,928 --> 00:13:31,428
+205
+00:13:18,386 --> 00:13:22,886
 They both have a similar goal,
-to satisfy a need
-within a person.
+to satisfy a need within a person.
 
-222
-00:13:31,428 --> 00:13:33,594
-[adult Satoru thinking]
+206
+00:13:22,886 --> 00:13:25,052
 <i>Well, that's... extreme.</i>
 
-223
-00:13:33,594 --> 00:13:37,494
-[Yashiro] For example,
-lately I've tried
-all kinds of things
+207
+00:13:25,052 --> 00:13:30,025
+For example, lately I've tried all kinds
+of things to get closer to someone.
 
-224
-00:13:37,494 --> 00:13:38,928
-to get closer to someone.
-
-225
-00:13:38,928 --> 00:13:42,161
+208
+00:13:30,050 --> 00:13:33,283
 Sometimes I'm direct,
 other times I play coy.
 
-226
-00:13:42,161 --> 00:13:44,994
+209
+00:13:33,308 --> 00:13:36,141
 At times,
 I've even been deceitful.
 
-227
-00:13:44,994 --> 00:13:47,861
+210
+00:13:36,452 --> 00:13:39,319
 And boy, it's been fun.
 
-228
-00:13:47,861 --> 00:13:50,694
+211
+00:13:39,319 --> 00:13:42,152
 With who? A girlfriend?
 
-229
-00:13:50,694 --> 00:13:53,694
-[chuckles] I can see how you'd
-make that connection.
+212
+00:13:42,152 --> 00:13:45,152
+I can see how you'd make that connection.
 
-230
-00:13:53,694 --> 00:13:58,428
-Hmm. Either way, it's about
-filling some kind of emptiness.
+213
+00:13:45,882 --> 00:13:49,975
+Hmm. Either way,
+it's about filling some kind of emptiness.
 
-231
-00:14:00,428 --> 00:14:02,794
+214
+00:13:51,717 --> 00:13:54,083
 Um... want a lollipop?
 
-232
-00:14:05,694 --> 00:14:10,061
+215
+00:13:56,696 --> 00:14:01,063
 Thank you for asking,
-but I'm afraid you won't
-find any there.
+but I'm afraid you won't find any there.
 
-233
-00:14:12,861 --> 00:14:17,294
+216
+00:14:03,892 --> 00:14:08,325
 You see, this isn't my car.
 
-234
-00:14:32,828 --> 00:14:35,294
-Where is your car then?
-In the shop?
+217
+00:14:21,936 --> 00:14:24,402
+Where is your car then? In the shop?
 
-235
-00:14:35,294 --> 00:14:37,594
-[Yashiro] Whatever your happiest
-moment is today,
+218
+00:14:24,402 --> 00:14:26,702
+Whatever your happiest moment is today,
 
-236
-00:14:37,594 --> 00:14:40,961
-another will eventually
-come along to replace it.
+219
+00:14:26,702 --> 00:14:30,069
+another will eventually come along to replace it.
 
-237
-00:14:40,961 --> 00:14:44,194
-And thanks to you,
-mine just got replaced.
+220
+00:14:30,069 --> 00:14:33,302
+And thanks to you, mine just got replaced.
 
-238
-00:14:44,194 --> 00:14:46,828
-Nothing compares to the feeling
-a person gets
+221
+00:14:33,302 --> 00:14:35,936
+Nothing compares to the feeling a person gets
 
-239
-00:14:46,828 --> 00:14:49,228
-when they can finally
-satisfy their need.
+222
+00:14:35,936 --> 00:14:38,336
+when they can finally satisfy their need.
 
-240
-00:14:49,228 --> 00:14:51,261
-You spent
-all this time searching,
+223
+00:14:38,336 --> 00:14:40,369
+You spent all this time searching,
 
-241
-00:14:51,261 --> 00:14:53,628
-and when you get it,
-it's like heaven.
+224
+00:14:40,369 --> 00:14:42,736
+and when you get it, it's like heaven.
 
-242
-00:14:53,628 --> 00:14:55,428
-You know,
-it's true what they say,
+225
+00:14:42,736 --> 00:14:44,536
+You know, it's true what they say,
 
-243
-00:14:55,428 --> 00:14:58,494
+226
+00:14:44,536 --> 00:14:47,602
 the more effort something takes,
 the sweeter the reward is.
 
-244
-00:14:58,494 --> 00:15:02,794
-[adult Satoru thinking]
-<i>Where the hell is he going</i>
-<i>with this?</i>
+227
+00:14:47,602 --> 00:14:51,902
+<i>Where the hell is he going with this?</i>
 
-245
-00:15:02,794 --> 00:15:04,228
+228
+00:14:51,902 --> 00:14:53,336
 <i>Laxatives?</i>
 
-246
-00:15:04,228 --> 00:15:07,228
-[Yashiro] Satoru. You lied
-to me a few minutes ago.
+229
+00:14:53,336 --> 00:14:56,816
+Satoru. You lied to me a few minutes ago.
 
-247
-00:15:07,228 --> 00:15:10,228
-You said you're just pretending
-there's a kidnapper,
+230
+00:14:56,905 --> 00:14:59,604
+You said you're just pretending there's a kidnapper,
 
-248
-00:15:10,228 --> 00:15:12,828
-but the truth is,
-you know there's one,
+231
+00:14:59,629 --> 00:15:02,062
+but the truth is, you know there's one,
 
-249
-00:15:12,828 --> 00:15:14,394
-and you're trying
-to catch him.
+232
+00:15:02,205 --> 00:15:03,477
+and you're trying to catch him.
 
-250
-00:15:14,394 --> 00:15:17,128
-I've resisted the idea
-for a while now
+233
+00:15:03,502 --> 00:15:06,236
+I've resisted the idea for a while now
 
-251
-00:15:17,128 --> 00:15:19,194
-because I couldn't believe
-it was possible.
+234
+00:15:06,261 --> 00:15:08,327
+because I couldn't believe it was possible.
 
-252
-00:15:19,194 --> 00:15:23,528
-Well, more like
-I didn't want to believe...
+235
+00:15:08,881 --> 00:15:12,030
+Well, more like I didn't want to believe...
 
-253
-00:15:23,528 --> 00:15:28,328
+236
+00:15:13,151 --> 00:15:17,348
 the possibility that someone
 was anticipating my every move.
 
-254
-00:15:36,094 --> 00:15:40,061
-If you're still worried
-about Misato, don't be.
+237
+00:15:25,330 --> 00:15:29,060
+If you're still worried about Misato, don't be.
 
-255
-00:15:41,561 --> 00:15:45,028
-The only person in that truck
-is Jun Shiratori's father.
+238
+00:15:30,669 --> 00:15:34,136
+The only person in that truck is Jun Shiratori's father.
 
-256
-00:15:49,394 --> 00:15:52,261
-I realized something was up
-with you
+239
+00:15:39,320 --> 00:15:44,402
+I realized something was up with you the
+day I saw you following Aya Nakanishi.
 
-257
-00:15:52,261 --> 00:15:55,294
-the day I saw you
-following Aya Nakanishi.
+240
+00:15:44,858 --> 00:15:46,575
+And I was planning to kidnap her
 
-258
-00:15:55,294 --> 00:15:57,161
-And I was planning
-to kidnap her
+241
+00:15:46,733 --> 00:15:49,022
+the day I gave you and your mom a ride.
 
-259
-00:15:57,161 --> 00:15:59,994
-the day I gave
-you and your mom a ride.
+242
+00:15:49,876 --> 00:15:51,879
+Looking back, it's kind of funny.
 
-260
-00:15:59,994 --> 00:16:02,528
-Looking back,
-it's kind of funny.
+243
+00:15:51,904 --> 00:15:54,610
+I mean, there you were trying to snatch my prey
 
-261
-00:16:02,528 --> 00:16:05,428
-I mean, there you were
-trying to snatch my prey
+244
+00:15:54,635 --> 00:15:57,602
+and I was the one telling you how to do it.
 
-262
-00:16:05,428 --> 00:16:08,494
-and I was the one
-telling you how to do it.
+245
+00:15:59,796 --> 00:16:02,236
+That was the second time you ruined my plans,
 
-263
-00:16:08,494 --> 00:16:10,028
-[chuckles]
+246
+00:16:02,577 --> 00:16:05,612
+and I started to suspect it was more than a coincidence.
 
-264
-00:16:10,028 --> 00:16:13,128
-That was the second time
-you ruined my plans,
+247
+00:16:06,229 --> 00:16:08,263
+I knew Misato's friends were shunning her,
 
-265
-00:16:13,128 --> 00:16:16,794
-and I started to suspect
-it was more than a coincidence.
+248
+00:16:08,288 --> 00:16:10,102
+so I asked her to the hockey game.
 
-266
-00:16:16,794 --> 00:16:18,828
-I knew Misato's friends
-were shunning her,
-
-267
-00:16:18,828 --> 00:16:20,994
-so I asked her
-to the hockey game.
-
-268
-00:16:20,994 --> 00:16:23,461
+249
+00:16:10,533 --> 00:16:12,569
 Then I told Hiromi about it.
 
-269
-00:16:23,461 --> 00:16:27,261
+250
+00:16:12,996 --> 00:16:16,369
 If you showed up,
 my suspicions were correct,
 
-270
-00:16:27,261 --> 00:16:30,894
+251
+00:16:16,369 --> 00:16:20,002
 that you...
 you were my enemy.
 
-271
-00:16:30,894 --> 00:16:32,761
-[adult Satoru thinking]
+252
+00:16:20,754 --> 00:16:21,869
 <i>No way.</i>
 
-272
-00:16:32,761 --> 00:16:35,828
-[Yashiro]
+253
+00:16:22,229 --> 00:16:24,936
 When the time was right,
 I gave Misato a drink
 
-273
-00:16:35,828 --> 00:16:37,594
-laced with that laxative
-you found.
+254
+00:16:24,936 --> 00:16:26,702
+laced with that laxative you found.
 
-274
-00:16:37,594 --> 00:16:40,961
-And I bought dinner, to place
-Shiratori at the scene.
+255
+00:16:26,780 --> 00:16:30,069
+And I bought dinner,
+to place Shiratori at the scene.
 
-275
-00:16:40,961 --> 00:16:44,294
-[adult Satoru thinking]
+256
+00:16:30,069 --> 00:16:33,402
 <i>No. No!</i>
 
-276
-00:16:44,294 --> 00:16:48,394
-[Yashiro] Yes, sir,
-all the pieces fit together
-as planned.
+257
+00:16:34,006 --> 00:16:38,081
+Yes, sir, all the pieces fit together as planned.
 
-277
-00:16:48,394 --> 00:16:52,994
+258
+00:16:38,239 --> 00:16:41,942
 And in the end,
 I'm not who you thought I was.
 
-278
-00:16:52,994 --> 00:16:56,528
+259
+00:16:42,102 --> 00:16:45,636
 Oh, and about the car,
 I borrowed this one earlier.
 
-279
-00:16:56,528 --> 00:17:00,128
-I was looking for something
-specific for today.
+260
+00:16:46,255 --> 00:16:49,236
+I was looking for something specific for today.
 
-280
-00:17:00,128 --> 00:17:02,694
-Generic model,
-generic paint job.
+261
+00:16:49,886 --> 00:16:52,142
+Generic model, generic paint job.
 
-281
-00:17:02,694 --> 00:17:06,361
-A car that's so ubiquitous,
-no one would even miss it.
+262
+00:16:52,167 --> 00:16:55,193
+A car that's so ubiquitous, no one would even miss it.
 
-282
-00:17:06,361 --> 00:17:10,028
-You know, this is
-the first time I've put
-that theory into practice.
+263
+00:16:55,859 --> 00:16:59,501
+You know, this is the first time
+I've put that theory into practice.
 
-283
-00:17:10,028 --> 00:17:13,094
-[adult Satoru thinking]
+264
+00:16:59,526 --> 00:17:02,202
 <i>How could I be so stupid?!</i>
 
-284
-00:17:20,594 --> 00:17:22,628
+265
+00:17:09,702 --> 00:17:11,736
 <i>It was so obvious.</i>
 
-285
-00:17:22,628 --> 00:17:25,494
+266
+00:17:11,736 --> 00:17:14,602
 Thanks to you, Kayo's alive.
 
-286
-00:17:25,494 --> 00:17:28,194
-[adult Satoru thinking]
-<i>I just couldn't accept</i>
-<i>the possibility.</i>
+267
+00:17:14,602 --> 00:17:17,302
+<i>I just couldn't accept the possibility.</i>
 
-287
-00:17:28,194 --> 00:17:32,128
-<i>Yashiro was on one of Sawada's</i>
-<i>lists of suspects.</i>
+268
+00:17:18,259 --> 00:17:21,617
+<i>Yashiro was on one of Sawada's lists of suspects.</i>
 
-288
-00:17:32,128 --> 00:17:34,594
-<i>But my mom's name</i>
-<i>was right there with his,</i>
+269
+00:17:21,642 --> 00:17:24,739
+<i>But my mom's name was right there with his,</i>
 
-289
-00:17:34,594 --> 00:17:38,928
-<i>so I figured the list was</i>
-<i>bullshit and blew it off.</i>
+270
+00:17:24,764 --> 00:17:27,487
+<i>so I figured the list was bullshit and blew it off.</i>
 
-290
-00:17:38,928 --> 00:17:42,661
-<i>I trusted him so much,</i>
-<i>I couldn't even think</i>
-<i>of him as a suspect,</i>
+271
+00:17:28,592 --> 00:17:33,848
+<i>I trusted him so much, I couldn't even think
+of him as a suspect, let alone the killer.</i>
 
-291
-00:17:42,661 --> 00:17:44,861
-<i>let alone the killer.</i>
-
-292
-00:17:46,228 --> 00:17:47,428
+272
+00:17:35,434 --> 00:17:36,634
 <i>But...</i>
 
-293
-00:17:50,228 --> 00:17:51,561
+273
+00:17:38,968 --> 00:17:40,301
 <i>he is.</i>
 
-294
-00:17:51,561 --> 00:17:55,028
-<i>And now he's got me</i>
-<i>right where he wants me.</i>
+274
+00:17:41,024 --> 00:17:43,956
+<i>And now he's got me right where he wants me.</i>
 
-295
-00:18:20,094 --> 00:18:22,094
+275
+00:18:09,568 --> 00:18:11,568
 It started snowing.
 
-296
-00:18:25,894 --> 00:18:28,428
-[Satoru straining]
-
-297
-00:18:30,261 --> 00:18:32,428
-[Yashiro] Don't.
+276
+00:18:19,497 --> 00:18:21,664
+Don't.
 It's stuck for good.
 
-298
-00:18:32,428 --> 00:18:33,694
-[Satoru panting]
+277
+00:18:22,563 --> 00:18:24,563
+The game's over.
 
-299
-00:18:33,694 --> 00:18:35,694
-[Yashiro] The game's over.
-
-300
-00:18:35,694 --> 00:18:37,761
+278
+00:18:24,588 --> 00:18:26,655
 For you and me.
 
-301
-00:18:48,594 --> 00:18:50,094
-[Satoru struggling]
-
-302
-00:18:50,094 --> 00:18:52,528
+279
+00:18:39,409 --> 00:18:41,843
 You know,
 I still can't believe it.
 
-303
-00:18:52,528 --> 00:18:56,561
+280
+00:18:42,253 --> 00:18:46,111
 You anticipated all my plans
 and destroyed them one by one.
 
-304
-00:18:56,561 --> 00:19:00,461
-I'm stunned how easily
-you caught me,
-a little boy like you.
+281
+00:18:46,252 --> 00:18:49,878
+I'm stunned how easily you caught me,
+ a little boy like you.
 
-305
-00:19:03,161 --> 00:19:07,828
-It's almost like you can see
-the future or something.
+282
+00:18:52,496 --> 00:18:56,800
+It's almost like you can see the future or something.
 
-306
-00:19:09,461 --> 00:19:13,061
-I want to make sure you
-understand why you have to die.
+283
+00:18:58,850 --> 00:19:02,450
+I want to make sure you understand why you have to die.
 
-307
-00:19:13,061 --> 00:19:15,228
+284
+00:19:02,892 --> 00:19:04,851
 Yes, you ruined my plans,
 
-308
-00:19:15,228 --> 00:19:18,861
-but this has nothing to do
-with revenge.
+285
+00:19:04,876 --> 00:19:07,969
+but this has nothing to do with revenge.
 
-309
-00:19:18,861 --> 00:19:21,994
+286
+00:19:08,137 --> 00:19:10,496
 Believe me, I do respect you.
 
-310
-00:19:23,394 --> 00:19:25,861
-But if I can't satisfy
-my needs the usual way,
+287
+00:19:12,760 --> 00:19:15,791
+But if I can't satisfy my needs the usual way,
 
-311
-00:19:25,861 --> 00:19:27,661
+288
+00:19:15,816 --> 00:19:17,422
 I have to find an alternative.
 
-312
-00:19:27,661 --> 00:19:30,494
+289
+00:19:17,447 --> 00:19:20,213
 You don't have to do this.
 You said the game was over!
 
-313
-00:19:33,528 --> 00:19:37,861
-The children of this town are
-safe thanks to you, Satoru.
+290
+00:19:23,841 --> 00:19:27,355
+The children of this town are safe thanks to you, Satoru.
 
-314
-00:19:37,861 --> 00:19:40,628
-So congratulations,
-you got what you wanted.
+291
+00:19:27,591 --> 00:19:30,091
+So congratulations, you got what you wanted.
 
-315
-00:19:40,628 --> 00:19:43,928
-And as for what I wanted,
-I still get to kill someone
+292
+00:19:30,419 --> 00:19:35,654
+And as for what I wanted, I still get to
+kill someone for my sake and on my terms.
 
-316
-00:19:43,928 --> 00:19:45,861
-for my sake and on my terms.
+293
+00:19:35,679 --> 00:19:39,851
+Yashiro, I'm not gonna die until I
+see you hang for what you've done!
 
-317
-00:19:45,861 --> 00:19:50,028
-Yashiro, I'm not gonna die
-until I see you hang
-for what you've done!
-
-318
-00:19:50,028 --> 00:19:53,394
+294
+00:19:39,935 --> 00:19:42,561
 Yes, well,
 keep telling yourself that.
 
-319
-00:19:55,961 --> 00:19:58,528
+295
+00:19:45,454 --> 00:19:48,229
 Yashiro!
 You son of a bitch!
 
-320
-00:19:58,528 --> 00:20:01,994
+296
+00:19:48,254 --> 00:19:50,260
 I'll get you for this!
 
-321
-00:20:05,561 --> 00:20:09,461
-I wish I could stay, but I have
-so much packing to do.
+297
+00:19:55,373 --> 00:19:58,812
+I wish I could stay, but I have so much packing to do.
 
-322
-00:20:12,728 --> 00:20:14,594
+298
+00:20:02,111 --> 00:20:04,299
 Yashiro!
 
-323
-00:20:14,594 --> 00:20:17,994
+299
+00:20:04,324 --> 00:20:07,724
 I know your future!
 
-324
-00:20:20,661 --> 00:20:22,761
-[adult Satoru thinking] <i>Shit.</i>
+300
+00:20:10,416 --> 00:20:11,861
+<i>Shit.</i>
 
-325
-00:20:22,761 --> 00:20:26,461
+301
+00:20:12,144 --> 00:20:13,998
 <i>It's cold.</i>
 
-326
-00:20:26,461 --> 00:20:29,028
+302
+00:20:15,844 --> 00:20:18,411
 <i>Come on, come on!</i>
 
-327
-00:20:38,661 --> 00:20:41,761
+303
+00:20:28,044 --> 00:20:30,759
 <i>Going numb...</i>
 
-328
-00:20:41,761 --> 00:20:44,328
-[young Satoru] Shit...
+304
+00:20:31,144 --> 00:20:33,130
+Shit...
 
-329
-00:20:54,561 --> 00:20:55,794
-[Satoru] Mom?
+305
+00:20:43,944 --> 00:20:45,177
+Mom?
 
-330
-00:20:55,794 --> 00:20:57,628
-[Sachiko] What's up, kiddo?
+306
+00:20:45,177 --> 00:20:47,011
+What's up, kiddo?
 
-331
-00:20:57,628 --> 00:21:00,394
-[adult Satoru narrating]
+307
+00:20:47,306 --> 00:20:49,905
 <i>I looked up, our eyes met...</i>
 
-332
-00:21:02,328 --> 00:21:04,061
+308
+00:20:52,378 --> 00:20:53,444
 <i>My friends...</i>
 
-333
-00:21:04,061 --> 00:21:06,294
-[all] Hi, Satoru!
+309
+00:20:53,444 --> 00:20:55,677
+Hi, Satoru!
 
-334
-00:21:07,994 --> 00:21:10,361
+310
+00:20:57,377 --> 00:20:59,744
 Thank you, Satoru.
 
-335
-00:21:10,361 --> 00:21:12,728
+311
+00:20:59,744 --> 00:21:01,190
 <i>Kayo.</i>
 
-336
-00:21:17,394 --> 00:21:19,028
+312
+00:21:06,528 --> 00:21:08,162
 <i>Airi.</i>
-
-337
-00:21:32,294 --> 00:21:33,861
-[theme song plays]
-
-338
-00:21:35,728 --> 00:21:38,094
-[woman singing in Japanese]
 
