@@ -75,7 +75,7 @@ OneDirve：http://pan.edatribe.com
 | A057 | Chobits                                                                                                             | 人型电脑天使心                           | 24集 | 计划 |
 | A058 | Food Wars!                                                                                                          | 食戟之灵                                 | 37集 | 计划 |
 | A059 | Maid-sama                                                                                                           | 会长是女仆大人                           | 26集 | 计划 |
-| A060 | That Time I Got Reincarnated as a Slime                                                                             | 关于我转生变成史莱姆这档事               | 
+| A060 | That Time I Got Reincarnated as a Slime                                                                             | 关于我转生变成史莱姆这档事               | 24集 | 计划 |
 
 
 
