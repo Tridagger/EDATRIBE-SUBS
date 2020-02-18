@@ -1,0 +1,2159 @@
+﻿1
+00:00:25,750 --> 00:00:27,041
+[MAHO]
+Okabe?
+
+2
+00:00:27,125 --> 00:00:29,000
+What are you doing
+here so early?
+
+3
+00:00:29,083 --> 00:00:30,958
+Hiyajo, listen.
+
+4
+00:00:31,041 --> 00:00:32,666
+I have a question for you.
+
+5
+00:00:32,750 --> 00:00:34,000
+Yeah, what?
+
+6
+00:00:34,083 --> 00:00:38,083
+Have you forsaken your silly
+mad-scientist voice?
+
+7
+00:00:38,166 --> 00:00:41,583
+[OKABE] Our D-RINE worked,
+and Amadeus was lost,
+
+8
+00:00:41,666 --> 00:00:43,458
+but we still met Hiyajo.
+
+9
+00:00:43,541 --> 00:00:45,791
+Apparently under very
+different circumstances.
+
+10
+00:00:45,875 --> 00:00:46,833
+[inaudible]
+
+11
+00:00:48,166 --> 00:00:49,875
+[OKABE] Even as the world
+lines keep changing,
+
+12
+00:00:49,958 --> 00:00:52,166
+our connections remain constant,
+
+13
+00:00:52,250 --> 00:00:53,916
+as if the conditions
+reshape themselves
+
+14
+00:00:54,000 --> 00:00:56,541
+to support the
+relationships we've built.
+
+15
+00:00:56,625 --> 00:00:59,500
+[phone vibrates]
+
+16
+00:00:59,583 --> 00:01:00,583
+[OKABE]
+Hey, Mayuri.
+
+17
+00:01:00,666 --> 00:01:02,708
+[MAYURI]
+Hello? You there? It's Suzuha.
+
+18
+00:01:02,791 --> 00:01:04,500
+She's in some major trouble!
+
+19
+00:01:04,583 --> 00:01:05,375
+[OKABE]
+Suzuha?
+
+20
+00:01:05,458 --> 00:01:06,500
+[MAYURI]
+Yeah!
+
+21
+00:01:06,583 --> 00:01:07,708
+She's about to get
+in the time machine
+
+22
+00:01:07,791 --> 00:01:09,583
+to go back one year
+into the past!
+
+23
+00:01:09,666 --> 00:01:12,333
+She's leaving, even though
+she can't come back!
+
+24
+00:01:12,416 --> 00:01:13,625
+Damn it all, why?
+
+25
+00:01:13,708 --> 00:01:14,625
+[MAYURI]
+What?
+
+26
+00:01:14,708 --> 00:01:15,750
+Why'd you have to
+make the choice
+
+27
+00:01:15,833 --> 00:01:18,208
+to talk to me about it, huh?
+
+28
+00:01:18,291 --> 00:01:20,000
+There's not enough time.
+
+29
+00:01:20,083 --> 00:01:21,708
+I can't even investigate
+the situation
+
+30
+00:01:21,791 --> 00:01:24,250
+and find out exactly
+what's changed.
+
+31
+00:01:24,333 --> 00:01:26,375
+There's only one element
+that matters now:
+
+32
+00:01:26,458 --> 00:01:28,375
+They must leave
+in the time machine.
+
+33
+00:01:31,000 --> 00:01:32,000
+[OKABE]
+Kagari?
+
+34
+00:01:32,083 --> 00:01:33,708
+She's way too early!
+
+35
+00:01:37,416 --> 00:01:39,208
+What's this about?
+
+36
+00:01:40,333 --> 00:01:42,708
+[OKABE] Kagari's still going
+after the time machine.
+
+37
+00:01:42,791 --> 00:01:44,291
+Which means I've
+gotta find her,
+
+38
+00:01:44,375 --> 00:01:46,333
+and stop her in her tracks.
+
+39
+00:01:46,416 --> 00:01:48,041
+[ALEXIS]
+Rintaro.
+
+40
+00:01:50,000 --> 00:01:51,750
+[ALEXIS] What business
+could you possibly have
+
+41
+00:01:51,833 --> 00:01:54,375
+in a place like this?
+
+42
+00:01:54,458 --> 00:01:55,958
+You know my suspicion?
+
+43
+00:01:56,041 --> 00:01:58,125
+I think you know far more
+about the time machine
+
+44
+00:01:58,208 --> 00:01:59,750
+than I gave you credit for.
+
+45
+00:01:59,833 --> 00:02:01,583
+Is my assessment correct?
+
+46
+00:02:03,833 --> 00:02:05,541
+[ALEXIS]
+Where's Kagari?
+
+47
+00:02:05,625 --> 00:02:07,666
+I know after she
+escaped the facility
+
+48
+00:02:07,750 --> 00:02:09,458
+that she met up with you
+and your little lab crew,
+
+49
+00:02:09,541 --> 00:02:11,250
+so don't even try denying it.
+
+50
+00:02:11,333 --> 00:02:14,166
+You can't fool me. How much
+of the truth do you know?
+
+51
+00:02:14,250 --> 00:02:15,625
+[OKABE]
+I see.
+
+52
+00:02:15,708 --> 00:02:18,833
+Things are different because
+the D-RINE erased Amadeus.
+
+53
+00:02:18,916 --> 00:02:20,166
+Is it possible that
+the professor
+
+54
+00:02:20,250 --> 00:02:22,833
+wasn't able to
+fully brainwash Kagari?
+
+55
+00:02:22,916 --> 00:02:25,375
+[OKABE grunts]
+If that's true...
+
+56
+00:02:25,458 --> 00:02:27,791
+Professor Leskinen.
+You're right.
+
+57
+00:02:27,875 --> 00:02:28,916
+I know things about the future
+
+58
+00:02:29,000 --> 00:02:31,333
+that you couldn't
+begin to imagine.
+
+59
+00:02:31,416 --> 00:02:33,125
+Would you like to hear
+about them?
+
+60
+00:02:34,458 --> 00:02:37,000
+[OKABE]
+I'll tell you everything.
+
+61
+00:02:37,083 --> 00:02:38,625
+[OKABE]
+Moeka!
+
+62
+00:02:38,708 --> 00:02:39,666
+[gunshot]
+
+63
+00:02:41,833 --> 00:02:43,708
+--[OKABE groans]
+--[MOEKA] Huh?
+
+64
+00:02:43,791 --> 00:02:45,416
+[MOEKA]
+Are you all right?
+
+65
+00:02:46,458 --> 00:02:48,000
+Yes, I'm fine,
+it's just a scratch.
+
+66
+00:02:48,083 --> 00:02:49,000
+You need help!
+
+67
+00:02:49,083 --> 00:02:51,083
+[OKABE]
+There's no time for that!
+
+68
+00:02:51,166 --> 00:02:55,375
+I need your help now.
+As lab member 005!
+
+69
+00:02:55,458 --> 00:02:57,125
+Kiryu Moeka!
+
+70
+00:03:03,916 --> 00:03:06,500
+[whimpering]
+
+71
+00:03:06,583 --> 00:03:08,125
+[REYES]
+Please, don't do this!
+
+72
+00:03:08,208 --> 00:03:09,291
+Kaga--
+
+73
+00:03:15,333 --> 00:03:17,333
+Kagari.
+
+74
+00:03:17,416 --> 00:03:19,583
+[KAGARI] I won't allow
+the past to be changed.
+
+75
+00:03:19,666 --> 00:03:23,583
+I will not let anyone erase
+the day that I met Mommy.
+
+76
+00:03:23,666 --> 00:03:26,291
+Nobody's getting it.
+I'll destroy the time machine.
+
+77
+00:03:26,375 --> 00:03:29,625
+Suzuha. Is that really Kagari?
+
+78
+00:03:31,458 --> 00:03:33,250
+But, why?
+
+79
+00:03:33,333 --> 00:03:35,541
+[KAGARI]
+Mommy Mayuri.
+
+80
+00:03:35,625 --> 00:03:36,791
+Are you a part of all of this?
+
+81
+00:03:36,875 --> 00:03:38,375
+Do you wanna change
+the future, too,
+
+82
+00:03:38,458 --> 00:03:41,666
+just like Suzuha has been
+trying to do for so many years?
+
+83
+00:03:41,750 --> 00:03:43,750
+Do you wanna make it so
+that you and I never meet,
+
+84
+00:03:43,833 --> 00:03:45,250
+and you don't become my mom?
+
+85
+00:03:45,333 --> 00:03:46,708
+No, it's not that at all.
+
+86
+00:03:46,791 --> 00:03:48,708
+[KAGARI] Because that's
+the last thing I want!
+
+87
+00:03:48,791 --> 00:03:51,916
+However terrible the future
+might be... I don't even care!
+
+88
+00:03:52,000 --> 00:03:53,250
+It's the only reality I want.
+
+89
+00:03:53,333 --> 00:03:55,083
+I won't let you change it!
+
+90
+00:04:05,708 --> 00:04:07,000
+[gasps]
+
+91
+00:04:17,333 --> 00:04:18,958
+[gasps]
+
+92
+00:04:20,250 --> 00:04:23,041
+What's the matter, Kagari?
+You afraid to do it?
+
+93
+00:04:23,125 --> 00:04:24,458
+I will shoot!
+
+94
+00:04:24,541 --> 00:04:27,791
+[MAYURI]
+Kagari, please.
+
+95
+00:04:27,875 --> 00:04:29,791
+Stop. Let her go.
+
+96
+00:04:29,875 --> 00:04:32,458
+It's dangerous, Mommy,
+stay back! I can't let her go.
+
+97
+00:04:32,541 --> 00:04:34,833
+I have to do this!
+
+98
+00:04:34,916 --> 00:04:36,166
+[gasps]
+
+99
+00:04:37,875 --> 00:04:39,833
+No, Mayuri!
+
+100
+00:04:39,916 --> 00:04:41,833
+Please, get back!
+
+101
+00:04:44,625 --> 00:04:47,166
+Oh my goodness.
+That was scary.
+
+102
+00:04:47,250 --> 00:04:50,041
+I just realized I was holding
+my breath the entire time!
+
+103
+00:04:50,125 --> 00:04:51,375
+I'm just grateful it worked,
+
+104
+00:04:51,458 --> 00:04:54,958
+and that you both decided
+not to shoot each other.
+
+105
+00:04:55,041 --> 00:04:58,375
+--Mommy? But I...
+--Listen.
+
+106
+00:04:58,458 --> 00:05:00,125
+Don't be sad.
+
+107
+00:05:00,208 --> 00:05:03,833
+You see, even though I am
+getting in the time machine,
+
+108
+00:05:03,916 --> 00:05:06,833
+and I'm going back
+into the past with Suzuha,
+
+109
+00:05:06,916 --> 00:05:08,041
+I'm only doing this
+
+110
+00:05:08,125 --> 00:05:10,916
+to make someone special
+to me see the light.
+
+111
+00:05:11,000 --> 00:05:13,541
+It's not gonna work!
+
+112
+00:05:13,625 --> 00:05:14,750
+No matter what you both do,
+
+113
+00:05:14,833 --> 00:05:16,875
+or how hard you try,
+nothing ever works!
+
+114
+00:05:16,958 --> 00:05:18,291
+No good can come of it!
+
+115
+00:05:18,375 --> 00:05:20,000
+It will only keep us apart!
+
+116
+00:05:20,083 --> 00:05:23,000
+There's only enough fuel
+left to go one way!
+
+117
+00:05:23,083 --> 00:05:25,375
+You won't be able to come back!
+
+118
+00:05:25,458 --> 00:05:29,041
+What'll happen to you? I don't
+even want to think about it.
+
+119
+00:05:29,125 --> 00:05:30,458
+[MAYURI]
+I understand.
+
+120
+00:05:30,541 --> 00:05:34,208
+This might be reckless,
+and it could be hopeless, too.
+
+121
+00:05:34,291 --> 00:05:38,083
+But still, it's worth
+it for Okarin.
+
+122
+00:05:38,166 --> 00:05:40,958
+He has a special power
+to change the future.
+
+123
+00:05:41,041 --> 00:05:42,750
+Well, no.
+
+124
+00:05:42,833 --> 00:05:44,583
+I think we all have
+that same power,
+
+125
+00:05:44,666 --> 00:05:46,708
+but he's learned to use it
+in a different way
+
+126
+00:05:46,791 --> 00:05:50,000
+to guide us to
+the best future possible.
+
+127
+00:05:50,083 --> 00:05:51,541
+Which is why I'm going,
+
+128
+00:05:51,625 --> 00:05:54,041
+to give him that extra little
+push he needs to go back
+
+129
+00:05:54,125 --> 00:05:55,750
+and change something important.
+
+130
+00:05:55,833 --> 00:05:58,750
+And if that's all it takes,
+I know I can do it.
+
+131
+00:06:00,166 --> 00:06:02,166
+It's the only thing I can do.
+
+132
+00:06:02,250 --> 00:06:04,208
+Orihime's gift to Hikoboshi.
+
+133
+00:06:04,291 --> 00:06:07,125
+Hikoboshi? But wait.
+
+134
+00:06:07,208 --> 00:06:10,208
+[MAYURI] If my Hikoboshi had
+burned bright just once more,
+
+135
+00:06:10,291 --> 00:06:12,333
+it might've changed
+everything for us.
+
+136
+00:06:12,416 --> 00:06:15,791
+He's Mommy's... Hikoboshi?
+
+137
+00:06:15,875 --> 00:06:19,375
+[SUZUHA] Kagari, why don't
+you come with us?
+
+138
+00:06:19,458 --> 00:06:20,916
+[KAGARI gasps]
+
+139
+00:06:21,000 --> 00:06:24,166
+Come back into the past with us.
+We can change the future!
+
+140
+00:06:24,250 --> 00:06:26,416
+The world doesn't have to
+fall apart or be sad,
+
+141
+00:06:26,500 --> 00:06:28,541
+and no one you love
+has to die, either!
+
+142
+00:06:28,625 --> 00:06:31,375
+We can create a beautiful,
+bright future instead,
+
+143
+00:06:31,458 --> 00:06:34,291
+one where everyone
+can be happy together!
+
+144
+00:06:34,375 --> 00:06:37,458
+[MAYURI]
+Well, then? Come on, Kagari.
+
+145
+00:06:37,541 --> 00:06:39,458
+Let's be together!
+
+146
+00:06:39,541 --> 00:06:41,708
+Really?
+
+147
+00:06:41,791 --> 00:06:43,708
+[OKABE]
+Do it for my sake, too!
+
+148
+00:06:45,166 --> 00:06:48,125
+[MAYURI]
+Okarin? And Moeka?
+
+149
+00:06:48,208 --> 00:06:49,750
+[SUZUHA]
+What are you doing here?
+
+150
+00:06:49,833 --> 00:06:52,750
+Listen. I came to this
+time from the future.
+
+151
+00:06:52,833 --> 00:06:54,000
+[ALL gasp]
+
+152
+00:06:54,083 --> 00:06:55,791
+[OKABE] I did it using
+the time leap machine.
+
+153
+00:06:55,875 --> 00:06:58,208
+This place is about
+to become a war zone.
+
+154
+00:06:58,291 --> 00:06:59,541
+You don't have very long.
+
+155
+00:06:59,625 --> 00:07:01,333
+You have to get in and go, now!
+
+156
+00:07:01,416 --> 00:07:03,500
+[KAGARI] That can't be! The
+professor shouldn't even know--
+
+157
+00:07:03,583 --> 00:07:06,250
+Leskinen is currently
+unconscious in the stairwell.
+
+158
+00:07:06,333 --> 00:07:08,208
+But it's only a matter of time.
+
+159
+00:07:08,291 --> 00:07:10,125
+You'll let us leave?
+
+160
+00:07:11,375 --> 00:07:12,458
+[gasps]
+
+161
+00:07:15,916 --> 00:07:19,333
+Now, Lab Member 002,
+Shiina Mayuri!
+
+162
+00:07:19,416 --> 00:07:22,083
+Please, make Operation
+Arclight a success!
+
+163
+00:07:24,083 --> 00:07:26,541
+And when I'm mired
+in self-pity,
+
+164
+00:07:26,625 --> 00:07:28,208
+knock some sense into me, huh?
+
+165
+00:07:28,291 --> 00:07:30,208
+[gasps]
+
+166
+00:07:30,291 --> 00:07:32,916
+'Kay! I promise I will!
+
+167
+00:07:34,583 --> 00:07:37,291
+Come on, Kagari. Let's go!
+
+168
+00:07:37,375 --> 00:07:39,000
+[KAGARI]
+Mommy.
+
+169
+00:07:39,083 --> 00:07:40,500
+[gunfire]
+
+170
+00:07:40,583 --> 00:07:41,333
+Moeka!
+
+171
+00:07:41,416 --> 00:07:42,791
+I can't hold them long.
+
+172
+00:07:42,875 --> 00:07:43,916
+Hurry up!
+
+173
+00:07:45,625 --> 00:07:47,625
+You have to come now, Kagari!
+
+174
+00:07:47,708 --> 00:07:50,041
+Mommy. I...
+
+175
+00:07:53,125 --> 00:07:54,333
+[KAGARI]
+Okarin.
+
+176
+00:07:55,666 --> 00:07:56,875
+Are you certain?
+
+177
+00:07:56,958 --> 00:07:59,458
+You're okay with never
+seeing Mommy again?
+
+178
+00:07:59,541 --> 00:08:01,458
+Won't that break your heart?
+
+179
+00:08:03,583 --> 00:08:05,583
+What are you blabbering about?
+
+180
+00:08:05,666 --> 00:08:08,208
+Mayuri is my precious
+hostage, you know.
+
+181
+00:08:08,291 --> 00:08:10,166
+No matter where or when
+she may venture,
+
+182
+00:08:10,250 --> 00:08:12,083
+I will always bring her back!
+
+183
+00:08:12,166 --> 00:08:13,208
+[chuckles]
+
+184
+00:08:15,666 --> 00:08:16,833
+[SUZUHA]
+Kagari!
+
+185
+00:08:19,208 --> 00:08:20,625
+Aren't you coming?
+
+186
+00:08:20,708 --> 00:08:22,958
+Go! They won't get anywhere
+near you! I'll protect you!
+
+187
+00:08:23,041 --> 00:08:23,708
+But, Kagari!
+
+188
+00:08:23,791 --> 00:08:24,541
+[KAGARI]
+Hurry! Leave!
+
+189
+00:08:24,625 --> 00:08:27,041
+Mayuri, let's go!
+
+190
+00:08:27,125 --> 00:08:28,041
+Get in!
+
+191
+00:08:28,125 --> 00:08:30,375
+[KAGARI]
+You're Mommy's Hikoboshi!
+
+192
+00:08:30,458 --> 00:08:31,875
+I'm trusting you.
+
+193
+00:08:31,958 --> 00:08:35,458
+I choose to, because you said
+I can be with Mommy again.
+
+194
+00:08:35,541 --> 00:08:37,208
+That's a promise!
+
+195
+00:08:47,208 --> 00:08:49,125
+[inaudible]
+
+196
+00:08:53,666 --> 00:08:55,208
+[OKABE]
+It showed up after all.
+
+197
+00:08:56,458 --> 00:08:57,458
+Okabe, no!
+
+198
+00:08:57,541 --> 00:08:58,791
+Mommy!
+
+199
+00:09:03,000 --> 00:09:04,375
+[OKABE]
+I understand.
+
+200
+00:09:05,583 --> 00:09:08,625
+[OKABE] This time...
+there's nothing to fear!
+
+201
+00:09:10,375 --> 00:09:13,416
+[OKABE]
+This is it. This moment!
+
+202
+00:09:40,833 --> 00:09:47,416
+[OKABE laughing]
+
+203
+00:09:47,500 --> 00:09:50,291
+Attend me well,
+for I won't suffer fools!
+
+204
+00:09:50,375 --> 00:09:52,583
+Schrodinger's box
+has shattered wide open!
+
+205
+00:09:52,666 --> 00:09:55,875
+The time machine you bastards
+sought no longer exists!
+
+206
+00:09:55,958 --> 00:09:57,458
+It has traveled
+through space-time
+
+207
+00:09:57,541 --> 00:10:01,250
+and dissolved into the ether
+along with your schemes!
+
+208
+00:10:01,333 --> 00:10:04,375
+Writhe with anguish. Tremble
+in fear, for you should!
+
+209
+00:10:04,458 --> 00:10:08,166
+I, Hououin Kyouma, will prevail
+against you and your designs.
+
+210
+00:10:08,250 --> 00:10:10,833
+Indeed, fate itself
+will kneel at my feet!
+
+211
+00:10:10,916 --> 00:10:12,708
+Nothing will deter me.
+
+212
+00:10:12,791 --> 00:10:16,125
+I'll find Steins Gate!
+Do you hear?
+
+213
+00:10:16,208 --> 00:10:17,541
+For that...
+
+214
+00:10:17,625 --> 00:10:19,583
+[OKABE chuckling]
+
+215
+00:10:19,666 --> 00:10:22,416
+...is what I have chosen!
+
+216
+00:10:22,500 --> 00:10:23,541
+[OKABE grunts]
+
+217
+00:10:30,666 --> 00:10:32,750
+[MAYURI]
+Huh? What's that?
+
+218
+00:10:32,833 --> 00:10:33,833
+[DARU]
+Hold up.
+
+219
+00:10:33,916 --> 00:10:36,208
+Are there two time machines?
+
+220
+00:10:37,708 --> 00:10:38,666
+[gasps]
+
+221
+00:10:38,750 --> 00:10:40,000
+[MAYURI]
+A call from myself?
+
+222
+00:10:40,083 --> 00:10:42,333
+[DARU]
+Huh?
+
+223
+00:10:42,416 --> 00:10:43,958
+What's going on?
+
+224
+00:10:45,458 --> 00:10:47,166
+[MAYURI]
+I guess I'll answer it.
+
+225
+00:10:50,750 --> 00:10:52,375
+Uh, hello?
+
+226
+00:10:52,458 --> 00:10:53,625
+Who's this?
+
+227
+00:10:55,291 --> 00:10:58,791
+Please, don't be afraid,
+I need you to hear me out.
+
+228
+00:10:58,875 --> 00:10:59,833
+[MAYURI gasps]
+
+229
+00:11:01,416 --> 00:11:03,833
+Do you love Hououin Kyouma?
+
+230
+00:11:03,916 --> 00:11:05,416
+Truly?
+
+231
+00:11:05,500 --> 00:11:07,625
+Exactly one minute
+from right now,
+
+232
+00:11:07,708 --> 00:11:09,916
+Okarin will come back
+from the past.
+
+233
+00:11:10,000 --> 00:11:13,541
+But he didn't succeed
+in saving Makise Kurisu.
+
+234
+00:11:13,625 --> 00:11:14,833
+[MAYURI gasps]
+
+235
+00:11:14,916 --> 00:11:16,458
+[MAYURI]
+So that means...
+
+236
+00:11:17,500 --> 00:11:19,125
+...no matter what it takes,
+
+237
+00:11:19,208 --> 00:11:21,541
+you're going to have to
+confront your Hikoboshi.
+
+238
+00:11:21,625 --> 00:11:23,583
+You're the only one
+who can open his eyes.
+
+239
+00:11:23,666 --> 00:11:26,000
+My Hikoboshi?
+
+240
+00:11:26,083 --> 00:11:27,000
+[gasps]
+
+241
+00:11:27,083 --> 00:11:28,666
+[MAYURI]
+Yes.
+
+242
+00:11:28,750 --> 00:11:31,750
+[BOTH]
+Hououin Kyouma.
+
+243
+00:11:31,833 --> 00:11:33,416
+Okarin's heart will
+be shattered,
+
+244
+00:11:33,500 --> 00:11:36,041
+but you can get him
+on his feet again.
+
+245
+00:11:36,125 --> 00:11:38,416
+It's gonna take more than just
+speaking his name, though.
+
+246
+00:11:38,500 --> 00:11:40,125
+Thirty seconds to go!
+
+247
+00:11:40,208 --> 00:11:41,541
+[MAYURI]
+Think of the exact moment
+
+248
+00:11:41,625 --> 00:11:44,375
+Hououin Kyouma came into being,
+do you remember that?
+
+249
+00:11:44,458 --> 00:11:45,500
+[gasps]
+
+250
+00:11:45,583 --> 00:11:47,416
+[MAYURI]
+The moment he came into being?
+
+251
+00:11:47,500 --> 00:11:49,458
+Yes, I remember.
+
+252
+00:11:49,541 --> 00:11:51,541
+[MAYURI] I'm entrusting
+you with 27 years' worth
+
+253
+00:11:51,625 --> 00:11:52,708
+of love and pain.
+
+254
+00:11:52,791 --> 00:11:54,625
+You'll have to endure so much.
+
+255
+00:11:54,708 --> 00:11:57,041
+But I won't stop believing...
+
+256
+00:11:57,125 --> 00:11:58,625
+...in my Okarin...
+
+257
+00:11:58,708 --> 00:12:01,916
+...in our friends,
+and in myself.
+
+258
+00:12:02,000 --> 00:12:04,958
+So, please, never
+give up hope, either.
+
+259
+00:12:05,041 --> 00:12:07,125
+Because the rest
+is in your hands.
+
+260
+00:12:07,208 --> 00:12:08,291
+Too-too-roo!
+
+261
+00:12:08,375 --> 00:12:10,416
+Hold on! I--
+
+262
+00:12:10,500 --> 00:12:12,666
+Mayuri, it's time!
+We have to go!
+
+263
+00:12:12,750 --> 00:12:17,041
+Please, just tell me!
+Does Steins Gate really exist?
+
+264
+00:12:19,541 --> 00:12:21,833
+[MAYURI]
+It does I'm sure of it.
+
+265
+00:12:24,500 --> 00:12:28,125
+And now the second time
+machine's gone, too?
+
+266
+00:12:28,208 --> 00:12:30,791
+Wait, who was that on the phone?
+
+267
+00:12:32,875 --> 00:12:34,083
+[alarm blaring]
+
+268
+00:12:34,166 --> 00:12:36,041
+[SUZUHA]
+It's no use, Mayuri.
+
+269
+00:12:36,125 --> 00:12:38,666
+I'm sorry, but there's
+not much hope.
+
+270
+00:12:38,750 --> 00:12:39,791
+[MAYURI]
+I see.
+
+271
+00:12:39,875 --> 00:12:41,500
+Because there's
+no fuel left, right?
+
+272
+00:12:41,583 --> 00:12:44,125
+If we had stayed, it would've
+caused a time paradox,
+
+273
+00:12:44,208 --> 00:12:47,458
+so we had to jump.
+
+274
+00:12:47,541 --> 00:12:51,083
+I hate to say it, but this
+might be the end for us.
+
+275
+00:12:51,166 --> 00:12:53,666
+There's no telling what time
+we might be shot into.
+
+276
+00:12:53,750 --> 00:12:57,291
+One year later, or a
+million back, I can't say.
+
+277
+00:12:57,375 --> 00:12:59,125
+[MAYURI]
+Thank you, Suzuha.
+
+278
+00:13:01,000 --> 00:13:02,500
+Why would you thank me?
+
+279
+00:13:02,583 --> 00:13:05,750
+Thank you so much for letting me
+come along with you like this.
+
+280
+00:13:05,833 --> 00:13:07,416
+And don't worry!
+
+281
+00:13:07,500 --> 00:13:09,125
+I'm confident the other Mayuri
+
+282
+00:13:09,208 --> 00:13:12,541
+and my Hikoboshi can take
+care of things from here.
+
+283
+00:13:14,833 --> 00:13:17,958
+I'm so jealous of Uncle
+Okarin right now, you know?
+
+284
+00:13:18,041 --> 00:13:20,166
+If I had Reading
+Steiner like him,
+
+285
+00:13:20,250 --> 00:13:21,875
+then I could remember
+everything.
+
+286
+00:13:21,958 --> 00:13:23,708
+Even when world lines changed.
+
+287
+00:13:23,791 --> 00:13:25,583
+Like talking to
+this version of you,
+
+288
+00:13:25,666 --> 00:13:28,833
+who is younger than me,
+and everything about this time.
+
+289
+00:13:28,916 --> 00:13:32,708
+It's weird to think I won't talk
+to you for another six years.
+
+290
+00:13:32,791 --> 00:13:34,541
+Wait, even longer.
+
+291
+00:13:34,625 --> 00:13:37,000
+Unless you happen to start
+talking right after you're born!
+
+292
+00:13:37,083 --> 00:13:38,208
+[laughs]
+
+293
+00:13:38,291 --> 00:13:40,750
+[BOTH laughing]
+
+294
+00:13:40,833 --> 00:13:43,000
+[MAYURI]
+Hey, Okarin.
+
+295
+00:13:43,083 --> 00:13:47,791
+When the world seems like
+it's fallen into darkness...
+
+296
+00:13:47,875 --> 00:13:50,583
+...and you're afraid of
+the shadows all around...
+
+297
+00:13:50,666 --> 00:13:52,458
+...try not to close your eyes.
+
+298
+00:13:52,541 --> 00:13:55,625
+Don't ever give up.
+
+299
+00:13:55,708 --> 00:13:59,125
+And promise you won't let
+Hououin Kyouma die.
+
+300
+00:13:59,208 --> 00:14:03,958
+That way, my feelings
+can still reach your heart.
+
+301
+00:14:04,041 --> 00:14:06,166
+Even if they have to
+travel for hundreds,
+
+302
+00:14:06,250 --> 00:14:08,041
+even thousands of hours,
+
+303
+00:14:08,125 --> 00:14:11,208
+like the light
+of some distant star....
+
+304
+00:14:11,291 --> 00:14:14,291
+I will wait in the lab,
+no matter how long it takes
+
+305
+00:14:14,375 --> 00:14:16,791
+for you and all the
+others to join me.
+
+306
+00:14:16,875 --> 00:14:20,375
+And when you do,
+we'll be together at last.
+
+307
+00:14:21,916 --> 00:14:24,833
+[MAYURI] I'll see you again
+in Steins Gate!
+
+308
+00:14:29,625 --> 00:14:31,458
+[MAYURI]
+Okarin!
+
+309
+00:14:31,541 --> 00:14:32,916
+[OKABE]
+I killed her...
+
+310
+00:14:33,000 --> 00:14:34,166
+He's gonna be all right.
+
+311
+00:14:34,250 --> 00:14:36,458
+It's just a little bit
+complicated.
+
+312
+00:14:36,541 --> 00:14:37,250
+[MAYURI]
+Okarin.
+
+313
+00:14:37,333 --> 00:14:38,708
+[phone vibrating]
+
+314
+00:14:38,791 --> 00:14:40,250
+Okarin, it's your phone.
+
+315
+00:14:40,333 --> 00:14:41,333
+[DARU]
+A text?
+
+316
+00:14:41,416 --> 00:14:42,375
+[SUZUHA]
+Open it.
+
+317
+00:14:42,458 --> 00:14:43,083
+[MAYURI]
+I shouldn't.
+
+318
+00:14:43,166 --> 00:14:44,250
+[SUZUHA]
+Just do it.
+
+319
+00:14:44,333 --> 00:14:46,041
+[OKABE]
+I'm responsible for her death.
+
+320
+00:14:46,125 --> 00:14:47,083
+I'm responsible...
+
+321
+00:14:47,166 --> 00:14:48,791
+[MAYURI]
+It says to turn on the news.
+
+322
+00:14:48,875 --> 00:14:50,750
+[DARU]
+Seriously?
+
+323
+00:14:50,833 --> 00:14:52,416
+[REPORTER]
+Despite the cargo bay fire,
+
+324
+00:14:52,500 --> 00:14:54,791
+Doctor Nakabachi's plane
+managed to land safely
+
+325
+00:14:54,875 --> 00:14:56,958
+within the borders
+of the former Soviet Union,
+
+326
+00:14:57,041 --> 00:14:59,541
+to which he'd recently defected.
+
+327
+00:14:59,625 --> 00:15:01,041
+--[DARU] 'Kay, that's weird.
+--[MAYURI] That's my metal oopa!
+
+328
+00:15:01,125 --> 00:15:02,041
+[MAYURI]
+I know it is!
+
+329
+00:15:02,125 --> 00:15:03,250
+[DARU]
+Why's it in Russia?
+
+330
+00:15:03,333 --> 00:15:04,458
+[SUZUHA]
+That thesis of his.
+
+331
+00:15:04,541 --> 00:15:06,208
+That's what starts
+World War III.
+
+332
+00:15:06,291 --> 00:15:07,958
+It basically sparks
+an arms race,
+
+333
+00:15:08,041 --> 00:15:10,750
+only the goal is which country
+can build a time machine first.
+
+334
+00:15:10,833 --> 00:15:12,833
+Take first place
+and win the world.
+
+335
+00:15:12,916 --> 00:15:15,750
+That's how it starts, but things
+get hostile pretty quick.
+
+336
+00:15:15,833 --> 00:15:19,541
+The lives of 5.7 billion
+people are at stake here.
+
+337
+00:15:19,625 --> 00:15:23,875
+Save Makise Kurisu and
+you save every one of them.
+
+338
+00:15:23,958 --> 00:15:25,458
+I can't do it.
+
+339
+00:15:25,541 --> 00:15:28,166
+Things'll end up just
+as they did with Mayuri.
+
+340
+00:15:28,250 --> 00:15:31,541
+No matter what I did, she died.
+
+341
+00:15:31,625 --> 00:15:32,833
+[MAYURI]
+Think of the exact moment
+
+342
+00:15:32,916 --> 00:15:34,541
+Hououin Kyouma came into being!
+
+343
+00:15:34,625 --> 00:15:36,625
+Do you remember that?
+
+344
+00:15:36,708 --> 00:15:38,541
+[OKABE]
+Believe me, I know.
+
+345
+00:15:38,625 --> 00:15:39,625
+You may not think I do,
+
+346
+00:15:39,708 --> 00:15:43,000
+but I know how
+cruel time can be.
+
+347
+00:15:43,083 --> 00:15:48,166
+We like to imagine we can
+bend it to suit us, but...
+
+348
+00:15:48,250 --> 00:15:50,000
+...this was bound to happen.
+
+349
+00:15:50,083 --> 00:15:51,791
+It was stupid of me
+to play along.
+
+350
+00:15:51,875 --> 00:15:53,916
+I'm sorry, but I'm...
+
+351
+00:15:54,000 --> 00:15:55,416
+...I'm just done.
+
+352
+00:15:55,500 --> 00:15:57,250
+Let time have its way.
+
+353
+00:15:58,375 --> 00:15:59,375
+[gasps]
+
+354
+00:16:06,833 --> 00:16:11,791
+[inaudible]
+
+355
+00:16:22,458 --> 00:16:24,625
+[OKABE]
+Hail and well met...
+
+356
+00:16:24,708 --> 00:16:26,416
+...old friend.
+
+357
+00:16:26,500 --> 00:16:28,958
+That you're able to open
+this means you've seen it.
+
+358
+00:16:29,041 --> 00:16:31,166
+You've seen firsthand
+what became of Makise
+
+359
+00:16:31,250 --> 00:16:33,083
+and failed to prevent it.
+
+360
+00:16:33,166 --> 00:16:35,833
+I feel for you.
+Believe me, I do.
+
+361
+00:16:35,916 --> 00:16:39,375
+That said, the pain you're going
+through right now is necessary.
+
+362
+00:16:39,458 --> 00:16:42,666
+I daren't deny you--us...
+the bitter inspiration
+
+363
+00:16:42,750 --> 00:16:45,083
+it represents.
+
+364
+00:16:45,166 --> 00:16:48,708
+Without it, you cannot hope
+to carve out your destiny.
+
+365
+00:16:48,791 --> 00:16:52,500
+Now we can marshal
+our resources properly.
+
+366
+00:16:52,583 --> 00:16:56,083
+I hereby charge you with the
+task of reaching Steins Gate.
+
+367
+00:16:56,166 --> 00:16:58,125
+The target world line's
+charming little nickname
+
+368
+00:16:58,208 --> 00:16:59,666
+comes care of me as well,
+
+369
+00:16:59,750 --> 00:17:01,791
+which is to say,
+it comes from you.
+
+370
+00:17:01,875 --> 00:17:04,375
+Care to guess its significance?
+
+371
+00:17:04,458 --> 00:17:07,833
+Bingo. There's none.
+
+372
+00:17:07,916 --> 00:17:09,875
+[MAHO]
+Hey, are you sure about this?
+
+373
+00:17:09,958 --> 00:17:11,958
+[DARU]
+Yeah, for the most part.
+
+374
+00:17:12,041 --> 00:17:13,958
+[MAHO] Don't you think
+the Okabe in 2010
+
+375
+00:17:14,041 --> 00:17:15,625
+will be humiliated
+by the whole thing?
+
+376
+00:17:15,708 --> 00:17:17,083
+No need to worry about that.
+
+377
+00:17:17,166 --> 00:17:19,041
+He was even more
+incredible back then.
+
+378
+00:17:19,125 --> 00:17:21,041
+Just thinking about it
+makes me shudder.
+
+379
+00:17:21,125 --> 00:17:23,125
+[OKABE] And to further
+please our whimsy,
+
+380
+00:17:23,208 --> 00:17:26,333
+Operation Skuld will be the name
+we assign to this mission.
+
+381
+00:17:26,416 --> 00:17:30,125
+Forge of yesterday whatever
+you must to save the future.
+
+382
+00:17:30,208 --> 00:17:32,541
+Deceive yourself
+in every last detail.
+
+383
+00:17:32,625 --> 00:17:34,500
+Deceive the world.
+
+384
+00:17:34,583 --> 00:17:37,875
+Do this, and victory is assured.
+
+385
+00:17:39,958 --> 00:17:42,041
+Best of luck to you, old friend.
+
+386
+00:17:42,125 --> 00:17:45,833
+El. Psy. Congroo.
+
+387
+00:17:45,916 --> 00:17:46,708
+[FARIS]
+Cut!
+
+388
+00:17:46,791 --> 00:17:48,875
+Nice job! You nailed it! Meow!
+
+389
+00:17:48,958 --> 00:17:50,208
+[OKABE]
+Now the final step.
+
+390
+00:17:50,291 --> 00:17:53,375
+We have to send the video
+in a D-mail to the past.
+
+391
+00:17:53,458 --> 00:17:54,041
+Ruka.
+
+392
+00:17:54,125 --> 00:17:55,416
+On it.
+
+393
+00:17:55,500 --> 00:17:58,625
+The video that you just made
+goes to Kyouma in 2010,
+
+394
+00:17:58,708 --> 00:18:00,375
+and the one Hashida
+already filmed,
+
+395
+00:18:00,458 --> 00:18:02,500
+that goes to Suzuha in 2011,
+
+396
+00:18:02,583 --> 00:18:06,333
+right after you depart on
+your trip, is that right?
+
+397
+00:18:06,416 --> 00:18:08,375
+[MAHO]
+You really wanna do this?
+
+398
+00:18:08,458 --> 00:18:09,625
+[OKABE]
+Yes, why?
+
+399
+00:18:09,708 --> 00:18:11,708
+Because you'll be manning
+the inaugural run
+
+400
+00:18:11,791 --> 00:18:14,375
+of an experimental time machine.
+
+401
+00:18:19,291 --> 00:18:21,750
+[MAHO] You've told me you're
+supposed to die in 2025,
+
+402
+00:18:21,833 --> 00:18:23,291
+I get that,
+
+403
+00:18:23,375 --> 00:18:25,208
+but it doesn't mean it's okay
+for you to just throw your--
+
+404
+00:18:25,291 --> 00:18:28,500
+[OKABE] I have no intention
+of doing anything of the sort.
+
+405
+00:18:28,583 --> 00:18:31,041
+I fully believe our efforts
+here will pay off.
+
+406
+00:18:31,125 --> 00:18:32,125
+Yeah, but...
+
+407
+00:18:32,208 --> 00:18:34,166
+What if you interpret
+it differently?
+
+408
+00:18:34,250 --> 00:18:38,708
+In 2025, Okabe Rintaro doesn't
+perish like we thought.
+
+409
+00:18:38,791 --> 00:18:41,083
+Instead, he boards the first
+version of our time machine
+
+410
+00:18:41,166 --> 00:18:44,583
+and departs for another
+corner of space-time.
+
+411
+00:18:44,666 --> 00:18:47,833
+If I were to disappear from
+this world line, well, then...
+
+412
+00:18:47,916 --> 00:18:49,875
+...that's essentially
+the same as dying here.
+
+413
+00:18:49,958 --> 00:18:51,166
+Wouldn't you agree?
+
+414
+00:18:51,250 --> 00:18:53,375
+[MAHO] I'd call that mindset
+overly optimistic.
+
+415
+00:18:53,458 --> 00:18:56,416
+[OKABE] Emotions aside,
+it's a viable theory, is it not?
+
+416
+00:18:56,500 --> 00:18:57,708
+[chuckles]
+
+417
+00:18:59,000 --> 00:19:01,875
+[OKABE]
+The world can be deceived.
+
+418
+00:19:01,958 --> 00:19:05,500
+My friends! I thank you for
+following my lead until now!
+
+419
+00:19:05,583 --> 00:19:08,750
+As you know... on that
+day, in the year 2011,
+
+420
+00:19:08,833 --> 00:19:12,291
+a time machine departed
+for the past and was lost.
+
+421
+00:19:12,375 --> 00:19:15,583
+I venture into the abyss
+to find Mayuri and Suzuha.
+
+422
+00:19:15,666 --> 00:19:16,958
+With the Kerr black hole tracer,
+
+423
+00:19:17,041 --> 00:19:19,500
+I'll be able to home
+in on their locus.
+
+424
+00:19:19,583 --> 00:19:22,625
+With luck, it will lead me
+straight to where they are.
+
+425
+00:19:22,708 --> 00:19:23,833
+[KAGARI]
+Okarin.
+
+426
+00:19:25,708 --> 00:19:26,916
+[KAGURI]
+Take this.
+
+427
+00:19:27,000 --> 00:19:28,416
+[OKABE]
+Are you sure?
+
+428
+00:19:28,500 --> 00:19:32,333
+I am. Please give it to Mommy
+when you find her, for me.
+
+429
+00:19:33,875 --> 00:19:35,291
+Yes, I promise.
+
+430
+00:19:36,708 --> 00:19:39,416
+[MAHO] I just have to
+ask you one last time.
+
+431
+00:19:39,500 --> 00:19:40,750
+About Steins Gate.
+
+432
+00:19:42,000 --> 00:19:43,125
+Does it exist?
+
+433
+00:19:43,208 --> 00:19:44,916
+And can we reach it?
+
+434
+00:19:52,625 --> 00:19:55,750
+[OKABE]
+It exists. We'll find it.
+
+435
+00:19:59,125 --> 00:20:01,416
+As of now, the operation
+commences!
+
+436
+00:20:01,500 --> 00:20:02,958
+Operation Altair!
+
+437
+00:20:03,041 --> 00:20:05,958
+That is the name by which
+it shall be known!
+
+438
+00:20:09,583 --> 00:20:12,000
+Do you think that he'll succeed?
+
+439
+00:20:12,083 --> 00:20:13,291
+'Course he will.
+
+440
+00:20:13,375 --> 00:20:15,166
+If anyone can do it, Kyouma can.
+
+441
+00:20:15,250 --> 00:20:16,791
+Yeah, I'm with Faris.
+
+442
+00:20:16,875 --> 00:20:17,791
+He's special.
+
+443
+00:20:17,875 --> 00:20:19,416
+Nothing's out of his reach.
+
+444
+00:20:19,500 --> 00:20:20,541
+Exactly right.
+
+445
+00:20:20,625 --> 00:20:22,625
+Okarin makes the
+impossible possible.
+
+446
+00:20:24,041 --> 00:20:26,125
+Good luck, Okarin.
+
+447
+00:20:32,958 --> 00:20:35,458
+[MAHO] The universe may not
+have a discernible end.
+
+448
+00:20:35,541 --> 00:20:36,625
+It's infinite,
+
+449
+00:20:36,708 --> 00:20:38,500
+but it had a beginning.
+
+450
+00:20:38,583 --> 00:20:41,500
+And as for its component
+parts, the stars,
+
+451
+00:20:41,583 --> 00:20:44,958
+those definitely have a limited
+cosmological shelf life.
+
+452
+00:20:45,041 --> 00:20:46,541
+They're finite.
+
+453
+00:20:46,625 --> 00:20:48,083
+If history tells us anything,
+
+454
+00:20:48,166 --> 00:20:51,333
+it's that scientists
+often make very poor poets.
+
+455
+00:20:51,416 --> 00:20:54,041
+We're a ship of fools,
+chasing phantoms,
+
+456
+00:20:54,125 --> 00:20:56,875
+heedless of what
+underwrites natural law.
+
+457
+00:20:56,958 --> 00:20:59,458
+If we could somehow
+attain that wisdom,
+
+458
+00:20:59,541 --> 00:21:02,708
+perhaps it would only plunge
+us into madness and ruin.
+
+459
+00:21:02,791 --> 00:21:05,208
+Humans exceeding
+the speed of light?
+
+460
+00:21:05,291 --> 00:21:07,000
+It's more foolish
+than fish attempting
+
+461
+00:21:07,083 --> 00:21:09,291
+to make a life on land.
+
+462
+00:21:09,375 --> 00:21:10,916
+And yet...
+
+463
+00:21:11,000 --> 00:21:12,500
+...these words.
+
+464
+00:21:12,583 --> 00:21:14,375
+They're meant for those
+foolhardy enough
+
+465
+00:21:14,458 --> 00:21:16,708
+to defy the counsels of fate.
+
+466
+00:21:16,791 --> 00:21:19,375
+An epigraph for
+their obstinance.
+
+467
+00:23:07,125 --> 00:23:08,500
+[inaudible]
+
+468
+00:23:24,208 --> 00:23:25,458
+Suzuha!
+
+469
+00:23:25,541 --> 00:23:26,833
+[laughs]
+
+470
+00:23:35,708 --> 00:23:38,875
+Did you doubt me, my loves?
+

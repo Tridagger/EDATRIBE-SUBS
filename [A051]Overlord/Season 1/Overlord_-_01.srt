@@ -1,0 +1,1936 @@
+﻿1
+00:00:38,333 --> 00:00:40,416
+[MOMONGA] Dive Massively
+Multiplayer Online
+
+2
+00:00:40,500 --> 00:00:42,083
+Role Playing Game.
+
+3
+00:00:42,166 --> 00:00:45,875
+Or, for short, "DMMO-RPG."
+
+4
+00:00:45,958 --> 00:00:47,416
+It's a type of game
+where you can
+
+5
+00:00:47,500 --> 00:00:51,291
+immerse yourself in an imaginary
+world as if you were in it.
+
+6
+00:00:51,375 --> 00:00:52,875
+Such as Yggdrasil.
+
+7
+00:00:52,958 --> 00:00:56,041
+Released in the year 2126,
+the game sported
+
+8
+00:00:56,125 --> 00:00:58,791
+an expansive world map
+and an unusually high degree
+
+9
+00:00:58,875 --> 00:01:01,541
+of player freedom. These
+features, among others,
+
+10
+00:01:01,625 --> 00:01:05,750
+made it stand above all other
+DMMO-RPGs of its time.
+
+11
+00:01:05,833 --> 00:01:10,041
+And it became wildly popular
+in the country of Japan.
+
+12
+00:01:10,125 --> 00:01:12,666
+Now, after 12 years
+of operation,
+
+13
+00:01:12,750 --> 00:01:15,875
+the world of Yggdrasil
+is about to see its end.
+
+14
+00:01:18,958 --> 00:01:22,541
+[SKELETONS grunting, growling]
+
+15
+00:01:31,250 --> 00:01:33,916
+[PLAYERS grunting]
+
+16
+00:01:34,000 --> 00:01:36,041
+[PLAYER 1A growling]
+
+17
+00:01:36,125 --> 00:01:38,791
+[PLAYER 1B grunting]
+
+18
+00:01:38,875 --> 00:01:41,541
+[PLAYER 1E yells]
+
+19
+00:01:41,625 --> 00:01:42,458
+[PLAYER 1C yells]
+
+20
+00:01:42,541 --> 00:01:44,666
+[PLAYER 1D growls]
+
+21
+00:01:48,541 --> 00:01:50,291
+[PLAYER 1F growls]
+
+22
+00:01:51,416 --> 00:01:52,541
+[PLAYER 1A grunts]
+
+23
+00:01:59,333 --> 00:02:00,750
+[PLAYERS gasp]
+
+24
+00:02:04,583 --> 00:02:06,333
+[PLAYER 1A gasping]
+
+25
+00:02:12,666 --> 00:02:15,583
+[PLAYER 1A groans]
+
+26
+00:02:15,666 --> 00:02:18,625
+[AINS chuckles]
+
+27
+00:02:18,708 --> 00:02:21,291
+[AINS laughs]
+
+28
+00:03:52,500 --> 00:03:59,208
+[MOMONGA] It was fun.
+In fact, it was a blast.
+
+29
+00:03:59,291 --> 00:04:00,333
+[HEROHERO]
+Hey, there.
+
+30
+00:04:00,416 --> 00:04:02,291
+It's been a while
+hasn't it, Momonga?
+
+31
+00:04:02,375 --> 00:04:03,625
+[MOMONGA]
+Sure has.
+
+32
+00:04:03,708 --> 00:04:06,250
+To be honest, Herohero,
+I didn't think you'd come.
+
+33
+00:04:06,333 --> 00:04:08,791
+You've been gone
+a couple of years.
+
+34
+00:04:08,875 --> 00:04:12,375
+[HEROHERO] No way. It's
+really been that long? Man.
+
+35
+00:04:12,458 --> 00:04:13,541
+I guess I've been
+working so much,
+
+36
+00:04:13,625 --> 00:04:15,916
+my concept of time
+is out of whack.
+
+37
+00:04:16,000 --> 00:04:18,250
+[MOMONGA] That sucks.
+It can't be healthy for you.
+
+38
+00:04:18,333 --> 00:04:19,416
+[HEROHERO]
+Tell me about it.
+
+39
+00:04:19,500 --> 00:04:21,458
+I feel like my avatar looks.
+
+40
+00:04:21,541 --> 00:04:23,083
+[MOMONGA]
+Hm.
+
+41
+00:04:23,166 --> 00:04:24,875
+[HEROHERO]
+I'm sorry.
+
+42
+00:04:24,958 --> 00:04:26,958
+I shouldn't have come
+here just to complain.
+
+43
+00:04:27,041 --> 00:04:29,250
+[MOMONGA]
+Please, don't worry about it.
+
+44
+00:04:29,333 --> 00:04:31,750
+[HEROHERO]
+Well, I better go soon.
+
+45
+00:04:31,833 --> 00:04:34,041
+I'm beyond exhausted.
+
+46
+00:04:34,125 --> 00:04:37,833
+[MOMONGA]
+Right. Rest up and feel better.
+
+47
+00:04:37,916 --> 00:04:39,500
+[HEROHERO]
+Wish I could stay longer.
+
+48
+00:04:39,583 --> 00:04:42,333
+But, gotta say, I'm
+kinda shocked to see
+
+49
+00:04:42,416 --> 00:04:44,666
+the Great Tomb of
+Nazarick still standing.
+
+50
+00:04:44,750 --> 00:04:45,833
+[MOMONGA]
+Huh?
+
+51
+00:04:45,916 --> 00:04:47,125
+[HEROHERO]
+Being guild leader suited you.
+
+52
+00:04:47,208 --> 00:04:49,958
+You've done a great job
+maintaining the place.
+
+53
+00:04:50,041 --> 00:04:52,208
+[MOMONGA] Well, we created
+this place together.
+
+54
+00:04:52,291 --> 00:04:54,666
+I couldn't just
+let it go to dust.
+
+55
+00:04:54,750 --> 00:04:56,041
+[HEROHERO]
+Must have been hard work.
+
+56
+00:04:56,125 --> 00:04:57,625
+Thanks for everything.
+
+57
+00:04:57,708 --> 00:04:59,916
+I hope we meet again IRL.
+
+58
+00:05:05,541 --> 00:05:07,708
+[MOMONGA] Today is the
+last day Yggdrasil's servers
+
+59
+00:05:07,791 --> 00:05:09,291
+will be online.
+
+60
+00:05:09,375 --> 00:05:10,541
+Why not stay?
+
+61
+00:05:10,625 --> 00:05:12,625
+We could reminisce and
+wait until everything
+
+62
+00:05:12,708 --> 00:05:15,958
+shuts down for good. [sighs]
+
+63
+00:05:17,583 --> 00:05:18,583
+[MOMONGA]
+Oh well.
+
+64
+00:05:18,666 --> 00:05:21,500
+I'm happy that he
+even came at all.
+
+65
+00:05:21,583 --> 00:05:25,000
+"I hope we meet
+again," huh? Right.
+
+66
+00:05:25,083 --> 00:05:27,416
+Just when and where
+would that be?
+
+67
+00:05:31,708 --> 00:05:33,208
+[MOMONGA]
+This sucks!
+
+68
+00:05:34,375 --> 00:05:35,708
+[MOMONGA]
+This is our home.
+
+69
+00:05:35,791 --> 00:05:39,291
+We built it together,
+with virtual blood and sweat.
+
+70
+00:05:40,750 --> 00:05:44,125
+[MOMONGA] How can he turn
+his back on it so easily?
+
+71
+00:05:46,916 --> 00:05:50,083
+[MOMONGA]
+Stop it. He didn't.
+
+72
+00:05:50,166 --> 00:05:53,625
+No one in the
+guild betrayed you.
+
+73
+00:05:53,708 --> 00:05:57,166
+Our guild's weapon:
+the Staff of Ains Ooal Gown.
+
+74
+00:05:58,333 --> 00:06:00,208
+[MOMONGA]
+We played recklessly to make it.
+
+75
+00:06:00,291 --> 00:06:02,333
+Some of us even spent our
+PTO just to have time
+
+76
+00:06:02,416 --> 00:06:04,250
+to grind the materials.
+
+77
+00:06:06,500 --> 00:06:09,166
+[MOMONGA] But, among
+the original 41 members,
+
+78
+00:06:09,250 --> 00:06:11,208
+37 of them quit.
+
+79
+00:06:13,041 --> 00:06:15,291
+[MOMONGA] Then, the three
+that were left...
+
+80
+00:06:17,291 --> 00:06:20,416
+[MOMONGA] Let's go. You're
+a testament of our guild.
+
+81
+00:06:21,708 --> 00:06:23,208
+[MOMONGA] There were two
+requirements for joining
+
+82
+00:06:23,291 --> 00:06:26,041
+the guild, Ains Ooal Gown.
+
+83
+00:06:26,125 --> 00:06:28,458
+The player's avatar
+had to be inhuman
+
+84
+00:06:28,541 --> 00:06:30,333
+and the player themself
+had to be a functioning
+
+85
+00:06:30,416 --> 00:06:32,083
+member of society.
+
+86
+00:06:33,625 --> 00:06:37,208
+[MOMONGA] We put our livelihoods
+on the line to play.
+
+87
+00:06:37,291 --> 00:06:40,250
+Some members managed to
+make their dreams come true.
+
+88
+00:06:40,333 --> 00:06:43,750
+In the end, I can't blame
+them for choosing real life.
+
+89
+00:06:43,833 --> 00:06:45,000
+[MOMONGA]
+Uh--
+
+90
+00:06:50,000 --> 00:06:53,958
+[MOMONGA] Oh, yeah. I
+forgot his name was Sebas.
+
+91
+00:06:54,041 --> 00:06:57,083
+And these are the combat
+maids of the Pleiades.
+
+92
+00:06:57,166 --> 00:06:58,625
+We intended for them
+to be the last
+
+93
+00:06:58,708 --> 00:07:01,375
+line of defense to the
+throne room, but, in the end,
+
+94
+00:07:01,458 --> 00:07:03,875
+no player was able
+to make it that far.
+
+95
+00:07:06,208 --> 00:07:07,916
+[MOMONGA]
+I should move them around.
+
+96
+00:07:08,000 --> 00:07:11,583
+One last time. It's
+the least I can do.
+
+97
+00:07:11,666 --> 00:07:13,000
+"Follow Me."
+
+98
+00:07:17,875 --> 00:07:19,291
+[MOMONGA]
+I'm sure the other guild members
+
+99
+00:07:19,375 --> 00:07:22,625
+will forgive me for doing
+whatever I want, just for today.
+
+100
+00:07:44,500 --> 00:07:45,875
+[MOMONGA]
+Albedo.
+
+101
+00:07:48,416 --> 00:07:49,750
+[MOMONGA]
+Hm?
+
+102
+00:07:49,833 --> 00:07:53,208
+The command was
+"Stand By," right?
+
+103
+00:07:59,125 --> 00:08:00,291
+[MOMONGA sighs]
+
+104
+00:08:00,375 --> 00:08:01,666
+[MOMONGA]
+Hm?
+
+105
+00:08:04,375 --> 00:08:07,208
+[MOMONGA]
+What were her settings again?
+
+106
+00:08:07,291 --> 00:08:10,083
+"As the highest ranking NPC
+in the Tomb of Nazarick,
+
+107
+00:08:10,166 --> 00:08:13,583
+she supervises all
+of the Guardians."
+
+108
+00:08:13,666 --> 00:08:15,458
+Jeez, this is long!
+
+109
+00:08:15,541 --> 00:08:16,958
+Well...
+
+110
+00:08:17,041 --> 00:08:19,875
+Tabula, the settings maniac,
+was the one who created her.
+
+111
+00:08:19,958 --> 00:08:24,333
+Huh? No way. She's a bitch?
+
+112
+00:08:24,416 --> 00:08:25,833
+[MOMONGA sighs]
+
+113
+00:08:25,916 --> 00:08:28,375
+[MOMONGA] He did love to make
+contradicting characters.
+
+114
+00:08:28,458 --> 00:08:32,333
+I can't fault a guy for
+his tastes, but still.
+
+115
+00:08:32,416 --> 00:08:34,458
+Normally, you need a
+tool to change settings,
+
+116
+00:08:34,541 --> 00:08:36,916
+but since I have this...
+
+117
+00:08:41,583 --> 00:08:45,375
+[MOMONGA] Hm... Maybe I
+should add something...
+
+118
+00:08:45,458 --> 00:08:49,708
+"She is deeply in
+love with Momonga."
+
+119
+00:08:49,791 --> 00:08:52,958
+How embarrassing!
+I'm such a dork!
+
+120
+00:08:57,250 --> 00:09:00,375
+[MOMONGA]
+What was that command again?
+
+121
+00:09:00,458 --> 00:09:02,166
+"Bow down."
+
+122
+00:09:06,500 --> 00:09:08,333
+[MOMONGA sighs]
+
+123
+00:09:10,458 --> 00:09:12,916
+[MOMONGA] Now these are
+relics of the past.
+
+124
+00:09:15,416 --> 00:09:18,375
+[MOMONGA]
+There's mine. "Touch Me."
+
+125
+00:09:18,458 --> 00:09:22,416
+"Shijuuten Suzaku."
+"Ankoro Mocchi Mocchi."
+
+126
+00:09:22,500 --> 00:09:24,916
+"Herohero." "Peroroncino."
+
+127
+00:09:25,000 --> 00:09:28,333
+"Bukubuku Chagama."
+"Tabula Smaragdina."
+
+128
+00:09:28,416 --> 00:09:30,583
+"Warrior Takemikazuchi."
+
+129
+00:09:30,666 --> 00:09:33,958
+"Variable Talisman." "Genjiro."
+
+130
+00:09:35,041 --> 00:09:38,791
+[MOMONGA sighs]
+Well, it was fun.
+
+131
+00:09:40,208 --> 00:09:43,625
+[MOMONGA]
+In fact, it was a blast.
+
+132
+00:09:45,208 --> 00:09:48,333
+[MOMONGA sighs]
+I have to wake up at four AM.
+
+133
+00:09:48,416 --> 00:09:50,875
+I better crash after
+the server shuts down.
+
+134
+00:09:50,958 --> 00:09:53,083
+I don't wanna be
+a zombie at work.
+
+135
+00:10:04,875 --> 00:10:06,041
+[MOMONGA gasps]
+
+136
+00:10:08,958 --> 00:10:11,666
+[MOMONGA] Did the devs push
+back the server shutdown?
+
+137
+00:10:14,375 --> 00:10:15,833
+[MOMONGA]
+Where's my console?
+
+138
+00:10:15,916 --> 00:10:18,708
+I can't use chat or call a GM!
+
+139
+00:10:18,791 --> 00:10:20,208
+What's going on?!
+
+140
+00:10:23,708 --> 00:10:26,708
+[ALBEDO] Is something
+the matter, Lord Momonga?
+
+141
+00:10:26,791 --> 00:10:28,083
+[MOMONGA]
+Hm?
+
+142
+00:10:30,458 --> 00:10:32,625
+[MOMONGA]
+U-Uh...
+
+143
+00:10:35,833 --> 00:10:37,541
+Lord Momonga?
+
+144
+00:10:38,375 --> 00:10:42,125
+[ALBEDO] Lord Momonga?
+Is everything all right?
+
+145
+00:10:42,208 --> 00:10:43,583
+You seem troubled, my lord.
+
+146
+00:10:43,666 --> 00:10:45,250
+[MOMONGA]
+Uh...
+
+147
+00:10:45,333 --> 00:10:47,250
+[ALBEDO gasps]
+
+148
+00:10:47,333 --> 00:10:50,000
+If there's a problem,
+please let me help.
+
+149
+00:10:51,833 --> 00:10:53,791
+[MOMONGA gasps]
+
+150
+00:10:58,583 --> 00:11:01,375
+[AINS] The GM call
+function isn't working.
+
+151
+00:11:03,875 --> 00:11:06,500
+I'm sorry, but I have no answer.
+
+152
+00:11:06,583 --> 00:11:08,375
+This "GM Call"
+magic you speak of
+
+153
+00:11:08,458 --> 00:11:09,958
+is beyond my comprehension.
+
+154
+00:11:10,041 --> 00:11:11,916
+[MOMONGA]
+Her mouth is moving!
+
+155
+00:11:12,000 --> 00:11:15,750
+[ALBEDO] I realize my failure
+to assist you is inexcusable.
+
+156
+00:11:15,833 --> 00:11:18,333
+I don't deserve it, but I
+beg for your mercy, lord.
+
+157
+00:11:18,416 --> 00:11:21,208
+[MOMONGA] I'm actually
+talking with an NPC?!
+
+158
+00:11:22,291 --> 00:11:26,708
+[MOMONGA] No way. Is this
+a bug? A programming error?
+
+159
+00:11:30,625 --> 00:11:32,125
+[MOMONGA]
+Okay, the staff still functions
+
+160
+00:11:32,208 --> 00:11:35,458
+like it normally does,
+but I can't use my console,
+
+161
+00:11:35,541 --> 00:11:37,958
+or contact the administrators.
+
+162
+00:11:38,041 --> 00:11:39,958
+What should I do?
+
+163
+00:11:40,041 --> 00:11:41,083
+[AINS]
+Sebas!
+
+164
+00:11:41,166 --> 00:11:42,625
+[SEBAS]
+Lord.
+
+165
+00:11:42,708 --> 00:11:45,833
+[MOMONGA] Is it okay for
+me to give him orders?
+
+166
+00:11:45,916 --> 00:11:47,500
+Ah, screw it.
+
+167
+00:11:48,583 --> 00:11:49,666
+[AINS]
+Sebas.
+
+168
+00:11:49,750 --> 00:11:51,333
+Step out of the
+Great Tomb and confirm
+
+169
+00:11:51,416 --> 00:11:54,041
+the surroundings of Nazarick.
+
+170
+00:11:54,125 --> 00:11:57,166
+By your command,
+my lord. I'll return.
+
+171
+00:11:57,250 --> 00:11:59,666
+Pleiades, I want you
+on the ninth floor.
+
+172
+00:11:59,750 --> 00:12:02,500
+If anyone tries to
+trespass, deal with them.
+
+173
+00:12:02,583 --> 00:12:06,625
+As you wish, my lord.
+It will be done.
+
+174
+00:12:06,708 --> 00:12:08,750
+[MOMONGA] They even recognize
+and respond to commands
+
+175
+00:12:08,833 --> 00:12:12,000
+that aren't native to the game.
+
+176
+00:12:12,083 --> 00:12:14,875
+What in the world is going on?
+
+177
+00:12:14,958 --> 00:12:16,125
+Mm?
+
+178
+00:12:17,041 --> 00:12:18,541
+[MOMONGA]
+Uh--
+
+179
+00:12:18,625 --> 00:12:21,375
+Think. How can I
+contact an administrator?
+
+180
+00:12:21,458 --> 00:12:23,833
+The "GM Call"
+function is busted.
+
+181
+00:12:23,916 --> 00:12:25,958
+The "Message" spell? Maybe.
+
+182
+00:12:26,041 --> 00:12:28,208
+It's normally used for players
+to contact each other,
+
+183
+00:12:28,291 --> 00:12:30,458
+so there's a chance.
+
+184
+00:12:30,541 --> 00:12:33,333
+But I'm not sure I
+can even use magic.
+
+185
+00:12:33,416 --> 00:12:35,083
+[ALBEDO]
+So, Lord Momonga?
+
+186
+00:12:35,166 --> 00:12:36,166
+[MOMONGA]
+Huh?
+
+187
+00:12:36,250 --> 00:12:38,541
+Do you have any orders
+for me to obey?
+
+188
+00:12:38,625 --> 00:12:39,875
+[AINS]
+Let's see.
+
+189
+00:12:39,958 --> 00:12:42,500
+I guess, you could come
+here for a moment.
+
+190
+00:12:42,583 --> 00:12:44,750
+Sure!
+
+191
+00:12:44,833 --> 00:12:47,416
+[MOMONGA]
+Whoa! She smells great!
+
+192
+00:12:47,500 --> 00:12:48,916
+Wait, "smell"?
+
+193
+00:12:49,000 --> 00:12:52,416
+There was never a function
+like that in Yggdrasil.
+
+194
+00:12:52,500 --> 00:12:54,500
+[AINS]
+Albedo, may I touch you?
+
+195
+00:12:54,583 --> 00:12:56,416
+Yes!
+
+196
+00:12:56,500 --> 00:12:57,583
+[gasps]
+
+197
+00:12:57,666 --> 00:13:00,500
+[MOMONGA]
+No way. She has a pulse.
+
+198
+00:13:00,583 --> 00:13:01,833
+This is crazy!
+
+199
+00:13:01,916 --> 00:13:05,500
+She's supposed to be an
+NPC run by an AI program.
+
+200
+00:13:05,583 --> 00:13:08,375
+Why does she seem so alive?
+
+201
+00:13:08,458 --> 00:13:10,750
+Okay. Focus. Last test.
+
+202
+00:13:10,833 --> 00:13:13,750
+I have to confirm this,
+no matter the cost!
+
+203
+00:13:13,833 --> 00:13:17,666
+[AINS] Albedo. May--
+May I touch your chest?
+
+204
+00:13:17,750 --> 00:13:18,916
+[ALBEDO]
+Eh?
+
+205
+00:13:19,000 --> 00:13:21,958
+[MOMONGA] Uh! This is
+necessary! Play it cool!
+
+206
+00:13:22,041 --> 00:13:24,416
+Act natural, like
+it's no big deal.
+
+207
+00:13:24,500 --> 00:13:27,041
+Uh, you don't mind that, right?
+
+208
+00:13:27,125 --> 00:13:28,708
+[MOMONGA]
+You blew it, n00b!
+
+209
+00:13:28,791 --> 00:13:32,208
+Of course not! Touch me
+as much as you wish!
+
+210
+00:13:33,000 --> 00:13:34,833
+[MOMONGA]
+Uh...
+
+211
+00:13:41,125 --> 00:13:42,666
+[moans]
+
+212
+00:13:42,750 --> 00:13:44,125
+[MOMONGA]
+Let's think this through.
+
+213
+00:13:44,208 --> 00:13:46,000
+The fact I can do something
+reserved for a hentai game
+
+214
+00:13:46,083 --> 00:13:48,625
+means this isn't a new
+version of Yggdrasil,
+
+215
+00:13:48,708 --> 00:13:53,875
+and chances are slim that
+this is some new DMMO-RPG.
+
+216
+00:13:53,958 --> 00:13:56,083
+Is it possible that this
+virtual world somehow
+
+217
+00:13:56,166 --> 00:13:58,916
+became real all of a sudden?
+
+218
+00:13:59,000 --> 00:14:01,416
+No way. That's nuts.
+
+219
+00:14:01,500 --> 00:14:03,458
+But, really, talking
+to the NPCS,
+
+220
+00:14:03,541 --> 00:14:05,375
+smelling their scent,
+touching them...
+
+221
+00:14:05,458 --> 00:14:07,041
+All of these things
+have been impossible
+
+222
+00:14:07,125 --> 00:14:09,000
+to program into games.
+
+223
+00:14:10,250 --> 00:14:11,208
+[MOMONGA]
+Hey!
+
+224
+00:14:11,291 --> 00:14:13,375
+How long did I plan
+on fondling her?
+
+225
+00:14:13,458 --> 00:14:17,041
+[AINS] A-Albedo. I'm sorry,
+I didn't mean to--
+
+226
+00:14:17,125 --> 00:14:18,416
+This is it, isn't it?
+
+227
+00:14:18,500 --> 00:14:20,125
+You're going to
+take me right here?
+
+228
+00:14:20,208 --> 00:14:21,375
+[AINS]
+Uh--
+
+229
+00:14:21,458 --> 00:14:22,875
+[ALBEDO] Oh! What shall
+I do about my clothes?
+
+230
+00:14:22,958 --> 00:14:24,250
+Should I remove them on my own?
+
+231
+00:14:24,333 --> 00:14:26,625
+Or would you prefer to
+get rid of them yourself?
+
+232
+00:14:26,708 --> 00:14:28,625
+[AINS]
+Whoa! Hold on a moment, Albedo!
+
+233
+00:14:28,708 --> 00:14:30,625
+This isn't right!
+
+234
+00:14:30,708 --> 00:14:31,958
+[AINS clears throat]
+
+235
+00:14:32,041 --> 00:14:34,500
+[AINS] Now is not the time
+to be doing such things.
+
+236
+00:14:34,583 --> 00:14:37,333
+[ALBEDO gasps]
+I'm so sorry, Lord Momonga!
+
+237
+00:14:37,416 --> 00:14:41,708
+[AINS] It's fine, Albedo.
+I forgive you completely.
+
+238
+00:14:41,791 --> 00:14:44,833
+More importantly, I have
+an order for you.
+
+239
+00:14:44,916 --> 00:14:47,541
+It would be my
+pleasure to serve you.
+
+240
+00:14:47,625 --> 00:14:49,291
+[AINS] Except for the
+Guardians of the fourth
+
+241
+00:14:49,375 --> 00:14:51,125
+and eighth floors,
+I want everyone to meet
+
+242
+00:14:51,208 --> 00:14:54,000
+at the sixth floor's
+fighting arena.
+
+243
+00:14:54,083 --> 00:14:56,875
+Have them gather
+there in one hour.
+
+244
+00:14:56,958 --> 00:14:58,916
+As you wish, my lord.
+
+245
+00:15:02,250 --> 00:15:04,666
+[MOMONGA]
+This is terrible.
+
+246
+00:15:04,750 --> 00:15:05,833
+Tabula...
+
+247
+00:15:05,916 --> 00:15:07,500
+I can't believe I
+took the NPC you made
+
+248
+00:15:07,583 --> 00:15:09,375
+and tainted it like that.
+
+249
+00:15:16,083 --> 00:15:19,375
+[MOMONGA] Dammit. I'll
+worry about that later.
+
+250
+00:15:19,458 --> 00:15:22,458
+I have plenty of other problems
+to take care of first.
+
+251
+00:15:26,208 --> 00:15:27,416
+[MOMONGA]
+It worked!
+
+252
+00:15:28,708 --> 00:15:29,958
+[MOMONGA]
+The ring's teleportation ability
+
+253
+00:15:30,041 --> 00:15:32,000
+has no issues.
+
+254
+00:15:32,083 --> 00:15:34,333
+I can still use items.
+
+255
+00:15:35,916 --> 00:15:38,000
+[MOMONGA] It looks like Albedo
+and the others are still loyal,
+
+256
+00:15:38,083 --> 00:15:40,250
+just like they were
+programmed to be.
+
+257
+00:15:42,833 --> 00:15:45,708
+[MOMONGA] So then, what about
+the other characters?
+
+258
+00:15:51,916 --> 00:15:53,291
+[MOMONGA]
+The twin dark elves that Chagama
+
+259
+00:15:53,375 --> 00:15:55,916
+created should be the
+Guardians of this floor.
+
+260
+00:15:56,000 --> 00:15:57,750
+Where are they?
+
+261
+00:15:57,833 --> 00:15:59,541
+[AURA yells]
+
+262
+00:15:59,625 --> 00:16:01,041
+[laughs]
+
+263
+00:16:02,666 --> 00:16:03,875
+Crushed it!
+
+264
+00:16:03,958 --> 00:16:05,083
+[AINS]
+Aura.
+
+265
+00:16:06,625 --> 00:16:08,583
+We're honored to have
+you, Lord Momonga!
+
+266
+00:16:08,666 --> 00:16:10,958
+Welcome to the sixth
+floor amphitheater.
+
+267
+00:16:11,041 --> 00:16:13,708
+[AINS] I will only intrude
+for a little while.
+
+268
+00:16:13,791 --> 00:16:15,500
+You must be joking, right?
+
+269
+00:16:15,583 --> 00:16:18,166
+You are the ruler of the
+Great Tomb of Nazarick.
+
+270
+00:16:18,250 --> 00:16:20,041
+Your power here is absolute.
+
+271
+00:16:20,125 --> 00:16:21,625
+There isn't a
+guardian that would
+
+272
+00:16:21,708 --> 00:16:26,000
+ever consider you an intruder,
+least of all my brother and I.
+
+273
+00:16:26,083 --> 00:16:28,333
+[AINS]
+Speaking of...
+
+274
+00:16:28,416 --> 00:16:31,458
+Mare! You're being rude
+to Lord Momonga!
+
+275
+00:16:31,541 --> 00:16:34,250
+Stop cowering and get
+down here already!
+
+276
+00:16:34,333 --> 00:16:37,416
+[MARE]
+But, Sis, I'm scared! Come on.
+
+277
+00:16:37,500 --> 00:16:39,333
+Mare!
+
+278
+00:16:39,416 --> 00:16:42,750
+[MARE]
+Okay, okay, fine! I'm coming!
+
+279
+00:16:42,833 --> 00:16:44,666
+[MARE grunts]
+
+280
+00:16:44,750 --> 00:16:45,458
+[MARE yelps]
+
+281
+00:16:45,541 --> 00:16:48,541
+[AURA]
+Good grief.
+
+282
+00:16:48,625 --> 00:16:51,500
+[MARE pants]
+
+283
+00:16:51,583 --> 00:16:52,958
+We're gettin' old, here.
+
+284
+00:16:53,041 --> 00:16:54,791
+[MARE]
+I'm hurrying!
+
+285
+00:16:54,875 --> 00:16:56,250
+Ah!
+
+286
+00:16:56,333 --> 00:16:59,791
+[MARE] I apologize for making
+you wait, Lord Momonga.
+
+287
+00:16:59,875 --> 00:17:01,333
+[AINS]
+It's fine.
+
+288
+00:17:01,416 --> 00:17:04,500
+Now, I'd like for the two of
+you to help me with something.
+
+289
+00:17:04,583 --> 00:17:05,125
+[BOTH gasp]
+
+290
+00:17:05,208 --> 00:17:06,375
+Amazing!
+
+291
+00:17:06,458 --> 00:17:08,208
+Is that the legendary
+item that will only bend
+
+292
+00:17:08,291 --> 00:17:11,375
+to your whim, Lord Momonga?
+The fabled weapon of the Tomb?
+
+293
+00:17:11,458 --> 00:17:12,583
+[AINS]
+Indeed.
+
+294
+00:17:12,666 --> 00:17:14,250
+It was created through
+the combined efforts
+
+295
+00:17:14,333 --> 00:17:15,791
+of the guild's past members.
+
+296
+00:17:15,875 --> 00:17:20,625
+A testament of our dedication.
+The Staff of Ains Ooal Gown.
+
+297
+00:17:20,708 --> 00:17:22,375
+Each stone in the
+mouths of the seven
+
+298
+00:17:22,458 --> 00:17:24,916
+crowning snakes is
+a god level artifact.
+
+299
+00:17:25,000 --> 00:17:27,083
+On top of that, the power
+in the staff itself
+
+300
+00:17:27,166 --> 00:17:29,291
+transcends god level.
+
+301
+00:17:29,375 --> 00:17:31,291
+It is truly legendary.
+
+302
+00:17:31,375 --> 00:17:34,291
+Its base stats are on par
+with any world level item.
+
+303
+00:17:34,375 --> 00:17:36,625
+In fact, the DPS of
+its auto-attack alone
+
+304
+00:17:36,708 --> 00:17:37,708
+could one-shot--
+
+305
+00:17:37,791 --> 00:17:38,958
+[clears throat]
+
+306
+00:17:39,041 --> 00:17:41,541
+[AINS]
+Well, anyways. That's how it is.
+
+307
+00:17:41,625 --> 00:17:42,416
+Incredible!
+
+308
+00:17:42,500 --> 00:17:44,625
+Awesome! It's so cool!
+
+309
+00:17:44,708 --> 00:17:46,041
+[AINS] I would like the
+two of you to help me
+
+310
+00:17:46,125 --> 00:17:47,666
+run some tests with it.
+
+311
+00:17:47,750 --> 00:17:49,916
+Right! We won't
+let you down, lord.
+
+312
+00:17:50,000 --> 00:17:51,625
+[AINS]
+Also, Aura.
+
+313
+00:17:51,708 --> 00:17:54,375
+I've called for the other
+Guardians to meet here.
+
+314
+00:17:54,458 --> 00:17:56,708
+They should arrive
+within the hour.
+
+315
+00:17:56,791 --> 00:18:00,416
+Huh? Does that mean
+Shalltear's coming?
+
+316
+00:18:00,500 --> 00:18:01,750
+[AINS]
+Yes.
+
+317
+00:18:04,541 --> 00:18:06,416
+[MOMONGA] In Yggdrasil, if
+you wanted to conjure magic
+
+318
+00:18:06,500 --> 00:18:08,083
+you just had to click
+the appropriate icon
+
+319
+00:18:08,166 --> 00:18:09,750
+on your console.
+
+320
+00:18:09,833 --> 00:18:12,833
+But now, that icon
+doesn't exist.
+
+321
+00:18:12,916 --> 00:18:16,500
+However, if I focus hard
+enough, I don't need it.
+
+322
+00:18:16,583 --> 00:18:18,416
+I feel the attack
+range of my spells,
+
+323
+00:18:18,500 --> 00:18:23,250
+their individual cooldown rates.
+Even how much MP I have!
+
+324
+00:18:23,333 --> 00:18:25,000
+I can do this.
+
+325
+00:18:26,083 --> 00:18:29,500
+[AINS]
+Summon! Primal Fire Elemental!
+
+326
+00:18:35,625 --> 00:18:37,250
+Oh, wow!
+
+327
+00:18:41,208 --> 00:18:43,625
+[PRIMAL FIRE ELEMENTAL roars]
+
+328
+00:18:43,708 --> 00:18:45,833
+[AINS]
+The Primal Fire Elemental.
+
+329
+00:18:45,916 --> 00:18:48,625
+Its level is in the upper 80s.
+
+330
+00:18:48,708 --> 00:18:50,083
+[BOTH gasping, giggling]
+
+331
+00:18:50,166 --> 00:18:52,958
+[AINS]
+So, would you like to fight it?
+
+332
+00:18:53,041 --> 00:18:54,666
+Yeah! I'd love to!
+
+333
+00:18:54,750 --> 00:18:56,541
+I just remembered,
+I have a few errands
+
+334
+00:18:56,625 --> 00:18:58,416
+I still need to tend to. Bye!
+
+335
+00:18:58,500 --> 00:19:00,666
+--[AURA] C'mon!
+--[MARE whimpers]
+
+336
+00:19:06,791 --> 00:19:11,041
+[AINS] Primal Fire Elemental.
+Attack the dark elf twins!
+
+337
+00:19:15,916 --> 00:19:17,250
+[AURA yells]
+
+338
+00:19:19,875 --> 00:19:20,375
+[gasps]
+
+339
+00:19:20,458 --> 00:19:21,375
+[whimpers]
+
+340
+00:19:21,458 --> 00:19:23,250
+Magic Shield!
+
+341
+00:19:26,291 --> 00:19:28,000
+[AURA yells]
+
+342
+00:19:30,500 --> 00:19:32,833
+[MOMONGA] I had a feeling
+this would be easy for them.
+
+343
+00:19:32,916 --> 00:19:36,958
+Now I know my other magic
+skills work, as well. But...
+
+344
+00:19:37,041 --> 00:19:37,833
+[AINS]
+"Message."
+
+345
+00:19:37,916 --> 00:19:40,375
+[beeping]
+
+346
+00:19:40,458 --> 00:19:41,583
+[MOMONGA]
+No go.
+
+347
+00:19:41,666 --> 00:19:44,250
+I can't connect to a GM
+or my guild members.
+
+348
+00:19:49,125 --> 00:19:50,208
+[SEBAS]
+I'm here.
+
+349
+00:19:50,291 --> 00:19:52,166
+Is there something
+you need, Lord Momonga?
+
+350
+00:19:52,250 --> 00:19:55,458
+[MOMONGA] Wha--? My
+"Message" spell connected?
+
+351
+00:19:55,541 --> 00:19:58,625
+[AINS] Sebas? How do things
+look on the outside?
+
+352
+00:19:58,708 --> 00:20:02,083
+[SEBAS] Well, lord,
+there is a slight problem.
+
+353
+00:20:02,166 --> 00:20:05,166
+[AINS] Hm. I have called all
+the Guardians to gather.
+
+354
+00:20:05,250 --> 00:20:08,000
+Come to the amphitheater on
+the sixth floor immediately.
+
+355
+00:20:08,083 --> 00:20:10,875
+You can report what you
+saw once you're here.
+
+356
+00:20:10,958 --> 00:20:12,500
+[SEBAS]
+Understood.
+
+357
+00:20:17,125 --> 00:20:20,250
+[AINS]
+Well done. That was impressive.
+
+358
+00:20:20,333 --> 00:20:21,458
+That was fun!
+
+359
+00:20:21,541 --> 00:20:24,625
+I haven't exercised
+that much in a while!
+
+360
+00:20:24,708 --> 00:20:26,875
+[AINS]
+You two must be thirsty.
+
+361
+00:20:38,375 --> 00:20:40,000
+[AURA]
+I have to admit, Lord Momonga,
+
+362
+00:20:40,083 --> 00:20:41,708
+I thought you'd be scarier.
+
+363
+00:20:41,791 --> 00:20:43,375
+[AINS]
+Oh, is that so?
+
+364
+00:20:43,458 --> 00:20:45,833
+I can do that if
+you'd like me to.
+
+365
+00:20:45,916 --> 00:20:49,500
+I like you this way.
+It's the best!
+
+366
+00:20:49,583 --> 00:20:50,833
+[AINS]
+Hmph.
+
+367
+00:20:54,791 --> 00:21:00,083
+[SHALLTEAR] My, my. It appears
+I'm the first to arrive.
+
+368
+00:21:00,166 --> 00:21:01,416
+[MOMONGA]
+Well.
+
+369
+00:21:01,500 --> 00:21:03,500
+I don't have the foggiest
+idea what's going on.
+
+370
+00:21:03,583 --> 00:21:06,875
+But it seems as if the
+NPCs are all loyal to me.
+
+371
+00:21:06,958 --> 00:21:10,000
+Hm. In that case,
+I should probably
+
+372
+00:21:10,083 --> 00:21:12,250
+keep playing my role and
+act like a proper superior
+
+373
+00:21:12,333 --> 00:21:13,875
+in front of them.
+
+374
+00:21:13,958 --> 00:21:15,583
+While I'm at it, I'll
+learn everything I can
+
+375
+00:21:15,666 --> 00:21:18,583
+about this world. I was
+max level in Yggdrasil.
+
+376
+00:21:18,666 --> 00:21:21,291
+I wonder how strong
+I'll be here?
+
+377
+00:21:21,375 --> 00:21:22,875
+And, if this is another world,
+
+378
+00:21:22,958 --> 00:21:25,375
+should I even try to
+return to my old one?
+
+379
+00:21:25,458 --> 00:21:28,333
+It's not like I had anything
+special back there.
+
+380
+00:21:28,416 --> 00:21:30,166
+I had no friends or family.
+
+381
+00:21:30,250 --> 00:21:32,875
+All I ever did was
+work, eat, and sleep.
+
+382
+00:21:32,958 --> 00:21:36,625
+In all honesty, my life
+wasn't worth much.
+
+383
+00:21:39,750 --> 00:21:42,791
+My lord. We, the Guardians,
+
+384
+00:21:42,875 --> 00:21:45,833
+pledge our fidelity.
+
+385
+00:21:45,916 --> 00:21:47,708
+I am the guardian
+of the first, second,
+
+386
+00:21:47,791 --> 00:21:53,333
+and third floors, Shalltear
+Bloodfallen. I serve and obey.
+
+387
+00:21:53,416 --> 00:21:55,166
+[COCYTUS]
+The guardian of the fifth floor.
+
+388
+00:21:55,250 --> 00:21:59,083
+Cocytus. I serve and obey.
+
+389
+00:22:00,416 --> 00:22:02,250
+I am the guardian
+of the sixth floor,
+
+390
+00:22:02,333 --> 00:22:03,833
+Aura Bella Fiora.
+
+391
+00:22:03,916 --> 00:22:05,708
+I am her brother,
+and also the guardian
+
+392
+00:22:05,791 --> 00:22:08,958
+of the sixth floor,
+Mare Bello Fiore.
+
+393
+00:22:09,041 --> 00:22:11,291
+[BOTH]
+We serve and obey.
+
+394
+00:22:11,375 --> 00:22:13,291
+The guardian of
+the seventh floor.
+
+395
+00:22:13,375 --> 00:22:16,916
+Demiurge. I serve and obey.
+
+396
+00:22:17,000 --> 00:22:22,208
+The leader of the Guardians.
+Albedo. I serve and obey.
+
+397
+00:22:23,666 --> 00:22:26,416
+Other than Victim,
+guardian of the eighth floor,
+
+398
+00:22:26,500 --> 00:22:29,791
+and Gargantua, who faithfully
+guards the fourth,
+
+399
+00:22:29,875 --> 00:22:32,250
+all of the Guardians have
+gathered as requested,
+
+400
+00:22:32,333 --> 00:22:35,166
+and pledged their
+undying loyalty.
+
+401
+00:22:35,250 --> 00:22:39,083
+Supreme One, we
+await your orders.
+
+402
+00:22:39,166 --> 00:22:42,958
+You need but to ask it
+of us, and it shall be done.
+
+403
+00:24:18,041 --> 00:24:21,791
+[AINS]
+Magic... NPCs... Items...
+
+404
+00:24:21,875 --> 00:24:24,708
+Now that the system of
+the DMMO-RPG, Yggdrasil,
+
+405
+00:24:24,791 --> 00:24:28,083
+has completely changed, I must
+blindly nagvigate my way
+
+406
+00:24:28,166 --> 00:24:30,250
+through this new world
+and put on a brave front
+
+407
+00:24:30,333 --> 00:24:32,041
+for my Guardians.
+
+408
+00:24:32,125 --> 00:24:34,291
+They have pledged their
+loyalty to an absolute
+
+409
+00:24:34,375 --> 00:24:36,708
+and Supreme Overlord.
+
+410
+00:24:36,791 --> 00:24:38,666
+If I don't meet
+their expectations,
+
+411
+00:24:38,750 --> 00:24:41,125
+it could be disastrous.
+
+412
+00:24:41,208 --> 00:24:46,000
+I'll have to keep my composure
+and move without error.
+
+413
+00:24:46,083 --> 00:24:49,458
+Chapter two: "Floor Guardians."
+

@@ -1,0 +1,2357 @@
+﻿1
+00:01:37,497 --> 00:01:37,864
+<react>
+
+2
+00:01:40,233 --> 00:01:41,568
+[MINAKO] Oh, wait!
+
+3
+00:01:41,668 --> 00:01:43,469
+[MINAKO] C'mon, quit trying to
+get away.
+
+4
+00:01:43,570 --> 00:01:46,439
+[USUI] There's one over here,
+too.
+
+5
+00:01:46,540 --> 00:01:48,108
+[MINAKO] Oh my, you're right.
+
+6
+00:01:48,208 --> 00:01:50,343
+Thank you for being so kind.
+
+7
+00:01:50,443 --> 00:01:50,844
+<react>
+
+8
+00:01:59,820 --> 00:02:02,255
+[MINAKO] I'm sorry for having to
+trouble you like this...
+
+9
+00:02:02,355 --> 00:02:03,189
+[USUI] It's fine.
+
+10
+00:02:03,289 --> 00:02:04,558
+[MINAKO] Your uniform...
+
+11
+00:02:04,658 --> 00:02:06,827
+You're a Seika student, aren't
+you?
+
+12
+00:02:06,927 --> 00:02:09,763
+[MINAKO] I'm glad! Even though
+the school has a bad reputation,
+
+13
+00:02:09,863 --> 00:02:12,265
+it does have its good students.
+[USUI] Ah...
+
+14
+00:02:12,365 --> 00:02:15,301
+Actually, my daughter
+happens to go there, too.
+
+15
+00:02:15,401 --> 00:02:16,670
+[MINAKO] But she's so focused on
+her schoolwork
+
+16
+00:02:16,770 --> 00:02:19,940
+that she doesn't seem to
+make a lot of friends,
+
+17
+00:02:20,040 --> 00:02:21,341
+especially with boys.
+
+18
+00:02:21,441 --> 00:02:23,009
+[MINAKO] I used to worry about
+her all the time.
+
+19
+00:02:23,109 --> 00:02:24,477
+I wasn't sure if she'd really be
+
+20
+00:02:24,578 --> 00:02:26,547
+able to enjoy high school to the
+fullest.
+
+21
+00:02:26,647 --> 00:02:29,115
+And when she's not at school,
+she's either studying or
+working.
+
+22
+00:02:29,215 --> 00:02:32,352
+Aren't normal high school girls
+supposed to have fun and fall in
+love?
+
+23
+00:02:32,452 --> 00:02:34,187
+They get all dolled up and
+go on dates and things?
+
+24
+00:02:34,287 --> 00:02:36,222
+[USUI] Uh... Yeah I guess.
+
+25
+00:02:37,858 --> 00:02:39,593
+[MINAKO] I guess I'm the one to
+blame, though,
+
+26
+00:02:39,693 --> 00:02:42,563
+I haven't exactly made her life
+easy...
+
+27
+00:02:42,663 --> 00:02:44,264
+[MINAKO] But now I feel much
+more relieved.
+
+28
+00:02:44,364 --> 00:02:46,733
+I'm really glad I ran into you.
+
+29
+00:02:46,833 --> 00:02:49,770
+Because you seem like a very
+kind young man.
+
+30
+00:02:51,437 --> 00:02:55,075
+Recently, she does seem like
+she's become more like a normal
+high school girl.
+
+31
+00:02:55,175 --> 00:02:58,211
+[MINAKO] I'm sure it's because
+she's made friends with someone
+nice like you.
+
+32
+00:02:58,311 --> 00:03:02,749
+[USUI] Um... has anyone ever
+referred to your daughter as
+"unreserved"?
+
+33
+00:03:02,849 --> 00:03:03,817
+Oh?
+
+34
+00:03:03,917 --> 00:03:05,185
+[MINAKO] Why yes, all the time.
+
+35
+00:03:05,285 --> 00:03:06,820
+You're quite perceptive.
+
+36
+00:03:11,024 --> 00:03:13,226
+[MINAKO] Thank you again.
+you've really been a big help.
+
+37
+00:03:13,326 --> 00:03:14,327
+[USUI] I had a feeling this was
+gonna happen,
+
+38
+00:03:14,427 --> 00:03:16,029
+but I can't believe I was right.
+
+39
+00:03:16,129 --> 00:03:17,598
+[MINAKO] Please, come on in!
+
+40
+00:03:18,565 --> 00:03:19,866
+[USUI] I'll be on my way then...
+
+41
+00:03:19,966 --> 00:03:21,401
+[MINAKO] Oh, please wait!
+
+42
+00:03:21,502 --> 00:03:23,970
+At least let me make
+you some tea.
+
+43
+00:03:29,075 --> 00:03:30,677
+<screaming>
+
+44
+00:03:30,777 --> 00:03:32,513
+[SUZUNA] Mom, did you fall in
+the hole again?
+
+45
+00:03:32,613 --> 00:03:35,816
+[SUZUNA] Oh. Did you come to fix
+the floor?
+
+46
+00:03:38,451 --> 00:03:39,853
+[SUZUNA] Please help yourself.
+
+47
+00:03:39,953 --> 00:03:41,555
+[MINAKO] Sorry for all the
+trouble I've put you through‐
+
+48
+00:03:41,655 --> 00:03:43,356
+I even had to ask you to fix our
+floor!
+
+49
+00:03:43,456 --> 00:03:44,691
+[USUI] It's fine.
+
+50
+00:03:44,791 --> 00:03:47,260
+[SUZUNA] Still, he did such a
+good job
+
+51
+00:03:47,360 --> 00:03:49,930
+that now that's the safest spot
+in the entire house.
+
+52
+00:03:50,030 --> 00:03:52,666
+[MINAKO] True enough. Won't you
+have one, Usui?
+
+53
+00:03:52,766 --> 00:03:53,767
+[USUI] Yeah.
+
+54
+00:03:53,867 --> 00:03:55,602
+[SUZUNA] But Mom, you have to be
+more careful
+
+55
+00:03:55,702 --> 00:03:58,539
+and watch your step so we don't
+make any more holes.
+
+56
+00:03:58,639 --> 00:04:00,273
+[MINAKO] Yes, it's gotten pretty
+dangerous, hasn't it?
+
+57
+00:04:00,373 --> 00:04:01,307
+[MISAKI] I'm home!
+
+58
+00:04:01,407 --> 00:04:02,643
+[MISAKI] Huh?
+
+59
+00:04:04,377 --> 00:04:07,213
+[MISAKI] Someone replaced the
+floor boards...
+
+60
+00:04:07,313 --> 00:04:08,882
+[MISAKI] Who fixed up the
+hallway all nice and...
+
+61
+00:04:08,982 --> 00:04:10,283
+[MISAKI] Gah!
+[MINAKO] Welcome back, Misaki.
+
+62
+00:04:10,383 --> 00:04:11,351
+[SUZUNA] Welcome back, Sis.
+
+63
+00:04:11,451 --> 00:04:12,586
+[USUI] Welcome back, Ayuzawa.
+
+64
+00:04:12,686 --> 00:04:15,088
+[MISAKI] Usui?! Why are you in
+my house?
+
+65
+00:04:15,188 --> 00:04:16,289
+[USUI] Crunch, crunch, crunch.
+
+66
+00:04:16,389 --> 00:04:18,458
+[USUI] It's kind of a long
+story.
+
+67
+00:04:18,559 --> 00:04:19,660
+[MISAKI] Just spit it out
+already!
+
+68
+00:04:19,760 --> 00:04:21,327
+[MINAKO] Oh, my! What
+coincidence‐
+
+69
+00:04:21,427 --> 00:04:23,396
+so the two of you happen to be
+friends after all.
+
+70
+00:04:23,496 --> 00:04:25,131
+[SUZUNA] I think you've got it
+wrong, Mom.
+
+71
+00:04:25,231 --> 00:04:27,501
+[MINAKO] I invited him to come
+in for a bit.
+
+72
+00:04:27,601 --> 00:04:31,371
+[MINAKO] He helped me carry my
+apples after they spilled out
+all over the road.
+
+73
+00:04:31,471 --> 00:04:34,340
+[MINAKO] He even fixed the holes
+in the hallway for us.
+
+74
+00:04:34,440 --> 00:04:36,009
+[MISAKI] You're plotting
+something aren't you?
+
+75
+00:04:36,109 --> 00:04:38,679
+[USUI] Oh no, you caught me.
+
+76
+00:04:38,779 --> 00:04:41,414
+[SUZUNA] Sis, you really...
+don't trust guys at all, do you?
+
+77
+00:04:41,515 --> 00:04:42,382
+[MISAKI] What?!
+
+78
+00:04:42,482 --> 00:04:44,050
+Yes, that certainly seems
+
+79
+00:04:44,150 --> 00:04:45,552
+to be the case, doesn't it?
+
+80
+00:04:45,652 --> 00:04:47,387
+[SUZUNA] After all, it's hard to
+trust another man
+
+81
+00:04:47,487 --> 00:04:48,922
+when your father runs out on you
+like ours did.
+
+82
+00:04:49,022 --> 00:04:50,824
+[MISAKI] Don't just casually say
+something like that
+
+83
+00:04:50,924 --> 00:04:54,027
+in front of a stranger!
+And you, that's nothing
+to laugh about!
+
+84
+00:04:54,127 --> 00:04:55,428
+Enough, just get outta here.
+
+85
+00:04:55,529 --> 00:04:56,530
+[USUI] Sorry for the bother.
+
+86
+00:04:56,630 --> 00:04:59,332
+Oh, Usui, you're leaving
+already?
+
+87
+00:04:59,432 --> 00:05:01,234
+[SUZUNA] See you next time.
+
+88
+00:05:01,334 --> 00:05:04,705
+[MISAKI] Hurry up now! Come on!
+
+89
+00:05:04,805 --> 00:05:07,841
+[SAKURA] Huuuh? Hey wait a
+second. Was that Misaki and
+Usui?
+
+90
+00:05:07,941 --> 00:05:10,577
+[SHIZUKO] Yes, I believe it was.
+[SAKURA] Am I going crazy
+
+91
+00:05:10,677 --> 00:05:12,045
+or did they just come out of
+Misaki's house together?!
+
+92
+00:05:12,145 --> 00:05:14,380
+[SHIZUKO] Furthermore, if my
+eyes did not deceive me,
+
+93
+00:05:14,480 --> 00:05:15,649
+they were also holding hands.
+
+94
+00:05:15,749 --> 00:05:17,283
+[SAKURA] We've gotta follow
+them!
+
+95
+00:05:17,383 --> 00:05:18,519
+[SHIZUKO] Unfortunately...
+
+96
+00:05:18,619 --> 00:05:20,987
+It would appear we've
+already lost them.
+
+97
+00:05:21,087 --> 00:05:23,089
+[SAKURA] Aw, they got away...
+
+98
+00:05:27,961 --> 00:05:30,230
+[MISAKI] I dragged Usui along
+and now we ended up here...
+
+99
+00:05:30,330 --> 00:05:31,565
+[USUI] Picking up those apples
+from the road
+
+100
+00:05:31,665 --> 00:05:33,600
+and "accidentally" bumping into
+your mom...
+
+101
+00:05:33,700 --> 00:05:36,837
+[USUI] You think I planned that
+whole thing, don't you?
+
+102
+00:05:36,937 --> 00:05:40,173
+[MISAKI] It's true that my mom's
+pretty gullible, but even so...
+
+103
+00:05:40,273 --> 00:05:41,575
+[MISAKI] You're not the type of
+guy
+
+104
+00:05:41,675 --> 00:05:43,944
+that'd take advantage of someone
+like that.
+
+105
+00:05:44,044 --> 00:05:47,480
+[MISAKI] Thank you. For giving
+my mom a hand.
+
+106
+00:05:49,115 --> 00:05:51,585
+[USUI] You're quite welcome.
+
+107
+00:05:51,685 --> 00:05:53,386
+[LITTLE GIRL A] Here, it's a
+chocolate.
+
+108
+00:05:53,486 --> 00:05:54,387
+[LITTLE GIRL B] Nuh‐uh!
+
+109
+00:05:54,487 --> 00:05:55,455
+[USUI] Still, the atmosphere
+
+110
+00:05:55,556 --> 00:05:56,957
+in your house is refreshing.
+
+111
+00:05:57,057 --> 00:05:58,291
+[MISAKI] What does that mean?
+
+112
+00:05:58,391 --> 00:06:01,795
+[USUI] It's helped me
+understand some things.
+
+113
+00:06:01,895 --> 00:06:03,897
+[MISAKI] H‐hey, what's that
+smirk about?!
+
+114
+00:06:03,997 --> 00:06:05,832
+[MISAKI] Don't think this means
+you've got something you can use
+against me.
+
+115
+00:06:05,932 --> 00:06:08,735
+[MISAKI] I'm not ashamed that my
+dad disappeared without a trace
+
+116
+00:06:08,835 --> 00:06:10,604
+or that our house is in
+shambles!
+
+117
+00:06:10,704 --> 00:06:14,474
+[USUI] That's not what I meant.
+What's with those apple slices?
+
+118
+00:06:14,575 --> 00:06:16,476
+Do you always peel them in the
+shape of a rabbit,
+
+119
+00:06:16,577 --> 00:06:18,111
+or do you only do it for special
+guests?
+
+120
+00:06:18,211 --> 00:06:21,314
+[MISAKI] Mom's always made those
+like that since we were kids‐
+
+121
+00:06:21,414 --> 00:06:22,916
+they were Suzuna's favorite
+snack.
+
+122
+00:06:23,016 --> 00:06:24,885
+[USUI] I also saw where your
+heights were marked on the wall.
+
+123
+00:06:24,985 --> 00:06:25,886
+[MISAKI] You saw that?!
+
+124
+00:06:25,986 --> 00:06:27,353
+[USUI] I bet you were a cute
+kid, too.
+
+125
+00:06:27,453 --> 00:06:29,289
+Probably even cuter than you are
+now.
+
+126
+00:06:29,389 --> 00:06:31,324
+<embarassed>
+
+127
+00:06:31,424 --> 00:06:35,762
+[USUI] I want so many more
+secrets, ones about you that
+only I know.
+
+128
+00:06:36,697 --> 00:06:38,565
+[MISAKI] One secret is more than
+enough!
+
+129
+00:06:38,665 --> 00:06:40,501
+And don't ever come by my house
+again‐ got it?!
+
+130
+00:06:40,601 --> 00:06:42,035
+You're banned from the premises!
+
+131
+00:06:42,135 --> 00:06:43,737
+[USUI] Whaaat?
+
+132
+00:06:44,738 --> 00:06:46,773
+[SAKURA] Misaki! Good morninggg!
+
+133
+00:06:46,873 --> 00:06:48,041
+[SHIZUKO] Good morning, Misaki.
+
+134
+00:06:48,141 --> 00:06:49,543
+[MISAKI] Oh, good morning.
+
+135
+00:06:49,643 --> 00:06:51,177
+[SAKURA] Misaki, I swear!
+
+136
+00:06:51,277 --> 00:06:53,246
+You didn't have to hide it from
+us!
+
+137
+00:06:53,346 --> 00:06:54,581
+[MISAKI] Huh? What are you
+talking about?
+
+138
+00:06:54,681 --> 00:06:56,449
+[SAKURA] Don't play dumb with
+me, silly!
+
+139
+00:06:56,550 --> 00:07:00,220
+We totally saw you and Usui
+walking out of your house
+together yesterday.
+
+140
+00:07:00,320 --> 00:07:01,788
+[SHIZUKO] And you were holding
+hands.
+
+141
+00:07:01,888 --> 00:07:03,790
+[SAKURA] VERY tightly!
+[MISAKI] You guys saw that?!
+
+142
+00:07:03,890 --> 00:07:07,360
+[SAKURA] If you're going out,
+you're going out. You should've
+told us!
+
+143
+00:07:07,460 --> 00:07:09,730
+[SAKURA] We're friends, right?
+Hmph!
+
+144
+00:07:09,830 --> 00:07:12,633
+[MISAKI] H‐hold on a second!
+You've got the wrong idea!
+
+145
+00:07:12,733 --> 00:07:15,168
+[MISAKI] Usui ran into my mom
+and helped her out, so she
+invited him INSIDE my house,
+
+146
+00:07:15,268 --> 00:07:20,440
+[MISAKI] so I was holding his
+hand while I was trying to drag
+him back out, that's all!
+
+147
+00:07:20,541 --> 00:07:22,442
+[SHIZUKO] Oh, so that's what it
+was.
+
+148
+00:07:22,543 --> 00:07:23,577
+[SAKURA] What a letdown!
+
+149
+00:07:23,677 --> 00:07:24,678
+I was so excited about it
+
+150
+00:07:24,778 --> 00:07:25,946
+that I was up all night long!
+
+151
+00:07:26,046 --> 00:07:27,247
+[SHIZUKO] It's rather
+disappointing.
+
+152
+00:07:27,347 --> 00:07:28,849
+[SAKURA] So then, you've never
+
+153
+00:07:28,949 --> 00:07:30,817
+gone over to Usui's or anything
+either?
+
+154
+00:07:30,917 --> 00:07:33,386
+[MISAKI] Nope. I don't even know
+his address.
+
+155
+00:07:33,486 --> 00:07:34,921
+Actually, I don't WANT to know.
+
+156
+00:07:35,021 --> 00:07:36,590
+[SAKURA] Too bad, I thought you
+guys
+
+157
+00:07:36,690 --> 00:07:38,324
+would make such a good
+couple, too...
+
+158
+00:07:38,424 --> 00:07:39,993
+[SHIZUKO] Now now, it's still
+possible
+
+159
+00:07:40,093 --> 00:07:42,162
+that things will take
+an unexpected turn.
+
+160
+00:07:42,262 --> 00:07:44,965
+[SAKURA] Yeah, there's still
+hope!
+
+161
+00:07:45,065 --> 00:07:47,834
+[SAKURA] But y'know, Usui is
+kind of a mystery, huh?
+
+162
+00:07:47,934 --> 00:07:50,036
+What if he goes to an average
+school like Seika
+
+163
+00:07:50,136 --> 00:07:51,872
+in an attempt to cover up his
+secret identity
+
+164
+00:07:51,972 --> 00:07:54,474
+as the heir to a vast fortune or
+something like that?
+
+165
+00:07:54,575 --> 00:07:56,510
+[MISAKI] No, I can't picture
+that at all.
+
+166
+00:07:56,610 --> 00:07:58,078
+[SAKURA] And every day after
+school,
+
+167
+00:07:58,178 --> 00:08:00,881
+he goes and swims a few laps at
+a high‐class sports club,
+
+168
+00:08:00,981 --> 00:08:02,983
+then goes and gets
+fitted in a high‐class,
+custom‐tailored suit,
+
+169
+00:08:03,083 --> 00:08:04,651
+then wears it straight
+out of the store
+
+170
+00:08:04,751 --> 00:08:06,587
+to eat a full‐course
+meal at a high‐class restaurant!
+
+171
+00:08:06,687 --> 00:08:09,489
+[SHIZUKO] I think someone's
+allowing her imagination
+
+172
+00:08:09,590 --> 00:08:11,057
+to get a little too
+carried away.
+
+173
+00:08:11,157 --> 00:08:12,926
+[SAKURA] No, I'm not! It could
+totally be true!
+
+174
+00:08:13,026 --> 00:08:17,798
+[MISAKI] After school,
+Usui just goes to Maid Latte
+every day...
+
+175
+00:08:17,898 --> 00:08:19,633
+[MISAKI] Nah, there's no way.
+
+176
+00:08:19,733 --> 00:08:23,003
+[SAKURA] Hey, why don't we all
+go see Usui's house?
+[MISAKI] Huh? What for?
+
+177
+00:08:23,103 --> 00:08:25,506
+[SAKURA] Now I definitely
+wanna know what his story is...
+
+178
+00:08:25,606 --> 00:08:27,608
+[SAKURA] Like what he does when
+he's not at school!
+
+179
+00:08:27,708 --> 00:08:28,909
+You wanna know too, right
+Misaki?
+
+180
+00:08:29,009 --> 00:08:30,544
+[MISAKI] Uh, no,
+I'm not really interested.
+
+181
+00:08:30,644 --> 00:08:32,012
+But first we have to
+
+182
+00:08:32,112 --> 00:08:33,880
+find a way to get ahold
+of his address.
+
+183
+00:08:33,980 --> 00:08:35,582
+But the school won't just hand
+over his contact information
+
+184
+00:08:35,682 --> 00:08:37,217
+because of the Personal
+Information Protection Act or
+
+185
+00:08:37,317 --> 00:08:38,919
+whatever, so we'll have to hack
+into the school's computer and
+
+186
+00:08:39,019 --> 00:08:40,721
+dive into their secret files and
+get it ourselves, all
+
+187
+00:08:40,821 --> 00:08:42,455
+secret‐like. Shizuko, you're
+good with computers, aren't you?
+
+188
+00:08:42,556 --> 00:08:43,524
+Hack into the mainframe!
+
+189
+00:08:43,624 --> 00:08:44,758
+That would be a heinous offense.
+
+190
+00:08:44,858 --> 00:08:46,459
+[SAKURA] Guess that's out.
+
+191
+00:08:46,560 --> 00:08:47,728
+Well how about we just ask him
+directly?
+
+192
+00:08:47,828 --> 00:08:49,062
+[SAKURA] Go ask him, Misaki.
+
+193
+00:08:49,162 --> 00:08:51,164
+[MISAKI] I'm telling you,
+I'm not interested!
+
+194
+00:08:59,673 --> 00:09:04,244
+[MISAKI] You know, I am kinda
+curious about what Usui's family
+is like...
+
+195
+00:09:04,344 --> 00:09:06,046
+[USUI] Usui's mom.
+
+196
+00:09:06,146 --> 00:09:07,748
+[USUI] Usui's dad.
+
+197
+00:09:07,848 --> 00:09:09,683
+[USUI] Usui's younger sister.
+
+198
+00:09:09,783 --> 00:09:10,751
+[USUI] Usui's baby brother.
+
+199
+00:09:10,851 --> 00:09:11,685
+[USUI] Takumi is so grateful to‐
+
+200
+00:09:11,785 --> 00:09:12,653
+[MISAKI] It's no good!
+
+201
+00:09:12,753 --> 00:09:14,087
+I can't imagine it at all!
+
+202
+00:09:14,187 --> 00:09:17,624
+Maybe he really is an
+alien from another planet.
+
+203
+00:09:17,724 --> 00:09:20,360
+That would explain a lot.
+
+204
+00:09:20,460 --> 00:09:21,628
+[MISAKI] Master, do your best!
+
+205
+00:09:21,728 --> 00:09:23,864
+Why am I even giving it
+this much thought?
+
+206
+00:09:23,964 --> 00:09:26,900
+It must be because of what
+Sakura said earlier.
+
+207
+00:09:28,134 --> 00:09:29,035
+[MISAKI] Oh, my phone.
+
+208
+00:09:29,135 --> 00:09:31,171
+[MISAKI] Wow, speaking of here
+she is.
+
+209
+00:09:31,271 --> 00:09:33,607
+[MISAKI] Yeah, this is Ayuzawa.
+You there Sakura?
+
+210
+00:09:33,707 --> 00:09:35,475
+[SAKURA] Misaki! We need you to
+come here, and fast!
+
+211
+00:09:35,576 --> 00:09:37,410
+[MISAKI] What's going on?
+
+212
+00:09:37,511 --> 00:09:39,613
+[SAKURA] Shizuko and I are
+tailing Usui.
+
+213
+00:09:39,713 --> 00:09:41,582
+[MISAKI] No way! Are you
+seriously tailing him?!
+
+214
+00:09:41,682 --> 00:09:44,851
+[SAKURA] He just walked into
+some maid coffee shop in the
+neighboring town.
+
+215
+00:09:44,951 --> 00:09:46,753
+[MISAKI] What's he doing in the
+neighboring town?
+
+216
+00:09:46,853 --> 00:09:48,589
+[MISAKI] Wait, THIS is the
+neighboring town...
+
+217
+00:09:48,689 --> 00:09:50,390
+[SAKURA] The shop's name is,
+let's see...
+
+218
+00:09:50,490 --> 00:09:51,592
+[SHIZUKO] Maid Latte!
+
+219
+00:09:51,692 --> 00:09:52,659
+<maximum shockage>
+
+220
+00:09:52,759 --> 00:09:54,094
+[SAKURA] Yeah, it's Maid Latte.
+
+221
+00:09:54,194 --> 00:09:55,829
+Definitely Maid Latte.
+Have you heard of it, Misaki?
+
+222
+00:09:55,929 --> 00:09:59,900
+[SAKURA] Hello? Misaki? Can you
+hear me?
+
+223
+00:10:00,000 --> 00:10:02,202
+[SAKURA] Hello? Misaki? Are you
+still there‐
+
+224
+00:10:09,442 --> 00:10:11,077
+[MISAKI] Yup, he's here all
+right.
+
+225
+00:10:11,177 --> 00:10:13,680
+[MISAKI] And those Three Idiots,
+too.
+
+226
+00:10:13,780 --> 00:10:15,682
+[MISAKI] What should I do?
+
+227
+00:10:15,782 --> 00:10:18,484
+I haven't told either of them
+that I work here...
+
+228
+00:10:18,585 --> 00:10:21,855
+[MISAKI] I'd have to explain why
+Usui and those others guys are
+here, too...
+
+229
+00:10:21,955 --> 00:10:24,558
+That would just suck!
+
+230
+00:10:24,658 --> 00:10:25,692
+[SATSUKI] Huh? Watcha doin',
+Misa?
+
+231
+00:10:25,792 --> 00:10:26,993
+<startled yell>
+
+232
+00:10:27,093 --> 00:10:28,929
+[SATSUKI] Oh, no! You're
+sweating like crazy!
+
+233
+00:10:29,029 --> 00:10:30,096
+Are you not feeling well today?
+
+234
+00:10:30,196 --> 00:10:31,632
+[MISAKI] No, it's all right!
+This is‐
+
+235
+00:10:31,732 --> 00:10:33,534
+[SATSUKI] Pushing yourself too
+hard like this
+
+236
+00:10:33,634 --> 00:10:34,735
+is a bad habit of yours, Misa.
+
+237
+00:10:34,835 --> 00:10:36,870
+Go home and get
+plenty of rest today.
+
+238
+00:10:36,970 --> 00:10:39,673
+[SATSUKI] We have plenty of
+coverage so don't worry about
+that.
+
+239
+00:10:39,773 --> 00:10:40,641
+[MISAKI] Okay...
+
+240
+00:10:40,741 --> 00:10:42,809
+[TRIO] Heave ho! Heave ho!
+
+241
+00:10:42,909 --> 00:10:45,078
+[SHIROKAWA] The day we've worked
+so hard for has finally come!
+
+242
+00:10:45,178 --> 00:10:47,213
+[SARASHINA] Yeah! Today we're no
+longer three broke guys
+
+243
+00:10:47,313 --> 00:10:49,816
+forced to share a single
+Cutesy‐Cutesy Rice Omelette.
+
+244
+00:10:49,916 --> 00:10:51,818
+[KUROSAKI] We went all out
+and ordered the whole menu!
+
+245
+00:10:51,918 --> 00:10:53,954
+[SHIROKAWA] I bet Misa can't
+wait to see us...
+
+246
+00:10:54,054 --> 00:10:55,589
+[KUROSAKI] Do you think all the
+plates'll fit on one table?
+
+247
+00:10:55,689 --> 00:10:57,457
+[SARASHINA] There's no way they
+could!
+
+248
+00:10:57,558 --> 00:10:58,825
+[HONOKA] Sorry for the wait.
+
+249
+00:10:58,925 --> 00:11:01,728
+You've ordered one of
+everything, is that right?
+
+250
+00:11:01,828 --> 00:11:02,929
+[TRIO] Yes! Yes, yes, yes!
+
+251
+00:11:03,029 --> 00:11:04,130
+[HONOKA] Very well then
+
+252
+00:11:04,230 --> 00:11:05,799
+we'll go ahead and set
+everything down.
+
+253
+00:11:05,899 --> 00:11:07,367
+Please enjoy your meals!
+
+254
+00:11:10,771 --> 00:11:12,506
+[SHIROKAWA] Excuse me, where's
+Misa at?
+
+255
+00:11:12,606 --> 00:11:13,707
+[HONOKA] I'm sorry, Master,
+
+256
+00:11:13,807 --> 00:11:16,510
+but it appears that Misa has
+today off.
+
+257
+00:11:16,610 --> 00:11:18,244
+[TRIO] She's off?!
+
+258
+00:11:18,344 --> 00:11:21,447
+[SHIROKAWA] Then what was the
+point of ordering all of this
+stuff?!
+
+259
+00:11:24,084 --> 00:11:25,218
+<dead>
+
+260
+00:11:28,989 --> 00:11:30,591
+[SAKURA] Geez, he's been in
+there for a long time.
+
+261
+00:11:30,691 --> 00:11:32,058
+[SHIZUKO] We have to be patient.
+
+262
+00:11:32,158 --> 00:11:33,493
+[MISAKI] What are you guys
+doing?!
+
+263
+00:11:33,594 --> 00:11:35,061
+[SAKURA] Whoa, that sure was
+fast!
+
+264
+00:11:35,161 --> 00:11:37,030
+[SHIZUKO] Misaki, how were you
+able to get here so quickly?
+
+265
+00:11:37,130 --> 00:11:39,265
+[MISAKI] The more important
+question is, why are you
+following him?
+
+266
+00:11:39,365 --> 00:11:41,602
+[SAKURA] We realized that even
+if we didn't know his address,
+
+267
+00:11:41,702 --> 00:11:43,870
+[SAKURA] we should just follow
+him back to his house and see
+where he lived for ourselves.
+
+268
+00:11:43,970 --> 00:11:45,739
+[SAKURA] Look, we brought
+a disguise for you, too.
+
+269
+00:11:45,839 --> 00:11:47,207
+[MISAKI] There's no need for
+that.
+
+270
+00:11:47,307 --> 00:11:48,374
+I already told you
+
+271
+00:11:48,474 --> 00:11:51,244
+I don't WANT to know about
+Usui's personal life.
+
+272
+00:11:51,344 --> 00:11:53,614
+[SAKURA] Now, now, don't be shy!
+We know you're curious!
+
+273
+00:11:53,714 --> 00:11:57,784
+[SAKURA] I can see exactly
+what you're thinking, Misaki!
+Ha!
+
+274
+00:11:57,884 --> 00:12:00,386
+[SHIZUKO] Usui is exiting the
+store!
+
+275
+00:12:01,788 --> 00:12:03,256
+[SHIZUKO] He's headed this way.
+
+276
+00:12:07,594 --> 00:12:08,862
+[MAN B] Sorry, sir, I lost
+him.
+
+277
+00:12:08,962 --> 00:12:11,064
+[MAN A] Oh, well. Just let me
+out here.
+
+278
+00:12:11,164 --> 00:12:12,365
+[MAN B] Okay.
+
+279
+00:12:14,768 --> 00:12:16,803
+<flirty>
+
+280
+00:12:44,798 --> 00:12:50,136
+[SHIZUKO] Still, looks can be
+quite deceiving, can't they? To
+think that Usui would visit a
+maid cafÃ©...
+
+281
+00:12:50,236 --> 00:12:52,939
+[SAKURA] Maybe he's got a crush
+on one of the girls that works
+there.
+
+282
+00:12:53,039 --> 00:12:55,609
+[SAKURA] But I thought
+he was interested in YOU,
+Misaki.
+
+283
+00:12:55,709 --> 00:12:58,845
+Geez, what a bummer. Hmph!
+
+284
+00:12:58,945 --> 00:12:59,713
+[MISAKI] Sakura!
+
+285
+00:12:59,813 --> 00:13:00,947
+[SAKURA] Hmph! Hmph!
+
+286
+00:13:01,047 --> 00:13:02,716
+[MISAKI] Look, I really don't
+like this.
+
+287
+00:13:02,816 --> 00:13:04,518
+Let's just stop
+before he catches us.
+
+288
+00:13:04,618 --> 00:13:05,686
+[SHIZUKO] He's on the move!
+
+289
+00:13:05,786 --> 00:13:07,453
+[SHIZUKO] He entered this
+building.
+
+290
+00:13:08,755 --> 00:13:10,290
+[SHIZUKO] This is...
+
+291
+00:13:10,390 --> 00:13:12,192
+[SHIZUKO] A high‐class sports
+club.
+
+292
+00:13:12,292 --> 00:13:15,028
+[SAKURA] It's just like I
+imagined!
+
+293
+00:13:15,128 --> 00:13:18,398
+[MISAKI] That's a pretty
+straightforward name for a gym.
+
+294
+00:13:18,498 --> 00:13:19,666
+[SHIZUKO] Let's go.
+
+295
+00:13:19,766 --> 00:13:22,102
+[SAKURA] Yeah!
+[MISAKI] I don't like this.
+
+296
+00:13:24,204 --> 00:13:26,740
+[SAKURA] Whoa! The inside really
+lives up to its name!
+
+297
+00:13:26,840 --> 00:13:29,275
+[MISAKI] He's been coming to a
+place like this?
+
+298
+00:13:29,375 --> 00:13:31,411
+[SHIZUKO] It seems he got off at
+the second floor.
+
+299
+00:13:39,686 --> 00:13:42,322
+[SAKURA] I knew it! He's
+definitely the heir to a vast
+fortune!
+
+300
+00:13:42,422 --> 00:13:44,390
+[SHIZUKO] Three visitors'
+passes, please.
+
+301
+00:13:44,490 --> 00:13:45,225
+[RECEPTIONIST] Yes, ma'am.
+
+302
+00:13:47,828 --> 00:13:49,930
+[SHIZUKO] I wonder where he went
+to...
+
+303
+00:13:50,030 --> 00:13:52,165
+<girls fawning>
+
+304
+00:13:52,265 --> 00:13:54,434
+[SAKURA] Huh? Isn't that him
+over there?
+
+305
+00:13:55,969 --> 00:13:57,403
+[GIRLS] So handsome!
+
+306
+00:13:57,504 --> 00:13:58,605
+<fawning>
+
+307
+00:14:02,509 --> 00:14:06,747
+[SAKURA] Ooh, look! Those girls
+are practically swarming all
+over him!
+
+308
+00:14:06,847 --> 00:14:08,582
+[SAKURA] What are you looking
+at, Misaki?
+
+309
+00:14:08,682 --> 00:14:11,117
+Pay attention‐ we can't let Usui
+out of our sight!
+
+310
+00:14:11,217 --> 00:14:13,386
+[MISAKI] You, but that doesn't
+mean...!
+
+311
+00:14:15,288 --> 00:14:17,591
+[SAKURA] Huh? He's already gone.
+
+312
+00:14:17,691 --> 00:14:19,025
+[SHIZUKO] Both of you, hurry!
+
+313
+00:14:19,125 --> 00:14:20,627
+[SHIZUKO] Usui has already left.
+
+314
+00:14:20,727 --> 00:14:22,428
+Quickly, let's wait for him
+outside.
+
+315
+00:14:22,529 --> 00:14:24,030
+[BOTH] Uh, okay.
+
+316
+00:14:25,932 --> 00:14:27,500
+[MISAKI] So now where are we?
+
+317
+00:14:27,601 --> 00:14:29,970
+[SHIZUKO] A high‐class,
+tailor‐made suit store.
+
+318
+00:14:30,070 --> 00:14:32,138
+[SAKURA] I was right again? Wow,
+I'm really good at this!
+
+319
+00:14:32,238 --> 00:14:34,340
+[SHIZUKO] Just who is Usui,
+exactly?
+
+320
+00:14:34,440 --> 00:14:37,778
+[SAKURA] I already told you!
+He's the heir to vast fortune!
+
+321
+00:14:37,878 --> 00:14:39,312
+[SHIZUKO] Let's proceed.
+
+322
+00:14:39,412 --> 00:14:41,214
+[MISAKI] Huh? We're going in?
+[SHIZUKO] Of course we are.
+
+323
+00:14:44,918 --> 00:14:46,219
+[SAKURA] These look so
+expensive!
+
+324
+00:14:46,319 --> 00:14:48,321
+[MISAKI] Jeez, this is the
+biggest waste of space
+
+325
+00:14:48,421 --> 00:14:52,092
+I've ever seen. Couldn't they
+put out some more product?
+
+326
+00:14:52,192 --> 00:14:54,961
+[CLERK] Welcome. Is there
+something I can help you find?
+
+327
+00:14:55,061 --> 00:14:55,896
+[SAKURA] Uh oh...
+
+328
+00:14:55,996 --> 00:14:56,797
+[SHIZUKO] No, good sir.
+
+329
+00:14:56,897 --> 00:14:58,031
+We are merely looking‐
+
+330
+00:14:58,131 --> 00:14:59,566
+we will let you know
+if we need any help.
+
+331
+00:14:59,666 --> 00:15:02,235
+[CLERK] Please let me know
+if I can be of any assistance.
+
+332
+00:15:02,335 --> 00:15:03,537
+[SAKURA] Shizuko, that was
+awesome!
+
+333
+00:15:03,637 --> 00:15:04,805
+[MISAKI] You sounded so mature.
+
+334
+00:15:04,905 --> 00:15:06,139
+[SHIZUKO] Let us continue to
+look for Usui.
+
+335
+00:15:06,239 --> 00:15:09,075
+[MISAKI] Yeah.
+[SAKURA] Hey, don't leave me!
+
+336
+00:15:09,175 --> 00:15:11,277
+[MISAKI] I wonder if they're as
+expensive as they look...
+
+337
+00:15:11,377 --> 00:15:12,579
+[MISAKI] How much is this one
+is...?
+
+338
+00:15:12,679 --> 00:15:13,647
+<cash register>
+
+339
+00:15:13,747 --> 00:15:14,748
+[MISAKI] Five hundred thousand?!
+
+340
+00:15:14,848 --> 00:15:16,149
+Is that some kinda joke?!
+
+341
+00:15:16,249 --> 00:15:18,184
+[SHIZUKO] This section is only
+for pre‐made suits.
+
+342
+00:15:18,284 --> 00:15:21,154
+The custom‐made suits in there
+probably cost twice as much.
+
+343
+00:15:21,254 --> 00:15:24,424
+[MISAKI] I can't believe clothes
+this expensive actually exist...
+
+344
+00:15:24,525 --> 00:15:28,394
+[SAKURA] I don't see Usui
+anywhere in the store...
+
+345
+00:15:28,494 --> 00:15:30,531
+[MISAKI] Oh, I know‐ he probably
+wandered in her on accident,
+
+346
+00:15:30,631 --> 00:15:32,666
+saw how much these suits cost,
+and then took off.
+
+347
+00:15:32,766 --> 00:15:36,770
+[SHIZUKO] No, it is possible
+that he was guided toward the
+VIP room.
+
+348
+00:15:36,870 --> 00:15:38,004
+[BOTH] VIP?!
+
+349
+00:15:45,011 --> 00:15:46,847
+[SHIZUKO] As I thought... the
+VIP room.
+
+350
+00:15:46,947 --> 00:15:47,914
+[BOTH] VIP!
+
+351
+00:15:48,014 --> 00:15:49,449
+[CLERK] It suits you quite well.
+
+352
+00:15:49,550 --> 00:15:52,218
+[USUI] I believe it does SUIT me
+well, sir.
+
+353
+00:15:52,318 --> 00:15:53,554
+[CLERK] Understood, sir.
+
+354
+00:15:53,654 --> 00:15:55,421
+[USUI] Thanks.
+[SHIZUKO] He's coming this way.
+
+355
+00:16:01,528 --> 00:16:03,964
+[MISAKI] The more I find out
+about him the more confused I
+get...
+
+356
+00:16:04,064 --> 00:16:04,765
+[SHIZUKO] Let's follow him.
+
+357
+00:16:04,865 --> 00:16:06,132
+[SAKURA] Yay!
+
+358
+00:16:12,739 --> 00:16:13,940
+[MISAKI] What's this?
+
+359
+00:16:14,040 --> 00:16:15,509
+[SHIZUKO] It appears to
+be a restaurant.
+
+360
+00:16:15,609 --> 00:16:18,044
+The name written there says
+"Ultra High Class."
+
+361
+00:16:18,144 --> 00:16:19,479
+[SAKURA] What should I do?
+
+362
+00:16:19,580 --> 00:16:22,248
+My imagination was right AGAIN!
+This is kinda scary!
+
+363
+00:16:22,348 --> 00:16:24,217
+[MISAKI] Well, since it's a
+restaurant,
+
+364
+00:16:24,317 --> 00:16:26,687
+I guess we can't go in and
+follow him anymore, can we?
+
+365
+00:16:26,787 --> 00:16:27,387
+[SHIZUKO] Let's go.
+
+366
+00:16:27,487 --> 00:16:28,421
+<airhorn>
+
+367
+00:16:28,522 --> 00:16:29,623
+[SAKURA] Oh, we're going in?
+Yay!
+
+368
+00:16:29,723 --> 00:16:30,591
+[MISAKI] Huh?!
+
+369
+00:16:32,258 --> 00:16:34,828
+[WAITER] Hello‐ would you happen
+to have a reservation with us?
+
+370
+00:16:34,928 --> 00:16:37,931
+[SHIZUKO] It would seem the
+other members of our party are
+not yet here.
+
+371
+00:16:38,031 --> 00:16:39,099
+May we wait for them inside?
+
+372
+00:16:39,199 --> 00:16:40,266
+[WAITER] Of course.
+
+373
+00:16:40,366 --> 00:16:42,703
+Please, let me show you
+to a table.
+
+374
+00:16:50,410 --> 00:16:52,445
+[MISAKI] Isn't it bad manners
+for me to wear a hat inside?
+
+375
+00:16:52,546 --> 00:16:55,448
+[SHIZUKO] It's part of your
+outfit, so I doubt they will
+even notice.
+
+376
+00:16:56,482 --> 00:16:58,885
+[WAITER] Shall I bring you some
+drink menus?
+
+377
+00:16:58,985 --> 00:16:59,853
+[SHIZUKO] No, water is fine,
+good sir.
+
+378
+00:16:59,953 --> 00:17:01,755
+[WAITER] Very well.
+
+379
+00:17:01,855 --> 00:17:04,625
+[MISAKI] I think the person
+I've learned the most about
+today is you Shizuko‐
+
+380
+00:17:04,725 --> 00:17:06,593
+I don't think this is a
+side of you I've ever
+seen before.
+
+381
+00:17:06,693 --> 00:17:09,129
+[SAKURA] When you do something,
+you go all out, dontcha?
+
+382
+00:17:09,229 --> 00:17:12,866
+[SHIZUKO] Now then, let us
+observe Usui.
+
+383
+00:17:12,966 --> 00:17:15,301
+[SAKURA] Is he waiting for
+someone?
+
+384
+00:17:15,401 --> 00:17:17,337
+[SHIZUKO] He very well could.
+
+385
+00:17:17,437 --> 00:17:20,641
+It's hard to imagine that one
+would eat alone in a high‐class
+restaurant such as this.
+
+386
+00:17:20,741 --> 00:17:23,309
+[SAKURA] Maybe we'll finally
+get to see what his
+family looks like?
+
+387
+00:17:23,409 --> 00:17:26,146
+Oh! What if he's waiting
+for his secret girlfriend?
+
+388
+00:17:26,246 --> 00:17:28,448
+[SAKURA] I wonder who it's gonna
+be?
+
+389
+00:17:28,549 --> 00:17:30,183
+[SAKURA] What? What is it,
+Misaki?
+
+390
+00:17:35,989 --> 00:17:39,893
+[SAKURA] Wha‐What? Don't tell
+me‐ is that who Usui's been
+waiting for?
+
+391
+00:17:39,993 --> 00:17:42,295
+[SAKURA] She's going over
+there...
+
+392
+00:17:43,930 --> 00:17:48,434
+[SAKURA] Ahh! Look, he just
+waved at her! So he really WAS
+waiting for a girl!
+
+393
+00:17:48,535 --> 00:17:50,704
+[SAKURA] Or, at least, it just
+looks like that.
+
+394
+00:17:50,804 --> 00:17:54,841
+Even though she's walking
+towards his table, there's still
+a chance we're wrong.
+
+395
+00:17:54,941 --> 00:17:56,610
+[SAKURA] We still can't tell for
+sure.
+
+396
+00:18:02,048 --> 00:18:04,518
+[SAKURA] Huh? Look at that...
+
+397
+00:18:04,618 --> 00:18:06,853
+[SAKURA] For some reason I'm
+really relieved...
+
+398
+00:18:06,953 --> 00:18:08,855
+[SHIZUNO] We were completely
+fooled.
+
+399
+00:18:08,955 --> 00:18:10,123
+[SHIZUKO] What is it, Misaki?
+
+400
+00:18:10,223 --> 00:18:11,491
+[SHIZUKO] Careful, he'll spot
+you.
+
+401
+00:18:11,592 --> 00:18:14,294
+[MISAKI] Sorry, I'm going home.
+
+402
+00:18:17,230 --> 00:18:21,234
+[MISAKI] I swear... what the
+heck am I even doing here?
+
+403
+00:18:21,334 --> 00:18:22,335
+[SAKURA] Misaki!
+
+404
+00:18:22,435 --> 00:18:23,870
+[SAKURA] You're really going?
+
+405
+00:18:23,970 --> 00:18:28,274
+Yeah. I wasn't interested in
+Usui's secrets to begin with.
+
+406
+00:18:28,374 --> 00:18:29,976
+[SHIZUKO] I see. If that's how
+you feel,
+
+407
+00:18:30,076 --> 00:18:31,411
+[SAKURA] Double glasses!
+[SHIZUKO] I see.
+If that's how you feel,
+
+408
+00:18:31,512 --> 00:18:33,113
+then perhaps we should
+end this here.
+
+409
+00:18:33,514 --> 00:18:35,315
+<laughing>
+
+410
+00:18:35,415 --> 00:18:38,351
+[MISAKI] What the heck?!
+How is he even running like
+that?!
+
+411
+00:18:38,451 --> 00:18:39,686
+[SAKURA] When did he put on a
+kimono?
+
+412
+00:18:39,786 --> 00:18:40,921
+[SHIZUKO] It would seem
+the game is back on‐
+
+413
+00:18:41,021 --> 00:18:41,755
+let us resume our
+pursuit!
+
+414
+00:18:41,855 --> 00:18:42,589
+Come on, Misaki!
+
+415
+00:18:42,689 --> 00:18:43,590
+[MISAKI] Hold on‐!
+
+416
+00:18:48,962 --> 00:18:50,797
+<laughing>
+
+417
+00:18:50,897 --> 00:18:53,634
+<excited walla>
+
+418
+00:18:53,734 --> 00:18:55,335
+<laughing>
+
+419
+00:18:56,503 --> 00:18:58,338
+[USUI] All clear, go right ahead
+ma'am.
+
+420
+00:19:04,778 --> 00:19:05,679
+[SAKURA] Man, I'm beat!
+
+421
+00:19:05,779 --> 00:19:06,547
+It's gotten so late
+
+422
+00:19:06,647 --> 00:19:08,214
+I had to take off my sunglasses.
+
+423
+00:19:08,314 --> 00:19:10,651
+[SHIZUKO] Usui is truly a riddle
+wrapped in an enigma.
+
+424
+00:19:10,751 --> 00:19:13,754
+[SAKURA] Is this the kind of
+stuff he does every single day?
+
+425
+00:19:13,854 --> 00:19:16,823
+[SAKURA] I think I've had enough
+for one day. I'm out!
+
+426
+00:19:16,923 --> 00:19:18,024
+[SHIZUKO] I am as well.
+
+427
+00:19:18,124 --> 00:19:19,425
+[SAKURA] If you don't mind,
+
+428
+00:19:19,526 --> 00:19:22,929
+I'll be taking back my super
+secret disguise, too!
+
+429
+00:19:23,029 --> 00:19:24,097
+[SAKURA] See you later, Misaki.
+
+430
+00:19:24,197 --> 00:19:25,566
+It was actually kinda fun,
+wasn't it?
+
+431
+00:19:25,666 --> 00:19:27,400
+[SHIZUKO] Well then, Misaki,
+we'll see you tomorrow.
+
+432
+00:19:27,500 --> 00:19:30,103
+[SAKURA] Oh! It's faster to cut
+through that park over there.
+
+433
+00:19:30,203 --> 00:19:31,805
+[SHIZUKO] Very well. Let's go.
+
+434
+00:19:34,474 --> 00:19:36,643
+[MISAKI] I'm so confused...
+
+435
+00:19:40,080 --> 00:19:41,815
+[MISAKI] Guess I'll head home,
+too.
+
+436
+00:19:42,849 --> 00:19:44,284
+[MISAKI] Usui?
+
+437
+00:19:55,796 --> 00:19:56,763
+<mew>
+
+438
+00:19:56,863 --> 00:19:57,698
+<roar>
+
+439
+00:19:57,798 --> 00:20:00,200
+Owow! Hold on a second!
+
+440
+00:20:01,467 --> 00:20:03,937
+[MISAKI] Look at you getting
+beat up by a cat!
+
+441
+00:20:04,037 --> 00:20:06,940
+[USUI] For whatever reason,
+animals really don't like me.
+
+442
+00:20:07,040 --> 00:20:09,643
+[USUI] They say animals and
+babies know if someone is kind
+or not‐
+
+443
+00:20:09,743 --> 00:20:11,377
+guess they know a stalker when
+they see one.
+
+444
+00:20:11,477 --> 00:20:13,914
+[MISAKI] I know you're kind,
+Usui.
+
+445
+00:20:14,014 --> 00:20:15,616
+[MISAKI] You act like you're all
+cool and aloof,
+
+446
+00:20:15,716 --> 00:20:17,984
+but here you are helping a stray
+kitten off the street.
+
+447
+00:20:18,084 --> 00:20:19,119
+[USUI] You sure about that?
+
+448
+00:20:19,219 --> 00:20:20,854
+Maybe I knew you were
+following me
+
+449
+00:20:20,954 --> 00:20:22,989
+and set this whole thing up to
+make myself look good.
+
+450
+00:20:23,089 --> 00:20:25,058
+[MISAKI] You could've,
+but you're not that kind of guy,
+right?
+
+451
+00:20:25,158 --> 00:20:28,228
+Wait a minute!
+You knew we were following you
+from the start, didn't you?!
+
+452
+00:20:28,328 --> 00:20:32,766
+So you were just dragging us all
+across town for your own
+personal enjoyment, is that it?!
+
+453
+00:20:32,866 --> 00:20:35,636
+[USUI] With those costumes on
+it's not exactly like you'd
+blend in, right?
+
+454
+00:20:35,736 --> 00:20:38,104
+[MISAKI] Don't give me that!
+I thought the exact same thing!
+
+455
+00:20:38,204 --> 00:20:40,073
+[USUI] Still... it was nice
+that you showed
+
+456
+00:20:40,173 --> 00:20:41,374
+an interest
+in me for a change.
+
+457
+00:20:41,474 --> 00:20:42,643
+Guess there's a first time for
+everything.
+
+458
+00:20:42,743 --> 00:20:44,277
+[MISAKI] Wh‐what are you saying?
+
+459
+00:20:44,377 --> 00:20:46,580
+It's not like I was there
+because I wanted to be...
+
+460
+00:20:49,282 --> 00:20:52,385
+[USUI] If you just ask, I'll
+show you everything there is to
+know about me.
+
+461
+00:20:52,485 --> 00:20:53,987
+[USUI] Here. My address is‐
+
+462
+00:20:54,087 --> 00:20:54,721
+[MISAKI] No thanks.
+
+463
+00:20:54,821 --> 00:20:56,923
+[USUI] Huh?
+
+464
+00:20:57,023 --> 00:20:58,792
+[MISAKI] No matter how hard
+I try I can't figure you out,
+
+465
+00:20:58,892 --> 00:21:01,161
+and I never have any idea what
+you're thinking.
+
+466
+00:21:01,261 --> 00:21:02,763
+[MISAKI] So, yeah, maybe I did
+feel like
+
+467
+00:21:02,863 --> 00:21:06,667
+trying to learn a little bit
+more about you.
+
+468
+00:21:06,767 --> 00:21:12,405
+[MISAKI] And as a result,
+I learned everything about you
+that I really needed to know...
+
+469
+00:21:12,506 --> 00:21:14,775
+[MISAKI] that I could care less
+about your private life!
+
+470
+00:21:14,875 --> 00:21:16,577
+In fact, the less I know the
+better!
+
+471
+00:21:16,677 --> 00:21:18,712
+So you're saying that regardless
+of my past or my background,
+
+472
+00:21:18,812 --> 00:21:21,447
+that no matter what you love me
+for ME, right?
+
+473
+00:21:21,548 --> 00:21:25,251
+[MISAKI] Are you an idiot?!
+How could you possibly have
+come to that conclusion?!
+
+474
+00:21:25,351 --> 00:21:26,219
+[MISAKI] Just hurry up and go
+home!
+
+475
+00:21:26,319 --> 00:21:27,353
+[USUI] Yeah, yeah.
+
+476
+00:21:27,453 --> 00:21:28,522
+[MISAKI] And don't
+make any stops‐
+
+477
+00:21:28,622 --> 00:21:29,523
+just go straight home.
+
+478
+00:21:29,623 --> 00:21:30,791
+[USUI] Oh, you can come back
+
+479
+00:21:30,891 --> 00:21:32,025
+to my house if you'd like,
+Miss President.
+
+480
+00:21:32,125 --> 00:21:32,926
+[MISAKI] No thank you!
+
+481
+00:21:33,026 --> 00:21:33,894
+[USUI] Shoot.
+
+482
+00:23:51,164 --> 00:23:54,635
+[MINAKO] This is Minako Ayuzawa.
+Thank you for always looking
+after Misaki.
+
+483
+00:23:54,735 --> 00:23:56,603
+[SUZUNA] So this is where you
+are, Mom.
+
+484
+00:23:56,703 --> 00:23:58,438
+[MINAKO] Oh, Suzuna. I forgot to
+give Usui a present.
+
+485
+00:23:58,539 --> 00:23:59,773
+What do you think of this?
+
+486
+00:23:59,873 --> 00:24:04,210
+[SUZUNA] One of the dolls
+you paint faces on?
+
+487
+00:24:04,310 --> 00:24:05,478
+It's the perfect present!
+
+488
+00:24:05,579 --> 00:24:07,080
+[MISAKI] Huh. I wonder if he'd
+like this...
+
+489
+00:24:07,180 --> 00:24:08,515
+[USUI] Ooh, that's a nice doll.
+
+490
+00:24:08,615 --> 00:24:09,716
+[MISAKI] Make it a matching set
+
+491
+00:24:09,816 --> 00:24:11,618
+with this bowl made out
+of scrap wood.
+
+492
+00:24:11,718 --> 00:24:12,919
+[USUI] Ooh, that's a nice bowl.
+
+493
+00:24:13,019 --> 00:24:14,487
+[MISAKI] Next up is the sports
+festival, huh?
+
+494
+00:24:14,588 --> 00:24:16,923
+[SAKURA] No! Please don't make
+me kiss anyone!
+
+495
+00:24:17,023 --> 00:24:20,093
+[MISAKI] It's all right.
+I'll protect you, Sakura.
+

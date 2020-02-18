@@ -1,0 +1,2295 @@
+﻿1
+00:00:11,500 --> 00:00:13,583
+[OKABE]
+Uh, this is the place?
+
+2
+00:00:13,666 --> 00:00:16,750
+Are you sure?
+Seems odd.
+
+3
+00:00:16,833 --> 00:00:18,958
+[MAHO]
+I followed the directions.
+
+4
+00:00:19,041 --> 00:00:20,291
+Although I've never
+been here before,
+
+5
+00:00:20,375 --> 00:00:21,583
+so who knows really?
+
+6
+00:00:21,666 --> 00:00:24,166
+[music playing]
+
+7
+00:00:24,250 --> 00:00:25,583
+[gasps]
+
+8
+00:00:25,666 --> 00:00:26,791
+[text notification]
+
+9
+00:00:26,875 --> 00:00:28,708
+Just got a message that
+they're watching us.
+
+10
+00:00:28,791 --> 00:00:31,833
+"Enter by the maid uniform.
+The one to your right."
+
+11
+00:00:37,958 --> 00:00:39,875
+[MAHO]
+It's like a secret passageway.
+
+12
+00:00:44,000 --> 00:00:45,250
+This must be it.
+
+13
+00:00:48,166 --> 00:00:49,625
+[OKABE grunts]
+
+14
+00:00:49,708 --> 00:00:50,791
+Daru?!
+
+15
+00:00:50,875 --> 00:00:52,166
+What are you doing here?
+
+16
+00:00:52,250 --> 00:00:55,375
+Um, I'm pretty sure
+you just stole my line, buddy.
+
+17
+00:00:55,458 --> 00:00:56,583
+[OKABE] I can't believe
+you've been the one
+
+18
+00:00:56,666 --> 00:00:58,375
+analyzing the laptop.
+
+19
+00:00:58,458 --> 00:00:59,416
+[DARU]
+And I can't believe
+
+20
+00:00:59,500 --> 00:01:01,083
+Mini Maho's the one
+who hired me!
+
+21
+00:01:01,166 --> 00:01:03,041
+I gotta say, I never
+saw that one coming.
+
+22
+00:01:03,125 --> 00:01:04,208
+[MAHO]
+I'm getting really tired
+
+23
+00:01:04,291 --> 00:01:05,916
+of having to ask you
+not to call me that.
+
+24
+00:01:06,000 --> 00:01:07,875
+Do you have any clue
+how demeaning it is?
+
+25
+00:01:07,958 --> 00:01:10,208
+[DARU] Really?
+But I think it's so cute!
+
+26
+00:01:10,291 --> 00:01:11,750
+Anyway, I'm kinda
+pissed at you guys
+
+27
+00:01:11,833 --> 00:01:14,291
+for blowing the cover
+off my part-time gig.
+
+28
+00:01:14,375 --> 00:01:17,750
+I had no idea
+you did this job on the side.
+
+29
+00:01:17,833 --> 00:01:18,958
+Is that it?
+
+30
+00:01:19,041 --> 00:01:20,625
+[DARU]
+Yeah. Imagine my shock
+
+31
+00:01:20,708 --> 00:01:23,541
+when I booted that bastard up
+and saw her name.
+
+32
+00:01:23,625 --> 00:01:26,375
+I mean, Makise Kurisu's
+personal laptop?
+
+33
+00:03:05,125 --> 00:03:07,791
+[OKABE] So, you two have been
+in contact this entire time
+
+34
+00:03:07,875 --> 00:03:10,458
+without any knowledge
+of the other's identity?
+
+35
+00:03:10,541 --> 00:03:11,541
+[MAHO]
+I only knew I was talking
+
+36
+00:03:11,625 --> 00:03:13,250
+to a trustworthy
+computer guru
+
+37
+00:03:13,333 --> 00:03:15,458
+who did data analysis
+on the side.
+
+38
+00:03:15,541 --> 00:03:18,375
+And that they had a rule
+never to meet face-to-face.
+
+39
+00:03:18,458 --> 00:03:20,333
+I gotta stay safe, doll.
+
+40
+00:03:20,416 --> 00:03:22,000
+Although I did suspect
+it might be you
+
+41
+00:03:22,083 --> 00:03:25,041
+as soon as I checked out
+the computer.
+
+42
+00:03:25,125 --> 00:03:26,333
+[OKABE]
+Have you finished?
+
+43
+00:03:26,416 --> 00:03:27,750
+--Did you make it in?
+--[DARU] Not yet.
+
+44
+00:03:27,833 --> 00:03:29,333
+Should take about
+three more days.
+
+45
+00:03:29,416 --> 00:03:31,166
+Then abort it.
+Do it right now!
+
+46
+00:03:31,250 --> 00:03:32,958
+--[MAHO gasps]
+--[DARU] What?
+
+47
+00:03:33,041 --> 00:03:34,500
+Are you serious?
+
+48
+00:03:34,583 --> 00:03:36,333
+[OKABE growls]
+Contained within that machine
+
+49
+00:03:36,416 --> 00:03:38,666
+is destructive,
+malevolent information.
+
+50
+00:03:38,750 --> 00:03:39,750
+Data with the potential
+
+51
+00:03:39,833 --> 00:03:41,791
+to bring all of humanity
+to ruin!
+
+52
+00:03:44,708 --> 00:03:45,875
+Delusional.
+
+53
+00:03:45,958 --> 00:03:47,083
+So lame!
+
+54
+00:03:47,166 --> 00:03:48,583
+What? Shut up!
+
+55
+00:03:48,666 --> 00:03:49,708
+No joke!
+
+56
+00:03:49,791 --> 00:03:51,833
+And it jeopardizes
+Suzuha's safety!
+
+57
+00:03:51,916 --> 00:03:53,583
+--[DARU] Suzuha?
+--Yes, her!
+
+58
+00:03:53,666 --> 00:03:55,083
+You should be aware of that!
+
+59
+00:03:55,166 --> 00:03:56,375
+If a time machine is--
+
+60
+00:03:58,583 --> 00:04:00,916
+Never mind.
+
+61
+00:04:01,000 --> 00:04:02,333
+[MAHO sighs]
+I see.
+
+62
+00:04:02,416 --> 00:04:04,916
+You don't want to talk
+about it in front of me, right?
+
+63
+00:04:05,000 --> 00:04:06,166
+I'm sorry.
+
+64
+00:04:06,250 --> 00:04:07,375
+[MAHO]
+I get it.
+
+65
+00:04:07,458 --> 00:04:09,750
+I should probably leave then,
+shouldn't I?
+
+66
+00:04:09,833 --> 00:04:11,916
+Come get me
+when you're done.
+
+67
+00:04:12,000 --> 00:04:14,250
+[door creaks, clacks]
+
+68
+00:04:14,333 --> 00:04:15,625
+Okarin.
+
+69
+00:04:15,708 --> 00:04:18,208
+Don't you think it would
+be better to just tell her?
+
+70
+00:04:18,291 --> 00:04:19,625
+[OKABE]
+I can't.
+
+71
+00:04:19,708 --> 00:04:21,583
+You really don't want her
+to know, huh?
+
+72
+00:04:23,208 --> 00:04:24,333
+[OKABE]
+I do.
+
+73
+00:04:24,416 --> 00:04:25,541
+It's just...
+
+74
+00:04:25,625 --> 00:04:28,541
+if I tell Hiyajo
+she might be, you know.
+
+75
+00:04:28,625 --> 00:04:31,458
+♪
+
+76
+00:04:31,541 --> 00:04:33,750
+Time machine?
+
+77
+00:04:33,833 --> 00:04:35,375
+I think this all
+stems from that.
+
+78
+00:04:35,458 --> 00:04:36,750
+They want any trace
+of her research,
+
+79
+00:04:36,833 --> 00:04:39,583
+and my guess is
+her theories are in Amadeus.
+
+80
+00:04:39,666 --> 00:04:41,041
+So, they hacked it.
+
+81
+00:04:41,125 --> 00:04:42,750
+Because I'm...
+
+82
+00:04:42,833 --> 00:04:44,166
+I'm the one who--
+
+83
+00:04:44,250 --> 00:04:46,208
+--[MAHO sighs]
+--[door creaks]
+
+84
+00:04:46,291 --> 00:04:47,375
+Huh?
+
+85
+00:04:49,333 --> 00:04:50,291
+All done?
+
+86
+00:04:50,375 --> 00:04:52,291
+No, um, actually.
+
+87
+00:04:52,375 --> 00:04:55,041
+I've decided that you deserve
+to hear the whole story.
+
+88
+00:04:55,125 --> 00:04:56,166
+You sure?
+
+89
+00:04:56,250 --> 00:04:57,541
+Yeah.
+
+90
+00:04:57,625 --> 00:04:58,833
+I think it's unfair
+to continue
+
+91
+00:04:58,916 --> 00:05:00,833
+to keep you in the dark.
+
+92
+00:05:00,916 --> 00:05:02,791
+But before I tell you,
+promise me this.
+
+93
+00:05:02,875 --> 00:05:04,041
+[MAHO]
+Hmm?
+
+94
+00:05:08,125 --> 00:05:10,500
+You won't try to save her,
+no matter what!
+
+95
+00:05:10,583 --> 00:05:12,250
+Tell me you won't
+even consider it!
+
+96
+00:05:12,333 --> 00:05:13,958
+[gasps]
+
+97
+00:05:16,333 --> 00:05:18,291
+[MAYURI] Okarin says that
+something urgent came up,
+
+98
+00:05:18,375 --> 00:05:19,958
+so he won't be able to make it.
+
+99
+00:05:20,041 --> 00:05:21,333
+Well, that's too bad.
+
+100
+00:05:21,416 --> 00:05:22,958
+[MAYURI]
+Yeah.
+
+101
+00:05:23,041 --> 00:05:24,833
+We talked about getting dinner
+with everyone if he was able to,
+
+102
+00:05:24,916 --> 00:05:27,083
+but I guess he doesn't
+have time after all.
+
+103
+00:05:27,166 --> 00:05:28,083
+Hmm?
+
+104
+00:05:28,166 --> 00:05:31,250
+♪
+
+105
+00:05:31,333 --> 00:05:32,583
+[RUKA]
+Hey, Kagari?
+
+106
+00:05:32,666 --> 00:05:34,500
+You really like that
+commercial, don't you?
+
+107
+00:05:35,916 --> 00:05:37,375
+Oh, I do.
+
+108
+00:05:37,458 --> 00:05:39,500
+[TV ANNOUNCER] Clear Kouhi!
+With 50% less sugar!
+
+109
+00:05:39,583 --> 00:05:41,041
+Look for it in stores now!
+
+110
+00:05:41,125 --> 00:05:43,333
+♪
+
+111
+00:05:54,208 --> 00:05:55,708
+[MAHO]
+No way!
+
+112
+00:05:55,791 --> 00:05:58,083
+[OKABE] Yeah. I don't
+blame you for being skeptical.
+
+113
+00:05:58,166 --> 00:06:00,041
+I wouldn't
+call it skepticism.
+
+114
+00:06:00,125 --> 00:06:01,625
+It's just mind boggling.
+
+115
+00:06:01,708 --> 00:06:02,791
+It's one thing in theory.
+
+116
+00:06:02,875 --> 00:06:05,041
+But you created a working
+time machine?
+
+117
+00:06:05,125 --> 00:06:07,375
+[OKABE] A working time machine
+is still a ways off.
+
+118
+00:06:07,458 --> 00:06:09,125
+What we created
+is different.
+
+119
+00:06:09,208 --> 00:06:10,375
+We devised the Phone Wave,
+
+120
+00:06:10,458 --> 00:06:12,125
+which allowed us to send
+what we called D-mails
+
+121
+00:06:12,208 --> 00:06:14,000
+into the past
+to alter the present.
+
+122
+00:06:14,083 --> 00:06:15,541
+Then there's
+the time leap machine.
+
+123
+00:06:15,625 --> 00:06:17,250
+[MAHO]
+That's close enough in my book.
+
+124
+00:06:17,333 --> 00:06:18,666
+The method's irrelevant.
+
+125
+00:06:18,750 --> 00:06:19,833
+The result is what matters,
+
+126
+00:06:19,916 --> 00:06:22,291
+and you were able
+to manipulate the past.
+
+127
+00:06:24,916 --> 00:06:26,875
+[MAHO]
+As for the real time machine,
+
+128
+00:06:26,958 --> 00:06:28,791
+the fact that Suzuha's
+here in the first place
+
+129
+00:06:28,875 --> 00:06:31,000
+means it exists somewhere,
+isn't that right?
+
+130
+00:06:31,083 --> 00:06:32,666
+And what if it does?
+
+131
+00:06:32,750 --> 00:06:33,833
+[MAHO]
+Huh?
+
+132
+00:06:34,833 --> 00:06:36,875
+Then that would mean...
+
+133
+00:06:36,958 --> 00:06:38,041
+Is this the reason
+you ordered me
+
+134
+00:06:38,125 --> 00:06:39,583
+not to save Kurisu?
+
+135
+00:06:39,666 --> 00:06:42,625
+Yes. The past cannot be,
+
+136
+00:06:42,708 --> 00:06:45,541
+or rather, it must not be
+manipulated by man.
+
+137
+00:06:45,625 --> 00:06:47,166
+I mean, never!
+
+138
+00:06:47,250 --> 00:06:49,916
+Yeah, but if we could
+save Kurisu somehow,
+
+139
+00:06:50,000 --> 00:06:51,375
+we could avoid this situation.
+
+140
+00:06:51,458 --> 00:06:53,166
+[OKABE] I told you,
+it's not that simple!
+
+141
+00:06:53,250 --> 00:06:54,708
+When you change the past,
+everything you know
+
+142
+00:06:54,791 --> 00:06:57,625
+about the present and future
+gets thrown out the window!
+
+143
+00:06:57,708 --> 00:06:58,833
+You might rob
+the people you love
+
+144
+00:06:58,916 --> 00:07:00,250
+of their joy and success.
+
+145
+00:07:00,333 --> 00:07:02,166
+You could even strip the planet
+of their very existence
+
+146
+00:07:02,250 --> 00:07:04,541
+without even realizing
+what you were doing!
+
+147
+00:07:04,625 --> 00:07:06,583
+[MAHO]
+You're lying.
+
+148
+00:07:06,666 --> 00:07:08,000
+[OKABE]
+It's true.
+
+149
+00:07:08,083 --> 00:07:10,125
+What if the wrong people
+get their hands on that laptop?
+
+150
+00:07:10,208 --> 00:07:13,041
+The powers that be would do
+just about anything to have it.
+
+151
+00:07:13,125 --> 00:07:14,208
+It's a fearsome weapon,
+
+152
+00:07:14,291 --> 00:07:16,791
+maybe the most
+formidable one ever made.
+
+153
+00:07:16,875 --> 00:07:17,916
+Do you understand?
+
+154
+00:07:18,000 --> 00:07:19,125
+We must eliminate the chance
+
+155
+00:07:19,208 --> 00:07:21,458
+that anyone
+could use it for evil.
+
+156
+00:07:21,541 --> 00:07:23,625
+[MAHO] Don't you want
+to see what's on her laptop?
+
+157
+00:07:23,708 --> 00:07:25,875
+[OKABE] Its mere existence
+is enough to spark a global war,
+
+158
+00:07:25,958 --> 00:07:27,875
+so I'm fine
+with not seeing it.
+
+159
+00:07:27,958 --> 00:07:29,541
+People will die,
+
+160
+00:07:29,625 --> 00:07:31,458
+and nothing will save them.
+
+161
+00:07:31,541 --> 00:07:35,625
+Still, it's proof
+of Kurisu's life and work.
+
+162
+00:07:35,708 --> 00:07:37,375
+Her only legacy.
+
+163
+00:07:37,458 --> 00:07:38,625
+[OKABE] And if you
+make one wrong move,
+
+164
+00:07:38,708 --> 00:07:40,333
+you could disgrace
+that legacy,
+
+165
+00:07:40,416 --> 00:07:41,750
+you'd be trampling her memory.
+
+166
+00:07:44,000 --> 00:07:46,958
+No! That's not my intent,
+you know that!
+
+167
+00:07:47,041 --> 00:07:48,916
+[OKABE]
+Yes, I do.
+
+168
+00:07:49,000 --> 00:07:50,250
+But it doesn't matter.
+
+169
+00:07:50,333 --> 00:07:52,041
+You cannot deny
+that's the risk you'd be taking
+
+170
+00:07:52,125 --> 00:07:53,250
+if you proceeded!
+
+171
+00:07:55,166 --> 00:07:56,541
+So, what do ya say?
+
+172
+00:08:08,666 --> 00:08:11,041
+[MAHO whimpers]
+
+173
+00:08:11,125 --> 00:08:12,291
+I understand.
+
+174
+00:08:12,375 --> 00:08:14,833
+So, let's destroy
+this computer.
+
+175
+00:08:14,916 --> 00:08:16,458
+Thank you, Hiyajo.
+
+176
+00:08:16,541 --> 00:08:18,208
+[DARU]
+Seriously?
+
+177
+00:08:18,291 --> 00:08:20,041
+What about getting
+paid for my work?
+
+178
+00:08:20,125 --> 00:08:21,791
+'Cause I already
+preordered a new hentai
+
+179
+00:08:21,875 --> 00:08:23,208
+that's coming out
+at the end of the month
+
+180
+00:08:23,291 --> 00:08:25,166
+and can't return it.
+
+181
+00:08:25,250 --> 00:08:27,166
+You're truly despicable.
+
+182
+00:08:27,250 --> 00:08:28,791
+--[DARU] What?
+--[computer beeping]
+
+183
+00:08:28,875 --> 00:08:30,791
+Who dares interrupt our
+very important payment talk?
+
+184
+00:08:33,500 --> 00:08:34,583
+[OKABE]
+It's them!
+
+185
+00:08:36,958 --> 00:08:38,083
+[MAHO]
+What?
+
+186
+00:08:38,166 --> 00:08:39,625
+How could they have
+tracked us down already?
+
+187
+00:08:39,708 --> 00:08:42,208
+-[phone vibrating]
+-[DARU] Hmm?
+
+188
+00:08:42,291 --> 00:08:44,541
+Okey-dokey.
+
+189
+00:08:44,625 --> 00:08:45,791
+Abandon ship.
+
+190
+00:08:47,375 --> 00:08:48,833
+--You two make a run for it.
+--[keyboard clacking]
+
+191
+00:08:48,916 --> 00:08:50,000
+But where can we go?
+
+192
+00:08:50,083 --> 00:08:52,000
+[OKABE]
+They're already in the store!
+
+193
+00:08:52,083 --> 00:08:53,583
+Quiet, or they'll hear you.
+
+194
+00:08:55,625 --> 00:08:57,041
+[gasping]
+
+195
+00:08:57,125 --> 00:08:58,166
+This way.
+
+196
+00:09:00,041 --> 00:09:01,708
+[OKABE] I can't believe
+it's come down to this.
+
+197
+00:09:01,791 --> 00:09:04,666
+Me, either, and that was one
+of my favorite hideouts, too!
+
+198
+00:09:11,166 --> 00:09:12,333
+[grunting]
+
+199
+00:09:15,083 --> 00:09:16,041
+[DARU groans]
+
+200
+00:09:17,750 --> 00:09:18,916
+[DARU grunts]
+
+201
+00:09:19,583 --> 00:09:20,750
+[OKABE]
+Where are we?
+
+202
+00:09:20,833 --> 00:09:22,750
+[DARU] Behind the last
+building on the block.
+
+203
+00:09:22,833 --> 00:09:23,875
+We made it this far.
+
+204
+00:09:23,958 --> 00:09:25,083
+[MAHO yelps]
+
+205
+00:09:26,833 --> 00:09:27,833
+Leave her alone!
+
+206
+00:09:29,833 --> 00:09:31,625
+[VOICE (distorted)]
+Do exactly as I say.
+
+207
+00:09:31,708 --> 00:09:33,458
+[whimpering]
+
+208
+00:09:33,541 --> 00:09:34,583
+Wait.
+
+209
+00:09:34,666 --> 00:09:36,208
+This is what
+you're after, right?
+
+210
+00:09:39,083 --> 00:09:41,958
+Start by letting her go.
+
+211
+00:09:42,041 --> 00:09:43,458
+[VOICE (distorted)]
+We'll trade you for her.
+
+212
+00:09:45,250 --> 00:09:47,833
+[MAHO] No! Don't give it
+to them, Okabe!
+
+213
+00:09:47,916 --> 00:09:49,791
+Whatever you do,
+do not fight back!
+
+214
+00:09:49,875 --> 00:09:51,750
+It's futile, you'll just
+make things worse.
+
+215
+00:09:51,833 --> 00:09:54,625
+They're not bluffing.
+They won't hesitate to kill you.
+
+216
+00:09:54,708 --> 00:09:55,791
+[MAHO]
+But--
+
+217
+00:09:55,875 --> 00:09:57,500
+This computer is so
+unbelievably secure,
+
+218
+00:09:57,583 --> 00:09:59,250
+the best hackers in the world
+have tried for weeks
+
+219
+00:09:59,333 --> 00:10:01,083
+to crack it, without success.
+
+220
+00:10:01,166 --> 00:10:02,416
+And if you hurt her in any way,
+
+221
+00:10:02,500 --> 00:10:04,916
+I will make sure that you
+never know what's on it.
+
+222
+00:10:05,000 --> 00:10:06,250
+[VOICE (distorted)]
+Why should we believe you?
+
+223
+00:10:06,333 --> 00:10:07,583
+It's your choice.
+
+224
+00:10:09,625 --> 00:10:11,666
+[OKABE] If you let her go,
+I'll hand it over.
+
+225
+00:10:11,750 --> 00:10:13,791
+You guarantee that all
+three of us will be safe,
+
+226
+00:10:13,875 --> 00:10:16,333
+and I'll give you
+the password.
+
+227
+00:10:16,416 --> 00:10:18,250
+[OKABE]
+The world line hasn't changed.
+
+228
+00:10:18,333 --> 00:10:19,500
+In other words,
+
+229
+00:10:19,583 --> 00:10:21,875
+Daru and I
+can't die right now.
+
+230
+00:10:21,958 --> 00:10:23,000
+In which case...
+
+231
+00:10:24,791 --> 00:10:26,333
+I can tell that
+you don't trust me.
+
+232
+00:10:26,416 --> 00:10:27,958
+So release the girl,
+
+233
+00:10:28,041 --> 00:10:30,333
+and I'll agree
+to be your hostage.
+
+234
+00:10:30,416 --> 00:10:33,333
+No, Okabe, don't.
+
+235
+00:10:33,416 --> 00:10:34,791
+Well, then?
+
+236
+00:10:37,000 --> 00:10:38,166
+[grunts]
+
+237
+00:10:41,291 --> 00:10:42,750
+Let her go and it's yours.
+
+238
+00:10:44,708 --> 00:10:45,750
+[MAHO yelps]
+
+239
+00:10:57,666 --> 00:11:00,000
+[tires screeching]
+
+240
+00:11:00,083 --> 00:11:01,083
+Get down!
+
+241
+00:11:03,375 --> 00:11:04,791
+[whines]
+
+242
+00:11:10,041 --> 00:11:11,958
+[gunfire stops]
+
+243
+00:11:13,500 --> 00:11:14,625
+[gunshot]
+
+244
+00:11:16,208 --> 00:11:18,083
+[tires squeal]
+
+245
+00:11:20,958 --> 00:11:22,625
+[whimpers]
+
+246
+00:11:23,750 --> 00:11:25,458
+[whines]
+
+247
+00:11:25,541 --> 00:11:29,125
+-[MAHO whimpers]
+-[sirens wailing]
+
+248
+00:11:29,208 --> 00:11:30,500
+[REPORTER]
+Residents of Akihabara
+
+249
+00:11:30,583 --> 00:11:32,708
+reported possible gunfire
+to city police,
+
+250
+00:11:32,791 --> 00:11:34,458
+and upon further
+investigation, their--
+
+251
+00:11:35,625 --> 00:11:38,041
+Are you sure
+you're okay, Hiyajo?
+
+252
+00:11:38,125 --> 00:11:40,583
+Yeah, but we should
+go to the hospital.
+
+253
+00:11:40,666 --> 00:11:42,083
+You need a doctor.
+
+254
+00:11:42,166 --> 00:11:44,625
+[OKABE] Doctors would
+ask too many questions.
+
+255
+00:11:44,708 --> 00:11:46,208
+And besides...
+
+256
+00:11:51,916 --> 00:11:53,000
+Let me look at your hand.
+
+257
+00:11:53,083 --> 00:11:54,375
+What? Oh.
+
+258
+00:11:57,250 --> 00:11:58,250
+That's weird.
+
+259
+00:11:58,333 --> 00:11:59,291
+I can't open it.
+
+260
+00:11:59,375 --> 00:12:00,958
+It feels stuck.
+
+261
+00:12:14,791 --> 00:12:16,125
+[OKABE]
+Her laptop.
+
+262
+00:12:16,208 --> 00:12:17,416
+You kept a piece?
+
+263
+00:12:19,375 --> 00:12:21,000
+I don't remember that.
+
+264
+00:12:30,000 --> 00:12:31,541
+[MAHO whispering]
+I'm sorry.
+
+265
+00:12:31,625 --> 00:12:33,083
+Don't apologize.
+
+266
+00:12:33,166 --> 00:12:34,791
+But it's all my fault.
+
+267
+00:12:34,875 --> 00:12:36,291
+I failed her.
+
+268
+00:12:36,375 --> 00:12:38,416
+[crying]
+I couldn't protect it.
+
+269
+00:12:38,500 --> 00:12:40,458
+[sobbing]
+Forgive me...
+
+270
+00:12:40,541 --> 00:12:43,458
+I know I let you down, Kurisu.
+
+271
+00:12:43,541 --> 00:12:44,958
+I'm sorry!
+
+272
+00:12:46,208 --> 00:12:47,500
+I failed.
+
+273
+00:12:47,583 --> 00:12:50,083
+[sobbing]
+
+274
+00:12:50,166 --> 00:12:54,750
+[sobbing continues]
+
+275
+00:12:56,875 --> 00:12:58,500
+[FARIS] Are you sure
+you're okay, meow?
+
+276
+00:12:58,583 --> 00:13:00,916
+[OKABE] Yeah.
+Stopped bleeding, at least.
+
+277
+00:13:01,000 --> 00:13:02,500
+Where'd Daru-meow go?
+
+278
+00:13:02,583 --> 00:13:05,250
+He's laying low in one
+of his other hideouts for now.
+
+279
+00:13:05,333 --> 00:13:06,750
+Said he needed
+to give his work buddies
+
+280
+00:13:06,833 --> 00:13:08,000
+a quiet heads up.
+
+281
+00:13:09,416 --> 00:13:11,375
+Did you want this?
+
+282
+00:13:11,458 --> 00:13:13,166
+Yes, we still need
+to disinfect your wound,
+
+283
+00:13:13,250 --> 00:13:14,500
+'cause you never know.
+
+284
+00:13:14,583 --> 00:13:16,875
+That kit should have
+alcohol swabs and bandages.
+
+285
+00:13:20,333 --> 00:13:22,041
+[OKABE]
+I knew things were different.
+
+286
+00:13:22,125 --> 00:13:23,833
+In this world line,
+SERN and the Rounders
+
+287
+00:13:23,916 --> 00:13:25,791
+have no part
+in what's unfolded.
+
+288
+00:13:25,875 --> 00:13:28,083
+Which means...
+
+289
+00:13:28,166 --> 00:13:30,541
+Based on Braun's hunch
+that it's America,
+
+290
+00:13:30,625 --> 00:13:33,083
+it must be DURPA or Stratfor.
+
+291
+00:13:33,166 --> 00:13:36,458
+So, the Russians came
+and opened fire.
+
+292
+00:13:36,541 --> 00:13:38,416
+[FARIS] Maho-meow sure is
+taking her time.
+
+293
+00:13:38,500 --> 00:13:40,333
+Maybe we should
+go check on her.
+
+294
+00:13:45,125 --> 00:13:46,666
+[MAHO]
+Time travel.
+
+295
+00:13:46,750 --> 00:13:48,375
+I still can't believe it.
+
+296
+00:13:57,750 --> 00:13:59,000
+What the--?
+
+297
+00:13:59,083 --> 00:14:00,708
+[groaning]
+
+298
+00:14:04,708 --> 00:14:06,916
+I can't-- Oh, no!
+
+299
+00:14:07,000 --> 00:14:09,208
+Something about the shift
+from tension to relaxation
+
+300
+00:14:09,291 --> 00:14:11,083
+has caused all
+my muscles to go limp!
+
+301
+00:14:11,166 --> 00:14:14,291
+--[knocking]
+--[FARIS] Maho-meow!
+
+302
+00:14:14,375 --> 00:14:17,208
+Hi! Oh my goodness,
+what's the matter with you?!
+
+303
+00:14:17,291 --> 00:14:18,708
+--[MAHO] Faris!
+--Oh no, meow!
+
+304
+00:14:18,791 --> 00:14:20,916
+Maho's dying!
+We have to save her, meow!
+
+305
+00:14:21,000 --> 00:14:23,416
+We have to do something!
+It's gonna be okay!
+
+306
+00:14:23,500 --> 00:14:24,583
+--We just have to hurry--
+--[MAHO] Stop it!
+
+307
+00:14:24,666 --> 00:14:25,791
+You'll expose me!
+
+308
+00:14:25,875 --> 00:14:26,916
+What's going--
+
+309
+00:14:30,291 --> 00:14:33,583
+[FARIS gasping]
+
+310
+00:14:33,666 --> 00:14:35,916
+[MAHO wails]
+Faris, my towel!
+
+311
+00:14:36,000 --> 00:14:37,791
+[screams]
+
+312
+00:14:37,875 --> 00:14:40,166
+--[OKABE] I'm so embarrassed.
+--[MAHO] Me, too.
+
+313
+00:14:40,250 --> 00:14:41,250
+It wasn't your fault, though,
+
+314
+00:14:41,333 --> 00:14:43,958
+so don't worry
+about it too much.
+
+315
+00:14:44,041 --> 00:14:47,291
+But, like, will you swear
+to forget what you saw?
+
+316
+00:14:47,375 --> 00:14:48,958
+[OKABE]
+I'll do my best.
+
+317
+00:14:49,041 --> 00:14:50,250
+When someone asks you that,
+
+318
+00:14:50,333 --> 00:14:52,291
+you're supposed to just
+tell them you will.
+
+319
+00:14:52,375 --> 00:14:53,750
+Otherwise you're in danger.
+
+320
+00:14:53,833 --> 00:14:55,791
+I'll stab an electrode
+in your hippocampus.
+
+321
+00:14:55,875 --> 00:14:58,416
+--[gasps]
+--Huh?
+
+322
+00:14:58,500 --> 00:15:00,000
+[chuckles]
+
+323
+00:15:00,083 --> 00:15:03,500
+I take it Kurisu sang
+her little rhyme to you, too?
+
+324
+00:15:03,583 --> 00:15:05,791
+[MAHO] She made me promise
+not to tell the professors
+
+325
+00:15:05,875 --> 00:15:07,875
+something bad
+she said about them.
+
+326
+00:15:07,958 --> 00:15:10,166
+I could absolutely
+see that one happening.
+
+327
+00:15:10,250 --> 00:15:11,791
+[MAHO]
+They were all scared of her.
+
+328
+00:15:11,875 --> 00:15:14,875
+I kinda thought she'd snap
+and do it for real someday.
+
+329
+00:15:14,958 --> 00:15:16,333
+[OKABE sighs]
+
+330
+00:15:17,416 --> 00:15:18,791
+[OKABE]
+I'm gonna go now.
+
+331
+00:15:18,875 --> 00:15:20,625
+You should regain
+muscle function soon.
+
+332
+00:15:20,708 --> 00:15:23,041
+Until then,
+you'd better sleep.
+
+333
+00:15:23,125 --> 00:15:24,125
+Okay.
+
+334
+00:15:24,208 --> 00:15:25,916
+Night.
+
+335
+00:15:26,000 --> 00:15:28,250
+--[MAHO] Okabe?
+--Huh?
+
+336
+00:15:28,333 --> 00:15:29,416
+Would you mind
+if I asked you
+
+337
+00:15:29,500 --> 00:15:31,500
+to stay with me
+a little longer?
+
+338
+00:15:31,583 --> 00:15:32,916
+A few minutes?
+
+339
+00:15:36,375 --> 00:15:38,041
+[OKABE]
+I'll stay until you fall asleep.
+
+340
+00:15:38,125 --> 00:15:39,375
+Just try to get some rest.
+
+341
+00:15:39,458 --> 00:15:41,666
+Sorry for being a pain.
+
+342
+00:15:41,750 --> 00:15:43,166
+[OKABE]
+No.
+
+343
+00:15:43,250 --> 00:15:46,000
+What you went through today
+is enough to rattle anyone.
+
+344
+00:15:46,083 --> 00:15:47,583
+You're not a pain at all.
+
+345
+00:15:48,958 --> 00:15:50,500
+Yeah, you've got a good point.
+
+346
+00:15:54,791 --> 00:15:56,416
+I've been wondering.
+
+347
+00:15:56,500 --> 00:15:58,125
+Was Salieri relieved
+
+348
+00:15:58,208 --> 00:15:59,750
+or did he have regrets...
+
+349
+00:16:00,958 --> 00:16:04,000
+...when he found out
+Mozart died?
+
+350
+00:16:04,083 --> 00:16:05,166
+[OKABE]
+I don't know.
+
+351
+00:16:05,250 --> 00:16:06,666
+You warned me
+before it all went down
+
+352
+00:16:06,750 --> 00:16:08,708
+about disgracing the dead.
+
+353
+00:16:08,791 --> 00:16:11,666
+When you said that,
+it made me realize.
+
+354
+00:16:11,750 --> 00:16:14,000
+Maybe I had already
+disgraced her.
+
+355
+00:16:15,958 --> 00:16:17,041
+After she died,
+
+356
+00:16:17,125 --> 00:16:18,958
+I acquired her computer.
+
+357
+00:16:19,041 --> 00:16:21,625
+I told myself
+that it was her will,
+
+358
+00:16:21,708 --> 00:16:23,916
+that Kurisu would
+have wanted it.
+
+359
+00:16:24,000 --> 00:16:26,625
+I vowed to carry on
+her legacy.
+
+360
+00:16:26,708 --> 00:16:29,458
+I thought I should be the one
+to bear the torch for her.
+
+361
+00:16:29,541 --> 00:16:32,166
+--[keyboard clacking]
+--And yet...
+
+362
+00:16:32,250 --> 00:16:35,500
+[keyboard clacking]
+
+363
+00:16:35,583 --> 00:16:36,833
+[MAHO]
+In that moment,
+
+364
+00:16:36,916 --> 00:16:40,416
+I realized it was
+only frustration.
+
+365
+00:16:40,500 --> 00:16:42,250
+I wanted to crack it.
+
+366
+00:16:42,333 --> 00:16:44,583
+To prove that I could
+see what it held.
+
+367
+00:16:44,666 --> 00:16:47,250
+I needed to know
+that I... could.
+
+368
+00:16:48,458 --> 00:16:50,708
+[OKABE]
+So it became your obsession?
+
+369
+00:16:50,791 --> 00:16:52,166
+It felt that way.
+
+370
+00:16:52,250 --> 00:16:54,583
+There was a part of me
+that just wanted to break in.
+
+371
+00:16:54,666 --> 00:16:56,541
+To find the secrets she hid,
+
+372
+00:16:56,625 --> 00:16:58,208
+to know her truth.
+
+373
+00:16:58,291 --> 00:16:59,500
+That's all.
+
+374
+00:16:59,583 --> 00:17:00,583
+[OKABE]
+Not buying it.
+
+375
+00:17:00,666 --> 00:17:02,125
+It's true.
+
+376
+00:17:02,208 --> 00:17:03,500
+Think about it.
+
+377
+00:17:03,583 --> 00:17:06,375
+Mozart didn't waste a second
+fretting over Salieri.
+
+378
+00:17:06,458 --> 00:17:08,541
+He devoted his life
+to making music,
+
+379
+00:17:08,625 --> 00:17:09,750
+and that was it.
+
+380
+00:17:12,000 --> 00:17:13,416
+[OKABE]
+Hiyajo, listen.
+
+381
+00:17:13,500 --> 00:17:15,708
+In the end, you were willing
+to destroy the computer.
+
+382
+00:17:17,250 --> 00:17:18,958
+That's because
+you were in danger.
+
+383
+00:17:19,041 --> 00:17:20,833
+[OKABE]
+No, it isn't just that.
+
+384
+00:17:20,916 --> 00:17:22,291
+You were devastated
+that you weren't able
+
+385
+00:17:22,375 --> 00:17:24,500
+to protect her legacy
+like you wanted to.
+
+386
+00:17:24,583 --> 00:17:25,625
+That's the truth.
+
+387
+00:17:25,708 --> 00:17:27,458
+And I think,
+that alone is proof enough
+
+388
+00:17:27,541 --> 00:17:29,000
+of what you hold in your heart.
+
+389
+00:17:30,583 --> 00:17:32,541
+[MAHO]
+You give me too much credit!
+
+390
+00:17:32,625 --> 00:17:33,916
+You don't know.
+
+391
+00:17:36,500 --> 00:17:37,416
+Look at it this way.
+
+392
+00:17:37,500 --> 00:17:38,625
+If what you say is true,
+
+393
+00:17:38,708 --> 00:17:39,750
+you wouldn't have
+held onto that piece
+
+394
+00:17:39,833 --> 00:17:41,875
+of her computer
+like you did.
+
+395
+00:17:43,500 --> 00:17:45,333
+At least, that's what I think.
+
+396
+00:17:48,250 --> 00:17:49,250
+[gasps]
+
+397
+00:17:53,291 --> 00:17:55,458
+Uh, you seem
+to have recovered.
+
+398
+00:17:55,541 --> 00:17:56,916
+If I stay, you won't
+be able to sleep,
+
+399
+00:17:57,000 --> 00:17:58,416
+so I should probably go.
+
+400
+00:17:58,500 --> 00:18:00,333
+Just shout if
+you need anything.
+
+401
+00:18:03,916 --> 00:18:05,583
+--[MAHO] Hey.
+--[OKABE] Hmm?
+
+402
+00:18:05,666 --> 00:18:06,583
+[MAHO]
+After you and Kurisu
+
+403
+00:18:06,666 --> 00:18:08,166
+finished the time leap machine,
+
+404
+00:18:08,250 --> 00:18:09,916
+you were forced
+to repeat the same interval
+
+405
+00:18:10,000 --> 00:18:12,000
+over and over again,
+weren't you?
+
+406
+00:18:13,125 --> 00:18:14,333
+[OKABE]
+Yeah.
+
+407
+00:18:14,416 --> 00:18:16,666
+And were you and Kurisu...?
+
+408
+00:18:21,708 --> 00:18:24,333
+[MAHO] Never mind.
+Don't answer that.
+
+409
+00:18:24,416 --> 00:18:25,916
+Hope you have a nice night.
+
+410
+00:18:28,041 --> 00:18:29,000
+[OKABE]
+Same to you.
+
+411
+00:18:32,375 --> 00:18:34,250
+[door clicks]
+
+412
+00:18:40,000 --> 00:18:41,000
+[ALEXIS]
+Maho!
+
+413
+00:18:41,083 --> 00:18:43,166
+Whatever will you do
+without Rintaro?
+
+414
+00:18:43,250 --> 00:18:44,833
+[MAHO] You're choking me.
+I can't breathe!
+
+415
+00:18:44,916 --> 00:18:46,625
+--[ALEXIS laughs]
+--[MAHO] Stop it!
+
+416
+00:18:46,708 --> 00:18:49,125
+I'm dying, for real!
+
+417
+00:18:49,208 --> 00:18:51,541
+Thank you for coming
+to see us off, Rintaro,
+
+418
+00:18:51,625 --> 00:18:53,875
+and everybody else
+from your little lab.
+
+419
+00:18:53,958 --> 00:18:56,416
+By the way, when do you
+plan to come to our lab
+
+420
+00:18:56,500 --> 00:18:58,541
+and start working
+with us, buddy?
+
+421
+00:18:58,625 --> 00:19:00,541
+[OKABE]
+Wait, are-- are you--
+
+422
+00:19:00,625 --> 00:19:02,166
+The professor's been
+saying he won't rest
+
+423
+00:19:02,250 --> 00:19:04,666
+until you come to
+Viktor Chondria University.
+
+424
+00:19:04,750 --> 00:19:06,125
+And he means it.
+
+425
+00:19:06,208 --> 00:19:08,250
+--[OKABE] Why me?
+--I'd never forgive myself
+
+426
+00:19:08,333 --> 00:19:10,041
+if I let the young
+Japanese Einstein
+
+427
+00:19:10,125 --> 00:19:12,000
+slip right through my fingers!
+
+428
+00:19:12,083 --> 00:19:15,291
+Love to have you
+on the team, Rintaro.
+
+429
+00:19:15,375 --> 00:19:19,416
+Well, then, I'll study hard
+and do my best to get accepted.
+
+430
+00:19:19,500 --> 00:19:21,125
+--You okay?
+--Huh?
+
+431
+00:19:21,208 --> 00:19:23,958
+Yep! If that's where Okarin
+wants to go to school,
+
+432
+00:19:24,041 --> 00:19:26,125
+then of course
+I'm all for it!
+
+433
+00:19:26,208 --> 00:19:29,250
+[KAEDE gasps] What happened
+to your hand, Yuki?
+
+434
+00:19:29,333 --> 00:19:30,666
+[laughing]
+Oh, I just nicked myself
+
+435
+00:19:30,750 --> 00:19:32,458
+with a knife at work.
+
+436
+00:19:32,541 --> 00:19:34,541
+Want me to carry that? Or, um--
+
+437
+00:19:34,625 --> 00:19:37,416
+[YUKI giggles]
+Sure! You're sweet.
+
+438
+00:19:37,500 --> 00:19:39,250
+What about Suzuha?
+
+439
+00:19:39,333 --> 00:19:42,166
+Well, uh, she's still
+struggling to accept the truth.
+
+440
+00:19:43,208 --> 00:19:45,166
+Now that Kurisu's
+computer's been destroyed,
+
+441
+00:19:45,250 --> 00:19:46,708
+we can rest assured
+
+442
+00:19:46,791 --> 00:19:48,875
+the conflict between Russia
+and America won't take place.
+
+443
+00:19:48,958 --> 00:19:50,625
+You might be correct,
+
+444
+00:19:50,708 --> 00:19:52,583
+but it still doesn't
+eliminate all possibility
+
+445
+00:19:52,666 --> 00:19:54,791
+of World War III.
+
+446
+00:19:54,875 --> 00:19:56,458
+[MAHO]
+What next?
+
+447
+00:19:56,541 --> 00:19:57,791
+[OKABE] I've done
+everything in my power
+
+448
+00:19:57,875 --> 00:19:59,291
+for the time being,
+
+449
+00:19:59,375 --> 00:20:02,000
+but you don't need
+to worry about it.
+
+450
+00:20:02,083 --> 00:20:04,250
+[ALEXIS] Are you two planning
+a future date over here?
+
+451
+00:20:04,333 --> 00:20:05,875
+Would you give it
+a rest for once?
+
+452
+00:20:05,958 --> 00:20:07,791
+That reminds me.
+I hate to say it,
+
+453
+00:20:07,875 --> 00:20:09,166
+but this means
+we're gonna have to revoke
+
+454
+00:20:09,250 --> 00:20:11,125
+Rintaro's access to Amadeus.
+
+455
+00:20:11,208 --> 00:20:15,041
+Too bad. Would you like to say
+goodbye to her one last time?
+
+456
+00:20:15,125 --> 00:20:16,166
+Yes, I would.
+
+457
+00:20:16,250 --> 00:20:18,958
+Don't worry,
+I'll make it quick.
+
+458
+00:20:19,041 --> 00:20:21,125
+-[phone chimes]
+-What's up?
+
+459
+00:20:21,208 --> 00:20:23,833
+I just wanted to tell you
+goodbye, is all.
+
+460
+00:20:23,916 --> 00:20:25,708
+[AMADEUS] Have you said
+goodbye to Miss Maho yet?
+
+461
+00:20:25,791 --> 00:20:27,666
+-'Cause you should!
+-Sure did!
+
+462
+00:20:27,750 --> 00:20:30,708
+Oh. Then I guess it's all right.
+
+463
+00:20:30,791 --> 00:20:32,041
+How many times is it
+
+464
+00:20:32,125 --> 00:20:33,875
+that I've had
+to bid you farewell?
+
+465
+00:20:33,958 --> 00:20:35,875
+-Feels so--
+-What?
+
+466
+00:20:35,958 --> 00:20:37,500
+[OKABE]
+Nothing. N-Never mind.
+
+467
+00:20:39,541 --> 00:20:41,125
+Well, I suppose I'm grateful
+
+468
+00:20:41,208 --> 00:20:42,833
+you took the time
+to talk to me.
+
+469
+00:20:42,916 --> 00:20:45,583
+I hear you might be coming
+to study with us, right?
+
+470
+00:20:45,666 --> 00:20:47,291
+I guess I'll try
+to remember you
+
+471
+00:20:47,375 --> 00:20:48,416
+until we meet again.
+
+472
+00:20:48,500 --> 00:20:49,500
+[chuckles]
+
+473
+00:20:49,583 --> 00:20:50,666
+What a tsundere.
+
+474
+00:20:50,750 --> 00:20:52,500
+Hey! I mean, what?
+
+475
+00:20:52,583 --> 00:20:54,208
+[OKABE]
+Your face has gone crimson.
+
+476
+00:20:54,291 --> 00:20:55,750
+Kurisu's quite the shy one!
+
+477
+00:20:55,833 --> 00:20:57,291
+[laughs]
+
+478
+00:20:57,375 --> 00:20:58,458
+Time to go, Professor.
+
+479
+00:20:58,541 --> 00:21:00,416
+Oh, yes, of course.
+
+480
+00:21:00,500 --> 00:21:01,583
+One thing.
+
+481
+00:21:01,666 --> 00:21:03,416
+Promise you won't
+tease Hiyajo too much?
+
+482
+00:21:03,500 --> 00:21:04,916
+[AMADEUS]
+I can't promise that.
+
+483
+00:21:05,000 --> 00:21:06,000
+See you.
+
+484
+00:21:07,666 --> 00:21:09,333
+--[AMADEUS] Okabe?
+--Huh?
+
+485
+00:21:09,416 --> 00:21:12,500
+Someday, I hope you
+remember how to laugh
+
+486
+00:21:12,583 --> 00:21:14,125
+from the bottom
+of your heart.
+
+487
+00:21:15,958 --> 00:21:17,125
+Bye, now.
+
+488
+00:21:17,208 --> 00:21:20,833
+♪
+
+489
+00:21:20,916 --> 00:21:22,041
+[MAHO]
+Okabe?
+
+490
+00:21:24,625 --> 00:21:26,166
+Thank you for everything.
+
+491
+00:21:26,250 --> 00:21:28,041
+Especially for saving my life.
+
+492
+00:21:28,125 --> 00:21:29,291
+That's quite a stretch.
+
+493
+00:21:29,375 --> 00:21:31,166
+No, it's what happened,
+
+494
+00:21:31,250 --> 00:21:33,208
+and I'm incredibly grateful.
+
+495
+00:21:33,291 --> 00:21:35,708
+See you soon
+in the States!
+
+496
+00:21:40,958 --> 00:21:43,416
+[OKABE] And so,
+with goodbyes exchanged,
+
+497
+00:21:43,500 --> 00:21:47,041
+Professor Leskinen and Hiyajo
+returned to America.
+
+498
+00:21:47,125 --> 00:21:50,500
+Time marches on once more.
+
+499
+00:21:50,583 --> 00:21:52,708
+Without anything changing,
+
+500
+00:21:52,791 --> 00:21:55,000
+and without repeating,
+
+501
+00:21:55,083 --> 00:21:56,583
+it moves as it should.
+
