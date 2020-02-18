@@ -47,6 +47,15 @@ OneDirve：http://pan.edatribe.com
 | A029 | Accel World                                                                                                         | 加速世界                                 | 24集 | 计划 |
 | A030 | The Future Diary                                                                                                    | 未来日记                                 | 26集 | 计划 |
 | A031 | Dragon Ball                                                                                                         | 龙珠                                     | 153集 | 计划 |
+| A032 | Log Horizon                                                                                                         | 记录的地平线                             | 50集 | 计划 |
+| A033 | Jojo's Bizarre Adventure                                                                                            | JOJO的奇妙冒险                           | 113集 | 计划 |
+| A034 | Naruto                                                                                                              | 火影忍者                                 | 220集 | 计划 |
+| A035 | Steins;Gate                                                                                                         | 命运石之门                               | 50集 | 计划 |
+| A036 | Black Lagoon                                                                                                        | 黑礁                                     | 25集 | 计划 |
+| A037 | Vampire Knight                                                                                                      | 吸血鬼骑士                               | 26集 | 计划 |
+| A038 | Shakugan no Shana                                                                                                   | 灼眼的夏娜                               | 76集 | 计划 |
+| A039 | Dragon Ball: Z                                                                                                      | 龙珠Z                                    | 291集 | 计划 |
+| A040 | Rurouni Kenshin                                                                                                     | 浪客剑心                                 | 94集 | 计划 |
 
 
 
