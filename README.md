@@ -56,13 +56,22 @@ OneDirve：http://pan.edatribe.com
 | A038 | Shakugan no Shana                                                                                                   | 灼眼的夏娜                               | 76集 | 计划 |
 | A039 | Dragon Ball: Z                                                                                                      | 龙珠Z                                    | 291集 | 计划 |
 | A040 | Rurouni Kenshin                                                                                                     | 浪客剑心                                 | 94集 | 计划 |
-
+| A041 | Classroom of the Elite                                                                                              | 实力至上主义的教室                       | 12集 | 计划 |
+| A042 | Absolute Duo                                                                                                        | 绝对双刃                                 | 12集 | 计划 |
+| A043 | A Sister's All You Need                                                                                             | 如果有妹妹就好了                         | 12集 | 计划 |
+| A044 | The Melancholy of Haruhi Suzumiya                                                                                   | 凉宫春日的忧郁                           | 28集 | 计划 |
+| A045 | The Promised Neverland                                                                                              | 约定的梦幻岛                             | 12集 | 计划 |
+| A046 | Sakura Quest                                                                                                        | 樱花任务                                 | 25集 | 计划 |
+| A047 | SSSS.GRIDMAN                                                                                                        | SSSS.古立特                              | 12集 | 计划 |
+| A048 | Kamisama Kiss                                                                                                       | 元气少女缘结神                           | 25集 | 计划 |
+| A049 | Flying Witch                                                                                                        | 飞翔的魔女                               | 12集 | 计划 |
+| A050 | Amagi Brilliant Park                                                                                                | 甘城辉煌乐园救世主                       | 14集 | 计划 |
 
 
 
 ### **剧场版**
 | 序号 | 英文名                                                                         | 中文名       | 上映年份 | 状态 |
-| --- | ------------------------------------------------------------------------------ | ------------ | -------- | ---- |
+| ---- | ------------------------------------------------------------------------------ | ------------ | -------- | ---- |
 | M001 | [Your Name.](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M001]Your_Name) | 你的名字     | 2016     | 完成 |
 | M002 | [No Game No Life: Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M002]No_Game_No_Life_Zero)      | 游戏人生Zero | 2017     | 完成 |
 | M003 | [Sword Art Online: Ordinal Scale](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M003]Sword_Art_Online_Ordinal_Scale)  | 刀剑神域：序列之争 | 2017 | 完成 |
