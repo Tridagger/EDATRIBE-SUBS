@@ -1,0 +1,2249 @@
+1
+00:00:02,169 --> 00:00:04,138
+<font face="Monospace">{\an7}♪</font>
+
+2
+00:00:04,171 --> 00:00:05,606
+<font face="Monospace">{\an7}Asuna: TAKE ME TO KIRITO.</font>
+
+3
+00:00:08,275 --> 00:00:10,210
+<font face="Monospace">{\an7}Higa: WELL, THERE YOU GO.</font>
+
+4
+00:00:10,244 --> 00:00:12,546
+<font face="Monospace">{\an7}I TOLD YOU YOUR BOY
+WAS THE BIGGEST THREAT</font>
+
+5
+00:00:12,579 --> 00:00:14,247
+<font face="Monospace">{\an7}TO THIS PROJECT’S SECURITY.</font>
+
+6
+00:00:14,281 --> 00:00:16,583
+<font face="Monospace">{\an7}\h\h\h\hKikuoka: I KNOW.
+YOU DON’T HAVE TO RUB IT IN.</font>
+
+7
+00:00:16,617 --> 00:00:18,686
+<font face="Monospace">{\an7}Asuna: IS KIRITO
+EVEN SAFE HERE?!</font>
+
+8
+00:00:18,719 --> 00:00:21,255
+<font face="Monospace">{\an7}WERE YOU LYING WHEN YOU SAID
+YOU COULD SAVE HIM?</font>
+
+9
+00:00:21,288 --> 00:00:24,191
+<font face="Monospace">{\an7}IS HE ALIVE?! ANSWER ME!</font>
+
+10
+00:00:24,224 --> 00:00:26,593
+<font face="Monospace">{\an7}( Kikuoka sighs )</font>
+
+11
+00:00:26,627 --> 00:00:29,463
+<font face="Monospace">{\an7}KANEMOTO INJECTED
+A POTENT TOXIN INTO HIM.</font>
+
+12
+00:00:29,496 --> 00:00:31,965
+<font face="Monospace">{\an7}\h\h\h\hIT DAMAGED
+KIRITO’S BRAIN SO MUCH,</font>
+
+13
+00:00:31,999 --> 00:00:34,201
+<font face="Monospace">{\an7}CONVENTIONAL TREATMENT
+CAN’T HEAL HIM.</font>
+
+14
+00:00:34,234 --> 00:00:35,435
+<font face="Monospace">{\an7}( Asuna shudders )</font>
+
+15
+00:00:35,469 --> 00:00:38,339
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hKikuoka: BUT
+UNCONVENTIONAL TREATMENT CAN,</font>
+
+16
+00:00:38,372 --> 00:00:40,975
+<font face="Monospace">{\an7}\h\h\h\hAND THE ONLY PLACE
+WITH THAT TECHNOLOGY IS RATH.</font>
+
+17
+00:00:41,008 --> 00:00:42,243
+<font face="Monospace">{\an7}( Asuna gasps )</font>
+
+18
+00:00:42,276 --> 00:00:43,978
+<font face="Monospace">{\an7}Kikuoka: I’M SURE
+HE TOLD YOU ABOUT IT,</font>
+
+19
+00:00:44,011 --> 00:00:47,381
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hTHE S.T.L.,
+SHORT FOR "SOUL TRANSLATOR."</font>
+
+20
+00:00:47,414 --> 00:00:51,351
+<font face="Monospace">{\an7}\h\h\h\hIF WE USE THE S.T.L.
+TO STIMULATE HIS FLUCTLIGHT,</font>
+
+21
+00:00:51,385 --> 00:00:53,087
+<font face="Monospace">{\an7}WE CAN REGENERATE
+A BRAND-NEW,</font>
+
+22
+00:00:53,120 --> 00:00:55,189
+<font face="Monospace">{\an7}PERFECTLY HEALTHY
+NEURAL NETWORK,</font>
+
+23
+00:00:55,222 --> 00:00:56,523
+<font face="Monospace">{\an7}BUT THAT TAKES TIME.</font>
+
+24
+00:00:56,557 --> 00:00:59,593
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hRIGHT NOW,
+HE’S IN A FULL-SPEC S.T.L.,</font>
+
+25
+00:00:59,626 --> 00:01:01,695
+<font face="Monospace">{\an7}WHICH CAN ONLY BE FOUND HERE.</font>
+
+26
+00:01:01,728 --> 00:01:03,296
+<font face="Monospace">{\an7}THE TREATMENT HE’S GETTING</font>
+
+27
+00:01:03,330 --> 00:01:06,133
+<font face="Monospace">{\an7}\h\h\h\hSURPASSES WHAT
+ANY HOSPITAL CAN OFFER.</font>
+
+28
+00:01:06,166 --> 00:01:09,069
+<font face="Monospace">{\an7}\h\h\h\hHE EVEN HAS
+HIS OWN FULL-TIME NURSE.</font>
+
+29
+00:01:09,102 --> 00:01:12,205
+<font face="Monospace">{\an7}\h\h\h\hAsuna: OKAY, THEN.
+I’LL TAKE YOUR WORD FOR IT.</font>
+
+30
+00:01:13,307 --> 00:01:14,775
+<font face="Monospace">{\an7}Rinko: ALL RIGHT, KIKUOKA.</font>
+
+31
+00:01:14,808 --> 00:01:16,543
+<font face="Monospace">{\an7}\h\h\h\hSINCE YOU’RE
+IN THE MOOD TO TALK,</font>
+
+32
+00:01:16,577 --> 00:01:19,146
+<font face="Monospace">{\an7}MIGHT AS WELL TELL US
+EVERYTHING FROM THE TOP.</font>
+
+33
+00:01:19,179 --> 00:01:22,149
+<font face="Monospace">{\an7}\h\h\h\hFIRST, WHY IS
+AN S.D.F. OFFICIAL LIKE YOU</font>
+
+34
+00:01:22,182 --> 00:01:23,717
+<font face="Monospace">{\an7}USING THE MINISTRY AS A FRONT?</font>
+
+35
+00:01:23,750 --> 00:01:26,319
+<font face="Monospace">{\an7}NEXT, WHAT’S THE POINT OF THIS?</font>
+
+36
+00:01:26,353 --> 00:01:29,423
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hAND LAST,
+WHY KIRIGAYA, SPECIFICALLY?</font>
+
+37
+00:01:29,456 --> 00:01:32,492
+<font face="Monospace">{\an7}Kikuoka: IF YOU WANT ANSWERS,
+YOU’LL HAVE TO SIGN ON.</font>
+
+38
+00:01:32,526 --> 00:01:33,761
+<font face="Monospace">{\an7}Rinko: HOW ’BOUT
+YOU START TALKING?</font>
+
+39
+00:01:35,395 --> 00:01:37,230
+<font face="Monospace">{\an7}Kikuoka: ALL RIGHT, THEN.</font>
+
+40
+00:01:37,264 --> 00:01:40,601
+<font face="Monospace">{\an7}I ASSUME YOU’RE BOTH FAMILIAR
+WITH THE CONCEPT OF THE S.T.L.?</font>
+
+41
+00:01:40,634 --> 00:01:42,736
+<font face="Monospace">{\an7}Asuna: IT READS SOULS,</font>
+
+42
+00:01:42,769 --> 00:01:44,738
+<font face="Monospace">{\an7}OR FLUCTLIGHTS,
+AS YOU CALL THEM,</font>
+
+43
+00:01:44,771 --> 00:01:46,406
+<font face="Monospace">{\an7}AND ALLOWS THE USER TO DIVE</font>
+
+44
+00:01:46,440 --> 00:01:48,575
+<font face="Monospace">{\an7}INTO A VIRTUAL WORLD
+THAT’S INCREDIBLY LIFELIKE.</font>
+
+45
+00:01:48,609 --> 00:01:51,545
+<font face="Monospace">{\an7}Kikuoka: THAT’S CORRECT.
+\h\h\h\hAND DO YOU KNOW</font>
+
+46
+00:01:51,578 --> 00:01:54,247
+<font face="Monospace">{\an7}WHAT THE OBJECTIVE
+OF THIS PROJECT IS?</font>
+
+47
+00:01:54,281 --> 00:01:55,315
+<font face="Monospace">{\an7}Asuna: NO, I DON’T.</font>
+
+48
+00:01:57,251 --> 00:01:58,652
+<font face="Monospace">{\an7}Kikuoka: TO CREATE A BOTTOM-UP,</font>
+
+49
+00:01:58,685 --> 00:02:01,755
+<font face="Monospace">{\an7}\h\h\h\hMULTIPURPOSE
+ARTIFICIAL INTELLIGENCE.</font>
+
+50
+00:02:01,788 --> 00:02:03,156
+<font face="Monospace">{\an7}♪</font>
+
+51
+00:02:03,190 --> 00:02:05,592
+<font face="Monospace">{\an7}♪ SHINY SWORD, MY DIAMOND </font>
+
+52
+00:02:05,626 --> 00:02:07,528
+<font face="Monospace">{\an7}( singing in Japanese )</font>
+
+53
+00:02:18,438 --> 00:02:19,406
+<font face="Monospace">{\an7}♪ IT’S TIME </font>
+
+54
+00:02:19,439 --> 00:02:21,508
+<font face="Monospace">{\an7}( singing in Japanese )</font>
+
+55
+00:02:37,724 --> 00:02:41,695
+<font face="Monospace">{\an7}♪</font>
+
+56
+00:02:41,728 --> 00:02:45,465
+<font face="Monospace">{\an7}Asuna: A BOTTOM-UP,
+MULTIPURPOSE A.I.?</font>
+
+57
+00:02:45,499 --> 00:02:46,767
+<font face="Monospace">{\an7}Kikuoka: THAT’S RIGHT.</font>
+
+58
+00:02:46,800 --> 00:02:49,303
+<font face="Monospace">{\an7}THERE ARE TWO APPROACHES
+TO DEVELOPING AN A.I.</font>
+
+59
+00:02:49,336 --> 00:02:52,206
+<font face="Monospace">{\an7}THE FIRST IS CALLED TOP-DOWN
+ARTIFICIAL INTELLIGENCE,</font>
+
+60
+00:02:52,239 --> 00:02:54,808
+<font face="Monospace">{\an7}WHERE THE A.I. IS PROGRAMMED
+WITH EXPERIENCE AND KNOWLEDGE</font>
+
+61
+00:02:54,842 --> 00:02:56,377
+<font face="Monospace">{\an7}SO THAT IT LEARNS ENOUGH</font>
+
+62
+00:02:56,410 --> 00:02:58,479
+<font face="Monospace">{\an7}TO APPROACH SOMETHING
+CLOSE TO TRUE INTELLIGENCE.</font>
+
+63
+00:02:58,512 --> 00:03:00,381
+<font face="Monospace">{\an7}Higa: THAT’S PRETTY MUCH
+\h\h\h\hTHE GIST OF IT.</font>
+
+64
+00:03:00,414 --> 00:03:02,182
+<font face="Monospace">{\an7}\h\h\h\hEVERYTHING
+THAT’S AN A.I. RIGHT NOW</font>
+
+65
+00:03:02,216 --> 00:03:03,718
+<font face="Monospace">{\an7}IS USING THAT TOP-DOWN APPROACH.</font>
+
+66
+00:03:03,750 --> 00:03:06,853
+<font face="Monospace">{\an7}\h\h\h\hHECK, DR. SHIGEMURA WAS
+WORKIN’ WITH US HERE FOR A BIT,</font>
+
+67
+00:03:06,887 --> 00:03:09,323
+<font face="Monospace">{\an7}AND EVEN HIS RESEARCH
+FOCUSED ON THAT.</font>
+
+68
+00:03:09,356 --> 00:03:11,258
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hKikuoka:
+A TOP-DOWN A.I., HOWEVER,</font>
+
+69
+00:03:11,291 --> 00:03:12,559
+<font face="Monospace">{\an7}CAN’T REACT APPROPRIATELY</font>
+
+70
+00:03:12,593 --> 00:03:14,562
+<font face="Monospace">{\an7}\h\h\h\hTO THINGS
+IT HASN’T LEARNED ABOUT.</font>
+
+71
+00:03:14,595 --> 00:03:16,130
+<font face="Monospace">{\an7}AT THIS POINT IN TIME,</font>
+
+72
+00:03:16,163 --> 00:03:18,666
+<font face="Monospace">{\an7}NONE HAVE EVOLVED ENOUGH
+TO HAVE TRUE INTELLIGENCE.</font>
+
+73
+00:03:20,400 --> 00:03:22,335
+<font face="Monospace">{\an7}THE SECOND APPROACH
+TO A.I. DEVELOPMENT</font>
+
+74
+00:03:22,369 --> 00:03:23,704
+<font face="Monospace">{\an7}IS CALLED BOTTOM-UP.</font>
+
+75
+00:03:23,737 --> 00:03:25,806
+<font face="Monospace">{\an7}THE HUMAN BRAIN IS AN ORGAN</font>
+
+76
+00:03:25,839 --> 00:03:27,908
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hCOMPRISED
+OF ONE HUNDRED BILLION CELLS</font>
+
+77
+00:03:27,941 --> 00:03:29,910
+<font face="Monospace">{\an7}CONNECTED IN INTRICATE WAYS.</font>
+
+78
+00:03:29,943 --> 00:03:31,511
+<font face="Monospace">{\an7}THE IDEA OF BOTTOM-UP</font>
+
+79
+00:03:31,545 --> 00:03:33,614
+<font face="Monospace">{\an7}IS RECREATING THE BRAIN
+\h\h\h\hELECTRONICALLY</font>
+
+80
+00:03:33,647 --> 00:03:35,682
+<font face="Monospace">{\an7}\h\h\h\hAND GENERATING
+TRUE INTELLIGENCE IN IT.</font>
+
+81
+00:03:35,716 --> 00:03:37,651
+<font face="Monospace">{\an7}\h\h\h\hAsuna: BUT THAT
+WOULD BE IMPOSSIBLE TO DO.</font>
+
+82
+00:03:37,684 --> 00:03:40,453
+<font face="Monospace">{\an7}Kikuoka: YOU’RE RIGHT,
+AND, UNTIL NOW, IT WAS.</font>
+
+83
+00:03:40,487 --> 00:03:44,224
+<font face="Monospace">{\an7}BUT WITH THE SOUL TRANSLATOR,
+WE CAN SCAN A HUMAN SOUL,</font>
+
+84
+00:03:44,258 --> 00:03:46,927
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hOR SPECIFICALLY
+THE QUANTUM FIELD IN BRAIN CELLS</font>
+
+85
+00:03:46,960 --> 00:03:48,595
+<font face="Monospace">{\an7}WE CALL THE FLUCTLIGHT.</font>
+
+86
+00:03:48,629 --> 00:03:50,498
+<font face="Monospace">{\an7}Higa: IF YOU’RE WONDERING
+WHERE WE’RE GONNA PUT</font>
+
+87
+00:03:50,531 --> 00:03:53,601
+<font face="Monospace">{\an7}ALL THE DATA OF A HUMAN BRAIN,
+STOP WONDERING.</font>
+
+88
+00:03:53,634 --> 00:03:55,769
+<font face="Monospace">{\an7}WE MADE THE LIGHT
+QUANTUM GATE CRYSTAL,</font>
+
+89
+00:03:55,802 --> 00:03:58,738
+<font face="Monospace">{\an7}OR LIGHTCUBE, TO STORE
+ALL THAT GOOD STUFF ON.</font>
+
+90
+00:03:58,772 --> 00:04:00,841
+<font face="Monospace">{\an7}Rinko: THEORETICALLY,
+YOU COULD SAVE</font>
+
+91
+00:04:00,874 --> 00:04:02,909
+<font face="Monospace">{\an7}A ONE-TO-ONE COPY
+OF A FLUCTLIGHT.</font>
+
+92
+00:04:02,943 --> 00:04:04,678
+<font face="Monospace">{\an7}Kikuoka: THAT’S CORRECT,</font>
+
+93
+00:04:04,711 --> 00:04:06,880
+<font face="Monospace">{\an7}ALTHOUGH IT’S NOT A THEORY.</font>
+
+94
+00:04:06,914 --> 00:04:09,517
+<font face="Monospace">{\an7}WE’VE ALREADY COPIED
+A HUMAN SOUL.</font>
+
+95
+00:04:09,550 --> 00:04:10,785
+<font face="Monospace">{\an7}( both gasp )</font>
+
+96
+00:04:10,817 --> 00:04:12,686
+<font face="Monospace">{\an7}Rinko: BUT THEN,
+WHY’D YOU BOTHER</font>
+
+97
+00:04:12,719 --> 00:04:14,387
+<font face="Monospace">{\an7}ASKING ME TO COME HELP YOU?</font>
+
+98
+00:04:14,421 --> 00:04:18,258
+<font face="Monospace">{\an7}Kikuoka: BECAUSE, LIKE IDIOTS,
+WE MISSED SOMETHING.</font>
+
+99
+00:04:18,292 --> 00:04:20,194
+<font face="Monospace">{\an7}THE HUMAN SOUL IS COMPLEX.</font>
+
+100
+00:04:20,227 --> 00:04:21,895
+<font face="Monospace">{\an7}SURE, WE CAN COPY IT,</font>
+
+101
+00:04:21,929 --> 00:04:25,366
+<font face="Monospace">{\an7}BUT THERE’S A WIDE GAP
+BETWEEN IT AND A TRUE A.I.</font>
+
+102
+00:04:25,399 --> 00:04:26,533
+<font face="Monospace">{\an7}- HIGA.
+- Higa: EH?</font>
+
+103
+00:04:26,567 --> 00:04:28,669
+<font face="Monospace">{\an7}Kikuoka: GO ON.</font>
+
+104
+00:04:28,702 --> 00:04:30,437
+<font face="Monospace">{\an7}SHOW OUR GUESTS A DEMONSTRATION.</font>
+
+105
+00:04:30,470 --> 00:04:32,439
+<font face="Monospace">{\an7}Higa: DAMN. YOU’RE SADISTIC.</font>
+
+106
+00:04:32,472 --> 00:04:34,541
+<font face="Monospace">{\an7}( sighs )</font>
+
+107
+00:04:39,313 --> 00:04:40,581
+<font face="Monospace">{\an7}Male: IS THE SAMPLING DONE YET?</font>
+
+108
+00:04:40,614 --> 00:04:43,851
+<font face="Monospace">{\an7}Higa: YUP. NO PROBLEMS.
+\h\h\h\hLOOKING GOOD.</font>
+
+109
+00:04:43,884 --> 00:04:48,789
+<font face="Monospace">{\an7}Male: SWEET! SO WHY’S IT DARK,
+AND HOW COME I CAN’T MOVE?</font>
+
+110
+00:04:48,822 --> 00:04:50,357
+<font face="Monospace">{\an7}OH, I KNOW WHY.</font>
+
+111
+00:04:50,390 --> 00:04:52,425
+<font face="Monospace">{\an7}\h\h\h\hLET ME OUT.
+THE S.T.L.’s GLITCHIN’.</font>
+
+112
+00:04:52,459 --> 00:04:54,995
+<font face="Monospace">{\an7}Higa: SORRY, BUDDY.
+I CAN’T LOG YOU OUT.</font>
+
+113
+00:04:55,028 --> 00:04:56,696
+<font face="Monospace">{\an7}Male: DUDE, WHAT THE HELL?</font>
+
+114
+00:04:56,730 --> 00:04:58,232
+<font face="Monospace">{\an7}LET ME OUT OF HERE!</font>
+
+115
+00:04:58,265 --> 00:05:00,501
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hWHO ARE YOU?!
+I DON’T RECOGNIZE YOUR VOICE!</font>
+
+116
+00:05:00,534 --> 00:05:03,470
+<font face="Monospace">{\an7}Higa: TAKERU HIGA.
+YOU KNOW THAT.</font>
+
+117
+00:05:05,506 --> 00:05:08,309
+<font face="Monospace">{\an7}Male: WHAT?! NO WAY! I’M HIGA!</font>
+
+118
+00:05:08,342 --> 00:05:09,510
+<font face="Monospace">{\an7}LET ME OUT, AND YOU’LL SEE!</font>
+
+119
+00:05:09,543 --> 00:05:10,778
+<font face="Monospace">{\an7}Higa: RELAX.</font>
+
+120
+00:05:10,811 --> 00:05:13,681
+<font face="Monospace">{\an7}YOU’RE TAKERU HIGA, THE COPY.</font>
+
+121
+00:05:13,714 --> 00:05:15,416
+<font face="Monospace">{\an7}I KNOW YOU KNOW
+WHAT’S GOING ON,</font>
+
+122
+00:05:15,449 --> 00:05:16,684
+<font face="Monospace">{\an7}SO JUST ACCEPT
+THE SITUATION AN--</font>
+
+123
+00:05:16,717 --> 00:05:19,253
+<font face="Monospace">{\an7}Higa copy: SCREW YOU! I’M ME!</font>
+
+124
+00:05:19,286 --> 00:05:21,655
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hIF I’M A COPY,
+THEN I’D KNOW IT, GOD DAMN IT!</font>
+
+125
+00:05:21,688 --> 00:05:23,557
+<font face="Monospace">{\an7}COME ON! PLEASE!</font>
+
+126
+00:05:23,590 --> 00:05:26,493
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hLET ME OUT,
+YOU SON OF A BITCH, RIGHT NOW!</font>
+
+127
+00:05:26,527 --> 00:05:27,995
+<font face="Monospace">{\an7}Kikuoka: WE TALKED ABOUT THIS.</font>
+
+128
+00:05:28,028 --> 00:05:30,430
+<font face="Monospace">{\an7}\h\h\h\hYOU NEED TO CALM DOWN.
+IF YOU CAN’T THINK RATIONALLY,</font>
+
+129
+00:05:30,464 --> 00:05:31,966
+<font face="Monospace">{\an7}YOUR FLUCTLIGHT WON’T BE ABLE
+TO TAKE THE STRAIN.</font>
+
+130
+00:05:31,999 --> 00:05:33,534
+<font face="Monospace">{\an7}Higa copy: I AM RATIONAL!</font>
+
+131
+00:05:33,567 --> 00:05:36,670
+<font face="Monospace">{\an7}OKAY, THEN! LET’S SEE
+WHO’S FASTER AT PI,</font>
+
+132
+00:05:36,703 --> 00:05:37,804
+<font face="Monospace">{\an7}ME OR THAT FAKER!</font>
+
+133
+00:05:37,838 --> 00:05:40,841
+<font face="Monospace">{\an7}3.141592653589793...</font>
+
+134
+00:05:40,874 --> 00:05:43,710
+<font face="Monospace">{\an7}( accelerated speech, static )</font>
+
+135
+00:05:47,781 --> 00:05:49,583
+<font face="Monospace">{\an7}( Higa sighs )</font>
+
+136
+00:05:49,616 --> 00:05:52,986
+<font face="Monospace">{\an7}\h\h\h\hFULL COLLAPSE,
+ONE MINUTE, EIGHT SECONDS.</font>
+
+137
+00:05:53,020 --> 00:05:54,688
+<font face="Monospace">{\an7}( Asuna gags )</font>
+
+138
+00:05:54,721 --> 00:05:56,456
+<font face="Monospace">{\an7}Rinko: ALL RIGHT,
+THAT WAS BEYOND TWISTED!</font>
+
+139
+00:05:56,490 --> 00:05:58,392
+<font face="Monospace">{\an7}Kikuoka: IT IS DISTURBING.</font>
+
+140
+00:05:58,425 --> 00:06:00,494
+<font face="Monospace">{\an7}STILL, IT’S THE BEST WAY
+\h\h\h\hTO EXPLAIN</font>
+
+141
+00:06:00,527 --> 00:06:02,863
+<font face="Monospace">{\an7}WHAT WE’VE BEEN ABLE
+TO ACCOMPLISH UP TO NOW.</font>
+
+142
+00:06:02,896 --> 00:06:04,431
+<font face="Monospace">{\an7}I’M SORRY YOU HAD TO SEE IT.</font>
+
+143
+00:06:04,464 --> 00:06:07,600
+<font face="Monospace">{\an7}WE COPIED OVER A DOZEN
+FLUCTLIGHTS, INCLUDING MINE,</font>
+
+144
+00:06:07,634 --> 00:06:09,703
+<font face="Monospace">{\an7}AND SUBMITTED THEM
+TO THE SAME TEST.</font>
+
+145
+00:06:09,736 --> 00:06:11,538
+<font face="Monospace">{\an7}\h\h\h\hTHE RESULTS
+WERE ALWAYS THE SAME.</font>
+
+146
+00:06:11,572 --> 00:06:14,308
+<font face="Monospace">{\an7}THEIR LOGIC SYSTEMS WENT
+HAYWIRE, AND THEY COLLAPSED.</font>
+
+147
+00:06:14,341 --> 00:06:16,844
+<font face="Monospace">{\an7}SINCE MATURE FLUCTLIGHTS
+\h\h\h\hDON’T WORK,</font>
+
+148
+00:06:16,877 --> 00:06:18,045
+<font face="Monospace">{\an7}WHAT WOULD YOU TRY NEXT?</font>
+
+149
+00:06:18,078 --> 00:06:20,647
+<font face="Monospace">{\an7}Rinko: MAYBE WIPE
+THEIR MEMORIES.</font>
+
+150
+00:06:20,681 --> 00:06:23,017
+<font face="Monospace">{\an7}OR RAISE A SOUL FROM SCRATCH.</font>
+
+151
+00:06:23,050 --> 00:06:24,018
+<font face="Monospace">{\an7}Asuna: YOU DIDN’T.</font>
+
+152
+00:06:24,051 --> 00:06:25,819
+<font face="Monospace">{\an7}Kikuoka: YES, WE DID.</font>
+
+153
+00:06:25,853 --> 00:06:29,590
+<font face="Monospace">{\an7}WE PUT NEWBORNS INTO THE S.T.L.
+AND COPIED THEIR SOULS.</font>
+
+154
+00:06:29,623 --> 00:06:30,824
+<font face="Monospace">{\an7}( both gasp )</font>
+
+155
+00:06:30,858 --> 00:06:32,560
+<font face="Monospace">{\an7}Rinko: THESE COPIES
+ARE ESSENTIALLY HUMAN,</font>
+
+156
+00:06:32,593 --> 00:06:35,096
+<font face="Monospace">{\an7}SO HOW WOULD YOU RAISE THEM?
+NOT IN A VOID.</font>
+
+157
+00:06:35,128 --> 00:06:37,564
+<font face="Monospace">{\an7}YOU’D NEED AN EXACT COPY
+OF THE REAL WORLD.</font>
+
+158
+00:06:37,598 --> 00:06:40,034
+<font face="Monospace">{\an7}Kikuoka: THAT’S IMPOSSIBLE.
+WE CAN’T DO THAT YET,</font>
+
+159
+00:06:40,067 --> 00:06:43,037
+<font face="Monospace">{\an7}SO WE WENT LOOKING
+FOR AN ALTERNATIVE,</font>
+
+160
+00:06:43,070 --> 00:06:45,406
+<font face="Monospace">{\an7}AND WE FOUND IT ONLINE.</font>
+
+161
+00:06:45,439 --> 00:06:47,775
+<font face="Monospace">{\an7}Asuna: V.R.M.M.O. WORLDS.</font>
+
+162
+00:06:47,808 --> 00:06:48,976
+<font face="Monospace">{\an7}Higa: DANG, YOU’RE SHARP.</font>
+
+163
+00:06:49,009 --> 00:06:51,745
+<font face="Monospace">{\an7}USING THE SEED,
+WE MADE OUR OWN WORLD,</font>
+
+164
+00:06:51,778 --> 00:06:54,114
+<font face="Monospace">{\an7}WITH VILLAGES AND TERRAIN,
+AND CONVERTED IT</font>
+
+165
+00:06:54,147 --> 00:06:56,750
+<font face="Monospace">{\an7}TO MNEMONIC VISUALS
+FOR THE S.T.L.</font>
+
+166
+00:06:56,783 --> 00:06:58,485
+<font face="Monospace">{\an7}Kikuoka: WE PLACED
+FOUR OF OUR STAFF</font>
+
+167
+00:06:58,519 --> 00:07:00,121
+<font face="Monospace">{\an7}IN THE FIRST VILLAGE WE CREATED.</font>
+
+168
+00:07:00,153 --> 00:07:02,889
+<font face="Monospace">{\an7}THEY ACTED AS PARENTS
+TO 16 A.I. INFANTS,</font>
+
+169
+00:07:02,923 --> 00:07:04,425
+<font face="Monospace">{\an7}OR SOUL ARCHETYPES,</font>
+
+170
+00:07:04,458 --> 00:07:06,327
+<font face="Monospace">{\an7}AND RAISED THEM
+’TIL THEY WERE 18.</font>
+
+171
+00:07:07,661 --> 00:07:10,430
+<font face="Monospace">{\an7}WE MONITORED THE YOUNGSTERS
+AS THEY GREW UP.</font>
+
+172
+00:07:10,464 --> 00:07:11,765
+<font face="Monospace">{\an7}OH, BY THE WAY,</font>
+
+173
+00:07:11,798 --> 00:07:14,434
+<font face="Monospace">{\an7}OFFICIALLY, WE CALL THEM
+ARTIFICIAL FLUCTLIGHTS.</font>
+
+174
+00:07:14,468 --> 00:07:16,603
+<font face="Monospace">{\an7}ANYWAY, WE WERE
+MORE THAN SATISFIED</font>
+
+175
+00:07:16,637 --> 00:07:18,072
+<font face="Monospace">{\an7}WITH HOW THEY TURNED OUT.</font>
+
+176
+00:07:18,105 --> 00:07:20,774
+<font face="Monospace">{\an7}\h\h\h\hTHEY WERE SHARP,
+OBEDIENT, AND UPSTANDING.</font>
+
+177
+00:07:20,807 --> 00:07:24,611
+<font face="Monospace">{\an7}WHEN THEY EVENTUALLY PAIRED UP,
+WE MADE THEM PARENTS</font>
+
+178
+00:07:24,645 --> 00:07:27,748
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hAND GAVE THEM
+NEW SOUL ARCHETYPES TO RAISE.</font>
+
+179
+00:07:27,781 --> 00:07:28,849
+<font face="Monospace">{\an7}OUR STAFF WAS OUT BY THEN,</font>
+
+180
+00:07:28,882 --> 00:07:31,418
+<font face="Monospace">{\an7}SO WE ACCELERATED TIME
+\h\h\h\hBY 5,000,</font>
+
+181
+00:07:31,451 --> 00:07:34,387
+<font face="Monospace">{\an7}AND SOON WE HAD
+MULTIPLE GENERATIONS.</font>
+
+182
+00:07:34,421 --> 00:07:36,823
+<font face="Monospace">{\an7}AFTER THREE WEEKS
+HAD PASSED IN OUR WORLD,</font>
+
+183
+00:07:36,857 --> 00:07:38,992
+<font face="Monospace">{\an7}300 HAD PASSED IN THEIRS.</font>
+
+184
+00:07:39,026 --> 00:07:41,595
+<font face="Monospace">{\an7}\h\h\h\hNOW THEY HAVE
+A FULLY FUNCTIONING SOCIETY</font>
+
+185
+00:07:41,628 --> 00:07:43,763
+<font face="Monospace">{\an7}WITH A POPULATION OF 80,000.</font>
+
+186
+00:07:43,797 --> 00:07:47,401
+<font face="Monospace">{\an7}Rinko: YOU SIMULATED
+AN ENTIRE CIVILIZATION.</font>
+
+187
+00:07:47,434 --> 00:07:48,602
+<font face="Monospace">{\an7}Kikuoka: EXACTLY.</font>
+
+188
+00:07:48,635 --> 00:07:51,671
+<font face="Monospace">{\an7}SO FAR, 480 YEARS
+HAVE PASSED THERE.</font>
+
+189
+00:07:51,705 --> 00:07:53,006
+<font face="Monospace">{\an7}THE CAPITAL, CENTORIA,</font>
+
+190
+00:07:53,040 --> 00:07:55,476
+<font face="Monospace">{\an7}HAS 20,000 CITIZENS
+LIVING IN IT.</font>
+
+191
+00:07:55,509 --> 00:07:57,745
+<font face="Monospace">{\an7}Higa: AT THIS POINT,
+ALL THE A.I. FLUCTLIGHTS</font>
+
+192
+00:07:57,778 --> 00:07:59,747
+<font face="Monospace">{\an7}\h\h\h\hHAVE MATURED
+INTO THE BOTTOM-UP A.I.s</font>
+
+193
+00:07:59,780 --> 00:08:00,881
+<font face="Monospace">{\an7}WE WERE SHOOTING FOR.</font>
+
+194
+00:08:00,914 --> 00:08:03,150
+<font face="Monospace">{\an7}WE WERE ALL READY
+TO HIT THE NEXT PHASE</font>
+
+195
+00:08:03,183 --> 00:08:05,819
+<font face="Monospace">{\an7}AND WERE STOKED ABOUT IT,
+\h\h\h\hBUT THEN...</font>
+
+196
+00:08:05,853 --> 00:08:07,888
+<font face="Monospace">{\an7}Kikuoka: WE NOTICED
+A MAJOR ISSUE</font>
+
+197
+00:08:07,921 --> 00:08:09,156
+<font face="Monospace">{\an7}WHICH STOOD IN OUR WAY.</font>
+
+198
+00:08:09,189 --> 00:08:10,924
+<font face="Monospace">{\an7}Rinko: WHAT ISSUE?</font>
+
+199
+00:08:10,958 --> 00:08:12,126
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hKikuoka:
+THE GOVERNING BODY THERE,</font>
+
+200
+00:08:12,159 --> 00:08:13,694
+<font face="Monospace">{\an7}CALLED THE AXIOM CHURCH,</font>
+
+201
+00:08:13,727 --> 00:08:16,496
+<font face="Monospace">{\an7}CREATED A SET OF LAWS
+CALLED THE TABOO INDEX.</font>
+
+202
+00:08:16,530 --> 00:08:18,065
+<font face="Monospace">{\an7}Asuna: THE WHAT INDEX?</font>
+
+203
+00:08:18,098 --> 00:08:20,834
+<font face="Monospace">{\an7}Kikuoka: THE TABOO INDEX.
+\h\h\h\hIT CONTAINS LAWS</font>
+
+204
+00:08:20,868 --> 00:08:23,471
+<font face="Monospace">{\an7}LIKE ONE FORBIDDING MURDER,
+JUST LIKE WE HAVE.</font>
+
+205
+00:08:23,504 --> 00:08:25,706
+<font face="Monospace">{\an7}\h\h\h\hAND, IF YOU’VE BEEN
+WATCHING THE NEWS RECENTLY,</font>
+
+206
+00:08:25,739 --> 00:08:28,809
+<font face="Monospace">{\an7}YOU CAN SEE HOW DIFFICULT
+THAT ONE IS FOR HUMANS TO OBEY,</font>
+
+207
+00:08:28,842 --> 00:08:31,645
+<font face="Monospace">{\an7}BUT THE FLUCTLIGHTS OBEY
+ALL THEIR LAWS TO THE LETTER.</font>
+
+208
+00:08:31,678 --> 00:08:34,214
+<font face="Monospace">{\an7}THEY’RE OBSESSIVE ABOUT IT.</font>
+
+209
+00:08:34,248 --> 00:08:38,119
+<font face="Monospace">{\an7}THIS TOWN IS BEAUTIFUL,
+BUT TOO PERFECT.</font>
+
+210
+00:08:38,151 --> 00:08:39,686
+<font face="Monospace">{\an7}THERE’S NO LITTER
+ON THE STREETS</font>
+
+211
+00:08:39,720 --> 00:08:40,988
+<font face="Monospace">{\an7}AND NO CRIME TO SPEAK OF.</font>
+
+212
+00:08:41,021 --> 00:08:42,990
+<font face="Monospace">{\an7}NEEDLESS TO SAY,
+THERE’S NOT BEEN</font>
+
+213
+00:08:43,023 --> 00:08:45,559
+<font face="Monospace">{\an7}\h\h\h\hA SINGLE MURDER
+COMMITTED HERE, EITHER.</font>
+
+214
+00:08:45,592 --> 00:08:49,463
+<font face="Monospace">{\an7}Rinko: AND THAT WOULD BE
+A GOOD THING, WOULDN’T IT?</font>
+
+215
+00:08:49,496 --> 00:08:52,599
+<font face="Monospace">{\an7}Asuna: IT WOULDN’T,
+NOT FOR HIM, ANYWAY.</font>
+
+216
+00:08:52,633 --> 00:08:54,969
+<font face="Monospace">{\an7}HE WANTS A.I.s THAT CAN KILL.</font>
+
+217
+00:08:55,002 --> 00:08:56,537
+<font face="Monospace">{\an7}( Rinko gasps )</font>
+
+218
+00:08:56,570 --> 00:08:59,139
+<font face="Monospace">{\an7}Asuna: KIRITO AND I WERE WRONG.
+WE THOUGHT WE KNEW</font>
+
+219
+00:08:59,173 --> 00:09:02,643
+<font face="Monospace">{\an7}WHY YOU WERE INTERESTED
+IN V.R.M.M.O.s, FOR TRAINING.</font>
+
+220
+00:09:02,676 --> 00:09:04,578
+<font face="Monospace">{\an7}\h\h\h\hWE FIGURED
+YOU’D USE THE TECHNOLOGY</font>
+
+221
+00:09:04,611 --> 00:09:06,713
+<font face="Monospace">{\an7}TO TRAIN SOLDIERS AND POLICE.</font>
+
+222
+00:09:06,747 --> 00:09:09,650
+<font face="Monospace">{\an7}BUT FOR AN OFFICER OF THE S.D.F.</font>
+
+223
+00:09:09,683 --> 00:09:11,818
+<font face="Monospace">{\an7}\h\h\h\hTO ATTEMPT
+SOMETHING ON THIS SCALE,</font>
+
+224
+00:09:11,852 --> 00:09:13,754
+<font face="Monospace">{\an7}THERE HAS TO BE MORE AT STAKE,</font>
+
+225
+00:09:13,787 --> 00:09:15,589
+<font face="Monospace">{\an7}AND THERE IS.</font>
+
+226
+00:09:15,622 --> 00:09:19,025
+<font face="Monospace">{\an7}THIS PROJECT IS ABOUT
+CREATING A.I. FOR WARFARE,</font>
+
+227
+00:09:19,059 --> 00:09:20,127
+<font face="Monospace">{\an7}ISN’T IT?</font>
+
+228
+00:09:21,628 --> 00:09:24,664
+<font face="Monospace">{\an7}Rinko: IS THAT TRUE, KIKUOKA?</font>
+
+229
+00:09:26,300 --> 00:09:27,902
+<font face="Monospace">{\an7}Kikuoka: FIVE YEARS AGO,</font>
+
+230
+00:09:27,935 --> 00:09:31,872
+<font face="Monospace">{\an7}\h\h\h\hWHEN THE NERVEGEAR WAS
+FIRST ANNOUNCED, I HAD AN IDEA.</font>
+
+231
+00:09:31,905 --> 00:09:34,875
+<font face="Monospace">{\an7}\h\h\h\hALTHOUGH IT WAS MEANT
+FOR GAMING, THIS NEW TECHNOLOGY</font>
+
+232
+00:09:34,908 --> 00:09:38,044
+<font face="Monospace">{\an7}\h\h\h\hHAD THE POTENTIAL
+TO CHANGE HOW WARS WERE FOUGHT.</font>
+
+233
+00:09:38,078 --> 00:09:40,747
+<font face="Monospace">{\an7}WHEN THE "S.A.O."
+INCIDENT HAPPENED,</font>
+
+234
+00:09:40,781 --> 00:09:43,083
+<font face="Monospace">{\an7}I ASKED TO BE TRANSFERRED
+\h\h\h\hTO THE MINISTRY,</font>
+
+235
+00:09:43,116 --> 00:09:45,251
+<font face="Monospace">{\an7}\h\h\h\hTHEN JOINED
+THE TASK FORCE THERE.</font>
+
+236
+00:09:45,285 --> 00:09:49,856
+<font face="Monospace">{\an7}THAT WAS ALL SO I COULD GET
+THIS PROJECT OFF THE GROUND,</font>
+
+237
+00:09:49,890 --> 00:09:53,627
+<font face="Monospace">{\an7}AND FIVE YEARS LATER,
+\h\h\h\hHERE WE ARE.</font>
+
+238
+00:09:53,660 --> 00:09:54,961
+<font face="Monospace">{\an7}Rinko: THAT’S HIS REASON,</font>
+
+239
+00:09:54,995 --> 00:09:57,531
+<font face="Monospace">{\an7}BUT WHY DID YOU DECIDE
+TO TAKE PART IN THIS?</font>
+
+240
+00:09:57,564 --> 00:10:00,200
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hHiga: OH. UM,
+THAT’S A WHOLE ’NOTHER STORY.</font>
+
+241
+00:10:00,234 --> 00:10:03,170
+<font face="Monospace">{\an7}FOR ME, IT’S PERSONAL.
+WHEN I WAS IN COLLEGE,</font>
+
+242
+00:10:03,203 --> 00:10:05,706
+<font face="Monospace">{\an7}I HAD A BUD IN KOREA
+WHO WAS IN THE ARMY THERE.</font>
+
+243
+00:10:05,739 --> 00:10:08,275
+<font face="Monospace">{\an7}THEN HE GOT KILLED
+ON ONE OF HIS TOURS.</font>
+
+244
+00:10:08,308 --> 00:10:11,144
+<font face="Monospace">{\an7}SO I THOUGHT THIS STUPID WORLD</font>
+
+245
+00:10:11,178 --> 00:10:13,814
+<font face="Monospace">{\an7}\h\h\h\hAIN’T GONNA STOP
+HAVIN’ WARS ANYTIME SOON.</font>
+
+246
+00:10:13,847 --> 00:10:15,849
+<font face="Monospace">{\an7}BUT IF WE COULD FIGURE OUT
+HOW TO HAVE ’EM</font>
+
+247
+00:10:15,883 --> 00:10:18,052
+<font face="Monospace">{\an7}WITHOUT KILLING PEOPLE, THEN...</font>
+
+248
+00:10:18,085 --> 00:10:20,254
+<font face="Monospace">{\an7}\h\h\h\h( chuckles )
+SOUNDS NAÏVE, RIGHT?</font>
+
+249
+00:10:20,287 --> 00:10:22,756
+<font face="Monospace">{\an7}Asuna: YOU DIDN’T
+TELL KIRITO ANY OF THIS</font>
+
+250
+00:10:22,789 --> 00:10:24,858
+<font face="Monospace">{\an7}BEFORE YOU HIRED HIM, DID YOU?</font>
+
+251
+00:10:24,892 --> 00:10:26,694
+<font face="Monospace">{\an7}Kikuoka: WOULD IT
+MATTER IF I DID?</font>
+
+252
+00:10:26,727 --> 00:10:28,295
+<font face="Monospace">{\an7}Asuna: YES, IT WOULD HAVE.</font>
+
+253
+00:10:28,328 --> 00:10:31,665
+<font face="Monospace">{\an7}IF YOU HAD TOLD HIM, HE NEVER
+WOULD HAVE AGREED TO HELP.</font>
+
+254
+00:10:31,698 --> 00:10:35,335
+<font face="Monospace">{\an7}THERE’S ONE IMPORTANT ISSUE
+YOUR PLAN DOESN’T EVEN ADDRESS.</font>
+
+255
+00:10:35,369 --> 00:10:36,570
+<font face="Monospace">{\an7}Kikuoka: WHICH IS?</font>
+
+256
+00:10:36,603 --> 00:10:39,106
+<font face="Monospace">{\an7}Asuna: THE RIGHTS OF THE A.I.s.</font>
+
+257
+00:10:39,139 --> 00:10:42,676
+<font face="Monospace">{\an7}THESE THINGS YOU CALL
+ARTIFICIAL FLUCTLIGHTS,</font>
+
+258
+00:10:42,709 --> 00:10:45,178
+<font face="Monospace">{\an7}THEY’RE STILL MENTALLY
+AND EMOTIONALLY HUMAN.</font>
+
+259
+00:10:45,212 --> 00:10:48,082
+<font face="Monospace">{\an7}Kikuoka: TRUE, BUT IT’S NOT
+LIKE THEY HAVE PHYSICAL BODIES.</font>
+
+260
+00:10:48,115 --> 00:10:51,118
+<font face="Monospace">{\an7}\h\h\h\hAsuna: BUT OTHERWISE,
+THEY’RE NO DIFFERENT FROM US,</font>
+
+261
+00:10:51,151 --> 00:10:53,854
+<font face="Monospace">{\an7}AND YOU’RE FORCING THEM
+TO BE YOUR TOOLS OF WAR.</font>
+
+262
+00:10:53,887 --> 00:10:57,958
+<font face="Monospace">{\an7}KIRITO WOULD NEVER
+AGREE TO THAT, EVER.</font>
+
+263
+00:10:57,991 --> 00:10:59,192
+<font face="Monospace">{\an7}Kikuoka: LOOK, I UNDERSTAND</font>
+
+264
+00:10:59,226 --> 00:11:01,028
+<font face="Monospace">{\an7}THE POINT YOU’RE
+TRYING TO MAKE HERE.</font>
+
+265
+00:11:01,061 --> 00:11:04,831
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hBUT, TO ME,
+THE LIFE OF ONE S.D.F. SOLDIER</font>
+
+266
+00:11:04,865 --> 00:11:07,634
+<font face="Monospace">{\an7}IS WORTH FAR MORE
+THAN 100,000 A.I.s.</font>
+
+267
+00:11:11,138 --> 00:11:14,708
+<font face="Monospace">{\an7}Rinko: ANYWAY, WHY DID YOU
+NEED KIRIGAYA FOR THIS?</font>
+
+268
+00:11:14,741 --> 00:11:17,210
+<font face="Monospace">{\an7}I CAN’T UNDERSTAND
+WHY YOU’D USE A CIVILIAN</font>
+
+269
+00:11:17,244 --> 00:11:19,113
+<font face="Monospace">{\an7}\h\h\h\hON A PROJECT
+THAT’S SO CONFIDENTIAL.</font>
+
+270
+00:11:19,146 --> 00:11:22,149
+<font face="Monospace">{\an7}Kikuoka: I’M SORRY.
+I GOT SO CARRIED AWAY</font>
+
+271
+00:11:22,182 --> 00:11:24,685
+<font face="Monospace">{\an7}TALKING ABOUT THE PROJECT,
+I ALMOST FORGOT.</font>
+
+272
+00:11:24,718 --> 00:11:27,387
+<font face="Monospace">{\an7}WE NEEDED TO KNOW
+WHY THE A.I. FLUCTLIGHTS</font>
+
+273
+00:11:27,421 --> 00:11:29,857
+<font face="Monospace">{\an7}COULDN’T DISOBEY
+THE TABOO INDEX,</font>
+
+274
+00:11:29,890 --> 00:11:32,893
+<font face="Monospace">{\an7}SO I CAME UP
+WITH AN EXPERIMENT.</font>
+
+275
+00:11:32,926 --> 00:11:35,295
+<font face="Monospace">{\an7}IF WE BLOCKED
+A HUMAN’S MEMORIES,</font>
+
+276
+00:11:35,329 --> 00:11:36,764
+<font face="Monospace">{\an7}REVERTED HIM TO CHILDHOOD,</font>
+
+277
+00:11:36,797 --> 00:11:39,400
+<font face="Monospace">{\an7}AND HAD HIM GROW UP
+IN OUR V.R. WORLD,</font>
+
+278
+00:11:39,433 --> 00:11:42,770
+<font face="Monospace">{\an7}\h\h\h\hWOULD HE BE ABLE
+TO DISOBEY THE TABOO INDEX?</font>
+
+279
+00:11:43,904 --> 00:11:44,972
+<font face="Monospace">{\an7}TO CARRY THIS OUT,</font>
+
+280
+00:11:45,005 --> 00:11:46,373
+<font face="Monospace">{\an7}WE NEEDED SOMEONE
+WITH EXPERIENCE</font>
+
+281
+00:11:46,406 --> 00:11:48,375
+<font face="Monospace">{\an7}\h\h\h\hNAVIGATING
+IN A V.R. ENVIRONMENT,</font>
+
+282
+00:11:48,408 --> 00:11:51,111
+<font face="Monospace">{\an7}\h\h\h\hNOT JUST A WEEK OR
+A MONTH’S WORTH OF EXPERIENCE.</font>
+
+283
+00:11:51,144 --> 00:11:52,278
+<font face="Monospace">{\an7}I’M TALKING YEARS.</font>
+
+284
+00:11:52,312 --> 00:11:53,246
+<font face="Monospace">{\an7}( Asuna gasps )</font>
+
+285
+00:11:55,215 --> 00:11:57,217
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hKikuoka:
+THAT’S WHY I NEEDED HIM.</font>
+
+286
+00:12:00,420 --> 00:12:01,988
+<font face="Monospace">{\an7}Leafa: I CAN’T BELIEVE KAZUTO</font>
+
+287
+00:12:02,022 --> 00:12:04,725
+<font face="Monospace">{\an7}\h\h\h\hWOULD SIGN UP
+FOR SOMETHING LIKE THAT.</font>
+
+288
+00:12:04,758 --> 00:12:06,627
+<font face="Monospace">{\an7}( Silica sighs )
+CAN WE EVEN TRUST</font>
+
+289
+00:12:06,660 --> 00:12:08,695
+<font face="Monospace">{\an7}ANYTHING KIKUOKA SAYS ANYMORE?</font>
+
+290
+00:12:08,729 --> 00:12:10,030
+<font face="Monospace">{\an7}Lisbeth: I BET HE ONLY TOLD YOU</font>
+
+291
+00:12:10,063 --> 00:12:12,098
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hA FRACTION
+OF WHAT HE’S REALLY UP TO.</font>
+
+292
+00:12:12,132 --> 00:12:13,800
+<font face="Monospace">{\an7}Sinon: I GUESS ALL WE CAN DO NOW</font>
+
+293
+00:12:13,834 --> 00:12:17,104
+<font face="Monospace">{\an7}IS HOPE THE TREATMENT KIRITO
+GETS IN THE S.T.L. WILL WORK.</font>
+
+294
+00:12:17,137 --> 00:12:18,672
+<font face="Monospace">{\an7}( Silica sighs )</font>
+
+295
+00:12:18,705 --> 00:12:21,007
+<font face="Monospace">{\an7}Lisbeth: WHAT HAPPENED
+WITH THAT TABOO INDEX THING,</font>
+
+296
+00:12:21,041 --> 00:12:22,676
+<font face="Monospace">{\an7}YOU KNOW, THE EXPERIMENT?</font>
+
+297
+00:12:22,709 --> 00:12:23,977
+<font face="Monospace">{\an7}DID HE TELL YOU IF IT WORKED?</font>
+
+298
+00:12:24,011 --> 00:12:26,814
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hAsuna: MM-HMM.
+KIRITO GOT TO BE CLOSE FRIENDS</font>
+
+299
+00:12:26,847 --> 00:12:28,949
+<font face="Monospace">{\an7}WITH TWO OTHERS,
+A BOY AND A GIRL.</font>
+
+300
+00:12:28,982 --> 00:12:32,986
+<font face="Monospace">{\an7}KIKUOKA SAID THE GIRL ENDED UP
+BREAKING ONE OF THE LAWS.</font>
+
+301
+00:12:33,020 --> 00:12:35,890
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hSinon: REALLY?
+DID SHE DO IT BECAUSE OF KIRITO?</font>
+
+302
+00:12:35,923 --> 00:12:37,425
+<font face="Monospace">{\an7}Asuna: UH-HUH.</font>
+
+303
+00:12:37,457 --> 00:12:39,759
+<font face="Monospace">{\an7}APPARENTLY, SHE VIOLATED A TABOO</font>
+
+304
+00:12:39,793 --> 00:12:43,163
+<font face="Monospace">{\an7}BY TRYING TO ACCESS
+A RESTRICTED ADDRESS.</font>
+
+305
+00:12:43,197 --> 00:12:44,899
+<font face="Monospace">{\an7}Higa: ACCORDING TO THE LOG,</font>
+
+306
+00:12:44,932 --> 00:12:47,067
+<font face="Monospace">{\an7}\h\h\h\hTHE GIRL SAW
+ANOTHER A.I. FLUCTLIGHT</font>
+
+307
+00:12:47,100 --> 00:12:48,868
+<font face="Monospace">{\an7}DIE IN THE RESTRICTED AREA,</font>
+
+308
+00:12:48,902 --> 00:12:52,239
+<font face="Monospace">{\an7}AND, FROM WHAT WE CAN TELL,
+SHE WAS TRYING TO SAVE HIM.</font>
+
+309
+00:12:52,272 --> 00:12:55,108
+<font face="Monospace">{\an7}Kikuoka: SHE HAD MORE CONCERN
+FOR ANOTHER PERSON’S LIFE</font>
+
+310
+00:12:55,142 --> 00:12:57,745
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hTHAN SHE HAD
+FOR DISOBEYING THE TABOO INDEX.</font>
+
+311
+00:12:57,778 --> 00:13:01,215
+<font face="Monospace">{\an7}SHE CHOSE TO DO IT, AND THAT’S
+WHAT WE’RE LOOKING FOR.</font>
+
+312
+00:13:01,248 --> 00:13:03,784
+<font face="Monospace">{\an7}( girls grumble )</font>
+
+313
+00:13:03,817 --> 00:13:05,419
+<font face="Monospace">{\an7}Silica: THAT’S KIND OF
+\h\h\h\hA NEAT STORY.</font>
+
+314
+00:13:05,452 --> 00:13:07,788
+<font face="Monospace">{\an7}Lisbeth: YEAH, IF ONLY IT WASN’T</font>
+
+315
+00:13:07,821 --> 00:13:09,790
+<font face="Monospace">{\an7}ABOUT TRAINING A.I.s
+TO KILL PEOPLE.</font>
+
+316
+00:13:09,823 --> 00:13:13,293
+<font face="Monospace">{\an7}Asuna: YOU’RE RIGHT.
+BUT LOOK AT WHAT SHE DID.</font>
+
+317
+00:13:13,327 --> 00:13:17,164
+<font face="Monospace">{\an7}SHE WENT AGAINST THE SYSTEM
+JUST TO HELP SOMEONE ELSE.</font>
+
+318
+00:13:17,197 --> 00:13:19,166
+<font face="Monospace">{\an7}Leafa: DOES THIS
+A.I. GIRL HAVE A NAME?</font>
+
+319
+00:13:19,199 --> 00:13:20,133
+<font face="Monospace">{\an7}Asuna: YES.</font>
+
+320
+00:13:22,836 --> 00:13:23,804
+<font face="Monospace">{\an7}ALICE?</font>
+
+321
+00:13:23,837 --> 00:13:25,072
+<font face="Monospace">{\an7}Kikuoka: THAT’S RIGHT.</font>
+
+322
+00:13:25,105 --> 00:13:27,407
+<font face="Monospace">{\an7}I WAS STUNNED
+WHEN I FOUND OUT.</font>
+
+323
+00:13:27,441 --> 00:13:30,878
+<font face="Monospace">{\an7}HER HAVING THAT NAME
+IS QUITE THE COINCIDENCE.</font>
+
+324
+00:13:30,911 --> 00:13:32,212
+<font face="Monospace">{\an7}THE NAME ALICE, YOU SEE,</font>
+
+325
+00:13:32,246 --> 00:13:34,882
+<font face="Monospace">{\an7}ALSO HAPPENS TO BE
+THE NAME OF THE CONCEPT</font>
+
+326
+00:13:34,915 --> 00:13:37,418
+<font face="Monospace">{\an7}THAT WAS THE FOUNDATION
+FOR RATH AND THIS PROJECT.</font>
+
+327
+00:13:37,451 --> 00:13:39,386
+<font face="Monospace">{\an7}Asuna: CONCEPT?</font>
+
+328
+00:13:39,419 --> 00:13:42,956
+<font face="Monospace">{\an7}Kikuoka: AN A.I. THAT IS
+HIGHLY ADAPTIVE AND AUTONOMOUS,</font>
+
+329
+00:13:42,990 --> 00:13:45,726
+<font face="Monospace">{\an7}MORE SPECIFICALLY,
+AN ARTIFICIAL</font>
+
+330
+00:13:45,759 --> 00:13:48,996
+<font face="Monospace">{\an7}LABILE INTELLIGENCE
+CYBERNATED EXISTENCE,</font>
+
+331
+00:13:49,029 --> 00:13:51,331
+<font face="Monospace">{\an7}OR THE ACRONYM "ALICE."</font>
+
+332
+00:13:51,365 --> 00:13:53,200
+<font face="Monospace">{\an7}OUR GOAL ULTIMATELY</font>
+
+333
+00:13:53,233 --> 00:13:56,303
+<font face="Monospace">{\an7}WAS TO TURN AN A.I. FLUCTLIGHT
+INTO AN ALICE.</font>
+
+334
+00:13:58,472 --> 00:14:03,410
+<font face="Monospace">{\an7}THEREFORE, WE CALLED IT
+PROJECT ALICIZATION.</font>
+
+335
+00:14:05,078 --> 00:14:06,947
+<font face="Monospace">{\an7}Leafa: THAT SOUNDS
+SO COMPLICATED.</font>
+
+336
+00:14:06,980 --> 00:14:10,183
+<font face="Monospace">{\an7}Asuna: YEAH. I DON’T UNDERSTAND
+A LOT OF WHAT HE SAID, EITHER.</font>
+
+337
+00:14:10,217 --> 00:14:13,187
+<font face="Monospace">{\an7}\h\h\h\hBUT HE SAID IF THEY
+HAD SAVED ALICE’S FLUCTLIGHT,</font>
+
+338
+00:14:13,220 --> 00:14:16,156
+<font face="Monospace">{\an7}THEIR RESEARCH WOULD BE
+MUCH FURTHER ALONG BY NOW.</font>
+
+339
+00:14:16,190 --> 00:14:17,792
+<font face="Monospace">{\an7}Lisbeth: MM. DID SHE DIE?</font>
+
+340
+00:14:17,824 --> 00:14:19,793
+<font face="Monospace">{\an7}Asuna: NO, SHE’S STILL ALIVE,</font>
+
+341
+00:14:19,827 --> 00:14:22,763
+<font face="Monospace">{\an7}\h\h\h\hBUT REMEMBER I SAID
+TIME THERE’S FASTER THAN HERE?</font>
+
+342
+00:14:22,796 --> 00:14:23,930
+<font face="Monospace">{\an7}Lisbeth: MM-HMM.</font>
+
+343
+00:14:23,964 --> 00:14:26,033
+<font face="Monospace">{\an7}\h\h\h\hAsuna: WELL,
+BY THE TIME THEY NOTICED,</font>
+
+344
+00:14:26,066 --> 00:14:27,968
+<font face="Monospace">{\an7}TWO DAYS HAD GONE BY THERE.</font>
+
+345
+00:14:28,001 --> 00:14:29,803
+<font face="Monospace">{\an7}SHE WAS TAKEN TO THE CAPITAL,</font>
+
+346
+00:14:29,837 --> 00:14:32,306
+<font face="Monospace">{\an7}AND THE AXIOM CHURCH
+HAD HER FLUCTLIGHT ALTERED.</font>
+
+347
+00:14:32,339 --> 00:14:34,141
+<font face="Monospace">{\an7}Sinon: THEY CHANGED HER SOUL?</font>
+
+348
+00:14:34,174 --> 00:14:36,143
+<font face="Monospace">{\an7}HOW COULD THEY
+GIVE A.I. FLUCTLIGHTS</font>
+
+349
+00:14:36,176 --> 00:14:38,078
+<font face="Monospace">{\an7}THAT KIND OF AUTHORITY
+OVER EACH OTHER?</font>
+
+350
+00:14:38,111 --> 00:14:40,981
+<font face="Monospace">{\an7}\h\h\h\hAsuna: THEY DON’T
+REALLY KNOW HOW IT HAPPENED,</font>
+
+351
+00:14:41,014 --> 00:14:43,783
+<font face="Monospace">{\an7}BUT THEY THINK IT MIGHT BE
+A SYSTEM EXPLOIT.</font>
+
+352
+00:14:43,817 --> 00:14:45,419
+<font face="Monospace">{\an7}A FEW OF THE A.I. FLUCTLIGHTS</font>
+
+353
+00:14:45,452 --> 00:14:47,821
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hCAN USE
+WHAT THEY CALL "SACRED ARTS."</font>
+
+354
+00:14:47,855 --> 00:14:49,557
+<font face="Monospace">{\an7}\h\h\h\hTHEY’RE BASICALLY
+SYSTEM ACCESS AUTHORITIES</font>
+
+355
+00:14:49,590 --> 00:14:51,559
+<font face="Monospace">{\an7}THAT LOOK LIKE MAGIC SPELLS.</font>
+
+356
+00:14:51,592 --> 00:14:53,127
+<font face="Monospace">{\an7}( gasps ) SORRY.</font>
+
+357
+00:14:53,160 --> 00:14:54,895
+<font face="Monospace">{\an7}I HAVE TO LOG OUT NOW.</font>
+
+358
+00:14:54,928 --> 00:14:56,997
+<font face="Monospace">{\an7}Leafa: WHY? WHAT’S THE RUSH?</font>
+
+359
+00:14:57,030 --> 00:15:00,100
+<font face="Monospace">{\an7}Asuna: THEY SAID THEY’D LET ME
+LOOK IN ON KIRITO FOR A BIT.</font>
+
+360
+00:15:00,133 --> 00:15:02,002
+<font face="Monospace">{\an7}\h\h\h\hI DON’T WANT
+TO BE LATE FOR THAT.</font>
+
+361
+00:15:02,035 --> 00:15:03,470
+<font face="Monospace">{\an7}Lisbeth: YOU GET
+TO WATCH HIM SLEEP.</font>
+
+362
+00:15:03,504 --> 00:15:04,472
+<font face="Monospace">{\an7}TELL US IF HE DROOLS.</font>
+
+363
+00:15:04,505 --> 00:15:05,973
+<font face="Monospace">{\an7}( Asuna laughs )</font>
+
+364
+00:15:06,006 --> 00:15:07,908
+<font face="Monospace">{\an7}I DON’T THINK I’LL SEE HIS FACE.</font>
+
+365
+00:15:07,941 --> 00:15:10,243
+<font face="Monospace">{\an7}THE MACHINE HE’S IN
+COVERS IT UP.</font>
+
+366
+00:15:10,277 --> 00:15:12,212
+<font face="Monospace">{\an7}♪</font>
+
+367
+00:15:18,385 --> 00:15:19,319
+<font face="Monospace">{\an7}Rinko: EH?</font>
+
+368
+00:15:20,387 --> 00:15:22,489
+<font face="Monospace">{\an7}NUMBER FOUR...</font>
+
+369
+00:15:22,523 --> 00:15:24,492
+<font face="Monospace">{\an7}AND THAT’S FIVE.</font>
+
+370
+00:15:24,525 --> 00:15:26,327
+<font face="Monospace">{\an7}Aki: THEY’RE STILL
+BUILDING UNIT SIX.</font>
+
+371
+00:15:26,360 --> 00:15:29,096
+<font face="Monospace">{\an7}\h\h\h\hIT’S IN ROPPONGI
+WITH UNIT ONE, THE PROTOTYPE.</font>
+
+372
+00:15:29,129 --> 00:15:31,431
+<font face="Monospace">{\an7}TWO AND THREE ARE HERE.</font>
+
+373
+00:15:31,465 --> 00:15:34,101
+<font face="Monospace">{\an7}WELL, ACTUALLY THEY’RE
+IN THE LOWER SHAFT.</font>
+
+374
+00:15:34,134 --> 00:15:36,069
+<font face="Monospace">{\an7}- Asuna: MS. AKI.
+- ( Aki chuckles )</font>
+
+375
+00:15:36,103 --> 00:15:37,471
+<font face="Monospace">{\an7}Asuna: WHAT ARE YOU DOING HERE?</font>
+
+376
+00:15:37,504 --> 00:15:40,040
+<font face="Monospace">{\an7}Aki: I’M TAKING CARE
+\h\h\h\hOF KIRIGAYA.</font>
+
+377
+00:15:40,073 --> 00:15:43,176
+<font face="Monospace">{\an7}Asuna: BUT YOU WERE HIS NURSE
+AT THAT HOSPITAL IN CHIYODA.</font>
+
+378
+00:15:43,210 --> 00:15:44,878
+<font face="Monospace">{\an7}( gasps ) WAIT.</font>
+
+379
+00:15:44,912 --> 00:15:47,615
+<font face="Monospace">{\an7}\h\h\h\hARE YOU A NURSE,
+OR ARE YOU JUST FAKING?!</font>
+
+380
+00:15:47,648 --> 00:15:50,284
+<font face="Monospace">{\an7}\h\h\h\hAki: I’M A NURSE.
+I’M REGISTERED AND EVERYTHING</font>
+
+381
+00:15:50,317 --> 00:15:52,152
+<font face="Monospace">{\an7}\h\h\h\hAND HAVE
+THE PAPERS TO PROVE IT.</font>
+
+382
+00:15:52,186 --> 00:15:54,088
+<font face="Monospace">{\an7}ALTHOUGH, FULL DISCLOSURE,</font>
+
+383
+00:15:54,121 --> 00:15:56,223
+<font face="Monospace">{\an7}THE NURSING SCHOOL
+I GRADUATED FROM</font>
+
+384
+00:15:56,256 --> 00:15:58,391
+<font face="Monospace">{\an7}\h\h\h\hIS AFFILIATED WITH
+THE TOKYO SELF-DEFENSE FORCE.</font>
+
+385
+00:15:58,425 --> 00:15:59,559
+<font face="Monospace">{\an7}( Asuna gasps )</font>
+
+386
+00:15:59,593 --> 00:16:02,162
+<font face="Monospace">{\an7}Aki: SERGEANT FIRST CLASS
+\h\h\h\hNATSUKI AKI.</font>
+
+387
+00:16:02,196 --> 00:16:06,333
+<font face="Monospace">{\an7}AS LONG AS I’M ON DUTY HERE,
+I SWEAR I WILL PROTECT KIRIGAYA.</font>
+
+388
+00:16:06,366 --> 00:16:07,300
+<font face="Monospace">{\an7}WE GOOD?</font>
+
+389
+00:16:09,436 --> 00:16:12,306
+<font face="Monospace">{\an7}( Asuna sighs )
+YEAH. WE’RE GOOD.</font>
+
+390
+00:16:12,339 --> 00:16:14,541
+<font face="Monospace">{\an7}Aki: DON’T YOU WORRY
+ABOUT A THING.</font>
+
+391
+00:16:14,575 --> 00:16:16,510
+<font face="Monospace">{\an7}♪</font>
+
+392
+00:16:18,912 --> 00:16:22,282
+<font face="Monospace">{\an7}Asuna: IN YOUR OPINION,
+WILL HE BE OKAY?</font>
+
+393
+00:16:22,316 --> 00:16:24,018
+<font face="Monospace">{\an7}Aki: OF COURSE HE WILL.</font>
+
+394
+00:16:24,051 --> 00:16:25,486
+<font face="Monospace">{\an7}HIS FLUCTLIGHT’S STABLE SO FAR,</font>
+
+395
+00:16:25,519 --> 00:16:27,488
+<font face="Monospace">{\an7}AND HIS NEURAL NETWORK’S
+\h\h\h\hON THE MEND.</font>
+
+396
+00:16:27,521 --> 00:16:29,623
+<font face="Monospace">{\an7}\h\h\h\hALL HIS VITALS
+ARE LOOKING GOOD, TOO.</font>
+
+397
+00:16:29,656 --> 00:16:31,224
+<font face="Monospace">{\an7}HE IS A TOUGH COOKIE.</font>
+
+398
+00:16:31,258 --> 00:16:33,961
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hHE’S THE ONE
+WHO CLEARED "S.A.O.," AFTER ALL.</font>
+
+399
+00:16:41,134 --> 00:16:42,235
+<font face="Monospace">{\an7}( Rinko sighs )</font>
+
+400
+00:16:44,137 --> 00:16:45,105
+<font face="Monospace">{\an7}CAN WE TALK?</font>
+
+401
+00:16:45,138 --> 00:16:46,606
+<font face="Monospace">{\an7}Asuna: EH? HUH?</font>
+
+402
+00:16:48,141 --> 00:16:49,209
+<font face="Monospace">{\an7}Rinko: THERE’S...</font>
+
+403
+00:16:49,243 --> 00:16:52,246
+<font face="Monospace">{\an7}SOMETHING I HAVE
+TO CONFESS TO YOU.</font>
+
+404
+00:16:52,279 --> 00:16:55,215
+<font face="Monospace">{\an7}MM-MMM. NOT JUST TO YOU.</font>
+
+405
+00:16:55,249 --> 00:16:58,219
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hI OWE ONE
+TO ALL THE "S.A.O." PLAYERS,</font>
+
+406
+00:16:58,252 --> 00:16:59,987
+<font face="Monospace">{\an7}LIVING AND DEAD.</font>
+
+407
+00:17:00,020 --> 00:17:01,188
+<font face="Monospace">{\an7}( Asuna sighs )</font>
+
+408
+00:17:01,221 --> 00:17:03,090
+<font face="Monospace">{\an7}Rinko: I’M SURE
+YOU HEARD THE STORY</font>
+
+409
+00:17:03,123 --> 00:17:05,092
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\hABOUT HOW,
+DURING THE "S.A.O." INCIDENT,</font>
+
+410
+00:17:05,125 --> 00:17:08,929
+<font face="Monospace">{\an7}AKIHIKO KAYABA AND I WERE HIDING
+IN THE MOUNTAINS OF NAGANO?</font>
+
+411
+00:17:11,398 --> 00:17:14,401
+<font face="Monospace">{\an7}THAT SCAR’S FROM A MICRO-BOMB
+AKIHIKO IMPLANTED THERE.</font>
+
+412
+00:17:14,434 --> 00:17:15,969
+<font face="Monospace">{\an7}( Asuna gasps )</font>
+
+413
+00:17:16,003 --> 00:17:17,605
+<font face="Monospace">{\an7}Rinko: THE NEWS
+SAID HE PUT IT THERE</font>
+
+414
+00:17:17,638 --> 00:17:19,974
+<font face="Monospace">{\an7}TO FORCE ME TO STAY
+AND HELP HIM WITH HIS PLAN</font>
+
+415
+00:17:20,007 --> 00:17:22,376
+<font face="Monospace">{\an7}DURING THOSE TWO YEARS,</font>
+
+416
+00:17:22,409 --> 00:17:24,111
+<font face="Monospace">{\an7}BUT THAT’S NOT THE TRUTH.</font>
+
+417
+00:17:24,144 --> 00:17:26,313
+<font face="Monospace">{\an7}YES, THE BOMB WAS REAL,</font>
+
+418
+00:17:26,346 --> 00:17:29,182
+<font face="Monospace">{\an7}\h\h\h\hBUT I KNEW
+IT WOULD NEVER GO OFF.</font>
+
+419
+00:17:29,216 --> 00:17:31,351
+<font face="Monospace">{\an7}\h\h\h\hHE PUT IT THERE
+SO THAT, WHEN WE WERE CAUGHT,</font>
+
+420
+00:17:31,385 --> 00:17:34,054
+<font face="Monospace">{\an7}I WOULDN’T BE CHARGED
+WITH AIDING AND ABETTING.</font>
+
+421
+00:17:35,155 --> 00:17:37,290
+<font face="Monospace">{\an7}IT WAS A BLUFF TO KEEP ME SAFE</font>
+
+422
+00:17:37,324 --> 00:17:40,327
+<font face="Monospace">{\an7}AND THE ONLY PRESENT
+HE EVER GAVE ME.</font>
+
+423
+00:17:40,360 --> 00:17:44,231
+<font face="Monospace">{\an7}WHEN AKIHIKO GOT INTO THE TOTO
+INSTITUTE OF TECHNOLOGY,</font>
+
+424
+00:17:44,264 --> 00:17:46,967
+<font face="Monospace">{\an7}\h\h\h\hHE WAS ALREADY
+HEAD OF DEVELOPMENT AT ARGUS,</font>
+
+425
+00:17:47,000 --> 00:17:49,469
+<font face="Monospace">{\an7}BUT I DIDN’T KNOW ABOUT THAT.</font>
+
+426
+00:17:49,503 --> 00:17:51,572
+<font face="Monospace">{\an7}ALL I SAW WAS A SCRAWNY LONER</font>
+
+427
+00:17:51,605 --> 00:17:53,640
+<font face="Monospace">{\an7}WHO ONLY CARED
+ABOUT HIS RESEARCH.</font>
+
+428
+00:17:58,345 --> 00:18:00,981
+<font face="Monospace">{\an7}YOU WANT SOME INSPIRATION?</font>
+
+429
+00:18:01,014 --> 00:18:03,083
+<font face="Monospace">{\an7}THEN GET OUT ONCE IN A WHILE!</font>
+
+430
+00:18:03,116 --> 00:18:04,584
+<font face="Monospace">{\an7}( Kayaba stammers )</font>
+
+431
+00:18:05,652 --> 00:18:07,120
+<font face="Monospace">{\an7}I NEED TO FIND A WAY</font>
+
+432
+00:18:07,154 --> 00:18:10,457
+<font face="Monospace">{\an7}TO EMULATE THE FEELING
+OF SUNLIGHT ON THE SKIN.</font>
+
+433
+00:18:10,490 --> 00:18:11,624
+<font face="Monospace">{\an7}Rinko: WHAT?</font>
+
+434
+00:18:11,658 --> 00:18:13,760
+<font face="Monospace">{\an7}WE WERE TOTAL OPPOSITES,</font>
+
+435
+00:18:13,794 --> 00:18:15,262
+<font face="Monospace">{\an7}BUT WE STARTED DATING.</font>
+
+436
+00:18:17,097 --> 00:18:18,165
+<font face="Monospace">{\an7}( no audible dialogue )</font>
+
+437
+00:18:18,198 --> 00:18:20,333
+<font face="Monospace">{\an7}\h\h\h\hONE THING
+I COULD NEVER FIGURE OUT</font>
+
+438
+00:18:20,367 --> 00:18:23,103
+<font face="Monospace">{\an7}WAS WHY HE WANTED
+TO STAY WITH ME.</font>
+
+439
+00:18:25,072 --> 00:18:26,640
+<font face="Monospace">{\an7}THE OTHER WAS HIM.</font>
+
+440
+00:18:27,708 --> 00:18:30,211
+<font face="Monospace">{\an7}ALL THAT TIME TOGETHER...</font>
+
+441
+00:18:32,646 --> 00:18:35,115
+<font face="Monospace">{\an7}AND I DIDN’T KNOW HIM AT ALL.</font>
+
+442
+00:18:36,250 --> 00:18:38,786
+<font face="Monospace">{\an7}I KNEW AKIHIKO WAS AT HIS CABIN,</font>
+
+443
+00:18:38,819 --> 00:18:41,288
+<font face="Monospace">{\an7}\h\h\h\hBUT I DIDN’T GO THERE
+BECAUSE I WANTED TO HELP HIM.</font>
+
+444
+00:18:42,789 --> 00:18:44,724
+<font face="Monospace">{\an7}I...</font>
+
+445
+00:18:44,758 --> 00:18:47,694
+<font face="Monospace">{\an7}I WENT, BECAUSE I
+WANTED TO KILL HIM.</font>
+
+446
+00:18:47,728 --> 00:18:49,330
+<font face="Monospace">{\an7}( Asuna gasps )</font>
+
+447
+00:18:50,831 --> 00:18:54,668
+<font face="Monospace">{\an7}\h\h\h\hRinko: AND THEN,
+I DON’T KNOW WHY, BUT I-I...</font>
+
+448
+00:18:56,637 --> 00:18:58,038
+<font face="Monospace">{\an7}I COULDN’T DO IT.</font>
+
+449
+00:18:59,473 --> 00:19:01,442
+<font face="Monospace">{\an7}HE KNEW WHAT I WAS THINKING</font>
+
+450
+00:19:01,475 --> 00:19:03,377
+<font face="Monospace">{\an7}AND THAT I HAD A KNIFE,</font>
+
+451
+00:19:03,410 --> 00:19:05,345
+<font face="Monospace">{\an7}BUT HE JUST SMILED AND SAID,</font>
+
+452
+00:19:05,379 --> 00:19:09,083
+<font face="Monospace">{\an7}"WHAT AM I GONNA DO WITH YOU?"
+LIKE HE ALWAYS DID,</font>
+
+453
+00:19:09,116 --> 00:19:11,452
+<font face="Monospace">{\an7}AND THEN HE WENT
+BACK TO AINCRAD.</font>
+
+454
+00:19:12,586 --> 00:19:14,521
+<font face="Monospace">{\an7}( crying )</font>
+
+455
+00:19:16,123 --> 00:19:18,125
+<font face="Monospace">{\an7}OH, GOD. I’M SO SORRY.</font>
+
+456
+00:19:18,158 --> 00:19:21,228
+<font face="Monospace">{\an7}( crying )</font>
+
+457
+00:19:21,261 --> 00:19:23,764
+<font face="Monospace">{\an7}Asuna: KIRITO AND I
+NEVER BLAMED YOU</font>
+
+458
+00:19:23,797 --> 00:19:25,599
+<font face="Monospace">{\an7}OR HATED YOU FOR ANYTHING.</font>
+
+459
+00:19:25,632 --> 00:19:29,302
+<font face="Monospace">{\an7}TO TELL YOU THE TRUTH,
+I CAN’T REALLY SAY</font>
+
+460
+00:19:29,336 --> 00:19:31,271
+<font face="Monospace">{\an7}I HATE THE COMMANDER, EITHER.</font>
+
+461
+00:19:31,305 --> 00:19:33,707
+<font face="Monospace">{\an7}I-I MEAN AKIHIKO KAYABA.</font>
+
+462
+00:19:35,175 --> 00:19:36,710
+<font face="Monospace">{\an7}♪</font>
+
+463
+00:19:39,813 --> 00:19:43,183
+<font face="Monospace">{\an7}I’M NOT SAYING HE SHOULD
+BE FORGIVEN FOR WHAT HE DID.</font>
+
+464
+00:19:43,217 --> 00:19:46,353
+<font face="Monospace">{\an7}\h\h\h\hHE SHOULDN’T.
+A LOT OF LIVES WERE LOST.</font>
+
+465
+00:19:46,386 --> 00:19:48,321
+<font face="Monospace">{\an7}BUT STILL--</font>
+
+466
+00:19:48,355 --> 00:19:50,724
+<font face="Monospace">{\an7}AND THIS MAY SOUND
+A LITTLE SELFISH--</font>
+
+467
+00:19:50,757 --> 00:19:52,525
+<font face="Monospace">{\an7}I WOULDN’T TRADE ANYTHING</font>
+
+468
+00:19:52,559 --> 00:19:55,429
+<font face="Monospace">{\an7}FOR THE TIME I GOT TO SPEND
+LIVING THERE WITH KIRITO.</font>
+
+469
+00:19:57,130 --> 00:20:01,267
+<font face="Monospace">{\an7}HONESTLY, TO ME, THOSE WERE
+THE BEST DAYS OF MY LIFE.</font>
+
+470
+00:20:01,301 --> 00:20:03,236
+<font face="Monospace">{\an7}( Rinko gasps )</font>
+
+471
+00:20:03,270 --> 00:20:05,472
+<font face="Monospace">{\an7}Asuna: YES, THE COMMANDER
+COMMITTED A CRIME,</font>
+
+472
+00:20:05,506 --> 00:20:07,641
+<font face="Monospace">{\an7}AND SO DID KIRITO AND I,</font>
+
+473
+00:20:07,674 --> 00:20:09,142
+<font face="Monospace">{\an7}AND YOU DID, TOO.</font>
+
+474
+00:20:09,176 --> 00:20:10,678
+<font face="Monospace">{\an7}WE ALL DID SOMETHING WRONG,</font>
+
+475
+00:20:10,711 --> 00:20:13,180
+<font face="Monospace">{\an7}AND, IN THE END,
+EVEN IF WE’RE PUNISHED,</font>
+
+476
+00:20:13,213 --> 00:20:15,615
+<font face="Monospace">{\an7}THERE’S NO WAY TO MAKE IT RIGHT.</font>
+
+477
+00:20:15,649 --> 00:20:18,352
+<font face="Monospace">{\an7}I DON’T THINK THE DAY WILL
+EVER COME WHEN WE’RE FORGIVEN.</font>
+
+478
+00:20:18,385 --> 00:20:20,888
+<font face="Monospace">{\an7}ALL WE CAN DO IS OWN UP TO IT.</font>
+
+479
+00:20:20,921 --> 00:20:24,792
+<font face="Monospace">{\an7}\h\h\h\hTHERE’S NO CHOICE BUT
+TO FACE OUR SINS AND KEEP GOING.</font>
+
+480
+00:20:30,631 --> 00:20:32,566
+<font face="Monospace">{\an7}( footsteps )</font>
+
+481
+00:20:34,902 --> 00:20:37,505
+<font face="Monospace">{\an7}Kayaba: COMING ALL
+THE WAY OUT HERE?</font>
+
+482
+00:20:37,538 --> 00:20:39,673
+<font face="Monospace">{\an7}\h\h\h\h\h\h\h\h( scoffs )
+WHAT AM I GONNA DO WITH YOU?</font>
+
+483
+00:20:40,874 --> 00:20:42,809
+<font face="Monospace">{\an7}( Rinko gasps )</font>
+
+484
+00:20:42,843 --> 00:20:45,245
+<font face="Monospace">{\an7}IT’S SO EARLY.</font>
+
+485
+00:20:45,279 --> 00:20:47,281
+<font face="Monospace">{\an7}COME BACK TO BED.</font>
+
+486
+00:20:48,815 --> 00:20:50,684
+<font face="Monospace">{\an7}( gasps )</font>
+
+487
+00:20:53,887 --> 00:20:55,622
+<font face="Monospace">{\an7}( panting )</font>
+
+488
+00:20:58,625 --> 00:21:00,393
+<font face="Monospace">{\an7}( sighs )</font>
+
+489
+00:21:01,695 --> 00:21:03,830
+<font face="Monospace">{\an7}WAS THAT...</font>
+
+490
+00:21:03,864 --> 00:21:05,733
+<font face="Monospace">{\an7}A DREAM?</font>
+
+491
+00:21:11,672 --> 00:21:12,640
+<font face="Monospace">{\an7}♪</font>
+
+492
+00:21:12,673 --> 00:21:14,608
+<font face="Monospace">{\an7}( singing in Japanese )</font>
+
+493
+00:21:48,942 --> 00:21:52,813
+<font face="Monospace">{\an7}♪ THE IRIS TO YOU </font>
+

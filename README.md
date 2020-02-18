@@ -24,7 +24,7 @@ OneDirve：http://pan.edatribe.com
 | A006 | Death Note                                                                                                          | 死亡笔记                                 | 37集 | 计划 |
 | A007 | Assassination Classroom                                                                                             | 暗杀教室                                 | 47集 | 计划 |
 | A008 | WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?                               | 末日时在做什么？有没有空？可以来拯救吗？ | 12集 | 进行 |
-| A009 | Sword Art Online                                                                                                    | 刀剑神域                                 | 49集 | 计划 |
+| A009 | Sword Art Online                                                                                                    | 刀剑神域                                 | 73集 | 计划 |
 | A010 | Jormungand                                                                                                          | 军火女王                                 | 24集 | 计划 |
 | A011 | [Erased](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A011]Erased)                                       | 只有我不在的街道                         | 12集 | 完成 |
 | A012 | Hyouka                                                                                                              | 冰菓                                     | 22集 | 进行 |
@@ -66,6 +66,16 @@ OneDirve：http://pan.edatribe.com
 | A048 | Kamisama Kiss                                                                                                       | 元气少女缘结神                           | 25集 | 计划 |
 | A049 | Flying Witch                                                                                                        | 飞翔的魔女                               | 12集 | 计划 |
 | A050 | Amagi Brilliant Park                                                                                                | 甘城辉煌乐园救世主                       | 14集 | 计划 |
+| A051 | Overlord                                                                                                            |                                          | 39集 | 计划 |
+| A052 | Noragami                                                                                                            | 野良神                                   | 25集 | 计划 |
+| A053 | Citrus                                                                                                              | 柑橘味香气                               | 12集 | 计划 |
+| A054 | Gunslinger Girl                                                                                                     | 神枪少女                                 | 28集 | 计划 |
+| A055 | A Certain Magical Index                                                                                             | 魔法禁书目录                             | 74集 | 计划 |
+| A056 | Red Data Girl                                                                                                       | 濒危物种少女                             | 12集 | 计划 |
+| A057 | Chobits                                                                                                             | 人型电脑天使心                           | 24集 | 计划 |
+| A058 | Food Wars!                                                                                                          | 食戟之灵                                 | 37集 | 计划 |
+| A059 | Maid-sama                                                                                                           | 会长是女仆大人                           | 26集 | 计划 |
+| A060 | That Time I Got Reincarnated as a Slime                                                                             | 关于我转生变成史莱姆这档事               | 
 
 
 
@@ -75,6 +85,20 @@ OneDirve：http://pan.edatribe.com
 | M001 | [Your Name.](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M001]Your_Name) | 你的名字     | 2016     | 完成 |
 | M002 | [No Game No Life: Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M002]No_Game_No_Life_Zero)      | 游戏人生Zero | 2017     | 完成 |
 | M003 | [Sword Art Online: Ordinal Scale](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M003]Sword_Art_Online_Ordinal_Scale)  | 刀剑神域：序列之争 | 2017 | 完成 |
+| M004 | Shakugan no Shana: The Movie | 灼眼的夏娜剧场版 | 2007 | 计划 |
+| M005 | [A Silent Voice](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M005]A_Silent_Voice) | 声之形 | 2016 | 完成 |
+| M006 | My Neighbor Totoro | 龙猫 | 1988 | 完成 |
+| M007 | Castle in the Sky | 天空之城 | 1986 | 计划 |
+| M008 | Kiki's Delivery Service | 魔女宅急便 | 1989 | 计划 |
+| M009 | Howl's Moving Castle | 哈尔的移动城堡 | 2004 | 计划 |
+| M010 | Whisper of the Heart | 侧耳倾听 | 1995 | 计划 |
+| M011 | Nausicaa of the Valley of the Wind | 风之谷 | 1984 | 计划 |
+| M012 | Spirited Away | 千与千寻 | 2001 | 计划 |
+| M013 | The Wind Rises | 起风了 | 2013 | 计划 |
+| M014 | Princess Mononoke | 幽灵公主 | 1997 | 计划 |
+| M015 | Ponyo | 悬崖上的金鱼姬 | 2008 | 计划 |
+| M016 | Porco Rosso | 红猪 | 1992 | 计划 |
+| M017 | A Certain Magical Index - Movie | 魔法的禁书目录：恩底弥翁的奇迹 | 2013 | 计划 |
 
 ### 字幕制作说明
 #### 详细解释
