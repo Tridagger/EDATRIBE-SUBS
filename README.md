@@ -76,6 +76,9 @@ OneDirve：http://pan.edatribe.com
 | A058 | Food Wars!                                                                                                          | 食戟之灵                                 | 37集 | 计划 |
 | A059 | Maid-sama                                                                                                           | 会长是女仆大人                           | 26集 | 计划 |
 | A060 | That Time I Got Reincarnated as a Slime                                                                             | 关于我转生变成史莱姆这档事               | 24集 | 计划 |
+| A061 | Akashic Records of Bastard Magic Instructor                                                                         | 不正经的魔术讲师与禁忌教典               | 12集 | 计划 |
+| A062 | Akame ga Kill!                                                                                                      | 斩·赤红之瞳!                             | 24集 | 计划 |
+| A063 | A Centaur's Life                                                                                                    | 人马少女的烦恼                           | 12集 | 计划 |
 
 
 
