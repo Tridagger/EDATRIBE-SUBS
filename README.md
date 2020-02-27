@@ -90,7 +90,7 @@ OneDirve：http://pan.edatribe.com
 | M003 | [Sword Art Online: Ordinal Scale](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M003]Sword_Art_Online_Ordinal_Scale)  | 刀剑神域：序列之争 | 2017 | 完成 |
 | M004 | Shakugan no Shana: The Movie | 灼眼的夏娜剧场版 | 2007 | 计划 |
 | M005 | [A Silent Voice](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M005]A_Silent_Voice) | 声之形 | 2016 | 完成 |
-| M006 | My Neighbor Totoro | 龙猫 | 1988 | 完成 |
+| M006 | [My Neighbor Totoro](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M006]My_Neighbor_Totoro) | 龙猫 | 1988 | 完成 |
 | M007 | Castle in the Sky | 天空之城 | 1986 | 计划 |
 | M008 | Kiki's Delivery Service | 魔女宅急便 | 1989 | 计划 |
 | M009 | Howl's Moving Castle | 哈尔的移动城堡 | 2004 | 计划 |
