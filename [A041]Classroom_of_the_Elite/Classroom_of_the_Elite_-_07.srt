@@ -1,2091 +1,1657 @@
 ﻿1
-00:00:10,625 --> 00:00:18,375
-[bell ringing]
-
-2
-00:00:24,250 --> 00:00:29,208
-♪♪♪
-
-3
-00:00:41,333 --> 00:00:44,166
-[yawns]
-
-4
-00:00:45,708 --> 00:00:47,875
-[SUZUNE]
+00:00:36,551 --> 00:00:38,718
 The semester was over at last.
 
-5
-00:00:47,958 --> 00:00:51,291
-We'd finished finals and
-started summer vacation.
+2
+00:00:38,801 --> 00:00:42,134
+We'd finished finals and started summer vacation.
 
-6
-00:00:58,916 --> 00:01:02,166
-[phone chimes]
-
-7
-00:01:08,291 --> 00:01:09,458
-[SUZUNE]
+3
+00:00:59,134 --> 00:01:00,301
 Huh...?
 
-8
-00:01:18,250 --> 00:01:19,500
-[SUZUNE sighs]
+4
+00:01:13,176 --> 00:01:15,593
+Can't you take a hint? I don't want to talk to you.
 
-9
-00:01:22,333 --> 00:01:24,750
-Can't you take a hint?
-I don't want to talk to you.
-
-10
-00:01:24,833 --> 00:01:25,916
-[AYANOKOJI]
+5
+00:01:15,676 --> 00:01:16,759
 Horikita.
 
-11
-00:01:26,000 --> 00:01:27,458
+6
+00:01:16,843 --> 00:01:18,301
 What now?
 
-12
-00:01:27,541 --> 00:01:29,916
-[AYANOKOJI] Listen, do you want
-to go swimming with me t--?
+7
+00:01:18,384 --> 00:01:20,759
+Listen, do you want to go swimming with me?
 
-13
-00:03:08,041 --> 00:03:09,458
-[IKE]
+8
+00:02:58,884 --> 00:03:00,301
 This is the worst.
 
-14
-00:03:09,541 --> 00:03:11,791
-[KEN]
+9
+00:03:00,384 --> 00:03:02,634
 Where the hell is he?
 
-15
-00:03:16,500 --> 00:03:18,041
+10
+00:03:07,343 --> 00:03:08,884
 My apologies for being late.
 
-16
-00:03:18,125 --> 00:03:20,875
-[KEN] I thought I said to make
-sure you got here on time, dude!
+11
+00:03:08,968 --> 00:03:11,718
+I thought I said to make sure you got here on time, dude!
 
-17
-00:03:20,958 --> 00:03:22,083
-[IKE]
+12
+00:03:11,801 --> 00:03:12,926
 Whatever.
 
-18
-00:03:22,166 --> 00:03:23,875
-Did you at least bring
-everything we need?
+13
+00:03:13,009 --> 00:03:14,718
+Did you at least bring everything we need?
 
-19
-00:03:23,958 --> 00:03:26,583
-[YAMAUCHI]
+14
+00:03:14,801 --> 00:03:17,426
 Yeah, of course I did.
 
-20
-00:03:26,666 --> 00:03:28,833
-[IKE] Better make sure
-you set it up right.
+15
+00:03:17,509 --> 00:03:19,676
+Better make sure you set it up right.
 
-21
-00:03:28,916 --> 00:03:30,750
-[HIDEO]
+16
+00:03:19,759 --> 00:03:21,593
 Time to implement Operation:
 
-22
-00:03:30,833 --> 00:03:33,625
-Peep on the Girl's
-Dressing Room.
+17
+00:03:21,676 --> 00:03:24,468
+Peep on the Girl's Dressing Room.
 
-23
-00:03:33,708 --> 00:03:36,750
-This ought to help alleviate
-our frustration a little bit.
+18
+00:03:24,551 --> 00:03:27,593
+This ought to help alleviate our frustration a little bit.
 
-24
-00:03:52,416 --> 00:03:55,541
-[sighs] I've got a bad feeling.
+19
+00:03:43,259 --> 00:03:46,384
+I've got a bad feeling.
 
-25
-00:03:55,625 --> 00:03:57,791
-[HIRATA]
+20
+00:03:46,468 --> 00:03:48,634
 Oh? Hey, look! It's Horikita!
 
-26
-00:03:57,875 --> 00:03:59,750
-Man, it's been forever.
-What's up?
+21
+00:03:48,718 --> 00:03:50,593
+Man, it's been forever. What's up?
 
-27
-00:03:59,833 --> 00:04:02,541
-Wow, Suzune, there were rumors
-you had died or something.
+22
+00:03:50,676 --> 00:03:53,384
+Wow, Suzune, there were rumors you had died or something.
 
-28
-00:04:02,625 --> 00:04:04,166
-No one in school had
-seen a trace of you
+23
+00:03:53,468 --> 00:03:55,009
+No one in school had seen a trace of you
 
-29
-00:04:04,250 --> 00:04:05,708
+24
+00:03:55,093 --> 00:03:56,551
 since summer break started.
 
-30
-00:04:05,791 --> 00:04:09,000
-I had no real reason to
-see any of you people.
+25
+00:03:56,634 --> 00:03:59,843
+I had no real reason to see any of you people.
 
-31
-00:04:09,083 --> 00:04:10,541
-[SUZUNE]
+26
+00:03:59,926 --> 00:04:01,384
 Kei Karuizawa.
 
-32
-00:04:10,625 --> 00:04:13,291
-Kushida leads one of the
-two cliques in Class D.
+27
+00:04:01,468 --> 00:04:04,134
+Kushida leads one of the two cliques in Class D.
 
-33
-00:04:13,375 --> 00:04:14,833
+28
+00:04:04,218 --> 00:04:05,676
 Kei leads the other.
 
-34
-00:04:14,916 --> 00:04:16,875
-Dating Hirata has
-increased her influence
+29
+00:04:05,759 --> 00:04:07,718
+Dating Hirata has increased her influence
 
-35
-00:04:16,958 --> 00:04:20,958
-over our class exponentially,
-and it's easy to see why.
+30
+00:04:07,801 --> 00:04:11,801
+over our class exponentially, and it's easy to see why.
 
-36
-00:04:21,041 --> 00:04:23,041
-And as far as Yosuke
-Hirata goes...
+31
+00:04:11,884 --> 00:04:13,884
+And as far as Yosuke Hirata goes...
 
-37
-00:04:23,125 --> 00:04:25,541
-He's a central figure
-among the Class D boys.
+32
+00:04:13,968 --> 00:04:16,384
+He's a central figure among the Class D boys.
 
-38
-00:04:25,625 --> 00:04:26,833
+33
+00:04:16,468 --> 00:04:17,676
 He's an above-average athlete,
 
-39
-00:04:26,916 --> 00:04:28,625
-and his grades are
-decent enough.
+34
+00:04:17,759 --> 00:04:19,468
+and his grades are decent enough.
 
-40
-00:04:28,708 --> 00:04:30,333
+35
+00:04:19,551 --> 00:04:21,176
 He's gregarious, too.
 
-41
-00:04:30,416 --> 00:04:32,083
-I haven't yet figured
-out how he ended up
+36
+00:04:21,259 --> 00:04:22,926
+I haven't yet figured out how he ended up
 
-42
-00:04:32,166 --> 00:04:34,958
-in the loser class in
-the first place.
+37
+00:04:23,009 --> 00:04:25,801
+in the loser class in the first place.
 
-43
-00:04:35,041 --> 00:04:36,833
+38
+00:04:25,884 --> 00:04:27,676
 Look, Horikita.
 
-44
-00:04:36,916 --> 00:04:39,041
-Why don't you hang out with
-the D Class peeps sometime.
+39
+00:04:27,759 --> 00:04:29,884
+Why don't you hang out with the D Class peeps sometime.
 
-45
-00:04:39,125 --> 00:04:40,625
-It wouldn't hurt
-to give it a shot.
+40
+00:04:29,968 --> 00:04:31,468
+It wouldn't hurt to give it a shot.
 
-46
-00:04:40,708 --> 00:04:42,000
+41
+00:04:31,551 --> 00:04:32,843
 I'll pass, thanks.
 
-47
-00:04:42,083 --> 00:04:44,208
-I have no need to,
-"give it a shot," as you say.
+42
+00:04:32,926 --> 00:04:35,051
+I have no need to, "give it a shot," as you say.
 
-48
-00:04:44,291 --> 00:04:46,458
-My time would be better
-spent studying or reading.
+43
+00:04:35,134 --> 00:04:37,301
+My time would be better spent studying or reading.
 
-49
-00:04:46,541 --> 00:04:48,625
-[KARUIZAWA] Well, that's
-just fine with us, then.
+44
+00:04:37,384 --> 00:04:39,468
+Well, that's just fine with us, then.
 
-50
-00:04:48,708 --> 00:04:50,125
+45
+00:04:39,551 --> 00:04:40,968
 Let's get going, Hirata.
 
-51
-00:04:50,208 --> 00:04:51,541
-She doesn't think
-we're worth her time,
+46
+00:04:41,051 --> 00:04:42,384
+She doesn't think we're worth her time,
 
-52
-00:04:51,625 --> 00:04:53,500
-so why should we
-bother with her?
+47
+00:04:42,468 --> 00:04:44,343
+so why should we bother with her?
 
-53
-00:04:53,583 --> 00:04:56,833
+48
+00:04:44,426 --> 00:04:47,676
 'Kay, let's go. Later, Horikita.
 
-54
-00:04:56,916 --> 00:04:58,416
-[SUZUNE]
+49
+00:04:47,759 --> 00:04:49,259
 I don't need friends.
 
-55
-00:04:58,500 --> 00:04:59,916
-I've made it this
-far without them,
+50
+00:04:49,343 --> 00:04:50,759
+I've made it this far without them,
 
-56
-00:05:00,000 --> 00:05:03,166
+51
+00:04:50,843 --> 00:04:54,009
 why should I change my tack now?
 
-57
-00:05:03,250 --> 00:05:04,583
+52
+00:04:54,093 --> 00:04:55,426
 So, then...
 
-58
-00:05:04,666 --> 00:05:08,291
-What the heck am I even doing
-here with these idiots?
+53
+00:04:55,509 --> 00:04:59,134
+What the heck am I even doing here with these idiots?
 
-59
-00:05:08,375 --> 00:05:12,500
-[KIKYO ] I'm so excited that you
-decided to come, too, Horikita!
+54
+00:04:59,218 --> 00:05:03,343
+I'm so excited that you decided to come, too, Horikita!
 
-60
-00:05:12,583 --> 00:05:14,125
-[SUZUNE]
+55
+00:05:03,426 --> 00:05:04,968
 Kikyo Kushida.
 
+56
+00:05:05,051 --> 00:05:06,509
+She's the picture of benevolence.
+
+57
+00:05:06,593 --> 00:05:09,259
+Liked equally by both girls and guys alike.
+
+58
+00:05:09,343 --> 00:05:11,551
+And yet, I suspect that she hates me.
+
+59
+00:05:11,634 --> 00:05:13,509
+I have a strange feeling about her.
+
+60
+00:05:13,593 --> 00:05:16,176
+Honestly, I hope that this trip is what finally leads us
+
 61
-00:05:14,208 --> 00:05:15,666
-She's the picture
-of benevolence.
-
-62
-00:05:15,750 --> 00:05:18,416
-Liked equally by both
-girls and guys alike.
-
-63
-00:05:18,500 --> 00:05:20,708
-And yet, I suspect
-that she hates me.
-
-64
-00:05:20,791 --> 00:05:22,666
-I have a strange
-feeling about her.
-
-65
-00:05:22,750 --> 00:05:25,333
-Honestly, I hope that this trip
-is what finally leads us
-
-66
-00:05:25,416 --> 00:05:27,375
+00:05:16,259 --> 00:05:18,218
 to friendship! Yay!
 
-67
-00:05:27,458 --> 00:05:28,875
-[SUZUNE]
+62
+00:05:18,301 --> 00:05:19,718
 She's an enigma.
 
-68
-00:05:28,958 --> 00:05:32,250
+63
+00:05:19,801 --> 00:05:23,093
 Who doggedly pursues friendships
 with the people they hate?
 
-69
-00:05:32,333 --> 00:05:34,291
+64
+00:05:23,176 --> 00:05:25,134
 I don't get it.
 
-70
-00:05:34,375 --> 00:05:35,541
+65
+00:05:25,218 --> 00:05:26,384
 What's the matter?
 
-71
-00:05:35,625 --> 00:05:38,375
-Are we still waiting on
-Ike, Yamauchi, and Sudo?
+66
+00:05:26,468 --> 00:05:29,218
+Are we still waiting on Ike, Yamauchi, and Sudo?
 
-72
-00:05:38,458 --> 00:05:39,833
-I thought they were
-coming with us.
+67
+00:05:29,301 --> 00:05:30,676
+I thought they were coming with us.
 
-73
-00:05:39,916 --> 00:05:41,416
+68
+00:05:30,759 --> 00:05:32,259
 Yeah, me, too. I don't know.
 
-74
-00:05:41,500 --> 00:05:43,500
-[IKE]
+69
+00:05:32,343 --> 00:05:34,343
 Hey, you guys. Sorry we're late!
 
-75
-00:05:43,583 --> 00:05:46,416
-We all just overslept.
-Can you believe it?
+70
+00:05:34,426 --> 00:05:37,259
+We all just overslept. Can you believe it?
 
-76
-00:05:46,500 --> 00:05:47,875
+71
+00:05:37,343 --> 00:05:38,718
 You overslept?
 
-77
-00:05:47,958 --> 00:05:50,250
-But you three're coming from
-the direction of the pool.
+72
+00:05:38,801 --> 00:05:41,093
+But you three're coming from the direction of the pool.
 
-78
-00:05:50,333 --> 00:05:51,541
-[ALL gasp]
-
-79
-00:05:51,625 --> 00:05:53,708
-[IKE laughs nervously]
+73
+00:05:42,468 --> 00:05:44,551
 Uh, yeah.
 
-80
-00:05:53,791 --> 00:05:55,708
-[YAMAUCHI] It's super not
-important or anything, okay?
+74
+00:05:44,634 --> 00:05:46,551
+It's super not important or anything, okay?
 
-81
-00:05:55,791 --> 00:05:58,791
+75
+00:05:46,634 --> 00:05:49,634
 Right, don't worry about that.
 Hadn't we better get going now?
 
-82
-00:05:58,875 --> 00:06:01,541
+76
+00:05:49,718 --> 00:05:52,384
 Yeah, time's wasting. Let's go!
 
-83
-00:06:03,333 --> 00:06:06,416
-[clicking]
-
-84
-00:06:12,541 --> 00:06:15,000
-[clicking continues]
-
-85
-00:06:21,375 --> 00:06:22,583
-[ICHINOSE]
+77
+00:06:12,218 --> 00:06:13,426
 Oh, my gosh!
 
-86
-00:06:22,666 --> 00:06:25,333
+78
+00:06:13,509 --> 00:06:16,176
 Hey, you guys!
 
-87
-00:06:25,416 --> 00:06:27,750
-Are you all headed
-to the pool, too?
+79
+00:06:16,259 --> 00:06:18,593
+Are you all headed to the pool, too?
 
-88
-00:06:30,000 --> 00:06:31,583
-[ICHINOSE] Today's the last
-day the pool's open,
+80
+00:06:20,843 --> 00:06:22,426
+Today's the last day the pool's open,
 
-89
-00:06:31,666 --> 00:06:32,958
-so we'd better make
-the most of it.
+81
+00:06:22,509 --> 00:06:23,801
+so we'd better make the most of it.
 
-90
-00:06:33,041 --> 00:06:36,208
-[KIKYO] Yeah. Some other
-people might be coming, too.
+82
+00:06:23,884 --> 00:06:27,051
+Yeah. Some other people might be coming, too.
 
-91
-00:06:36,291 --> 00:06:38,666
-How long has your
-chest been that big?
+83
+00:06:27,134 --> 00:06:29,509
+How long has your chest been that big?
 
-92
-00:06:38,750 --> 00:06:41,041
+84
+00:06:29,593 --> 00:06:31,884
 What?! That's awkward.
 
-93
-00:06:41,125 --> 00:06:43,500
-I guess it started in the third
-year of middle school.
+85
+00:06:31,968 --> 00:06:34,343
+I guess it started in the third year of middle school.
 
-94
-00:06:43,583 --> 00:06:46,125
-Then, they just kept
-getting bigger.
+86
+00:06:34,426 --> 00:06:36,968
+Then, they just kept getting bigger.
 
-95
-00:06:46,208 --> 00:06:47,625
+87
+00:06:37,051 --> 00:06:38,468
 Why do you ask?
 
-96
-00:06:47,708 --> 00:06:49,875
+88
+00:06:38,551 --> 00:06:40,718
 Oh, no particular reason.
 
-97
-00:06:49,958 --> 00:06:51,458
-But I see why you
-always seem to have
+89
+00:06:40,801 --> 00:06:42,301
+But I see why you always seem to have
 
-98
-00:06:51,541 --> 00:06:53,166
-more on your plate
-than you can handle.
+90
+00:06:42,384 --> 00:06:44,009
+more on your plate than you can handle.
 
-99
-00:06:53,250 --> 00:06:54,750
-[KIKYO]
+91
+00:06:44,093 --> 00:06:45,593
 Hey, I just realized!
 
-100
-00:06:54,833 --> 00:06:57,416
+92
+00:06:45,676 --> 00:06:48,259
 This is the first time you've
 hung out with all of us, Sakura!
 
-101
-00:06:57,500 --> 00:06:58,625
+93
+00:06:48,343 --> 00:06:49,468
 Exciting!
 
-102
-00:06:58,708 --> 00:07:00,250
+94
+00:06:49,551 --> 00:06:51,093
 Do you like to go swimming?
 
-103
-00:07:00,333 --> 00:07:01,458
+95
+00:06:51,176 --> 00:06:52,301
 Um. No.
 
-104
-00:07:01,541 --> 00:07:03,250
+96
+00:06:52,384 --> 00:06:54,093
 I'm not really a fan of it.
 
-105
-00:07:03,333 --> 00:07:06,125
-I'm only here because
-Ayanokoji invited me.
+97
+00:06:54,176 --> 00:06:56,968
+I'm only here because Ayanokoji invited me.
 
-106
-00:07:06,208 --> 00:07:07,541
-[ICHINOSE]
+98
+00:06:57,051 --> 00:06:58,384
 Oh, I see now!
 
-107
-00:07:07,625 --> 00:07:09,875
-You came along because you
-have a crush on him, then!
+99
+00:06:58,468 --> 00:07:00,718
+You came along because you have a crush on him, then!
 
-108
-00:07:09,958 --> 00:07:12,291
-[SAKURA]
+100
+00:07:00,801 --> 00:07:03,134
 No. I-It's not like that.
 
-109
-00:07:12,375 --> 00:07:13,875
-[KIKYO]
+101
+00:07:03,218 --> 00:07:04,718
 It's interesting.
 
-110
-00:07:13,958 --> 00:07:17,083
+102
+00:07:04,801 --> 00:07:07,926
 I've noticed a lot more people
 hanging around Ayanokoji lately.
 
-111
-00:07:17,166 --> 00:07:19,541
-He and Ichinose seem
-to have gotten really close.
+103
+00:07:08,009 --> 00:07:10,384
+He and Ichinose seem to have gotten really close.
 
-112
-00:07:19,625 --> 00:07:20,791
+104
+00:07:10,468 --> 00:07:11,634
 Have you noticed?
 
-113
-00:07:20,875 --> 00:07:22,250
-[SUZUNE]
+105
+00:07:11,718 --> 00:07:13,093
 I have.
 
-114
-00:07:22,916 --> 00:07:24,458
-[SUZUNE]
+106
+00:07:13,759 --> 00:07:15,301
 Honami Ichinose.
 
-115
-00:07:24,541 --> 00:07:26,791
-The central female
-figure in Class B.
+107
+00:07:15,384 --> 00:07:17,634
+The central female figure in Class B.
 
-116
-00:07:26,875 --> 00:07:28,250
+108
+00:07:17,718 --> 00:07:19,093
 She came through for Class D
 
-117
-00:07:28,333 --> 00:07:31,583
-during an incident
-in the first term.
+109
+00:07:19,176 --> 00:07:22,426
+during an incident in the first term.
 
-118
-00:07:31,666 --> 00:07:33,791
+110
+00:07:22,509 --> 00:07:24,634
 But I find her hard to read.
 
-119
-00:07:33,875 --> 00:07:35,041
+111
+00:07:24,718 --> 00:07:25,884
 What do you think, Horikita?
 
-120
-00:07:35,125 --> 00:07:37,041
-I bet that makes
-you nervous, huh.
+112
+00:07:25,968 --> 00:07:27,884
+I bet that makes you nervous, huh.
 
-121
-00:07:37,125 --> 00:07:39,916
-[SUZUNE] Ayanokoji's social
-habits make no difference to me.
+113
+00:07:27,968 --> 00:07:30,759
+Ayanokoji's social habits make no difference to me.
 
-122
-00:07:40,000 --> 00:07:41,916
-I have no feelings
-whatsoever on the matter.
+114
+00:07:30,843 --> 00:07:32,759
+I have no feelings whatsoever on the matter.
 
-123
-00:07:42,000 --> 00:07:44,625
+115
+00:07:32,843 --> 00:07:35,468
 Uh? Oh, really?
 
-124
-00:08:01,666 --> 00:08:03,500
+116
+00:07:52,509 --> 00:07:54,343
 Operation Young Lust: Phase Two.
 
-125
-00:08:03,583 --> 00:08:07,041
-This is HQ, operatives.
-Let's get this party started.
+117
+00:07:54,426 --> 00:07:57,884
+This is HQ, operatives. Let's get this party started.
 
-126
-00:08:07,125 --> 00:08:09,083
-Time limit is
-the end of the day.
+118
+00:07:57,968 --> 00:07:59,926
+Time limit is the end of the day.
 
-127
-00:08:09,166 --> 00:08:10,708
-We've got until
-the targets go home.
+119
+00:08:00,009 --> 00:08:01,551
+We've got until the targets go home.
 
-128
-00:08:10,791 --> 00:08:12,708
-[IKE]
+120
+00:08:01,634 --> 00:08:03,551
 Argos-One here. Roger that.
 
-129
-00:08:12,791 --> 00:08:15,166
-[KIKYO gasping]
+121
+00:08:11,759 --> 00:08:14,718
+--Ah! You got me! --Take that!
 
-130
-00:08:20,916 --> 00:08:23,875
---[GIRL 7B] Ah! You got me!
---[GIRL 7C] Take that!
+122
+00:08:14,801 --> 00:08:17,301
+All right, it's time to have some fun!
 
-131
-00:08:23,958 --> 00:08:26,458
-[ICHINOSE] All right,
-it's time to have some fun!
-
-132
-00:08:26,541 --> 00:08:28,083
-[KEN, IKE cheer]
-
-133
-00:08:28,166 --> 00:08:31,041
+123
+00:08:19,009 --> 00:08:21,884
 Sakura, are you wearing a wet
 suit so you don't get sunburned?
 
-134
-00:08:31,125 --> 00:08:33,083
-No, I just don't like
-showing too much skin
+124
+00:08:21,968 --> 00:08:23,926
+No, I just don't like showing too much skin
 
-135
-00:08:33,166 --> 00:08:34,166
+125
+00:08:24,009 --> 00:08:25,009
 in front of other people.
 
-136
-00:08:34,250 --> 00:08:35,791
-[KEN, IKE]
+126
+00:08:25,093 --> 00:08:26,634
 Ow!
 
-137
-00:08:35,875 --> 00:08:38,125
-[KIKYO] I got a brand new
-swimsuit, you like?
+127
+00:08:26,718 --> 00:08:28,968
+I got a brand new swimsuit, you like?
 
-138
-00:08:38,208 --> 00:08:39,875
-[KEN, IKE]
+128
+00:08:29,051 --> 00:08:30,718
 Oh yeah, we like!
 
-139
-00:08:39,958 --> 00:08:42,791
-Uh? Hey, guys.
-Where did Yamauchi go?
+129
+00:08:30,801 --> 00:08:33,634
+Uh? Hey, guys. Where did Yamauchi go?
 
-140
-00:08:42,875 --> 00:08:43,708
-[BOTH gasp]
-
-141
-00:08:43,791 --> 00:08:46,125
-[BOTH chattering]
-
-142
-00:08:46,208 --> 00:08:47,875
+130
+00:08:37,051 --> 00:08:38,718
 How did we lose him so soon?
 
-143
-00:08:47,958 --> 00:08:49,041
+131
+00:08:38,801 --> 00:08:39,884
 Maybe we should go look for him.
 
-144
-00:08:49,125 --> 00:08:51,375
-It's okay, there's
-no need! Don't worry!
+132
+00:08:39,968 --> 00:08:42,218
+It's okay, there's no need! Don't worry!
 
-145
-00:08:51,458 --> 00:08:53,583
-I bet he's in the bathroom.
-Let's focus on having fun!
+133
+00:08:42,301 --> 00:08:44,426
+I bet he's in the bathroom. Let's focus on having fun!
 
-146
-00:08:53,666 --> 00:08:55,833
-[KEN] Oh! Look, there's a
-volleyball court over there!
+134
+00:08:44,509 --> 00:08:46,676
+Oh! Look, there's a volleyball court over there!
 
-147
-00:08:55,916 --> 00:08:57,958
-Let's go play!
-We should go play right now!
+135
+00:08:46,759 --> 00:08:48,801
+Let's go play! We should go play right now!
 
-148
-00:08:58,041 --> 00:09:01,250
-Fine. But, like, why are you
-freaking out about it?
+136
+00:08:48,884 --> 00:08:52,093
+Fine. But, like, why are you freaking out about it?
 
-149
-00:09:16,041 --> 00:09:17,416
-[SAKURA]
+137
+00:09:06,884 --> 00:09:08,259
 Listen.
 
-150
-00:09:17,500 --> 00:09:20,041
-I'm not very good at sports,
-so maybe I shouldn't play.
+138
+00:09:08,343 --> 00:09:10,884
+I'm not very good at sports, so maybe I shouldn't play.
 
-151
-00:09:20,125 --> 00:09:21,458
-[KIKYO]
+139
+00:09:10,968 --> 00:09:12,301
 No, you should play!
 
-152
-00:09:21,541 --> 00:09:24,500
-We have some strong boys
-on our team, so don't worry!
+140
+00:09:12,384 --> 00:09:15,343
+We have some strong boys on our team, so don't worry!
 
-153
-00:09:24,583 --> 00:09:26,333
-[ICHINOSE]
+141
+00:09:15,426 --> 00:09:17,176
 Okay, here we go!
 
-154
-00:09:26,416 --> 00:09:28,375
+142
+00:09:17,259 --> 00:09:19,218
 Take that!
 
-155
-00:09:29,625 --> 00:09:31,333
+143
+00:09:20,468 --> 00:09:22,176
 I hope it's not too crowded.
 
-156
-00:09:31,416 --> 00:09:33,666
-I left my sunscreen.
-Can I use yours?
+144
+00:09:22,259 --> 00:09:24,509
+I left my sunscreen. Can I use yours?
 
-157
-00:09:33,750 --> 00:09:35,291
-[gasps]
-
-158
-00:09:35,375 --> 00:09:36,791
-[MATSUSHITA]
+145
+00:09:26,218 --> 00:09:27,634
 Hey, what's this about?
 
-159
-00:09:36,875 --> 00:09:39,041
+146
+00:09:27,718 --> 00:09:29,884
 Where are we supposed to change?
 
-160
-00:09:39,125 --> 00:09:42,958
-[YAMAUCHI grunting]
+147
+00:09:33,884 --> 00:09:36,051
+Damn it! The camera won't cooperate with me at all.
 
-161
-00:09:43,041 --> 00:09:45,208
-Damn it! The camera won't
-cooperate with me at all.
-
-162
-00:09:45,291 --> 00:09:47,166
+148
+00:09:36,134 --> 00:09:38,009
 What am I supposed to do now?
 
-163
-00:09:47,250 --> 00:09:50,708
-[ICHINOSE]
+149
+00:09:38,093 --> 00:09:41,551
 Uh? What's going on over there?
 
-164
-00:09:50,791 --> 00:09:51,916
+150
+00:09:41,634 --> 00:09:42,759
 It's the line for the bathroom.
 
-165
-00:09:52,000 --> 00:09:53,583
-You think something
-bad happened?
+151
+00:09:42,843 --> 00:09:44,426
+You think something bad happened?
 
-166
-00:09:53,666 --> 00:09:54,916
-I guess we should
-go check it out.
+152
+00:09:44,509 --> 00:09:45,759
+I guess we should go check it out.
 
-167
-00:09:55,000 --> 00:09:56,375
-[IKE]
+153
+00:09:45,843 --> 00:09:47,218
 No! Stay right here!
 
-168
-00:09:56,458 --> 00:09:58,791
-Who even cares about the stupid
-line for the bathrooms
+154
+00:09:47,301 --> 00:09:49,634
+Who even cares about the stupid line for the bathrooms
 
-169
-00:09:58,875 --> 00:10:01,125
+155
+00:09:49,718 --> 00:09:51,968
 when we've got a game to win?!
 
-170
-00:10:01,208 --> 00:10:02,666
-[BOTH gasp]
-
-171
-00:10:02,750 --> 00:10:04,791
+156
+00:09:53,593 --> 00:09:55,634
 Huh. What's wrong with Ike?
 
-172
-00:10:04,875 --> 00:10:05,875
+157
+00:09:55,718 --> 00:09:56,718
 I don't know.
 
-173
-00:10:05,958 --> 00:10:08,416
-Maybe he's just always
-been this weird.
+158
+00:09:56,801 --> 00:09:59,259
+Maybe he's just always been this weird.
 
-174
-00:10:10,291 --> 00:10:11,833
-[HIDEO]
+159
+00:10:01,134 --> 00:10:02,676
 HQ here, come in.
 
-175
-00:10:11,916 --> 00:10:12,833
+160
+00:10:02,759 --> 00:10:03,676
 Argos-two.
 
-176
-00:10:12,916 --> 00:10:14,458
+161
+00:10:03,759 --> 00:10:05,301
 Awaiting your report.
 
-177
-00:10:14,541 --> 00:10:17,208
-[YAMAUCHI panting]
+162
+00:10:08,134 --> 00:10:10,801
+You there, Argos-two? What's happening?
 
-178
-00:10:17,291 --> 00:10:19,958
-You there, Argos-two?
-What's happening?
-
-179
-00:10:20,041 --> 00:10:22,083
-[clinking]
-
-180
-00:10:22,166 --> 00:10:23,666
+163
+00:10:13,009 --> 00:10:14,509
 I'm having major trouble.
 
-181
-00:10:23,750 --> 00:10:27,083
-A failure like me just isn't cut
-out for this kind of work.
+164
+00:10:14,593 --> 00:10:17,926
+A failure like me just isn't
+cut out for this kind of work.
 
-182
-00:10:27,166 --> 00:10:29,208
+165
+00:10:18,009 --> 00:10:20,051
 I don't think I can do it.
 
-183
-00:10:29,291 --> 00:10:30,708
-[HIDEO]
+166
+00:10:20,134 --> 00:10:21,551
 You must keep the faith.
 
-184
-00:10:30,791 --> 00:10:31,958
-[gasps]
+167
+00:10:22,884 --> 00:10:25,259
+Faith in yourself, and in your allies
 
-185
-00:10:32,041 --> 00:10:34,416
-[HIDEO] Faith in yourself,
-and in your allies
+168
+00:10:25,343 --> 00:10:28,051
+who have placed their faith in you.
 
-186
-00:10:34,500 --> 00:10:37,208
-who have placed
-their faith in you.
+169
+00:10:28,134 --> 00:10:30,968
+Don't stop believing in the cause.
 
-187
-00:10:37,291 --> 00:10:40,125
-Don't stop believing
-in the cause.
-
-188
-00:10:40,208 --> 00:10:41,458
+170
+00:10:31,051 --> 00:10:32,301
 Boo-yah!
 
-189
-00:10:41,541 --> 00:10:44,125
-[CHIHIRO]
-I can't! [sighs]
+171
+00:10:32,384 --> 00:10:34,968
+I can't!
 
-190
-00:10:44,208 --> 00:10:46,791
-Hey, Yamauchi's been gone
-a really long time.
+172
+00:10:35,051 --> 00:10:37,634
+Hey, Yamauchi's been gone a really long time.
 
-191
-00:10:46,875 --> 00:10:49,333
+173
+00:10:37,718 --> 00:10:40,176
 I think we should go out looking
 for him now, don't you agree?
 
-192
-00:10:49,416 --> 00:10:50,750
+174
+00:10:40,259 --> 00:10:41,593
 Uh. No way!
 
-193
-00:10:50,833 --> 00:10:52,958
-Don't worry, Kushida.
-I'm sure he just got distracted!
+175
+00:10:41,676 --> 00:10:43,801
+Don't worry, Kushida. I'm sure he just got distracted!
 
-194
-00:10:53,041 --> 00:10:54,916
-[KIKYO] But something bad
-could've happened to him.
+176
+00:10:43,884 --> 00:10:45,759
+But something bad could've happened to him.
 
-195
-00:10:55,000 --> 00:10:56,875
-Aren't you at least a
-little bit concerned?
+177
+00:10:45,843 --> 00:10:47,718
+Aren't you at least a little bit concerned?
 
-196
-00:10:56,958 --> 00:10:58,875
-[IKE]
+178
+00:10:47,801 --> 00:10:49,718
 No, no! I'm sure he's just fine!
 
-197
-00:10:58,958 --> 00:11:01,208
-But, Ike. He's your
-friend, isn't he?
+179
+00:10:49,801 --> 00:10:52,051
+But, Ike. He's your friend, isn't he?
 
-198
-00:11:01,291 --> 00:11:02,875
-Shouldn't you be
-worried about him?
+180
+00:10:52,134 --> 00:10:53,718
+Shouldn't you be worried about him?
 
-199
-00:11:02,958 --> 00:11:04,291
-[IKE]
+181
+00:10:53,801 --> 00:10:55,134
 Uh. Wait.
 
-200
-00:11:04,375 --> 00:11:06,458
-She'll think I'm shallow
-if I keep hiding things!
+182
+00:10:55,218 --> 00:10:57,301
+She'll think I'm shallow if I keep hiding things!
 
-201
-00:11:06,541 --> 00:11:07,625
+183
+00:10:57,384 --> 00:10:58,468
 If manga's taught me anything,
 
-202
-00:11:07,708 --> 00:11:09,333
-it's that chicks love
-male friendships.
+184
+00:10:58,551 --> 00:11:00,176
+it's that chicks love male friendships.
 
-203
-00:11:09,416 --> 00:11:12,000
-I can't! If I'm not concerned,
-she might hate me!
+185
+00:11:00,259 --> 00:11:02,843
+I can't! If I'm not concerned, she might hate me!
 
-204
-00:11:12,083 --> 00:11:16,125
-No, no, no, I can't give up
-the cause just for her sake!
+186
+00:11:02,926 --> 00:11:06,968
+No, no, no, I can't give up the cause just for her sake!
 
-205
-00:11:16,208 --> 00:11:17,208
-[gasps]
-
-206
-00:11:17,291 --> 00:11:20,750
-[clicking]
-
-207
-00:11:30,166 --> 00:11:32,458
-[HIDEO growling]
-
-208
-00:11:34,875 --> 00:11:36,583
+187
+00:11:25,718 --> 00:11:27,426
 HQ here, checking in.
 
-209
-00:11:36,666 --> 00:11:39,625
+188
+00:11:27,509 --> 00:11:30,468
 Argos-two. You're out of time.
 
-210
-00:11:39,708 --> 00:11:41,416
+189
+00:11:30,551 --> 00:11:32,259
 You must abandon the mission.
 
-211
-00:11:41,500 --> 00:11:43,541
+190
+00:11:32,343 --> 00:11:34,384
 Return to the base at once.
 
-212
-00:11:43,625 --> 00:11:44,791
-[YAMAUCHI]
+191
+00:11:34,468 --> 00:11:35,634
 Forgive me.
 
-213
-00:11:44,875 --> 00:11:46,500
+192
+00:11:35,718 --> 00:11:37,343
 I am incompetent.
 
-214
-00:11:46,583 --> 00:11:47,916
+193
+00:11:37,426 --> 00:11:38,759
 I'm sorry.
 
-215
-00:11:48,000 --> 00:11:50,791
-[KEN] Apologizing is not going
-to fix anything now!
+194
+00:11:38,843 --> 00:11:41,634
+Apologizing is not going to fix anything now!
 
-216
-00:11:50,875 --> 00:11:52,958
-[IKE] I'm sorry. But I
-didn't want Kushida
+195
+00:11:41,718 --> 00:11:43,801
+I'm sorry. But I didn't want Kushida
 
-217
-00:11:53,041 --> 00:11:54,708
+196
+00:11:43,884 --> 00:11:45,551
 to hate me over this!
 
-218
-00:11:54,791 --> 00:11:56,458
-[KIKYO] Seriously, guys,
-let's go look for him!
+197
+00:11:45,634 --> 00:11:47,301
+Seriously, guys, let's go look for him!
 
-219
-00:11:56,541 --> 00:11:58,458
+198
+00:11:47,384 --> 00:11:49,301
 Let's all play some volleyball!
 
-220
-00:11:58,541 --> 00:11:59,833
+199
+00:11:49,384 --> 00:11:50,676
 Yamauchi's back!
 
-221
-00:11:59,916 --> 00:12:02,875
-[YAMAUCHI] Wow, the line
-for the bathroom was insane!
+200
+00:11:50,759 --> 00:11:53,718
+Wow, the line for the bathroom was insane!
 
-222
-00:12:02,958 --> 00:12:04,208
+201
+00:11:53,801 --> 00:11:55,051
 It was?
 
-223
-00:12:04,291 --> 00:12:06,416
-Still, I'm relieved you're back.
-I was so worried.
+202
+00:11:55,134 --> 00:11:57,259
+Still, I'm relieved you're back. I was so worried.
 
-224
-00:12:06,500 --> 00:12:09,083
-So, um, now that Yamauchi's
-back in the game,
+203
+00:11:57,343 --> 00:11:59,926
+So, um, now that Yamauchi's back in the game,
 
-225
-00:12:09,166 --> 00:12:10,458
-do you think it
-would be okay--
+204
+00:12:00,009 --> 00:12:01,301
+do you think it would be okay--
 
-226
-00:12:10,541 --> 00:12:13,083
+205
+00:12:01,384 --> 00:12:03,926
 Ah! My stomach's killing me!
 
-227
-00:12:13,166 --> 00:12:15,416
-I've gotta go to the
-bathroom right now!
+206
+00:12:04,009 --> 00:12:06,259
+I've gotta go to the bathroom right now!
 
-228
-00:12:15,500 --> 00:12:17,791
+207
+00:12:06,343 --> 00:12:08,634
 ...rotate out.
 
-229
-00:12:19,625 --> 00:12:21,000
-[gasps]
-
-230
-00:12:23,166 --> 00:12:26,458
+208
+00:12:14,009 --> 00:12:17,301
 Huh? Get this out of my way.
 
-231
-00:12:26,541 --> 00:12:28,125
-[ALBERT]
+209
+00:12:17,384 --> 00:12:18,968
 Sure thing, boss.
 
-232
-00:12:29,250 --> 00:12:30,625
+210
+00:12:20,093 --> 00:12:21,468
 Let's go.
 
-233
-00:12:32,791 --> 00:12:34,041
-[HIDEO]
+211
+00:12:23,634 --> 00:12:24,884
 HQ reporting!
 
-234
-00:12:34,125 --> 00:12:36,000
+212
+00:12:24,968 --> 00:12:26,843
 Enemy-R is approaching quickly!
 
-235
-00:12:36,083 --> 00:12:38,166
-[IKE] Ah... But I'm just
-about done with Phase Two.
+213
+00:12:26,926 --> 00:12:29,009
+Ah... But I'm just about done with Phase Two.
 
-236
-00:12:38,250 --> 00:12:39,541
+214
+00:12:29,093 --> 00:12:30,384
 I can finish it!
 
-237
-00:12:39,625 --> 00:12:42,041
-You don't have time!
-Argos-one, you have to withdraw!
+215
+00:12:30,468 --> 00:12:32,884
+You don't have time! Argos-one, you have to withdraw!
 
-238
-00:12:42,125 --> 00:12:44,333
+216
+00:12:32,968 --> 00:12:35,176
 Withdraw, now!
 
-239
-00:12:44,416 --> 00:12:47,458
+217
+00:12:35,259 --> 00:12:38,301
 Argos-one! Retreat!
 
-240
-00:13:00,916 --> 00:13:02,500
-[KEN growls]
+218
+00:13:05,593 --> 00:13:08,426
+My leg is cramping! I've gotta go!
 
-241
-00:13:11,125 --> 00:13:13,041
-[yells]
+219
+00:13:08,509 --> 00:13:11,301
+That must be an intense muscle cramp.
 
-242
-00:13:13,125 --> 00:13:14,666
-[gasps]
-
-243
-00:13:14,750 --> 00:13:17,583
-[KEN] My leg is cramping!
-I've gotta go!
-
-244
-00:13:17,666 --> 00:13:20,458
-[MAI] That must be an
-intense muscle cramp.
-
-245
-00:13:20,541 --> 00:13:21,541
+220
+00:13:11,384 --> 00:13:12,384
 You're down to five.
 
-246
-00:13:21,625 --> 00:13:22,791
+221
+00:13:12,468 --> 00:13:13,634
 Do you want to continue playing,
 
-247
-00:13:22,875 --> 00:13:24,583
-or should we call
-it quits for now?
+222
+00:13:13,718 --> 00:13:15,426
+or should we call it quits for now?
 
-248
-00:13:24,666 --> 00:13:25,625
+223
+00:13:15,509 --> 00:13:16,468
 Uh...
 
-249
-00:13:25,708 --> 00:13:27,208
+224
+00:13:16,551 --> 00:13:18,051
 Listen.
 
-250
-00:13:27,291 --> 00:13:29,208
+225
+00:13:18,134 --> 00:13:20,051
 I think we should call it and
 forfeit this one to you guys.
 
-251
-00:13:29,291 --> 00:13:31,250
-That way we can go take
-care of Ike and Sudo.
+226
+00:13:20,134 --> 00:13:22,093
+That way we can go take care of Ike and Sudo.
 
-252
-00:13:31,333 --> 00:13:33,541
-[YAMAUCHI] Don't ever
-give up on your dreams!
+227
+00:13:22,176 --> 00:13:24,384
+Don't ever give up on your dreams!
 
-253
-00:13:33,625 --> 00:13:36,125
-I'll play hard enough for
-both of them combined.
+228
+00:13:24,468 --> 00:13:26,968
+I'll play hard enough for both of them combined.
 
-254
-00:13:36,208 --> 00:13:38,750
-So, you better not
-even think of quitting!
+229
+00:13:27,051 --> 00:13:29,593
+So, you better not even think of quitting!
 
-255
-00:13:38,833 --> 00:13:40,916
-Or are you saying that our
-beach volleyball memories
+230
+00:13:29,676 --> 00:13:31,759
+Or are you saying that our beach volleyball memories
 
-256
-00:13:41,000 --> 00:13:42,916
-never meant anything
-to you at all?!
+231
+00:13:31,843 --> 00:13:33,759
+never meant anything to you at all?!
 
-257
-00:13:43,000 --> 00:13:45,875
-Come on, everybody, show me
-all the passion and grit
+232
+00:13:33,843 --> 00:13:36,718
+Come on, everybody, show me all the passion and grit
 
-258
-00:13:45,958 --> 00:13:47,875
-you can muster to
-win this thing!
+233
+00:13:36,801 --> 00:13:38,718
+you can muster to win this thing!
 
-259
-00:13:47,958 --> 00:13:49,458
-[SAKURA]
+234
+00:13:38,801 --> 00:13:40,301
 Huh...?
 
-260
-00:13:49,541 --> 00:13:51,750
-[KIKYO] Has Yamauchi always been
-this passionate about sports?
+235
+00:13:40,384 --> 00:13:42,593
+Has Yamauchi always been this passionate about sports?
 
-261
-00:13:51,833 --> 00:13:54,375
-I never knew that he had
-a distinct personality.
+236
+00:13:42,676 --> 00:13:45,218
+I never knew that he had a distinct personality.
 
-262
-00:13:54,458 --> 00:13:57,000
-To be honest, I've always
-had considerable difficulty
+237
+00:13:45,301 --> 00:13:47,843
+To be honest, I've always had considerable difficulty
 
-263
-00:13:57,083 --> 00:13:59,625
-telling him and Ike
-apart from each other.
+238
+00:13:47,926 --> 00:13:50,468
+telling him and Ike apart from each other.
 
-264
-00:14:01,916 --> 00:14:05,125
-[RYUEN] Huh? There's no one
-cleaning these bathrooms.
+239
+00:13:52,759 --> 00:13:55,968
+Huh? There's no one cleaning these bathrooms.
 
-265
-00:14:05,208 --> 00:14:06,375
-[IKE]
+240
+00:13:56,051 --> 00:13:57,218
 Setup complete.
 
-266
-00:14:06,458 --> 00:14:07,958
-Now I've just gotta
-get out of here!
+241
+00:13:57,301 --> 00:13:58,801
+Now I've just gotta get out of here!
 
-267
-00:14:08,041 --> 00:14:10,125
-[HIDEO] It's too soon to let
-your guard down just yet,
+242
+00:13:58,884 --> 00:14:00,968
+It's too soon to let your guard down just yet,
 
-268
-00:14:10,208 --> 00:14:12,916
-Argos-one. There are two
-women there with Enemy-R!
+243
+00:14:01,051 --> 00:14:03,759
+Argos-one. There are two women there with Enemy-R!
 
-269
-00:14:13,000 --> 00:14:14,166
+244
+00:14:03,843 --> 00:14:05,009
 Do you read?
 
-270
-00:14:14,250 --> 00:14:17,041
-I repeat, two women with
-the approaching enemy!
+245
+00:14:05,093 --> 00:14:07,884
+I repeat, two women with the approaching enemy!
 
-271
-00:14:18,875 --> 00:14:20,250
-[KIKYO]
+246
+00:14:09,718 --> 00:14:11,093
 Ouch, that hurt.
 
-272
-00:14:20,333 --> 00:14:22,250
+247
+00:14:11,176 --> 00:14:13,093
 Oops. I couldn't stop it.
 
-273
-00:14:22,333 --> 00:14:23,666
+248
+00:14:13,176 --> 00:14:14,509
 It's okay. Don't worry!
 
-274
-00:14:23,750 --> 00:14:24,541
+249
+00:14:14,593 --> 00:14:15,384
 It's cool!
 
-275
-00:14:24,625 --> 00:14:26,416
-[growls] This isn't cool!
+250
+00:14:15,468 --> 00:14:17,259
+This isn't cool!
 
-276
-00:14:26,500 --> 00:14:28,458
-You can't just come
-barging in here!
+251
+00:14:17,343 --> 00:14:19,301
+You can't just come barging in here!
 
-277
-00:14:28,541 --> 00:14:30,750
-The sign clearly says
-this place is off-limits!
+252
+00:14:19,384 --> 00:14:21,593
+The sign clearly says this place is off-limits!
 
-278
-00:14:30,833 --> 00:14:32,416
+253
+00:14:21,676 --> 00:14:23,259
 Then what are you doing here?
 
-279
-00:14:32,500 --> 00:14:34,375
+254
+00:14:23,343 --> 00:14:25,218
 You seriously think I care?
 
-280
-00:14:34,458 --> 00:14:36,416
+255
+00:14:25,301 --> 00:14:27,259
 I go where I want.
 
-281
-00:14:36,500 --> 00:14:37,625
-[KEN]
+256
+00:14:27,343 --> 00:14:28,468
 Uh...
 
-282
-00:14:38,208 --> 00:14:40,625
-[SAKAYANAGI]
+257
+00:14:29,051 --> 00:14:31,468
 What an unsightly scene.
 
-283
-00:14:40,708 --> 00:14:44,375
-A fight between two
-bottom-feeders is just pathetic.
+258
+00:14:31,551 --> 00:14:35,218
+A fight between two bottom-feeders is just pathetic.
 
-284
-00:14:44,458 --> 00:14:46,208
+259
+00:14:35,301 --> 00:14:37,051
 Sakayanagi?
 
-285
-00:14:46,291 --> 00:14:47,708
+260
+00:14:37,134 --> 00:14:38,551
 You weren't invited.
 
-286
-00:14:47,791 --> 00:14:50,291
-Take your mangy dogs
-and get out of here.
+261
+00:14:38,634 --> 00:14:41,134
+Take your mangy dogs and get out of here.
 
-287
-00:14:50,375 --> 00:14:51,541
+262
+00:14:41,218 --> 00:14:42,384
 No thanks.
 
-288
-00:14:51,625 --> 00:14:54,125
-Perhaps I should
-domesticate you, too.
+263
+00:14:42,468 --> 00:14:44,968
+Perhaps I should domesticate you, too.
 
-289
-00:14:54,208 --> 00:14:55,833
-[KEN gasps]
-
-290
-00:14:55,916 --> 00:14:57,416
-[MANABU]
+264
+00:14:46,759 --> 00:14:48,259
 What's all this fuss about here?
 
-291
-00:14:57,500 --> 00:14:59,041
---[RYUEN] Mm?
---[KEN] Huh?
+265
+00:14:48,343 --> 00:14:49,884
+--Mm? --Huh?
 
-292
-00:15:02,708 --> 00:15:03,875
-[MANABU]
+266
+00:14:53,551 --> 00:14:54,718
 I am aware that this place
 
-293
-00:15:03,958 --> 00:15:06,125
+267
+00:14:54,801 --> 00:14:56,968
 is a recreational facility.
 
-294
-00:15:06,208 --> 00:15:08,708
-But, that doesn't mean
-school rules don't apply.
+268
+00:14:57,051 --> 00:14:59,551
+But, that doesn't mean school rules don't apply.
 
-295
-00:15:08,791 --> 00:15:11,208
-Don't forget you're all
-still on campus.
+269
+00:14:59,634 --> 00:15:02,051
+Don't forget you're all still on campus.
 
-296
-00:15:11,291 --> 00:15:15,208
-[laughs] So the Student Council
-President decided to show up.
+270
+00:15:02,134 --> 00:15:06,051
+So the Student Council President decided to show up.
 
-297
-00:15:15,291 --> 00:15:16,666
-[gasping]
-
-298
-00:15:17,583 --> 00:15:20,458
-[SUZUNE]
+271
+00:15:08,426 --> 00:15:11,301
 I can tell you're holding back.
 
-299
-00:15:20,541 --> 00:15:22,875
-No, I'm just not
-very good at sports.
+272
+00:15:11,384 --> 00:15:13,718
+No, I'm just not very good at sports.
 
-300
-00:15:22,958 --> 00:15:24,083
-[SUZUNE]
+273
+00:15:13,801 --> 00:15:14,926
 You're athletic.
 
-301
-00:15:24,166 --> 00:15:26,541
-I've seen you show
-your skill, remember?
+274
+00:15:15,009 --> 00:15:17,384
+I've seen you show your skill, remember?
 
-302
-00:15:30,166 --> 00:15:32,166
-[SUZUNE] Why do you hide
-what you're capable of?
+275
+00:15:21,009 --> 00:15:23,009
+Why do you hide what you're capable of?
 
-303
-00:15:32,250 --> 00:15:33,833
+276
+00:15:23,093 --> 00:15:24,676
 Why, does it irritate you?
 
-304
-00:15:33,916 --> 00:15:36,750
-Or is it that you just don't
-want to lose at anything?
+277
+00:15:24,759 --> 00:15:27,593
+Or is it that you just don't want to lose at anything?
 
-305
-00:15:36,833 --> 00:15:38,166
-[SUZUNE]
+278
+00:15:27,676 --> 00:15:29,009
 Not in the least.
 
-306
-00:15:38,250 --> 00:15:39,500
+279
+00:15:29,093 --> 00:15:30,343
 I admire that.
 
-307
-00:15:39,583 --> 00:15:40,916
-What's the point
-in playing a game
+280
+00:15:30,426 --> 00:15:31,759
+What's the point in playing a game
 
-308
-00:15:41,000 --> 00:15:44,541
-if you're not committed to
-winning it at all costs?
+281
+00:15:31,843 --> 00:15:35,384
+if you're not committed to winning it at all costs?
 
-309
-00:15:44,625 --> 00:15:46,750
-Being vulnerable and letting
-your emotions show
+282
+00:15:35,468 --> 00:15:37,593
+Being vulnerable and letting your emotions show
 
-310
-00:15:46,833 --> 00:15:48,875
-would help you
-make friends, too.
+283
+00:15:37,676 --> 00:15:39,718
+would help you make friends, too.
 
-311
-00:15:48,958 --> 00:15:52,375
-I've told you,
-I don't need any friends.
+284
+00:15:39,801 --> 00:15:43,218
+I've told you, I don't need any friends.
 
-312
-00:15:52,458 --> 00:15:54,750
-Hey, what's happening
-in the locker rooms?
+285
+00:15:43,301 --> 00:15:45,593
+Hey, what's happening in the locker rooms?
 
-313
-00:15:54,833 --> 00:15:56,166
-[beeping]
-
-314
-00:15:56,250 --> 00:15:57,500
-[HIDEO]
+286
+00:15:47,093 --> 00:15:48,343
 HQ checking in.
 
-315
-00:15:57,583 --> 00:15:59,625
+287
+00:15:48,426 --> 00:15:50,468
 Argos-one. What's your status?
 
-316
-00:15:59,708 --> 00:16:01,791
-I'm ready to withdraw,
-but I can't.
+288
+00:15:50,551 --> 00:15:52,634
+I'm ready to withdraw, but I can't.
 
-317
-00:16:01,875 --> 00:16:05,208
-Help me. With all of
-the obstacles outside,
+289
+00:15:52,718 --> 00:15:56,051
+Help me. With all of the obstacles outside,
 
-318
-00:16:05,291 --> 00:16:07,333
+290
+00:15:56,134 --> 00:15:58,176
 I'm stuck in here!
 
-319
-00:16:07,416 --> 00:16:09,833
-It's all over.
-We made it so far.
+291
+00:15:58,259 --> 00:16:00,676
+It's all over. We made it so far.
 
-320
-00:16:09,916 --> 00:16:13,000
-[HIDEO] You can't give up now,
-when we're so close!
+292
+00:16:00,759 --> 00:16:03,843
+You can't give up now, when we're so close!
 
-321
-00:16:13,083 --> 00:16:16,833
+293
+00:16:03,926 --> 00:16:07,676
 Hey, look. I have to ask you.
 
-322
-00:16:16,916 --> 00:16:19,916
-Do you think that this
-whole thing was a mistake?
+294
+00:16:07,759 --> 00:16:10,759
+Do you think that this whole thing was a mistake?
 
-323
-00:16:20,000 --> 00:16:23,333
-[HIDEO]
+295
+00:16:10,843 --> 00:16:14,176
 How can you say that?
 
-324
-00:16:23,416 --> 00:16:27,958
+296
+00:16:14,259 --> 00:16:18,801
 Listen. If I don't end up making
 it out of this place alive...
 
-325
-00:16:28,041 --> 00:16:31,250
-You must not abandon
-hope, soldier!
+297
+00:16:18,884 --> 00:16:22,093
+You must not abandon hope, soldier!
 
-326
-00:16:31,333 --> 00:16:32,958
-[IKE]
+298
+00:16:22,176 --> 00:16:23,801
 Sotomura.
 
-327
-00:16:33,541 --> 00:16:36,208
-You're to refer to me
-as HQ, Argos-one.
+299
+00:16:24,384 --> 00:16:27,051
+You're to refer to me as HQ, Argos-one.
 
-328
-00:16:36,291 --> 00:16:37,625
+300
+00:16:27,134 --> 00:16:28,468
 And that's an order.
 
-329
-00:16:37,708 --> 00:16:39,583
-Even as you suffer in
-there for the cause,
+301
+00:16:28,551 --> 00:16:30,426
+Even as you suffer in there for the cause,
 
-330
-00:16:39,666 --> 00:16:41,958
-you've got comrades out
-here waiting for you,
+302
+00:16:30,509 --> 00:16:32,801
+you've got comrades out here waiting for you,
 
-331
-00:16:42,041 --> 00:16:43,625
+303
+00:16:32,884 --> 00:16:34,468
 depending on you.
 
-332
-00:16:43,708 --> 00:16:46,625
+304
+00:16:34,551 --> 00:16:37,468
 So, do not abandon hope.
 
-333
-00:16:46,708 --> 00:16:47,916
+305
+00:16:37,551 --> 00:16:38,759
 Heh.
 
-334
-00:16:48,958 --> 00:16:49,791
-[beeping]
-
-335
-00:16:49,875 --> 00:16:52,625
-[HIDEO]
+306
+00:16:40,718 --> 00:16:43,468
 Argos-one? Argos-one!
 
-336
-00:16:52,708 --> 00:16:54,000
+307
+00:16:43,551 --> 00:16:44,843
 I'm sorry, bud.
 
-337
-00:16:54,083 --> 00:16:56,000
+308
+00:16:44,926 --> 00:16:46,843
 Almost lost my nerve.
 
-338
-00:16:56,083 --> 00:16:57,958
-[HIDEO]
+309
+00:16:46,926 --> 00:16:48,801
 Argos-one!
 
-339
-00:16:58,041 --> 00:17:01,416
-[IKE] HQ, you'd better
-contact Argos-four.
+310
+00:16:48,884 --> 00:16:52,259
+HQ, you'd better contact Argos-four.
 
-340
-00:17:01,500 --> 00:17:04,166
-Tell him it's a go.
-Execute Phase Extra.
+311
+00:16:52,343 --> 00:16:55,009
+Tell him it's a go. Execute Phase Extra.
 
-341
-00:17:04,250 --> 00:17:05,875
-[AYANOKOJI grunting]
+312
+00:16:58,468 --> 00:17:03,009
+"Draw attention away from the locker rooms?
 
-342
-00:17:07,625 --> 00:17:12,166
-[AYANOKOJI] "Draw attention
-away from the locker rooms?
+313
+00:17:03,093 --> 00:17:08,509
+Student council president, Ryuen, and others, too?"
 
-343
-00:17:12,250 --> 00:17:17,666
-Student council president,
-Ryuen, and others, too?"
-
-344
-00:17:19,000 --> 00:17:22,125
-[AYANOKOJI groans]
+314
+00:17:09,843 --> 00:17:12,968
 This is getting ridiculous.
 
-345
-00:17:22,208 --> 00:17:23,916
-[AYANOKOJI]
+315
+00:17:13,051 --> 00:17:14,759
 Horikita.
 
-346
-00:17:24,000 --> 00:17:26,625
-I need you to help me with
-something important.
+316
+00:17:14,843 --> 00:17:17,468
+I need you to help me with something important.
 
-347
-00:17:28,291 --> 00:17:30,208
-Look, I have a
-terrible leg cramp!
+317
+00:17:19,134 --> 00:17:21,051
+Look, I have a terrible leg cramp!
 
-348
-00:17:30,291 --> 00:17:31,708
+318
+00:17:21,134 --> 00:17:22,551
 Stay away from me!
 
-349
-00:17:31,791 --> 00:17:33,208
+319
+00:17:22,634 --> 00:17:24,051
 It doesn't look that way to me.
 
-350
-00:17:33,291 --> 00:17:34,958
-[BOY 7B] Something's
-going down over there!
+320
+00:17:24,134 --> 00:17:25,801
+Something's going down over there!
 
-351
-00:17:35,041 --> 00:17:37,875
-[BOY 7C] Isn't that Horikita
-from Class One-D?
+321
+00:17:25,884 --> 00:17:28,718
+Isn't that Horikita from Class One-D?
 
-352
-00:17:37,958 --> 00:17:39,416
-[RYUEN]
+322
+00:17:28,801 --> 00:17:30,259
 Horikita?
 
-353
-00:17:39,500 --> 00:17:43,208
-Give me the names of who
-did this, and Al will go easy.
+323
+00:17:30,343 --> 00:17:34,051
+Give me the names of who did this, and Al will go easy.
 
-354
-00:17:43,291 --> 00:17:45,916
-[KOMIYA]
+324
+00:17:34,134 --> 00:17:36,759
 The girl's name is Horikita.
 
-355
-00:17:46,000 --> 00:17:47,583
-[RYUEN chuckles]
+325
+00:17:49,759 --> 00:17:52,301
+What do you think's come over Horikita?
 
-356
-00:17:51,875 --> 00:17:53,750
-[ALL gasping]
-
-357
-00:17:58,916 --> 00:18:01,458
-[ICHINOSE] What do you think's
-come over Horikita?
-
-358
-00:18:01,541 --> 00:18:03,958
+326
+00:17:52,384 --> 00:17:54,801
 I'm just as confused as you.
 
-359
-00:18:04,041 --> 00:18:06,666
-Why do I even have to
-get involved in this?
+327
+00:17:54,884 --> 00:17:57,509
+Why do I even have to get involved in this?
 
-360
-00:18:07,708 --> 00:18:10,125
-[inhales, exhales]
-
-361
-00:18:11,000 --> 00:18:13,166
+328
+00:18:01,843 --> 00:18:04,009
 Allow me to begin by saying
 
-362
-00:18:13,250 --> 00:18:15,375
+329
+00:18:04,093 --> 00:18:06,218
 we are Class-D, year one!
 
-363
-00:18:15,458 --> 00:18:18,458
-We've been labeled the defective
-students at this school.
+330
+00:18:06,301 --> 00:18:09,301
+We've been labeled the defective students at this school.
 
-364
-00:18:18,541 --> 00:18:20,333
+331
+00:18:09,384 --> 00:18:11,176
 We're the problem children.
 
-365
-00:18:20,416 --> 00:18:22,041
-We're fools, and we
-fall for the schemes
+332
+00:18:11,259 --> 00:18:12,884
+We're fools, and we fall for the schemes
 
-366
-00:18:22,125 --> 00:18:24,041
+333
+00:18:12,968 --> 00:18:14,884
 of other classes pretty easily.
 
-367
-00:18:24,125 --> 00:18:26,375
+334
+00:18:14,968 --> 00:18:17,218
 So, to the students of Class C,
 
-368
-00:18:26,458 --> 00:18:30,125
+335
+00:18:17,301 --> 00:18:20,968
 you made a bold move in trying
 to sabotage our class before.
 
-369
-00:18:30,208 --> 00:18:31,333
+336
+00:18:21,051 --> 00:18:22,176
 But now...
 
-370
-00:18:31,416 --> 00:18:33,666
-...I am grateful for
-all of your efforts.
+337
+00:18:22,259 --> 00:18:24,509
+...I am grateful for all of your efforts.
 
-371
-00:18:33,750 --> 00:18:35,791
-Thanks to you,
-everything is clearer.
+338
+00:18:24,593 --> 00:18:26,634
+Thanks to you, everything is clearer.
 
-372
-00:18:35,875 --> 00:18:38,125
-A class full of defectives
-will have a rough time
+339
+00:18:26,718 --> 00:18:28,968
+A class full of defectives will have a rough time
 
-373
-00:18:38,208 --> 00:18:39,666
+340
+00:18:29,051 --> 00:18:30,509
 if we aim high.
 
-374
-00:18:39,750 --> 00:18:43,291
+341
+00:18:30,593 --> 00:18:34,134
 But now I see that all classes,
 A to D, aren't separated by
 
-375
-00:18:43,375 --> 00:18:45,666
-anything as simple as
-pure academic prowess
+342
+00:18:34,218 --> 00:18:36,509
+anything as simple as pure academic prowess
 
-376
-00:18:45,750 --> 00:18:47,166
+343
+00:18:36,593 --> 00:18:38,009
 or athletic ability.
 
-377
-00:18:47,250 --> 00:18:48,458
+344
+00:18:38,093 --> 00:18:39,301
 That's good news.
 
-378
-00:18:48,541 --> 00:18:50,416
+345
+00:18:39,384 --> 00:18:41,259
 Especially for loser Class D.
 
-379
-00:18:50,500 --> 00:18:52,375
-It means we could
-become Class A.
+346
+00:18:41,343 --> 00:18:43,218
+It means we could become Class A.
 
-380
-00:18:52,458 --> 00:18:54,875
-We can beat you all and
-ascend to the top.
+347
+00:18:43,301 --> 00:18:45,718
+We can beat you all and ascend to the top.
 
-381
-00:18:54,958 --> 00:18:58,250
-I promise you this:
-We will make it to Class A!
+348
+00:18:45,801 --> 00:18:49,093
+I promise you this: We will make it to Class A!
 
-382
-00:18:58,333 --> 00:19:01,333
-[STUDENTS gasp, cheer]
-
-383
-00:19:01,416 --> 00:19:02,333
-[KIKYO, SAKURA]
+349
+00:18:52,259 --> 00:18:53,176
 Uh?
 
-384
-00:19:02,416 --> 00:19:03,958
+350
+00:18:53,259 --> 00:18:54,801
 We love you, Horikita!
 
-385
-00:19:04,041 --> 00:19:04,916
-[KEN]
+351
+00:18:54,884 --> 00:18:55,759
 You're incredible!
 
-386
-00:19:05,000 --> 00:19:06,625
-[YAMAUCHI]
+352
+00:18:55,843 --> 00:18:57,468
 You rock!
 
-387
-00:19:09,625 --> 00:19:11,166
-[RYUEN chuckles]
-
-388
-00:19:12,666 --> 00:19:14,875
+353
+00:19:03,509 --> 00:19:05,718
 Oh, really, Class D?
 
-389
-00:19:24,291 --> 00:19:26,166
-[KEN]
+354
+00:19:15,134 --> 00:19:17,009
 You better watch it!
 
-390
-00:19:26,250 --> 00:19:27,875
-[IKE]
+355
+00:19:17,093 --> 00:19:18,718
 Tidal wave, comin' atcha!
 
-391
-00:19:27,958 --> 00:19:28,875
-[YAMAUCHI]
+356
+00:19:18,801 --> 00:19:19,718
 Ow, ow, ow.
 
-392
-00:19:28,958 --> 00:19:30,000
-[SUZUNE]
+357
+00:19:19,801 --> 00:19:20,843
 What a bunch of perverts.
 
-393
-00:19:30,083 --> 00:19:31,125
-[AYANOKOJI]
+358
+00:19:20,926 --> 00:19:21,968
 Hm?
 
-394
-00:19:32,291 --> 00:19:33,541
-[SUZUNE]
+359
+00:19:23,134 --> 00:19:24,384
 There really were cameras set up
 
-395
-00:19:33,625 --> 00:19:35,750
-in the dressing room,
-like you said.
+360
+00:19:24,468 --> 00:19:26,593
+in the dressing room, like you said.
 
-396
-00:19:43,791 --> 00:19:45,333
-[sighs]
-
-397
-00:19:45,791 --> 00:19:48,125
-[phone ringing]
-
-398
-00:19:48,208 --> 00:19:49,208
-[AYANOKOJI]
+361
+00:19:39,051 --> 00:19:40,051
 Seriously.
 
-399
-00:19:49,291 --> 00:19:50,875
-Do you wanna go to
-the pool with me?
+362
+00:19:40,134 --> 00:19:41,718
+Do you wanna go to the pool with me?
 
-400
-00:19:50,958 --> 00:19:52,458
+363
+00:19:41,801 --> 00:19:43,301
 Absolutely not.
 
-401
-00:19:52,541 --> 00:19:54,541
-[AYANOKOJI] Look, to be frank,
-I need a huge favor from you.
+364
+00:19:43,384 --> 00:19:45,384
+Look, to be frank, I need a huge favor from you.
 
-402
-00:19:54,625 --> 00:19:56,958
+365
+00:19:45,468 --> 00:19:47,801
 Class D's future is on the line.
 
-403
-00:19:57,041 --> 00:19:58,541
+366
+00:19:47,884 --> 00:19:49,384
 How so?
 
-404
-00:19:58,625 --> 00:20:00,500
-[AYANOKOJI] Ike's the one who
-suggested we go to the pool.
+367
+00:19:49,468 --> 00:19:51,343
+Ike's the one who suggested we go to the pool.
 
-405
-00:20:00,583 --> 00:20:03,291
+368
+00:19:51,426 --> 00:19:54,134
 He's planning to set up cameras
 in the women's dressing room.
 
-406
-00:20:03,375 --> 00:20:06,375
-So he and the guys can
-spy on you all changing.
+369
+00:19:54,218 --> 00:19:57,218
+ So he and the guys can spy on you all changing.
 
-407
-00:20:06,458 --> 00:20:07,625
+370
+00:19:57,301 --> 00:19:58,468
 Uh?
 
-408
-00:20:09,000 --> 00:20:10,833
+371
+00:19:59,843 --> 00:20:01,676
 If I had tried to stop them,
 
-409
-00:20:10,916 --> 00:20:13,000
-they probably would have
-gone behind my back.
+372
+00:20:01,759 --> 00:20:03,843
+they probably would have gone behind my back.
 
-410
-00:20:13,083 --> 00:20:15,291
-Found a way to go
-forward with it.
+373
+00:20:03,926 --> 00:20:06,134
+Found a way to go forward with it.
 
-411
-00:20:15,375 --> 00:20:18,625
-It was better to let them
-do it and foil them secretly.
+374
+00:20:06,218 --> 00:20:09,468
+It was better to let them do it and foil them secretly.
 
-412
-00:20:18,708 --> 00:20:21,000
-[SUZUNE] I hate to admit it,
-but you were right.
+375
+00:20:09,551 --> 00:20:11,843
+I hate to admit it, but you were right.
 
-413
-00:20:21,083 --> 00:20:22,833
-[AYANOKOJI] Their plan was
-to set up the cameras,
+376
+00:20:11,926 --> 00:20:13,676
+Their plan was to set up the cameras,
 
-414
-00:20:22,916 --> 00:20:26,333
+377
+00:20:13,759 --> 00:20:17,176
 then retrieve them later tonight
 after everyone had gone home.
 
-415
-00:20:26,416 --> 00:20:27,791
+378
+00:20:17,259 --> 00:20:18,634
 But that's not gonna happen now.
 
-416
-00:20:27,875 --> 00:20:30,000
+379
+00:20:18,718 --> 00:20:20,843
 We beat them to the chase.
 
-417
-00:20:30,083 --> 00:20:31,500
-We could have stopped
-them earlier.
+380
+00:20:20,926 --> 00:20:22,343
+We could have stopped them earlier.
 
-418
-00:20:31,583 --> 00:20:33,416
-If we'd removed
-the cards in advance.
+381
+00:20:22,426 --> 00:20:24,259
+If we'd removed the cards in advance.
 
-419
-00:20:33,500 --> 00:20:35,250
-Then they would have
-gotten nothing.
+382
+00:20:24,343 --> 00:20:26,093
+Then they would have gotten nothing.
 
-420
-00:20:35,333 --> 00:20:38,208
-Yeah, that was the
-initial plan, actually.
+383
+00:20:26,176 --> 00:20:29,051
+Yeah, that was the initial plan, actually.
 
-421
-00:20:38,291 --> 00:20:40,416
-But the interference from
-other classes made things
+384
+00:20:29,134 --> 00:20:31,259
+But the interference from other classes made things
 
-422
-00:20:40,500 --> 00:20:42,416
+385
+00:20:31,343 --> 00:20:33,259
 a lot more difficult.
 
-423
-00:20:42,500 --> 00:20:44,583
-Is that why you made me
-give that stupid speech?
+386
+00:20:33,343 --> 00:20:35,426
+Is that why you made me give that stupid speech?
 
-424
-00:20:44,666 --> 00:20:47,250
-To divert people's attention
-away from them?
+387
+00:20:35,509 --> 00:20:38,093
+To divert people's attention away from them?
 
-425
-00:20:48,291 --> 00:20:50,333
-But you got such
-thunderous applause.
+388
+00:20:39,134 --> 00:20:41,176
+But you got such thunderous applause.
 
-426
-00:20:50,416 --> 00:20:53,458
-Sudo and the others were moved
-to tears by your words.
+389
+00:20:41,259 --> 00:20:44,301
+Sudo and the others were moved to tears by your words.
 
-427
-00:20:54,125 --> 00:20:57,000
-More importantly, did you
-have fun at the pool today?
+390
+00:20:44,968 --> 00:20:47,843
+More importantly, did you have fun at the pool today?
 
-428
-00:20:57,083 --> 00:20:58,666
-You spent your whole
-summer alone.
+391
+00:20:47,926 --> 00:20:49,509
+You spent your whole summer alone.
 
-429
-00:20:58,750 --> 00:21:00,208
+392
+00:20:49,593 --> 00:20:51,051
 So, was getting out refreshing?
 
-430
-00:21:00,291 --> 00:21:02,833
-I didn't come to this
-school to have fun.
+393
+00:20:51,134 --> 00:20:53,676
+I didn't come to this school to have fun.
 
-431
-00:21:02,916 --> 00:21:04,250
+394
+00:20:53,759 --> 00:20:55,093
 Besides, people bore me.
 
-432
-00:21:04,333 --> 00:21:06,041
+395
+00:20:55,176 --> 00:20:56,884
 I have much more fun by myself.
 
-433
-00:21:06,125 --> 00:21:07,375
-[AYANOKOJI]
+396
+00:20:56,968 --> 00:20:58,218
 Sure you do.
 
-434
-00:21:07,458 --> 00:21:09,916
-Well, we've got some time
-before the pool closes.
+397
+00:20:58,301 --> 00:21:00,759
+Well, we've got some time before the pool closes.
 
-435
-00:21:10,000 --> 00:21:11,708
-[gasps]
+398
+00:21:05,968 --> 00:21:08,759
+What is your problem?
 
-436
-00:21:11,791 --> 00:21:13,416
-[yelps]
-
-437
-00:21:15,125 --> 00:21:17,916
-[gasps] What is your problem?
-
-438
-00:21:18,000 --> 00:21:19,791
+399
+00:21:08,843 --> 00:21:10,634
 Sorry, I had to do it.
 
-439
-00:21:24,708 --> 00:21:25,916
-[AYANOKOJI]
+400
+00:21:15,551 --> 00:21:16,759
 Uh!
 
-440
-00:21:26,000 --> 00:21:28,125
-[splash]
-
-441
-00:21:28,208 --> 00:21:29,375
+401
+00:21:19,051 --> 00:21:20,218
 That's payback.
 
-442
-00:21:29,458 --> 00:21:32,416
-[KIKYO]
+402
+00:21:20,301 --> 00:21:23,259
 Hey! I wanna join in the fun!
 
-443
-00:21:32,500 --> 00:21:33,708
-[SUZUNE]
+403
+00:21:23,343 --> 00:21:24,551
 Kushida, stop!
 
-444
-00:21:33,791 --> 00:21:35,208
+404
+00:21:24,634 --> 00:21:26,051
 We're not playing!
 
-445
-00:21:35,291 --> 00:21:36,666
+405
+00:21:26,134 --> 00:21:27,509
 Take that! And that!
 
-446
-00:21:36,750 --> 00:21:38,708
-[KEN]
+406
+00:21:27,593 --> 00:21:29,551
 Hey, Horikita, check it out!
 
-447
-00:21:38,791 --> 00:21:41,583
-[BOYS]
+407
+00:21:29,634 --> 00:21:32,426
 Wa-hoo!
 
-448
-00:21:41,666 --> 00:21:44,333
-[SUZUNE] You idiots stop
-splashing my face!
+408
+00:21:32,509 --> 00:21:35,176
+You idiots stop splashing my face!
 
-449
-00:21:47,125 --> 00:21:49,958
+409
+00:21:37,968 --> 00:21:40,801
 Oh. I'm sorry about that.
 
-450
-00:21:57,125 --> 00:21:59,166
-[door clicks]
-
-451
-00:22:08,541 --> 00:22:10,958
-[SUZUNE]
+410
+00:21:59,384 --> 00:22:01,801
 Uh? What's this?
 
-452
-00:22:29,458 --> 00:22:32,250
-It's less of a risk
-to be by myself.
+411
+00:22:20,301 --> 00:22:23,093
+It's less of a risk to be by myself.
 
