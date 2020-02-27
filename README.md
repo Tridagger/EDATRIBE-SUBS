@@ -56,7 +56,7 @@ OneDirve：http://pan.edatribe.com
 | A038 | Shakugan no Shana                                                                                                   | 灼眼的夏娜                               | 76集 | 计划 |
 | A039 | Dragon Ball: Z                                                                                                      | 龙珠Z                                    | 291集 | 计划 |
 | A040 | Rurouni Kenshin                                                                                                     | 浪客剑心                                 | 94集 | 计划 |
-| A041 | Classroom of the Elite                                                                                              | 实力至上主义的教室                       | 12集 | 完成 |
+| A041 | [Classroom of the Elite](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A041]Classroom_of_the_Elite)                                                                                              | 实力至上主义的教室                       | 12集 | 完成 |
 | A042 | Absolute Duo                                                                                                        | 绝对双刃                                 | 12集 | 计划 |
 | A043 | A Sister's All You Need                                                                                             | 如果有妹妹就好了                         | 12集 | 计划 |
 | A044 | The Melancholy of Haruhi Suzumiya                                                                                   | 凉宫春日的忧郁                           | 28集 | 计划 |
