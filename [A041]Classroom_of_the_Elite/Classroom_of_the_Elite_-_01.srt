@@ -1,1900 +1,1798 @@
 ﻿1
-00:00:14,462 --> 00:00:15,629
+00:00:14,743 --> 00:00:15,697
 If I may,
 
 2
-00:00:15,712 --> 00:00:18,421
+00:00:15,993 --> 00:00:18,314
 I'd like to pose an interesting question:
 
 3
-00:00:18,504 --> 00:00:21,712
+00:00:18,785 --> 00:00:21,057
 are all human beings truly equal?
 
 4
-00:00:21,796 --> 00:00:23,171
+00:00:22,077 --> 00:00:25,565
 These days, everywhere you go,
-
-5
-00:00:23,254 --> 00:00:25,337
 there's talk about the fight for equality.
 
-6
-00:00:26,796 --> 00:00:28,712
+5
+00:00:27,051 --> 00:00:28,793
 As a wise man once said,
 
-7
-00:00:28,796 --> 00:00:32,379
+6
+00:00:29,077 --> 00:00:32,418
 "Heaven does not create one
 person above or below another."
 
-8
-00:00:32,462 --> 00:00:34,671
+7
+00:00:32,743 --> 00:00:34,678
 People like to throw his words around.
 
-9
-00:00:34,754 --> 00:00:36,629
+8
+00:00:35,035 --> 00:00:36,484
 But that's not the whole quote.
 
-10
-00:00:36,712 --> 00:00:39,504
+9
+00:00:37,026 --> 00:00:39,818
 He goes on to say that, while we are all equal at birth,
 
-11
-00:00:39,587 --> 00:00:42,129
+10
+00:00:39,868 --> 00:00:42,036
 pretty soon, things begin to change.
 
-12
-00:00:42,212 --> 00:00:44,504
+11
+00:00:42,493 --> 00:00:44,785
 Academic effort is what sets some people apart,
 
-13
-00:00:44,587 --> 00:00:47,712
+12
+00:00:44,868 --> 00:00:46,383
 to rise above the others.
 
-14
-00:00:47,796 --> 00:00:52,796
+13
+00:00:48,077 --> 00:00:51,906
 At any rate, humans change
 over time based on their actions.
 
-15
-00:00:52,879 --> 00:00:54,712
+14
+00:00:53,160 --> 00:00:54,993
 Truth be told, at the end of the day,
 
-16
-00:00:54,796 --> 00:00:58,462
+15
+00:00:55,077 --> 00:00:58,743
 "equality" is just a fantasy,
 and most of us go through life
 
-17
-00:00:58,546 --> 00:01:01,462
+16
+00:00:58,768 --> 00:01:01,375
 denying the fact that we live in a meritocracy.
 
-18
-00:01:02,379 --> 00:01:04,171
+17
+00:01:02,660 --> 00:01:04,452
 Um, excuse me, sir.
 
-19
-00:01:04,254 --> 00:01:06,087
+18
+00:01:04,535 --> 00:01:06,368
 Would you be willing to give up your seat?
 
-20
-00:01:06,171 --> 00:01:07,796
+19
+00:01:06,393 --> 00:01:06,866
 Mm?
 
-21
-00:01:07,879 --> 00:01:09,587
+20
+00:01:08,160 --> 00:01:09,868
 That is priority seating, after all,
 
-22
-00:01:09,671 --> 00:01:10,921
+21
+00:01:09,952 --> 00:01:11,202
 so it would only be right for you
 
-23
-00:01:11,004 --> 00:01:13,796
+22
+00:01:11,285 --> 00:01:13,037
 to let this older woman sit there.
 
-24
-00:01:13,879 --> 00:01:16,087
+23
+00:01:14,160 --> 00:01:16,368
 My, my, you're a pretty girl.
 
-25
-00:01:16,171 --> 00:01:19,004
+24
+00:01:16,452 --> 00:01:19,285
 I understand that this is priority seating, honey,
 
-26
-00:01:19,087 --> 00:01:21,504
+25
+00:01:19,368 --> 00:01:21,643
 but there's no law forcing me to give it up.
 
-27
-00:01:21,587 --> 00:01:24,462
+26
+00:01:21,868 --> 00:01:24,743
 You think I should have to stand
 up just because I'm still young?
 
-28
-00:01:24,546 --> 00:01:28,254
+27
+00:01:24,827 --> 00:01:27,891
 Ha, ha. What a bunch of ageist nonsense.
 
-29
-00:01:28,337 --> 00:01:29,796
+28
+00:01:28,618 --> 00:01:30,077
 Sure, I'm younger than her,
 
-30
-00:01:29,879 --> 00:01:32,754
+29
+00:01:30,160 --> 00:01:32,772
 but standing uses way more energy than sitting.
 
-31
-00:01:32,837 --> 00:01:36,754
+30
+00:01:33,118 --> 00:01:36,855
 Tell me. Why must I sacrifice
 my health for this lady's sake?
 
-32
-00:01:36,837 --> 00:01:40,587
+31
+00:01:37,118 --> 00:01:40,716
 Because, you'd be contributing
 to the greater good of humanity.
 
-33
-00:01:40,671 --> 00:01:42,129
+32
+00:01:40,952 --> 00:01:42,410
 And just take a look at her,
 
-34
-00:01:42,212 --> 00:01:44,129
+33
+00:01:42,493 --> 00:01:44,410
 she's having trouble staying upright.
 
-35
-00:01:44,212 --> 00:01:46,212
+34
+00:01:44,493 --> 00:01:49,527
 I have zero interest in contributing
-
-36
-00:01:46,296 --> 00:01:49,379
 to the greater good. And anyway,
 
-37
-00:01:49,462 --> 00:01:51,712
-there are plenty of other jerks on this bus
+35
+00:01:49,743 --> 00:01:53,614
+there are plenty of other jerks on
+this bus who could give up their seats.
 
-38
-00:01:51,796 --> 00:01:53,587
-who could give up their seats.
-
-39
-00:01:53,671 --> 00:01:55,379
+36
+00:01:53,952 --> 00:01:57,785
 Furthermore, I don't see much difference
-
-40
-00:01:55,462 --> 00:01:57,504
 between a priority seat and a regular one.
 
-41
-00:01:57,587 --> 00:01:59,921
+37
+00:01:57,868 --> 00:02:00,202
 So ask someone else to be a hero.
 
-42
-00:02:00,004 --> 00:02:01,421
+38
+00:02:00,285 --> 00:02:01,702
 To tell the truth, dear.
 
-43
-00:02:01,504 --> 00:02:03,879
+39
+00:02:01,785 --> 00:02:04,091
 I don't mind standing, don't worry.
 
-44
-00:02:03,962 --> 00:02:05,879
+40
+00:02:04,243 --> 00:02:05,897
 But thank you, all the same.
 
-45
-00:02:07,921 --> 00:02:09,087
+41
+00:02:08,202 --> 00:02:09,368
 Excuse me!
 
-46
-00:02:09,171 --> 00:02:10,921
-Would anyone on this bus be willing to give up
+42
+00:02:09,452 --> 00:02:13,184
+Would anyone on this bus be willing to
+give up their seat to this sweet lady?
 
-47
-00:02:11,004 --> 00:02:13,504
-their seat to this sweet lady?
-
-48
-00:02:19,962 --> 00:02:22,254
+43
+00:02:20,243 --> 00:02:22,535
 Over here. I'll stand.
 
-49
-00:02:22,337 --> 00:02:24,421
+44
+00:02:22,618 --> 00:02:24,250
 Thank you very much, ma'am!
 
-50
-00:02:47,921 --> 00:02:51,087
+45
+00:02:48,202 --> 00:02:50,953
 Well, this is it. My new school.
 
-51
-00:02:53,254 --> 00:02:56,421
+46
+00:02:53,535 --> 00:02:56,640
 Tokyo Metropolitan Advanced Nurturing High School.
 
-52
-00:02:56,504 --> 00:02:58,421
+47
+00:02:56,785 --> 00:03:01,072
 Established by the government to raise students
-
-53
-00:02:58,504 --> 00:03:00,879
 who have been deemed our country's future leaders:
 
-54
-00:03:00,962 --> 00:03:03,046
+48
+00:03:01,243 --> 00:03:02,927
 movers and shakers, if you will.
 
-55
-00:03:03,129 --> 00:03:04,462
+49
+00:03:03,410 --> 00:03:04,743
 And it works, too.
 
-56
-00:03:04,546 --> 00:03:07,796
+50
+00:03:04,827 --> 00:03:08,034
 It boasts 100% college entry and employment rates.
 
-57
-00:03:07,879 --> 00:03:10,462
+51
+00:03:08,160 --> 00:03:10,743
 Using experimental, state-derived teaching methods,
 
-58
-00:03:10,546 --> 00:03:13,171
+52
+00:03:10,827 --> 00:03:13,452
 they pull out all the stops to
 build a bright future for Japan.
 
-59
-00:03:13,254 --> 00:03:14,546
+53
+00:03:13,575 --> 00:03:14,867
 Hey, you.
 
-60
-00:03:16,129 --> 00:03:18,837
+54
+00:03:16,410 --> 00:03:18,995
 I noticed you staring at me on the bus earlier.
 
-61
-00:03:18,921 --> 00:03:20,546
+55
+00:03:19,202 --> 00:03:20,442
 Why was that?
 
-62
-00:03:21,546 --> 00:03:24,671
+56
+00:03:21,780 --> 00:03:24,596
 Oh. I'm sorry.
 
-63
-00:03:24,754 --> 00:03:26,171
-I was just curious,
+57
+00:03:25,055 --> 00:03:29,008
+I was just curious, 'cause well, you
+didn't want to give up your seat, either.
 
-64
-00:03:26,254 --> 00:03:29,337
-'cause well, you didn't want to give up your seat, either.
-
-65
-00:03:29,421 --> 00:03:32,837
+58
+00:03:29,702 --> 00:03:32,616
 I was wondering if, like me, you'd rather stay out of it.
 
-66
-00:03:32,921 --> 00:03:34,712
+59
+00:03:33,202 --> 00:03:34,668
 I'm nothing like you.
 
-67
-00:03:34,796 --> 00:03:37,921
+60
+00:03:35,077 --> 00:03:38,202
 In my case, I stayed silent as a matter of principle.
 
-68
-00:03:38,004 --> 00:03:39,171
+61
+00:03:38,285 --> 00:03:39,258
 Uh-huh?
 
-69
-00:03:39,254 --> 00:03:41,212
+62
+00:03:39,495 --> 00:03:41,107
 That makes her worse than me.
 
-70
-00:03:41,296 --> 00:03:43,504
+63
+00:03:41,570 --> 00:03:43,313
 If that's all, goodbye.
 
-71
-00:03:50,504 --> 00:03:51,629
-And now, a few words
+64
+00:03:50,738 --> 00:03:54,098
+And now, a few words from
+our student council president.
 
-72
-00:03:51,712 --> 00:03:53,921
-from our student council president.
-
-73
-00:03:54,962 --> 00:03:56,837
+65
+00:03:55,243 --> 00:03:56,940
 Thank you for the introduction.
 
-74
-00:03:56,921 --> 00:04:00,879
+66
+00:03:57,202 --> 00:04:04,789
 I'm Manabu Horikita. Newcomers, as a representative
-
-75
-00:04:00,962 --> 00:04:04,837
 of the upperclassmen, and your student council president,
 
-76
-00:04:04,921 --> 00:04:07,962
+67
+00:04:05,202 --> 00:04:07,439
 I extend a warm welcome to you all.
 
-77
-00:04:08,046 --> 00:04:10,504
-As I am sure you're aware, our school is known for
+68
+00:04:08,327 --> 00:04:13,285
+As I am sure you're aware, our school is known
+for its prestige and distinction on all fronts,
 
-78
-00:04:10,587 --> 00:04:13,004
-its prestige and distinction on all fronts,
+69
+00:04:13,368 --> 00:04:18,285
+and boasts impeccable employment and college
+entry rates across the board. We take pride in this.
 
-79
-00:04:13,087 --> 00:04:15,629
-and boasts impeccable employment and college entry rates
-
-80
-00:04:15,712 --> 00:04:18,004
-across the board. We take pride in this.
-
-81
-00:04:18,087 --> 00:04:21,129
+70
+00:04:18,368 --> 00:04:23,552
 In fact, it's our school's number one priority, and we all
-
-82
-00:04:21,212 --> 00:04:23,296
 work together to uphold this standard of excellence.
 
-83
-00:04:23,379 --> 00:04:25,004
+71
+00:04:23,660 --> 00:04:25,285
 Now you are a part of that, too.
 
-84
-00:04:25,087 --> 00:04:27,087
+72
+00:04:25,368 --> 00:04:27,155
 We expect greatness from all of you,
 
-85
-00:04:27,171 --> 00:04:28,296
+73
+00:04:27,452 --> 00:04:28,577
 and we know you're capable...
 
-86
-00:04:28,379 --> 00:04:31,879
+74
+00:04:28,660 --> 00:04:32,160
 We're even in the same class?
 
-87
-00:04:31,962 --> 00:04:34,671
+75
+00:04:32,243 --> 00:04:34,691
 ...so you alone control your path.
 
-88
-00:04:34,754 --> 00:04:37,879
+76
+00:04:35,035 --> 00:04:38,160
 Heh! Wow, me, too! So, what's your favorite genre.
 
-89
-00:04:37,962 --> 00:04:39,212
+77
+00:04:38,243 --> 00:04:39,493
 Romance, I bet!
 
-90
-00:04:39,296 --> 00:04:40,796
+78
+00:04:39,577 --> 00:04:41,077
 Huh? Romance is my favorite!
 
-91
-00:04:40,879 --> 00:04:42,504
+79
+00:04:41,160 --> 00:04:42,785
 How could you have known?
 
-92
-00:04:42,587 --> 00:04:45,337
+80
+00:04:42,868 --> 00:04:45,618
 Seriously! <i>Shojo</i> manga is definitely mine.
 
-93
-00:04:45,421 --> 00:04:47,712
+81
+00:04:45,702 --> 00:04:47,993
 Uh... My favorite genre is definitely Mystery.
 
-94
-00:04:47,796 --> 00:04:48,921
+82
+00:04:48,077 --> 00:04:49,202
 Mystery?
 
-95
-00:04:49,004 --> 00:04:51,171
+83
+00:04:49,285 --> 00:04:51,452
 It keeps me on the edge of my seat!
 
-96
-00:04:51,254 --> 00:04:53,629
+84
+00:04:51,535 --> 00:04:53,159
 She has the seat next to me?
 
-97
-00:04:53,712 --> 00:04:55,504
+85
+00:04:53,993 --> 00:04:55,785
 An annoying coincidence.
 
-98
-00:04:55,587 --> 00:04:57,004
+86
+00:04:55,868 --> 00:04:57,285
 The feeling's mutual.
 
-99
-00:04:57,087 --> 00:04:59,754
+87
+00:04:57,368 --> 00:04:59,707
 Hey, guys! Listen up for a sec.
 
-100
-00:04:59,837 --> 00:05:02,212
+88
+00:05:00,118 --> 00:05:02,493
 We should go around the room and introduce ourselves.
 
-101
-00:05:02,296 --> 00:05:04,087
+89
+00:05:02,577 --> 00:05:04,368
 Start to get familiar with each other.
 
-102
-00:05:04,171 --> 00:05:06,296
+90
+00:05:04,452 --> 00:05:06,164
 I'd like to get to know you guys.
 
-103
-00:05:06,379 --> 00:05:08,962
+91
+00:05:06,660 --> 00:05:09,243
 Plus, the teacher isn't here yet, so we might as well.
 
-104
-00:05:09,046 --> 00:05:10,046
+92
+00:05:09,327 --> 00:05:10,327
 Does that sound okay?
 
-105
-00:05:10,129 --> 00:05:11,129
+93
+00:05:10,410 --> 00:05:11,410
 I'm in!
 
-106
-00:05:11,212 --> 00:05:12,712
+94
+00:05:11,493 --> 00:05:12,993
 Yeah, that sounds like fun.
 
-107
-00:05:12,796 --> 00:05:14,129
+95
+00:05:13,077 --> 00:05:14,410
 I agree.
 
-108
-00:05:14,212 --> 00:05:16,296
+96
+00:05:14,493 --> 00:05:16,577
 I mean, how else are we all going to get acquainted.
 
-109
-00:05:16,379 --> 00:05:17,671
+97
+00:05:16,660 --> 00:05:17,792
 I'm glad to hear it.
 
-110
-00:05:17,754 --> 00:05:21,296
+98
+00:05:18,035 --> 00:05:21,577
 Well, I guess I'll go first, then. I'm Yosuke Hirata.
 
-111
-00:05:21,379 --> 00:05:23,921
+99
+00:05:21,660 --> 00:05:24,202
 But you can just call me Yosuke, if you want.
 
-112
-00:05:24,004 --> 00:05:26,004
+100
+00:05:24,285 --> 00:05:26,285
 I play every sport imaginable,
 
-113
-00:05:26,087 --> 00:05:29,421
+101
+00:05:26,368 --> 00:05:29,057
 and I'm gonna try out for the
 school's soccer team, for sure.
 
-114
-00:05:29,504 --> 00:05:31,254
+102
+00:05:29,785 --> 00:05:31,535
 Thanks! Nice to meet you all.
 
-115
-00:05:31,337 --> 00:05:32,629
+103
+00:05:31,618 --> 00:05:32,910
 That was great.
 
-116
-00:05:32,712 --> 00:05:34,712
+104
+00:05:32,993 --> 00:05:34,993
 I bet that guy's going to be the leader in class.
 
-117
-00:05:34,796 --> 00:05:37,171
+105
+00:05:35,077 --> 00:05:36,833
 Okay, I guess I'll go next!
 
-118
-00:05:37,254 --> 00:05:39,629
+106
+00:05:37,535 --> 00:05:39,809
 Hi, my name is Kikyo Kushida.
 
-119
-00:05:39,712 --> 00:05:41,046
+107
+00:05:39,993 --> 00:05:41,327
 My goal is to become friends
 
-120
-00:05:41,129 --> 00:05:43,546
+108
+00:05:41,410 --> 00:05:43,827
 with every person in the entire school!
 
-121
-00:05:43,629 --> 00:05:45,712
+109
+00:05:43,910 --> 00:05:45,993
 That obviously includes everyone here.
 
-122
-00:05:45,796 --> 00:05:49,296
+110
+00:05:46,077 --> 00:05:49,085
 So, if you're going out, please consider inviting me!
 
-123
-00:05:51,379 --> 00:05:53,504
+111
+00:05:51,633 --> 00:05:53,758
 She'll have no trouble reaching that goal.
 
-124
-00:05:53,587 --> 00:05:57,962
+112
+00:05:53,868 --> 00:05:58,243
 She's got that "everyone's friend" vibe going on.
 
-125
-00:05:58,046 --> 00:06:01,254
+113
+00:05:58,327 --> 00:06:01,305
 But I shouldn't be focused on her at a time like this.
 
-126
-00:06:02,754 --> 00:06:04,129
+114
+00:06:03,035 --> 00:06:04,410
 These introductions are going to determine
 
-127
-00:06:04,212 --> 00:06:06,671
+115
+00:06:04,493 --> 00:06:06,952
 everyone's standing in class.
 
-128
-00:06:06,754 --> 00:06:07,962
+116
+00:06:07,035 --> 00:06:08,243
 Should I try to crack a joke?
 
-129
-00:06:08,046 --> 00:06:09,546
+117
+00:06:08,327 --> 00:06:09,827
 Then, in middle school...
 
-130
-00:06:09,629 --> 00:06:13,212
+118
+00:06:09,910 --> 00:06:12,500
 I bet I could get a laugh if I acted really hyper.
 
-131
-00:06:13,296 --> 00:06:16,504
+119
+00:06:13,577 --> 00:06:15,752
 But I'd just end up creeping people out.
 
-132
-00:06:16,587 --> 00:06:18,754
-Anyway, it's not like I have any real interests
+120
+00:06:16,868 --> 00:06:20,630
+Anyway, it's not like I have any
+real interests or hobbies to speak of.
 
-133
-00:06:18,837 --> 00:06:20,504
-or hobbies to speak of.
-
-134
-00:06:20,587 --> 00:06:23,171
+121
+00:06:20,868 --> 00:06:23,452
 I'm kinda like a free agent, a blank slate.
 
-135
-00:06:23,254 --> 00:06:26,837
+122
+00:06:23,535 --> 00:06:26,158
 Next up! How about you?
 
-136
-00:06:26,921 --> 00:06:29,837
+123
+00:06:27,202 --> 00:06:29,415
 Uh. Who, me?
 
-137
-00:06:31,337 --> 00:06:34,462
+124
+00:06:33,007 --> 00:06:34,634
 No getting out of this one.
 
-138
-00:06:34,546 --> 00:06:37,796
+125
+00:06:34,885 --> 00:06:37,947
 I'd better muster up the energy
 to stand up and say something,
 
-139
-00:06:37,879 --> 00:06:41,504
+126
+00:06:38,160 --> 00:06:41,785
 for the sake of my reputation.
 
-140
-00:06:41,587 --> 00:06:44,629
+127
+00:06:41,868 --> 00:06:44,766
 Uh... So, um...
 
-141
-00:06:44,712 --> 00:06:46,879
+128
+00:06:44,993 --> 00:06:46,896
 I'm Kiyotaka Ayanokoji.
 
-142
-00:06:46,962 --> 00:06:51,129
+129
+00:06:47,243 --> 00:06:50,644
 Uh... I can't wait to study with you.
 
-143
-00:06:51,212 --> 00:06:56,337
+130
+00:06:53,231 --> 00:06:56,618
 Uh. Uh... I'm not really good at anything in particular.
 
-144
-00:06:56,421 --> 00:07:00,587
+131
+00:06:56,829 --> 00:07:00,679
 Uh. I'll do my best to get along with you all.
 
-145
-00:07:05,421 --> 00:07:07,212
+132
+00:07:05,729 --> 00:07:06,615
 I blew it.
 
-146
-00:07:07,879 --> 00:07:10,379
+133
+00:07:08,126 --> 00:07:10,626
 Ayanokoji, well it's nice to meet you.
 
-147
-00:07:10,462 --> 00:07:13,004
+134
+00:07:10,787 --> 00:07:12,688
 I can't wait to be friends.
 
-148
-00:07:13,087 --> 00:07:15,212
+135
+00:07:13,414 --> 00:07:13,909
 Hmph.
 
-149
-00:07:15,296 --> 00:07:16,504
+136
+00:07:15,577 --> 00:07:16,785
 She just laughed at me.
 
-150
-00:07:16,587 --> 00:07:17,504
+137
+00:07:16,868 --> 00:07:17,785
 Okay, who's next?
 
-151
-00:07:19,504 --> 00:07:21,337
+138
+00:07:19,711 --> 00:07:21,544
 Introductions are for grade schoolers.
 
-152
-00:07:21,421 --> 00:07:23,171
+139
+00:07:21,702 --> 00:07:23,452
 What are we, a buncha babies?
 
-153
-00:07:23,254 --> 00:07:25,587
+140
+00:07:23,535 --> 00:07:25,868
 Get to know each other on your own time.
 
-154
-00:07:25,671 --> 00:07:27,421
+141
+00:07:25,952 --> 00:07:27,428
 Let's get started.
 
-155
-00:07:27,504 --> 00:07:29,546
+142
+00:07:27,785 --> 00:07:29,248
 Find your seats, everyone.
 
-156
-00:07:33,754 --> 00:07:38,087
+143
+00:07:34,035 --> 00:07:37,641
 I'm Sae Chabashira, the homeroom teacher for Class One-D.
 
-157
-00:07:38,171 --> 00:07:40,671
+144
+00:07:38,452 --> 00:07:40,952
 At this school, you will not change classes.
 
-158
-00:07:40,754 --> 00:07:42,837
+145
+00:07:41,035 --> 00:07:43,144
 Ever. For the next three years,
 
-159
-00:07:42,921 --> 00:07:45,629
+146
+00:07:43,202 --> 00:07:45,643
 I'll be responsible for you until graduation.
 
-160
-00:07:45,712 --> 00:07:48,879
+147
+00:07:45,993 --> 00:07:48,922
 For our first order of business: the school rulebook.
 
-161
-00:07:48,962 --> 00:07:51,212
+148
+00:07:49,243 --> 00:07:51,055
 Take one and pass them back.
 
-162
-00:07:53,296 --> 00:07:55,129
-We have some rather unique rules
+149
+00:07:53,577 --> 00:07:56,918
+We have some rather unique rules at this institution.
 
-163
-00:07:55,212 --> 00:07:57,046
-at this institution.
-
-164
-00:07:57,129 --> 00:07:58,879
+150
+00:07:57,377 --> 00:07:59,127
 First, you must all live in the dorms.
 
-165
-00:07:58,962 --> 00:08:01,879
+151
+00:07:59,243 --> 00:08:02,160
 Your contact with the outside world will be restricted,
 
-166
-00:08:01,962 --> 00:08:04,879
+152
+00:08:02,243 --> 00:08:04,589
 as will your time away from the campus.
 
-167
-00:08:04,962 --> 00:08:06,671
+153
+00:08:05,315 --> 00:08:06,863
 For anyone concerned,
 
-168
-00:08:06,754 --> 00:08:10,337
+154
+00:08:07,035 --> 00:08:10,185
 the school offers a wide variety of facilities.
 
-169
-00:08:10,421 --> 00:08:13,379
+155
+00:08:10,781 --> 00:08:13,448
 Anything you could need or want can be found here.
 
-170
-00:08:13,462 --> 00:08:16,129
+156
+00:08:13,743 --> 00:08:16,323
 Including leisure and entertainment.
 
-171
-00:08:16,212 --> 00:08:18,337
-To make purchases, you will spend your points,
+157
+00:08:16,493 --> 00:08:21,366
+To make purchases, you will spend your points, which
+are tracked using the school's main computer system.
 
-172
-00:08:18,421 --> 00:08:21,171
-which are tracked using the school's main computer system.
+158
+00:08:21,535 --> 00:08:25,892
+At this school, you can buy
+absolutely anything on campus with these.
 
-173
-00:08:21,254 --> 00:08:23,879
-At this school, you can buy absolutely anything
-
-174
-00:08:23,962 --> 00:08:25,921
-on campus with these.
-
-175
-00:08:26,004 --> 00:08:28,671
+159
+00:08:26,285 --> 00:08:28,952
 Points are distributed to you on the first of each month.
 
-176
-00:08:28,754 --> 00:08:31,587
+160
+00:08:29,035 --> 00:08:31,059
 Each point is worth one yen.
 
-177
-00:08:31,671 --> 00:08:33,504
+161
+00:08:31,952 --> 00:08:33,785
 If you'll all check your devices,
 
-178
-00:08:33,587 --> 00:08:36,796
+162
+00:08:33,868 --> 00:08:37,077
 you'll notice that you've already been allotted 100,000.
 
-179
-00:08:36,879 --> 00:08:37,962
+163
+00:08:37,160 --> 00:08:38,243
 We what?!
 
-180
-00:08:38,046 --> 00:08:39,462
+164
+00:08:38,327 --> 00:08:39,743
 Are you kidding me?
 
-181
-00:08:41,296 --> 00:08:42,546
+165
+00:08:41,577 --> 00:08:42,827
 I see you're all surprised
 
-182
-00:08:42,629 --> 00:08:44,337
+166
+00:08:42,910 --> 00:08:44,618
 by the size of your allotment.
 
-183
-00:08:44,421 --> 00:08:47,962
+167
+00:08:44,702 --> 00:08:48,243
 This school judges its students
 based on their merit alone.
 
-184
-00:08:48,046 --> 00:08:51,504
+168
+00:08:48,327 --> 00:08:51,785
 You've all shown immense value
 just getting into this school.
 
-185
-00:08:51,587 --> 00:08:54,462
+169
+00:08:51,868 --> 00:08:54,743
 We've allotted you what we think you are worth.
 
-186
-00:08:56,046 --> 00:08:58,629
+170
+00:08:56,327 --> 00:08:58,240
 Thank you very much, come again!
 
-187
-00:08:58,712 --> 00:09:01,671
+171
+00:08:58,993 --> 00:09:01,414
 It really does work exactly like money.
 
-188
-00:09:01,754 --> 00:09:05,671
+172
+00:09:02,035 --> 00:09:05,824
 Twenty-five students per class,
 and four classes per grade.
 
-189
-00:09:05,754 --> 00:09:08,212
+173
+00:09:06,035 --> 00:09:08,037
 That makes 300 of us in all.
 
-190
-00:09:08,296 --> 00:09:10,712
+174
+00:09:08,577 --> 00:09:10,993
 If each kid gets 100,000 a month,
 
-191
-00:09:10,796 --> 00:09:14,212
+175
+00:09:11,077 --> 00:09:14,182
 that's 360 million per year.
 
-192
-00:09:14,296 --> 00:09:17,629
+176
+00:09:14,577 --> 00:09:16,998
 How can the government afford to pay for all this?
 
-193
-00:09:17,712 --> 00:09:18,796
+177
+00:09:17,993 --> 00:09:18,625
 Huh?
 
-194
-00:09:20,921 --> 00:09:23,337
+178
+00:09:21,202 --> 00:09:23,618
 Another annoying coincidence, it seems.
 
-195
-00:09:23,421 --> 00:09:25,629
+179
+00:09:23,702 --> 00:09:25,654
 You don't have to be so prickly.
 
-196
-00:09:28,087 --> 00:09:29,921
+180
+00:09:28,368 --> 00:09:30,202
 Well, since we have to sit by each other,
 
-197
-00:09:30,004 --> 00:09:32,046
+181
+00:09:30,285 --> 00:09:31,873
 we should attempt to get along.
 
-198
-00:09:32,129 --> 00:09:33,504
+182
+00:09:32,410 --> 00:09:33,460
 What's your name?
 
-199
-00:09:36,504 --> 00:09:39,129
+183
+00:09:36,785 --> 00:09:39,307
 Really, you won't even share with me that much?
 
-200
-00:09:39,212 --> 00:09:41,546
+184
+00:09:39,493 --> 00:09:41,827
 So? You got a problem with that?
 
-201
-00:09:41,629 --> 00:09:44,171
+185
+00:09:41,910 --> 00:09:44,452
 No, but it would make things
 weird for the next three years.
 
-202
-00:09:44,254 --> 00:09:46,879
+186
+00:09:44,535 --> 00:09:46,754
 To sit next to ya and never know your name.
 
-203
-00:09:49,879 --> 00:09:52,796
+187
+00:09:50,160 --> 00:09:52,301
 It's Suzune Horikita.
 
-204
-00:09:52,879 --> 00:09:54,504
+188
+00:09:53,113 --> 00:09:54,060
 "Horikita"?
 
-205
-00:09:54,587 --> 00:09:56,754
+189
+00:09:54,868 --> 00:09:56,389
 Like the guy who spoke earlier?
 
-206
-00:10:00,671 --> 00:10:02,712
+190
+00:10:00,952 --> 00:10:02,763
 Why are you buying all cheap stuff?
 
-207
-00:10:02,796 --> 00:10:04,296
+191
+00:10:03,077 --> 00:10:04,393
 You've got lots of money.
 
-208
-00:10:04,379 --> 00:10:05,629
+192
+00:10:04,660 --> 00:10:05,910
 You could stand to buy more expensive--
 
-209
-00:10:05,712 --> 00:10:07,462
+193
+00:10:05,993 --> 00:10:07,297
 I don't need all that.
 
-210
-00:10:07,546 --> 00:10:09,004
+194
+00:10:07,827 --> 00:10:09,285
 --Yeah, but you could-- --I told you.
 
-211
-00:10:09,087 --> 00:10:10,962
+195
+00:10:09,368 --> 00:10:10,909
 I don't need that stuff.
 
-212
-00:10:11,046 --> 00:10:12,462
+196
+00:10:11,327 --> 00:10:12,035
 Right.
 
-213
-00:10:12,546 --> 00:10:13,712
+197
+00:10:12,827 --> 00:10:13,882
 You're weird.
 
-214
-00:10:13,796 --> 00:10:15,962
+198
+00:10:14,077 --> 00:10:16,243
 You aren't very good at interacting with people.
 
-215
-00:10:16,046 --> 00:10:17,962
+199
+00:10:16,327 --> 00:10:18,243
 No conversation skills.
 
-216
-00:10:18,046 --> 00:10:19,546
+200
+00:10:18,327 --> 00:10:19,529
 Yeah, I know.
 
-217
-00:10:19,629 --> 00:10:21,962
+201
+00:10:19,910 --> 00:10:22,243
 But you don't seem to be much better than I am.
 
-218
-00:10:22,046 --> 00:10:23,212
+202
+00:10:22,327 --> 00:10:23,493
 That's true.
 
-219
-00:10:23,296 --> 00:10:24,879
+203
+00:10:23,577 --> 00:10:25,160
 But I'm not the one who said they were going to
 
-220
-00:10:24,962 --> 00:10:28,754
+204
+00:10:25,243 --> 00:10:27,975
 "work hard to get along" with everyone else.
 
-221
-00:10:28,837 --> 00:10:30,254
+205
+00:10:29,118 --> 00:10:30,177
 These are free?
 
-222
-00:10:30,337 --> 00:10:31,879
+206
+00:10:30,383 --> 00:10:34,696
 Maybe that's for people who use up all their
-
-223
-00:10:31,962 --> 00:10:34,462
 points before the first of the month, I guess.
 
-224
-00:10:34,546 --> 00:10:36,837
+207
+00:10:34,827 --> 00:10:37,118
 How could one use up a 100,000 points?
 
-225
-00:10:36,921 --> 00:10:38,129
+208
+00:10:37,202 --> 00:10:38,410
 This school is too indulgent.
 
-226
-00:10:38,212 --> 00:10:40,504
+209
+00:10:38,493 --> 00:10:40,514
 You think you're better than me? Huh?
 
-227
-00:10:40,587 --> 00:10:43,421
+210
+00:10:40,868 --> 00:10:43,702
 Maybe. You are in Class One-D, aren't you?
 
-228
-00:10:43,504 --> 00:10:45,962
+211
+00:10:43,785 --> 00:10:46,243
 Yeah. What the hell does it matter to you guys?!
 
-229
-00:10:46,046 --> 00:10:48,796
+212
+00:10:46,327 --> 00:10:49,077
 Hey, now that's no way to talk to your elders.
 
-230
-00:10:48,879 --> 00:10:50,546
+213
+00:10:49,160 --> 00:10:50,827
 You better learn some respect, and fast.
 
-231
-00:10:50,629 --> 00:10:51,921
+214
+00:10:50,910 --> 00:10:51,857
 Shut up!
 
-232
-00:10:52,004 --> 00:10:54,254
+215
+00:10:52,285 --> 00:10:54,535
 Huh? Wait, isn't that guy in our class?
 
-233
-00:10:54,337 --> 00:10:56,337
+216
+00:10:54,618 --> 00:10:56,618
 Maybe, but I won't get involved.
 
-234
-00:10:56,421 --> 00:10:58,587
+217
+00:10:56,702 --> 00:10:58,446
 It's beneath my dignity.
 
-235
-00:10:59,546 --> 00:11:02,421
+218
+00:10:59,827 --> 00:11:02,396
 Heh. We'll let it slide this time.
 
-236
-00:11:02,504 --> 00:11:04,379
+219
+00:11:02,785 --> 00:11:04,660
 Class D has already got it bad.
 
-237
-00:11:04,462 --> 00:11:06,379
+220
+00:11:04,743 --> 00:11:06,660
 If we knocked you down a peg, you'd fall right off.
 
-238
-00:11:06,462 --> 00:11:07,962
+221
+00:11:06,743 --> 00:11:08,243
 Don't you run away from me!
 
-239
-00:11:08,046 --> 00:11:08,879
+222
+00:11:08,327 --> 00:11:09,160
 Go ahead.
 
-240
-00:11:08,962 --> 00:11:10,587
+223
+00:11:09,243 --> 00:11:10,868
 Scream your head off if you want.
 
-241
-00:11:10,671 --> 00:11:13,671
+224
+00:11:10,912 --> 00:11:13,912
 You people are already in for a world of pain.
 
-242
-00:11:13,754 --> 00:11:15,046
+225
+00:11:14,015 --> 00:11:15,307
 "A world of pain"?
 
-243
-00:11:15,129 --> 00:11:17,337
+226
+00:11:15,410 --> 00:11:17,618
 Those damn wimps!
 
-244
-00:11:21,087 --> 00:11:22,254
+227
+00:11:21,368 --> 00:11:22,079
 Hm?
 
-245
-00:11:39,296 --> 00:11:40,546
+228
+00:11:39,564 --> 00:11:40,814
 Not long after that,
 
-246
-00:11:40,629 --> 00:11:43,671
+229
+00:11:40,910 --> 00:11:43,077
 the class began to split up into cliques.
 
-247
-00:11:43,754 --> 00:11:44,837
+230
+00:11:44,002 --> 00:11:45,085
 Hey, Kikyo.
 
-248
-00:11:44,921 --> 00:11:46,671
+231
+00:11:45,202 --> 00:11:46,887
 You wanna eat lunch together today?
 
-249
-00:11:46,754 --> 00:11:49,087
+232
+00:11:47,035 --> 00:11:49,368
 I'm sorry. I can't. I've got too much to do.
 
-250
-00:11:49,171 --> 00:11:51,546
+233
+00:11:49,445 --> 00:11:51,829
 This beauty was a mere 80,000 points!
 
-251
-00:11:51,629 --> 00:11:54,296
+234
+00:11:51,910 --> 00:11:54,577
 We get a 100,000 more soon, so it was a steal!
 
-252
-00:11:54,379 --> 00:11:57,212
+235
+00:11:54,660 --> 00:11:57,493
 Yeah, I've bought tons of games! This is awesome!
 
-253
-00:11:57,296 --> 00:11:59,421
+236
+00:11:57,577 --> 00:11:59,702
 I saw an adorable pair of earrings!
 
-254
-00:11:59,504 --> 00:12:01,254
+237
+00:11:59,785 --> 00:12:01,535
 Wanna stop by after class?
 
-255
-00:12:01,337 --> 00:12:03,004
+238
+00:12:01,618 --> 00:12:03,285
 Let's shop for clothes, too!
 
-256
-00:12:03,087 --> 00:12:04,421
+239
+00:12:03,368 --> 00:12:04,702
 Unlike everyone else,
 
-257
-00:12:04,504 --> 00:12:06,296
+240
+00:12:04,794 --> 00:12:06,486
 I failed to make any friends.
 
-258
-00:12:06,379 --> 00:12:07,546
+241
+00:12:06,660 --> 00:12:07,827
 You're pathetic.
 
-259
-00:12:07,629 --> 00:12:09,337
+242
+00:12:07,910 --> 00:12:08,430
 Hm?
 
-260
-00:12:09,421 --> 00:12:11,546
+243
+00:12:09,702 --> 00:12:11,827
 Yeah, well, you're alone, too.
 
-261
-00:12:11,629 --> 00:12:15,462
+244
+00:12:11,897 --> 00:12:15,154
 That's true. But I, for one, prefer to be alone.
 
-262
-00:12:19,046 --> 00:12:22,046
+245
+00:12:19,327 --> 00:12:21,372
 I'm gonna hit up the cafeteria.
 
-263
-00:12:23,129 --> 00:12:26,337
+246
+00:12:23,310 --> 00:12:26,175
 Um. Your name is Ayanokoji, isn't it?
 
-264
-00:12:26,421 --> 00:12:29,587
+247
+00:12:26,755 --> 00:12:28,901
 Yeah. And you're...
 
-265
-00:12:29,671 --> 00:12:30,546
+248
+00:12:29,952 --> 00:12:30,827
 ...Kushida?
 
-266
-00:12:30,629 --> 00:12:32,004
+249
+00:12:30,910 --> 00:12:32,285
 I'm so impressed!
 
-267
-00:12:32,087 --> 00:12:34,421
+250
+00:12:32,368 --> 00:12:34,702
 You remembered my name, too! Thanks.
 
-268
-00:12:34,504 --> 00:12:36,921
+251
+00:12:34,785 --> 00:12:36,792
 Yeah. Guess I did.
 
-269
-00:12:37,004 --> 00:12:41,337
+252
+00:12:37,285 --> 00:12:40,976
 So, um. Could we talk for a sec?
 
-270
-00:12:48,046 --> 00:12:49,421
+253
+00:12:48,327 --> 00:12:49,702
 The reason I stopped you is that
 
-271
-00:12:49,504 --> 00:12:51,796
+254
+00:12:49,785 --> 00:12:52,077
 you and Horikita seem really close.
 
-272
-00:12:51,879 --> 00:12:54,296
+255
+00:12:52,160 --> 00:12:54,474
 Well... I wouldn't go that far.
 
-273
-00:12:54,379 --> 00:12:55,879
+256
+00:12:54,660 --> 00:12:56,160
 Really?
 
-274
-00:12:55,962 --> 00:12:59,462
+257
+00:12:56,243 --> 00:12:58,906
 But, you're the only person in
 school that she talks to, ever.
 
-275
-00:12:59,546 --> 00:13:02,212
+258
+00:12:59,814 --> 00:13:02,480
 It's my goal to become friends with everyone at school,
 
-276
-00:13:02,296 --> 00:13:03,754
+259
+00:13:02,577 --> 00:13:04,035
 even outside our class.
 
-277
-00:13:03,837 --> 00:13:05,921
+260
+00:13:04,118 --> 00:13:06,202
 So I asked Horikita for her phone number
 
-278
-00:13:06,004 --> 00:13:09,962
+261
+00:13:06,285 --> 00:13:10,074
 to maybe call her sometime, but she turned me down.
 
-279
-00:13:10,046 --> 00:13:12,962
+262
+00:13:10,314 --> 00:13:13,230
 She said she doesn't wanna be friends with anyone.
 
-280
-00:13:13,046 --> 00:13:15,087
+263
+00:13:13,327 --> 00:13:15,368
 Yeah, I think that's just how she is.
 
-281
-00:13:15,171 --> 00:13:16,921
+264
+00:13:15,452 --> 00:13:17,202
 But I still want to be friends with Horikita,
 
-282
-00:13:17,004 --> 00:13:18,504
+265
+00:13:17,285 --> 00:13:18,785
 in spite of all that!
 
-283
-00:13:18,587 --> 00:13:20,837
+266
+00:13:18,868 --> 00:13:21,118
 Do you think that you could help me with her?
 
-284
-00:13:20,921 --> 00:13:22,004
+267
+00:13:21,202 --> 00:13:21,999
 Help you?
 
-285
-00:13:22,087 --> 00:13:23,212
+268
+00:13:22,241 --> 00:13:23,346
 I don't know.
 
-286
-00:13:23,296 --> 00:13:26,421
+269
+00:13:23,577 --> 00:13:26,000
 You mean... you won't?
 
-287
-00:13:28,629 --> 00:13:30,296
+270
+00:13:28,910 --> 00:13:30,577
 The head of the Yamato government
 
-288
-00:13:30,379 --> 00:13:31,879
+271
+00:13:30,660 --> 00:13:32,160
 was known as the " <i>O-kimi</i> ."
 
-289
-00:13:31,962 --> 00:13:34,587
+272
+00:13:32,243 --> 00:13:34,868
 He controlled the powerful families of each region
 
-290
-00:13:34,671 --> 00:13:36,504
+273
+00:13:34,952 --> 00:13:36,785
 using the <i>uji-kabane</i> system.
 
-291
-00:13:36,587 --> 00:13:38,629
+274
+00:13:36,868 --> 00:13:38,910
 " <i>Uji</i> " referred to groups of families
 
-292
-00:13:38,712 --> 00:13:40,587
+275
+00:13:38,993 --> 00:13:40,868
 who shared the same bloodline,
 
-293
-00:13:40,671 --> 00:13:44,421
+276
+00:13:40,952 --> 00:13:44,702
 while " <i>kabane</i> " referred to
 an individual's post and status.
 
-294
-00:13:44,504 --> 00:13:48,671
+277
+00:13:44,785 --> 00:13:48,952
 It was a system in which pedigree determined one's place.
 
-295
-00:13:48,754 --> 00:13:50,462
+278
+00:13:49,035 --> 00:13:50,743
 That's all for today.
 
-296
-00:13:50,546 --> 00:13:54,087
+279
+00:13:50,827 --> 00:13:53,239
 Look over the material for tomorrow.
 
-297
-00:14:03,004 --> 00:14:05,754
+280
+00:14:03,285 --> 00:14:05,779
 This school is incredibly indulgent.
 
-298
-00:14:05,837 --> 00:14:08,212
+281
+00:14:06,118 --> 00:14:08,493
 These kids play around and sleep in class,
 
-299
-00:14:08,296 --> 00:14:10,712
+282
+00:14:08,577 --> 00:14:10,993
 but the teachers never even bother to do anything.
 
-300
-00:14:10,796 --> 00:14:12,712
+283
+00:14:11,077 --> 00:14:12,993
 I can't believe the government has the gall
 
-301
-00:14:12,796 --> 00:14:14,546
+284
+00:14:13,077 --> 00:14:14,827
 to dub this an elite school.
 
-302
-00:14:14,629 --> 00:14:18,921
+285
+00:14:14,910 --> 00:14:18,338
 Maybe they're just trying to
 encourage individual autonomy.
 
-303
-00:14:19,004 --> 00:14:20,421
+286
+00:14:19,285 --> 00:14:20,351
 Perhaps.
 
-304
-00:14:21,921 --> 00:14:24,087
+287
+00:14:22,241 --> 00:14:24,368
 Hey. If you're just gonna head home,
 
-305
-00:14:24,171 --> 00:14:26,837
+288
+00:14:24,452 --> 00:14:26,580
 would you mind coming somewhere with me first?
 
-306
-00:14:26,921 --> 00:14:28,921
+289
+00:14:27,168 --> 00:14:28,784
 What are you trying to pull?
 
-307
-00:14:29,004 --> 00:14:30,379
+290
+00:14:29,285 --> 00:14:30,492
 It's an invitation.
 
-308
-00:14:30,462 --> 00:14:32,462
+291
+00:14:30,730 --> 00:14:32,730
 Why would that suggest an ulterior motive?
 
-309
-00:14:32,546 --> 00:14:34,796
+292
+00:14:32,827 --> 00:14:35,077
 If you'll be honest and tell me what you really want,
 
-310
-00:14:34,879 --> 00:14:36,837
+293
+00:14:35,133 --> 00:14:37,017
 maybe I'll be willing to hear you out.
 
-311
-00:14:36,921 --> 00:14:39,546
+294
+00:14:37,182 --> 00:14:39,807
 You know that big café in the mall, the coffee place?
 
-312
-00:14:39,629 --> 00:14:41,546
+295
+00:14:39,910 --> 00:14:41,827
 Where all the girls like to hang out?
 
-313
-00:14:41,629 --> 00:14:44,462
+296
+00:14:41,910 --> 00:14:44,525
 Would you be willing to go there with me right now?
 
-314
-00:14:44,546 --> 00:14:46,587
+297
+00:14:44,827 --> 00:14:46,605
 Why me, of all people?
 
-315
-00:14:46,671 --> 00:14:49,546
+298
+00:14:46,952 --> 00:14:49,535
 I'm just not brave enough to go in there alone.
 
-316
-00:14:49,629 --> 00:14:52,337
+299
+00:14:49,876 --> 00:14:52,584
 The place kind of has a "no boys allowed" vibe.
 
-317
-00:14:52,421 --> 00:14:54,421
+300
+00:14:52,662 --> 00:14:54,662
 And there's no one else you can ask?
 
-318
-00:14:54,504 --> 00:14:56,754
+301
+00:14:54,752 --> 00:14:57,002
 Well, no, I suppose there isn't.
 
-319
-00:14:56,837 --> 00:15:00,004
+302
+00:14:57,118 --> 00:14:59,904
 Hurts to admit it, but... you're right about that.
 
-320
-00:15:12,962 --> 00:15:14,504
+303
+00:15:13,243 --> 00:15:14,785
 Is it always so packed?
 
-321
-00:15:14,587 --> 00:15:16,879
+304
+00:15:14,868 --> 00:15:17,044
 So this is your first time coming here, too?
 
-322
-00:15:16,962 --> 00:15:18,879
+305
+00:15:17,196 --> 00:15:19,113
 Oh, right, you're a loner.
 
-323
-00:15:18,962 --> 00:15:21,629
+306
+00:15:19,243 --> 00:15:21,855
 Trying to insult me? How childish.
 
-324
-00:15:21,712 --> 00:15:25,212
+307
+00:15:21,993 --> 00:15:25,016
 Uh. That table just opened up.
 
-325
-00:15:28,462 --> 00:15:29,587
+308
+00:15:28,743 --> 00:15:29,868
 Hey, I wonder.
 
-326
-00:15:29,671 --> 00:15:31,254
-You think the other people in here see us,
+309
+00:15:29,952 --> 00:15:33,135
+You think the other people in here
+see us, well, you know, as a couple...
 
-327
-00:15:31,337 --> 00:15:33,337
-well, you know, as a couple--
-
-328
-00:15:34,587 --> 00:15:36,504
+310
+00:15:34,688 --> 00:15:36,266
 Never mind, probably not.
 
-329
-00:15:37,296 --> 00:15:38,796
-The impending confrontation
+311
+00:15:37,577 --> 00:15:41,880
+The impending confrontation is tying
+my stomach into knots. I feel sick.
 
-330
-00:15:38,879 --> 00:15:42,046
-is tying my stomach into knots. I feel sick.
-
-331
-00:15:42,129 --> 00:15:44,462
+312
+00:15:42,290 --> 00:15:44,623
 Huh?! Horikita!
 
-332
-00:15:44,546 --> 00:15:47,754
+313
+00:15:44,827 --> 00:15:48,035
 What a coincidence! And Ayanokoji, too?
 
-333
-00:15:47,837 --> 00:15:50,171
+314
+00:15:48,118 --> 00:15:50,452
 So, do you two come here together often?
 
-334
-00:15:50,254 --> 00:15:52,129
+315
+00:15:50,535 --> 00:15:52,410
 No, this is our first time.
 
-335
-00:15:52,212 --> 00:15:53,337
+316
+00:15:52,493 --> 00:15:53,618
 Oh, that's cool.
 
-336
-00:15:53,421 --> 00:15:54,379
+317
+00:15:53,702 --> 00:15:54,660
 Well, I'm here by myself--
 
-337
-00:15:54,462 --> 00:15:56,254
+318
+00:15:54,743 --> 00:15:56,138
 I'm leaving.
 
-338
-00:15:56,337 --> 00:15:58,879
+319
+00:15:56,618 --> 00:15:59,160
 You are? We literally just sat down.
 
-339
-00:15:58,962 --> 00:16:00,462
+320
+00:15:59,243 --> 00:16:00,743
 But Kushida's here now.
 
-340
-00:16:00,546 --> 00:16:02,629
+321
+00:16:00,827 --> 00:16:02,910
 So you don't need me to stay, do you?
 
-341
-00:16:02,712 --> 00:16:04,754
+322
+00:16:02,993 --> 00:16:05,035
 I guess not, but Kushida and I
 
-342
-00:16:04,837 --> 00:16:06,629
+323
+00:16:05,118 --> 00:16:06,910
 are just classmates, we don't know each other.
 
-343
-00:16:06,712 --> 00:16:09,462
+324
+00:16:06,993 --> 00:16:09,743
 And how is that any different than what you and I are?
 
-344
-00:16:09,546 --> 00:16:11,129
+325
+00:16:09,827 --> 00:16:11,410
 On top of that...
 
-345
-00:16:11,212 --> 00:16:14,629
+326
+00:16:11,493 --> 00:16:14,910
 Something seems fishy here, and I don't like it.
 
-346
-00:16:14,712 --> 00:16:16,421
+327
+00:16:14,993 --> 00:16:16,702
 What? Oh, come on!
 
-347
-00:16:16,504 --> 00:16:17,962
+328
+00:16:16,785 --> 00:16:18,243
 It's a coincidence.
 
-348
-00:16:18,046 --> 00:16:19,962
-Nice try, but the correct response
+329
+00:16:18,386 --> 00:16:22,619
+Nice try, but the correct response would
+have been, "What's that supposed to mean?"
 
-349
-00:16:20,046 --> 00:16:22,504
-would have been, "What's that supposed to mean?"
-
-350
-00:16:22,587 --> 00:16:24,837
+330
+00:16:22,868 --> 00:16:25,118
 The girls who were at this table,
 
-351
-00:16:24,921 --> 00:16:26,629
+331
+00:16:25,202 --> 00:16:26,910
 and the two at the next one over,
 
-352
-00:16:26,712 --> 00:16:29,046
+332
+00:16:26,993 --> 00:16:29,266
 is it coincidence they're in our class?
 
-353
-00:16:29,129 --> 00:16:30,421
+333
+00:16:29,410 --> 00:16:30,419
 Honestly.
 
-354
-00:16:30,504 --> 00:16:32,171
+334
+00:16:30,785 --> 00:16:32,452
 Wow, I didn't even notice.
 
-355
-00:16:32,254 --> 00:16:34,421
+335
+00:16:32,535 --> 00:16:34,297
 I'm impressed that you recognized them.
 
-356
-00:16:34,504 --> 00:16:37,754
+336
+00:16:34,785 --> 00:16:37,963
 You and I came straight here
 immediately after class ended.
 
-357
-00:16:37,837 --> 00:16:40,546
-We came in, and then they left, though they couldn't have
+337
+00:16:38,118 --> 00:16:42,966
+We came in, and then they left, though they couldn't
+have been here for longer than a couple of minutes.
 
-358
-00:16:40,629 --> 00:16:42,754
-been here for longer than a couple of minutes.
-
-359
-00:16:42,837 --> 00:16:45,129
+338
+00:16:43,118 --> 00:16:44,739
 It doesn't make any sense.
 
-360
-00:16:46,004 --> 00:16:48,337
+339
+00:16:46,285 --> 00:16:47,187
 Well, um...
 
-361
-00:16:50,046 --> 00:16:52,921
+340
+00:16:50,327 --> 00:16:53,005
 Sorry. Yeah, you're right. We set you up.
 
-362
-00:16:53,004 --> 00:16:54,629
+341
+00:16:53,285 --> 00:16:54,492
 I thought so.
 
-363
-00:16:54,712 --> 00:16:56,879
+342
+00:16:54,993 --> 00:16:58,911
 Horikita! Please be my friend.
-
-364
-00:16:56,962 --> 00:16:58,796
 That's all I wanted from this!
 
-365
-00:16:58,879 --> 00:17:01,587
+343
+00:16:59,160 --> 00:17:01,721
 Well, what I want is for you to leave me alone.
 
-366
-00:17:01,671 --> 00:17:04,087
+344
+00:17:01,952 --> 00:17:04,368
 You two should both know that you're wasting your time.
 
-367
-00:17:04,171 --> 00:17:07,046
+345
+00:17:04,452 --> 00:17:09,311
 Huh? But I, I don't understand.
-
-368
-00:17:07,129 --> 00:17:09,087
 Won't you be lonely all by yourself?
 
-369
-00:17:09,171 --> 00:17:13,212
+346
+00:17:09,452 --> 00:17:12,575
 Being alone is not synonymous with being lonely.
 
-370
-00:17:13,296 --> 00:17:14,921
+347
+00:17:13,490 --> 00:17:15,115
 Like I said, it's a waste.
 
-371
-00:17:15,004 --> 00:17:17,462
+348
+00:17:15,251 --> 00:17:17,709
 Every sound coming out of your mouth repulses me.
 
-372
-00:17:17,546 --> 00:17:20,129
+349
+00:17:17,827 --> 00:17:20,237
 Hey. Are you sure about this?
 
-373
-00:17:20,212 --> 00:17:21,587
-Do you really want to spend the next
+350
+00:17:20,506 --> 00:17:23,523
+Do you really want to spend the
+next three years of your life that way?
 
-374
-00:17:21,671 --> 00:17:23,296
-three years of your life that way?
-
-375
-00:17:23,379 --> 00:17:25,712
+351
+00:17:23,640 --> 00:17:25,792
 If you don't make friends, you'll be isolated.
 
-376
-00:17:25,796 --> 00:17:28,712
+352
+00:17:26,050 --> 00:17:28,966
 I've been completely alone for the past nine years,
 
-377
-00:17:28,796 --> 00:17:32,379
+353
+00:17:29,077 --> 00:17:32,039
 so what's another three to me? It hardly matters.
 
-378
-00:17:33,796 --> 00:17:37,587
-Sorry. I kinda think I might have made Horikita hate you,
+354
+00:17:34,077 --> 00:17:39,707
+Sorry. I kinda think I might have made Horikita
+hate you, and that was the last thing I wanted.
 
-379
-00:17:37,671 --> 00:17:39,462
-and that was the last thing I wanted.
-
-380
-00:17:39,546 --> 00:17:41,962
+355
+00:17:39,827 --> 00:17:41,785
 Nah, don't worry about it.
 
-381
-00:17:43,087 --> 00:17:46,171
+356
+00:17:43,368 --> 00:17:45,790
 Maybe she and I will never be friends.
 
-382
-00:17:46,254 --> 00:17:47,962
+357
+00:17:46,469 --> 00:17:47,663
 That makes me sad.
 
-383
-00:17:50,337 --> 00:17:53,087
+358
+00:17:50,724 --> 00:17:53,330
 If I can't even make friends with all my classmates,
 
-384
-00:17:53,171 --> 00:17:55,504
+359
+00:17:53,452 --> 00:17:55,385
 my goal seems unattainable.
 
-385
-00:17:55,587 --> 00:17:58,754
+360
+00:17:55,868 --> 00:17:58,833
 Personally, I think Horikita's an exception.
 
-386
-00:17:58,837 --> 00:18:00,962
+361
+00:17:59,118 --> 00:18:01,243
 Uh! That's Ichinose over there!
 
-387
-00:18:01,046 --> 00:18:03,421
+362
+00:18:01,327 --> 00:18:03,702
 Honami Ichinose is from Class One-B.
 
-388
-00:18:03,504 --> 00:18:06,504
+363
+00:18:03,785 --> 00:18:05,671
 We became friends yesterday.
 
-389
-00:18:06,587 --> 00:18:08,546
+364
+00:18:06,868 --> 00:18:08,827
 You're friends with kids in other classes?
 
-390
-00:18:08,629 --> 00:18:10,254
+365
+00:18:08,910 --> 00:18:10,535
 I can't even imagine that.
 
-391
-00:18:10,337 --> 00:18:14,712
+366
+00:18:10,618 --> 00:18:14,417
 Mm-hm. There are so many really nice people in Class B.
 
-392
-00:18:14,796 --> 00:18:17,921
+367
+00:18:15,077 --> 00:18:18,049
 You know. This school is pretty amazing, don't you think?
 
-393
-00:18:18,004 --> 00:18:19,254
-All the different shops,
+368
+00:18:18,285 --> 00:18:22,361
+All the different shops, and the fact
+that we get a 100,000 yen every month!
 
-394
-00:18:19,337 --> 00:18:22,379
-and the fact that we get a 100,000 yen every month!
-
-395
-00:18:22,462 --> 00:18:23,796
+369
+00:18:22,743 --> 00:18:24,077
 I don't know.
 
-396
-00:18:23,879 --> 00:18:26,546
+370
+00:18:24,160 --> 00:18:26,452
 That amount seems kind of excessive, in my opinion.
 
-397
-00:18:26,629 --> 00:18:29,004
+371
+00:18:26,910 --> 00:18:29,285
 Yeah. I'm glad you think so, too.
 
-398
-00:18:29,087 --> 00:18:32,296
+372
+00:18:29,368 --> 00:18:32,577
 And, calling them points makes
 them entirely too easy to spend.
 
-399
-00:18:32,379 --> 00:18:35,296
+373
+00:18:32,741 --> 00:18:35,577
 To be honest, it's skewing my money sense.
 
-400
-00:18:35,379 --> 00:18:36,504
+374
+00:18:35,686 --> 00:18:36,287
 Hm.
 
-401
-00:18:39,046 --> 00:18:42,129
+375
+00:18:39,327 --> 00:18:42,410
 I'm going to have to budget tightly to avoid overspending.
 
-402
-00:18:42,212 --> 00:18:44,754
+376
+00:18:42,493 --> 00:18:44,837
 I mean, I'll buy the things I need, obviously.
 
-403
-00:18:44,837 --> 00:18:48,212
+377
+00:18:45,118 --> 00:18:48,389
 The toiletries I use every day, like soap and toothpaste,
 
-404
-00:18:48,296 --> 00:18:51,754
+378
+00:18:48,577 --> 00:18:50,657
 and I'll need panties.
 
-405
-00:18:51,837 --> 00:18:54,796
+379
+00:18:52,118 --> 00:18:55,077
 Yeah. Horikita was saying something similar.
 
-406
-00:18:54,879 --> 00:18:57,587
-Huh? Oh! So you even know
+380
+00:18:55,160 --> 00:18:59,875
+Huh? Oh! So you even know all
+about how she spends her money.
 
-407
-00:18:57,671 --> 00:18:59,879
-all about how she spends her money.
-
-408
-00:18:59,962 --> 00:19:02,379
+381
+00:19:00,243 --> 00:19:02,472
 You two really are friends, aren't you?
 
-409
-00:19:02,462 --> 00:19:04,629
+382
+00:19:02,743 --> 00:19:04,700
 No, I just happened to be there.
 
-410
-00:19:04,712 --> 00:19:07,296
+383
+00:19:04,993 --> 00:19:07,102
 Whoa. She's standing so close.
 
-411
-00:19:11,921 --> 00:19:15,712
+384
+00:19:12,202 --> 00:19:15,792
 Well! We'll just have to leave it at that!
 
-412
-00:19:15,796 --> 00:19:18,171
+385
+00:19:16,077 --> 00:19:17,843
 But it happens to be the truth.
 
-413
-00:19:30,129 --> 00:19:33,212
+386
+00:19:30,410 --> 00:19:32,800
 One hundred thousand... Huh.
 
-414
-00:19:35,046 --> 00:19:36,129
+387
+00:19:35,327 --> 00:19:36,410
 Most students decided
 
-415
-00:19:36,212 --> 00:19:38,212
+388
+00:19:36,493 --> 00:19:38,493
 to make the most of their circumstances
 
-416
-00:19:38,296 --> 00:19:41,421
+389
+00:19:38,577 --> 00:19:40,735
 without giving much thought to anything at all.
 
-417
-00:19:41,504 --> 00:19:44,629
+390
+00:19:41,785 --> 00:19:44,910
 Day in and day out they blew
 through their monthly allowance
 
-418
-00:19:44,712 --> 00:19:47,462
+391
+00:19:44,993 --> 00:19:47,511
 like it was nothing, buying whatever they wanted.
 
-419
-00:19:47,546 --> 00:19:49,254
+392
+00:19:47,827 --> 00:19:49,211
 The teacher never disciplined,
 
-420
-00:19:49,337 --> 00:19:52,754
-so conversations in class, sleeping on desks, tardiness,
+393
+00:19:49,570 --> 00:19:55,232
+so conversations in class, sleeping on desks,
+tardiness, and downright truancy became the norm.
 
-421
-00:19:52,837 --> 00:19:55,379
-and downright truancy became the norm.
-
-422
-00:19:55,462 --> 00:20:00,754
+394
+00:19:55,743 --> 00:20:00,477
 Extravagance, debauchery, and lethargy ran rampant.
 
-423
-00:20:00,837 --> 00:20:04,712
+395
+00:20:01,118 --> 00:20:04,569
 Then, suddenly, on May first, everything changed.
 
-424
-00:20:04,796 --> 00:20:07,087
+396
+00:20:05,077 --> 00:20:07,082
 Huh? What's going on?
 
-425
-00:20:07,171 --> 00:20:08,837
+397
+00:20:07,452 --> 00:20:09,118
 Hold on, yours hasn't, either?
 
-426
-00:20:08,921 --> 00:20:10,462
+398
+00:20:09,202 --> 00:20:10,743
 What's the deal here?
 
-427
-00:20:13,962 --> 00:20:15,546
+399
+00:20:14,243 --> 00:20:15,827
 Take your seats, class.
 
-428
-00:20:15,629 --> 00:20:18,087
+400
+00:20:15,910 --> 00:20:18,105
 Morning homeroom begins now.
 
-429
-00:20:20,046 --> 00:20:21,254
+401
+00:20:20,327 --> 00:20:21,424
 Hey, teacher?
 
-430
-00:20:21,337 --> 00:20:23,921
+402
+00:20:21,618 --> 00:20:24,202
 Nobody here has gotten any more points yet.
 
-431
-00:20:24,004 --> 00:20:25,296
+403
+00:20:24,285 --> 00:20:25,577
 It's the first of the month.
 
-432
-00:20:25,379 --> 00:20:27,712
+404
+00:20:25,660 --> 00:20:27,797
 Shouldn't they have already been refilled by now?
 
-433
-00:20:27,796 --> 00:20:30,337
+405
+00:20:28,077 --> 00:20:32,187
 Of course, this month's allotment
-
-434
-00:20:30,421 --> 00:20:32,421
 has already been distributed.
 
-435
-00:20:32,504 --> 00:20:33,254
+406
+00:20:32,712 --> 00:20:33,462
 Uh...
 
-436
-00:20:33,337 --> 00:20:34,879
+407
+00:20:33,612 --> 00:20:34,873
 Mine aren't there.
 
-437
-00:20:34,962 --> 00:20:37,629
+408
+00:20:35,243 --> 00:20:37,910
 As I said, the points have been allocated.
 
-438
-00:20:37,712 --> 00:20:39,546
+409
+00:20:37,993 --> 00:20:39,827
 I am certain about that.
 
-439
-00:20:39,629 --> 00:20:41,296
-And I know for a fact that this class
+410
+00:20:39,910 --> 00:20:43,868
+And I know for a fact that this class has
+not been overlooked by the administration.
 
-440
-00:20:41,379 --> 00:20:43,587
-has not been overlooked by the administration.
-
-441
-00:20:43,671 --> 00:20:46,421
+411
+00:20:43,952 --> 00:20:46,702
 What about our points? Nobody in this class got any.
 
-442
-00:20:50,837 --> 00:20:53,254
+412
+00:20:51,118 --> 00:20:53,535
 A whole class comprised of morons.
 
-443
-00:20:53,337 --> 00:20:54,879
+413
+00:20:53,618 --> 00:20:55,160
 You're all pathetic.
 
-444
-00:20:56,504 --> 00:20:59,754
+414
+00:20:56,725 --> 00:20:59,975
 A combined total of 98 tardies and absences,
 
-445
-00:20:59,837 --> 00:21:03,462
+415
+00:21:00,118 --> 00:21:03,743
 391 documented cases of cell-phone use,
 
-446
-00:21:03,546 --> 00:21:05,796
+416
+00:21:03,827 --> 00:21:06,077
 and or talking during instruction.
 
-447
-00:21:05,879 --> 00:21:08,962
+417
+00:21:06,160 --> 00:21:09,164
 Impressive figures for the first month of the school year.
 
-448
-00:21:09,046 --> 00:21:12,129
-At this school, your grades and performance evaluations
+418
+00:21:09,314 --> 00:21:13,583
+At this school, your grades and
+performance evaluations aren't handed out.
 
-449
-00:21:12,212 --> 00:21:13,546
-aren't handed out.
-
-450
-00:21:13,629 --> 00:21:16,171
+419
+00:21:13,710 --> 00:21:16,252
 They're reflected in your monthly points allotment.
 
-451
-00:21:16,254 --> 00:21:20,212
-Your unconscionable behavior, and that alone, has resulted
+420
+00:21:16,535 --> 00:21:19,772
+Your unconscionable behavior, and that alone,
 
-452
-00:21:20,296 --> 00:21:22,837
-in the with holding of your
-points allowance for this month.
+421
+00:21:19,797 --> 00:21:23,118
+has resulted in the with holding of
+your points allowance for this month.
 
-453
-00:21:22,921 --> 00:21:25,004
-The points allotted to this class for the month
+422
+00:21:23,202 --> 00:21:27,874
+The points allotted to this class for
+the month comes out to a total... of zero.
 
-454
-00:21:25,087 --> 00:21:27,629
-comes out to a total... of zero.
-
-455
-00:21:29,129 --> 00:21:31,296
+423
+00:21:28,630 --> 00:21:31,537
 No way. I have to live on no money this whole month?
 
-456
-00:21:31,379 --> 00:21:33,337
+424
+00:21:31,660 --> 00:21:33,618
 Hang on. That's not fair.
 
-457
-00:21:33,421 --> 00:21:36,671
+425
+00:21:33,702 --> 00:21:36,402
 It's just that... You should have told us.
 
-458
-00:21:36,754 --> 00:21:38,671
+426
+00:21:37,035 --> 00:21:41,698
 Did it never occur to you to question
-
-459
-00:21:38,754 --> 00:21:41,462
 your circumstances? You're only children.
 
-460
-00:21:41,546 --> 00:21:44,379
+427
+00:21:41,827 --> 00:21:44,540
 Why would you be given such an extravagant sum?
 
-461
-00:21:44,462 --> 00:21:46,671
+428
+00:21:44,743 --> 00:21:46,933
 Didn't you think there'd be a catch?
 
-462
-00:21:46,754 --> 00:21:48,212
+429
+00:21:47,035 --> 00:21:48,521
 Your assumptions were wrong,
 
-463
-00:21:48,296 --> 00:21:50,462
+430
+00:21:48,577 --> 00:21:50,689
 and now you must all pay the price.
 
-464
-00:21:50,546 --> 00:21:52,796
+431
+00:21:50,827 --> 00:21:54,875
 If you did have doubts, why, then,
-
-465
-00:21:52,879 --> 00:21:55,212
 did you refuse to act upon them?
 
-466
-00:21:56,546 --> 00:21:59,254
-I told you on the first day of class, didn't I?
+432
+00:21:56,827 --> 00:21:59,576
+I told you on the first
+day of class, didn't I?
 
-467
-00:21:59,337 --> 00:22:00,712
+433
+00:21:59,618 --> 00:22:00,993
 I was perfectly clear.
 
-468
-00:22:00,796 --> 00:22:05,212
+434
+00:22:01,077 --> 00:22:04,692
 This school judges its students on merit alone, so.
 
-469
-00:22:05,296 --> 00:22:10,087
+435
+00:22:05,577 --> 00:22:09,413
 As it stands now, we think you're all garbage.
 
-470
-00:22:10,171 --> 00:22:13,504
+436
+00:22:10,398 --> 00:22:13,401
 You're worth nothing, so you get nothing.
 

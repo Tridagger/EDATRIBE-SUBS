@@ -1,1694 +1,1561 @@
 ﻿1
-00:00:19,527 --> 00:00:23,235
+00:00:19,774 --> 00:00:22,848
 Hello, lovely members of Class One-B.
 
 2
-00:00:23,319 --> 00:00:26,319
+00:00:23,519 --> 00:00:26,561
 Let's all try to have a wonderful day, shall we?
 
 3
-00:00:26,402 --> 00:00:29,152
+00:00:26,649 --> 00:00:29,327
 Ew! Teacher, you reek of alcohol!
 
 4
-00:00:29,235 --> 00:00:31,735
+00:00:29,482 --> 00:00:32,062
 Yeah, I had a bit too much last night.
 
 5
-00:00:33,819 --> 00:00:36,610
-And now, it's time to announce each class's point totals
+00:00:34,017 --> 00:00:37,995
+And now, it's time to announce each
+class's point totals for the mont--
 
 6
-00:00:36,694 --> 00:00:38,569
-for the mont--
-
-7
-00:00:38,652 --> 00:00:40,694
+00:00:39,009 --> 00:00:40,850
 As for your personal points,
 
-8
-00:00:40,777 --> 00:00:43,652
+7
+00:00:41,024 --> 00:00:43,563
 those will be distributed to you all tomorrow.
 
-9
-00:00:43,735 --> 00:00:45,944
+8
+00:00:43,982 --> 00:00:46,249
 Check it out! Our class points went up!
 
-10
-00:00:46,027 --> 00:00:47,360
+9
+00:00:46,274 --> 00:00:47,436
 That's amazing!
 
-11
-00:00:47,444 --> 00:00:49,777
+10
+00:00:47,461 --> 00:00:49,692
 Do you think it's because we just aced the midterms?
 
-12
-00:00:49,860 --> 00:00:52,277
+11
+00:00:50,107 --> 00:00:52,524
 I bet your study group brought everyone's scores up!
 
-13
-00:00:52,360 --> 00:00:54,444
+12
+00:00:52,607 --> 00:00:54,749
 No way. It's because you've all worked so hard!
 
-14
-00:00:54,527 --> 00:00:56,194
+13
+00:00:54,774 --> 00:00:56,441
 I love you, Ichinose!
 
-15
-00:00:56,277 --> 00:00:58,194
+14
+00:00:56,524 --> 00:00:58,407
 Whoa, Chihiro! Calm down!
 
-16
-00:00:58,277 --> 00:00:59,777
+15
+00:00:58,609 --> 00:00:59,979
 So do I!
 
-17
-00:00:59,860 --> 00:01:01,360
+16
+00:01:00,188 --> 00:01:01,607
 Hey, get off me!
 
-18
-00:01:01,444 --> 00:01:02,652
+17
+00:01:01,691 --> 00:01:02,899
 You're my hero!
 
-19
-00:01:02,735 --> 00:01:04,027
+18
+00:01:02,982 --> 00:01:03,934
 Fine.
 
-20
-00:01:04,110 --> 00:01:07,277
+19
+00:01:03,959 --> 00:01:07,391
 I'm grateful. I adore being here in Class One-B.
 
-21
-00:01:07,360 --> 00:01:10,027
+20
+00:01:07,607 --> 00:01:09,739
 'Cause it's the same class Ichinose's in.
 
-22
-00:01:11,527 --> 00:01:12,610
+21
+00:01:11,736 --> 00:01:12,709
 I gotta say.
 
-23
-00:01:12,694 --> 00:01:15,319
+22
+00:01:12,941 --> 00:01:15,238
 I'm also grateful to be in Class One-B.
 
+23
+00:01:15,649 --> 00:01:18,748
+Because even though our homeroom
+teacher may be a little eccentric,
+
 24
-00:01:15,402 --> 00:01:16,944
-Because even though our homeroom teacher
-
-25
-00:01:17,027 --> 00:01:18,610
-may be a little eccentric,
-
-26
-00:01:18,694 --> 00:01:21,360
+00:01:18,941 --> 00:01:21,545
 my classmates are all such wonderful people.
 
-27
-00:01:21,444 --> 00:01:23,360
+25
+00:01:21,691 --> 00:01:23,462
 And, that's why I'll do my best.
 
-28
-00:01:23,444 --> 00:01:28,277
+26
+00:01:23,691 --> 00:01:27,430
 I want us all to be in Class
 A, and we'll make it together!
 
-29
-00:01:35,152 --> 00:01:36,527
+27
+00:01:35,448 --> 00:01:36,038
 Uh?
 
-30
-00:01:37,985 --> 00:01:40,152
+28
+00:01:38,232 --> 00:01:40,346
 You getting in? Or just standing there?
 
-31
-00:01:40,235 --> 00:01:43,319
+29
+00:01:40,482 --> 00:01:43,163
 Getting in. Why would I do anything else?
 
-32
-00:01:47,319 --> 00:01:50,152
+30
+00:01:47,566 --> 00:01:50,136
 Good morning! How are you doing today?
 
-33
-00:01:50,235 --> 00:01:53,069
+31
+00:01:50,482 --> 00:01:53,049
 Looks like you've got some wicked bedhead going on.
 
-34
-00:01:53,152 --> 00:01:55,694
+32
+00:01:53,399 --> 00:01:55,941
 Bedhead is back in style these days, you know.
 
-35
-00:01:55,777 --> 00:01:57,860
+33
+00:01:56,987 --> 00:01:58,136
 You're hilarious.
 
-36
-00:01:57,944 --> 00:02:00,402
+34
+00:01:58,191 --> 00:01:59,978
 You can always crack me up.
 
-37
-00:02:00,485 --> 00:02:04,194
+35
+00:02:00,732 --> 00:02:04,441
 Understand? If you betray me, you'll pay.
 
-38
-00:02:04,277 --> 00:02:08,485
+36
+00:02:04,524 --> 00:02:08,118
 Well, then, maybe I'll stop
 worrying about my bedhead, too!
 
-39
-00:02:08,569 --> 00:02:10,444
-I have to live in the same dorm as her
+37
+00:02:08,816 --> 00:02:12,371
+I have to live in the same dorm
+as her for the next three years.
 
-40
-00:02:10,527 --> 00:02:12,402
-for the next three years.
-
-41
-00:02:13,277 --> 00:02:14,610
+38
+00:02:13,524 --> 00:02:14,813
 What's going on here?
 
-42
-00:02:14,694 --> 00:02:16,944
+39
+00:02:14,854 --> 00:02:17,249
 Seeing you and Kushida standing together is... strange.
 
-43
-00:02:17,027 --> 00:02:20,194
+40
+00:02:17,274 --> 00:02:19,747
 She was waiting for me outside my door.
 
-44
-00:02:26,110 --> 00:02:28,652
-Ah... I was really hoping she would let me
+41
+00:02:26,398 --> 00:02:30,796
+Ah... I was really hoping she would
+let me walk to class with her today.
 
-45
-00:02:28,735 --> 00:02:30,610
-walk to class with her today.
-
-46
-00:02:30,694 --> 00:02:32,194
+42
+00:02:30,941 --> 00:02:32,354
 Good morning, Kushida!
 
-47
-00:02:32,277 --> 00:02:35,194
+43
+00:02:32,524 --> 00:02:34,991
 Uh? Ichinose!
 
-48
-00:02:35,277 --> 00:02:37,527
+44
+00:02:35,524 --> 00:02:37,869
 Whoa, Kushida, is that your new boyfriend?
 
-49
-00:02:37,610 --> 00:02:40,235
+45
+00:02:38,674 --> 00:02:40,420
 No, he's just a friend.
 
-50
-00:02:40,319 --> 00:02:43,485
+46
+00:02:40,566 --> 00:02:43,469
 I wonder how she really feels about me.
 
-51
-00:02:43,569 --> 00:02:44,777
+47
+00:02:43,816 --> 00:02:44,968
 Oh, by the way.
 
-52
-00:02:44,860 --> 00:02:48,735
+48
+00:02:45,107 --> 00:02:48,656
 So, in Class D. Did you get your points yet?
 
-53
-00:04:22,652 --> 00:04:25,402
+49
+00:04:22,899 --> 00:04:24,926
 There's been something of an issue.
 
-54
-00:04:25,485 --> 00:04:28,944
+50
+00:04:25,845 --> 00:04:28,991
 The provision of points to the
 first-years has been delayed.
 
-55
-00:04:29,027 --> 00:04:30,569
+51
+00:04:29,286 --> 00:04:30,769
 What? Are you kidding me?
 
-56
-00:04:30,652 --> 00:04:32,902
-Well, are we going to be compensated in some way
+52
+00:04:30,908 --> 00:04:34,788
+Well, are we going to be compensated
+in some way for the school's screw up?
 
-57
-00:04:32,985 --> 00:04:34,610
-for the school's screw up?
-
-58
-00:04:34,694 --> 00:04:37,152
+53
+00:04:34,870 --> 00:04:37,373
 Regrettably, there's nothing I can do about that.
 
-59
-00:04:37,235 --> 00:04:39,110
+54
+00:04:37,482 --> 00:04:39,416
 Rest assured that when it's fixed,
 
-60
-00:04:39,194 --> 00:04:40,902
+55
+00:04:39,441 --> 00:04:41,149
 then you will all get your points.
 
-61
-00:04:40,985 --> 00:04:44,569
+56
+00:04:41,232 --> 00:04:44,386
 Assuming you still have any by then, of course.
 
-62
-00:04:57,069 --> 00:04:59,235
+57
+00:04:58,302 --> 00:04:59,482
 Uh, hey there.
 
-63
-00:04:59,319 --> 00:05:01,110
+58
+00:04:59,566 --> 00:05:01,012
 I'm sorry about this.
 
-64
-00:05:01,194 --> 00:05:03,985
+59
+00:05:01,441 --> 00:05:03,482
 That's a strange greeting. What's up?
 
-65
-00:05:04,069 --> 00:05:05,944
+60
+00:05:04,316 --> 00:05:05,332
 It's just that...
 
-66
-00:05:06,027 --> 00:05:08,069
+61
+00:05:06,274 --> 00:05:07,867
 Well, I have to say this.
 
-67
-00:05:16,735 --> 00:05:18,485
+62
+00:05:16,982 --> 00:05:18,257
 I'm pretty sure...
 
-68
-00:05:21,735 --> 00:05:23,527
+63
+00:05:21,982 --> 00:05:23,774
 ...someone is about to ask me out!
 
-69
-00:05:23,610 --> 00:05:25,277
+64
+00:05:23,857 --> 00:05:25,081
 Like, right now!
 
-70
-00:05:27,152 --> 00:05:29,985
+65
+00:05:27,399 --> 00:05:30,367
 Huh? Wait, I'm confused.
 
-71
-00:05:30,069 --> 00:05:32,152
+66
+00:05:30,427 --> 00:05:32,288
 Wouldn't it be better if I wasn't here?
 
-72
-00:05:32,235 --> 00:05:36,027
+67
+00:05:32,482 --> 00:05:35,864
 Well, normally, but I don't know a thing about dating!
 
-73
-00:05:36,110 --> 00:05:39,152
+68
+00:05:36,357 --> 00:05:39,260
 Someone left this in my locker yesterday.
 
-74
-00:05:39,235 --> 00:05:40,902
+69
+00:05:39,344 --> 00:05:41,149
 And the feeling is not mutual.
 
-75
-00:05:40,985 --> 00:05:43,360
+70
+00:05:41,208 --> 00:05:43,482
 And I have no idea how to let them down easy.
 
-76
-00:05:43,444 --> 00:05:46,569
+71
+00:05:43,809 --> 00:05:45,457
 Without hurting them, you know?
 
-77
-00:05:46,652 --> 00:05:49,402
-So, I was wondering if you might help me out
+72
+00:05:46,899 --> 00:05:52,166
+So, I was wondering if you might help me
+out by pretending to be my boyfriend for a sec.
 
-78
-00:05:49,485 --> 00:05:51,860
-by pretending to be my boyfriend for a sec.
-
-79
-00:05:51,944 --> 00:05:53,735
+73
+00:05:52,191 --> 00:05:54,020
 She seriously thinks that's going to work?
 
-80
-00:05:53,819 --> 00:05:55,235
+74
+00:05:54,066 --> 00:05:55,277
 I'm begging you!
 
-81
-00:05:55,319 --> 00:05:57,402
-I think it would be better to just be honest with them
+75
+00:05:55,509 --> 00:05:59,681
+I think it would be better to just be honest
+with them and hash it out. That's my advice.
 
-82
-00:05:57,485 --> 00:05:59,319
-and hash it out. That's my advice.
-
-83
-00:05:59,402 --> 00:06:00,777
+76
+00:05:59,706 --> 00:06:00,583
 I can't!
 
-84
-00:06:05,777 --> 00:06:07,819
+77
+00:06:06,894 --> 00:06:07,920
 Ichinose.
 
-85
-00:06:07,902 --> 00:06:09,444
+78
+00:06:08,149 --> 00:06:09,589
 Who is this person?
 
-86
-00:06:09,527 --> 00:06:11,402
+79
+00:06:09,774 --> 00:06:11,706
 Uh! Look, I'm really sorry.
 
-87
-00:06:11,485 --> 00:06:13,110
+80
+00:06:11,732 --> 00:06:13,416
 I know you don't know this guy,
 
-88
-00:06:13,194 --> 00:06:15,694
+81
+00:06:13,441 --> 00:06:15,523
 I wasn't trying to be rude or anything.
 
-89
-00:06:17,027 --> 00:06:21,194
+82
+00:06:17,372 --> 00:06:20,372
 Um, this is Ayanokoji, and he's in Class One-D.
 
-90
-00:06:21,277 --> 00:06:23,360
+83
+00:06:21,524 --> 00:06:22,784
 Is he your boyfriend?
 
-91
-00:06:23,444 --> 00:06:26,819
+84
+00:06:23,691 --> 00:06:25,425
 You could have told me.
 
-92
-00:06:26,902 --> 00:06:28,819
+85
+00:06:27,149 --> 00:06:28,958
 Well, Ayanokoji and I...
 
-93
-00:06:28,902 --> 00:06:29,694
+86
+00:06:29,309 --> 00:06:29,999
 He and I are--
 
-94
-00:06:29,777 --> 00:06:31,569
+87
+00:06:30,024 --> 00:06:31,502
 Just friends, don't worry.
 
-95
-00:06:33,027 --> 00:06:35,985
+88
+00:06:33,283 --> 00:06:36,184
 Ichinose. It's hard to confess your feelings.
 
-96
-00:06:36,069 --> 00:06:38,777
+89
+00:06:36,405 --> 00:06:38,474
 It makes you so open and vulnerable.
 
-97
-00:06:38,860 --> 00:06:41,652
+90
+00:06:39,107 --> 00:06:41,856
 You spend every day in agony, but you still can't do it.
 
-98
-00:06:41,735 --> 00:06:43,485
+91
+00:06:41,982 --> 00:06:43,471
 That's a painful place to be.
 
-99
-00:06:43,569 --> 00:06:45,360
+92
+00:06:43,816 --> 00:06:45,607
 The words, "I love you," stick in your throat,
 
-100
-00:06:45,444 --> 00:06:48,402
+93
+00:06:45,691 --> 00:06:48,179
 and no matter how hard you try, you can't force them out.
 
-101
-00:06:48,485 --> 00:06:51,152
+94
+00:06:48,732 --> 00:06:51,399
 She was brave, so she deserves an honest answer.
 
-102
-00:06:51,235 --> 00:06:53,569
+95
+00:06:51,450 --> 00:06:53,425
 Do you think you can give her that much, at least?
 
-103
-00:06:57,569 --> 00:07:01,485
+96
+00:06:57,816 --> 00:07:01,219
 But, it's also not my place to get involved.
 
-104
-00:07:25,610 --> 00:07:28,152
+97
+00:07:25,808 --> 00:07:27,849
 Hello, again. Looks like you talked it out.
 
-105
-00:07:28,235 --> 00:07:29,444
+98
+00:07:28,482 --> 00:07:29,230
 Yeah.
 
-106
-00:07:31,027 --> 00:07:31,985
+99
+00:07:31,250 --> 00:07:32,150
 It's funny.
 
-107
-00:07:32,069 --> 00:07:33,194
-All I could think about was
+100
+00:07:32,316 --> 00:07:35,394
+All I could think about was how
+to get out of hurting her feelings.
 
-108
-00:07:33,277 --> 00:07:35,235
-how to get out of hurting her feelings.
+101
+00:07:35,566 --> 00:07:38,822
+But the truth of it is,
+I was just running away.
 
-109
-00:07:35,319 --> 00:07:39,902
-But the truth of it is, I was just running away.
-
-110
-00:07:39,985 --> 00:07:41,277
+102
+00:07:40,232 --> 00:07:41,524
 We've reached an agreement.
 
-111
-00:07:41,360 --> 00:07:43,944
+103
+00:07:41,607 --> 00:07:43,966
 We're going to try to go back to normal tomorrow.
 
-112
-00:07:44,027 --> 00:07:45,652
+104
+00:07:44,274 --> 00:07:45,421
 Here's hoping.
 
-113
-00:07:46,860 --> 00:07:48,860
+105
+00:07:47,107 --> 00:07:48,689
 You'll both have to commit to it.
 
-114
-00:07:48,944 --> 00:07:50,152
+106
+00:07:49,191 --> 00:07:50,242
 Yeah.
 
-115
-00:07:52,194 --> 00:07:53,527
+107
+00:07:52,441 --> 00:07:53,774
 Anyway, sorry.
 
-116
-00:07:53,610 --> 00:07:55,902
+108
+00:07:53,857 --> 00:07:55,768
 I put you in an awkward position.
 
-117
-00:07:55,985 --> 00:07:57,152
+109
+00:07:56,232 --> 00:07:57,225
 No worries.
 
-118
-00:07:57,235 --> 00:08:01,110
+110
+00:07:57,482 --> 00:07:59,397
 I don't mind some weirdness now and then.
 
-119
-00:08:01,194 --> 00:08:03,985
+111
+00:08:01,510 --> 00:08:03,696
 I guess this means I owe you one, doesn't it?
 
-120
-00:08:21,319 --> 00:08:23,235
+112
+00:08:21,566 --> 00:08:22,994
 How intriguing.
 
-121
-00:08:26,319 --> 00:08:29,360
+113
+00:08:26,566 --> 00:08:29,339
 I'm telling you, that's not how it went down!
 
-122
-00:08:29,444 --> 00:08:31,277
+114
+00:08:29,691 --> 00:08:31,638
 There were three dudes ganging up on me!
 
-123
-00:08:31,360 --> 00:08:32,735
+115
+00:08:31,663 --> 00:08:32,920
 Yeah, but still.
 
-124
-00:08:32,819 --> 00:08:33,985
+116
+00:08:33,066 --> 00:08:34,156
 I know.
 
-125
-00:08:35,319 --> 00:08:36,485
+117
+00:08:35,589 --> 00:08:36,755
 What's all this about?
 
-126
-00:08:36,569 --> 00:08:37,819
+118
+00:08:36,816 --> 00:08:38,066
 Hey, Ayanokoji.
 
-127
-00:08:37,902 --> 00:08:40,819
+119
+00:08:38,149 --> 00:08:40,229
 I think that something bad might have happened.
 
-128
-00:08:40,902 --> 00:08:43,527
-Some of the Class C students of the basketball team
+120
+00:08:41,149 --> 00:08:45,976
+Some of the Class C students of the basketball
+team have filed a complaint against Sudo.
 
-129
-00:08:43,610 --> 00:08:45,944
-have filed a complaint against Sudo.
+121
+00:08:46,283 --> 00:08:50,283
+They say that after practice, Sudo
+attacked and injured then without provocation.
 
-130
-00:08:46,027 --> 00:08:47,527
-They say that after practice,
-
-131
-00:08:47,610 --> 00:08:50,027
-Sudo attacked and injured then without provocation.
-
-132
-00:08:50,110 --> 00:08:51,652
+122
+00:08:50,357 --> 00:08:51,899
 They're claiming trauma.
 
-133
-00:08:51,735 --> 00:08:54,110
+123
+00:08:51,942 --> 00:08:54,317
 That's a load of crap, it was clear self-defense!
 
-134
-00:08:54,194 --> 00:08:55,944
+124
+00:08:54,441 --> 00:08:56,249
 They're jealous that I play first string,
 
-135
-00:08:56,027 --> 00:08:58,360
+125
+00:08:56,274 --> 00:08:58,651
 so those jerks decided to pick a damn fight with me!
 
-136
-00:08:58,444 --> 00:09:00,235
+126
+00:08:58,691 --> 00:09:00,429
 There's no evidence of that,
 
-137
-00:09:00,319 --> 00:09:04,652
+127
+00:09:00,566 --> 00:09:04,168
 but if there were any witnesses
 it might be a different story.
 
-138
-00:09:04,735 --> 00:09:07,735
+128
+00:09:04,982 --> 00:09:07,982
 Okay! Did any of you happen to see Sudo's fight?
 
-139
-00:09:07,819 --> 00:09:10,360
+129
+00:09:08,066 --> 00:09:10,146
 Does anyone know anything about it?
 
-140
-00:09:18,902 --> 00:09:20,319
-Perhaps everyone would be better off
+130
+00:09:18,924 --> 00:09:22,507
+Perhaps everyone would be better
+off if you'd been expelled after all.
 
-141
-00:09:20,402 --> 00:09:22,277
-if you'd been expelled after all.
-
-142
-00:09:22,360 --> 00:09:23,860
+131
+00:09:22,607 --> 00:09:23,788
 Ginger Boy.
 
-143
-00:09:23,944 --> 00:09:27,735
+132
+00:09:24,191 --> 00:09:27,797
 And people might defend you, if you were pretty.
 
-144
-00:09:27,819 --> 00:09:28,819
+133
+00:09:27,927 --> 00:09:28,962
 What?!
 
-145
-00:09:28,902 --> 00:09:30,610
+134
+00:09:28,987 --> 00:09:30,635
 Sudo! Calm down.
 
-146
-00:09:30,694 --> 00:09:32,235
+135
+00:09:30,941 --> 00:09:32,438
 One week from today,
 
-147
-00:09:32,319 --> 00:09:33,985
+136
+00:09:32,566 --> 00:09:34,232
 we will all hold a group discussion.
 
-148
-00:09:34,069 --> 00:09:36,569
+137
+00:09:34,316 --> 00:09:36,678
 Class C and the Student Council will attend.
 
-149
-00:09:36,652 --> 00:09:38,235
+138
+00:09:36,899 --> 00:09:38,482
 Depending on how things go,
 
-150
-00:09:38,319 --> 00:09:40,319
+139
+00:09:38,566 --> 00:09:40,624
 you may be asked to forfeit points,
 
-151
-00:09:40,402 --> 00:09:42,444
+140
+00:09:40,649 --> 00:09:42,787
 and Sudo may face other consequences.
 
-152
-00:09:47,860 --> 00:09:51,819
-♪♪♪
-
-153
-00:09:57,402 --> 00:09:59,444
+141
+00:09:57,649 --> 00:09:59,604
 Those poor Class D morons.
 
-154
-00:09:59,527 --> 00:10:01,610
+142
+00:09:59,875 --> 00:10:01,466
 Probably throwin' a huge fit.
 
-155
-00:10:16,027 --> 00:10:17,902
+143
+00:10:16,274 --> 00:10:17,979
 Listen, Ryuen.
 
-156
-00:10:18,777 --> 00:10:21,902
+144
+00:10:19,024 --> 00:10:20,798
 I think somebody might have seen us.
 
-157
-00:10:21,985 --> 00:10:24,110
+145
+00:10:22,232 --> 00:10:23,930
 When we were fighting with Sudo,
 
-158
-00:10:24,194 --> 00:10:27,485
+146
+00:10:24,404 --> 00:10:26,827
 I got the feeling someone was watching.
 
-159
-00:10:27,569 --> 00:10:29,235
+147
+00:10:27,816 --> 00:10:28,853
 Bad boy.
 
-160
-00:10:44,860 --> 00:10:48,110
+148
+00:10:45,156 --> 00:10:47,172
 You look like a proper victim now.
 
-161
-00:10:48,194 --> 00:10:51,652
+149
+00:10:48,441 --> 00:10:50,738
 Yes. Thank you, sir, you're always right.
 
-162
-00:10:51,735 --> 00:10:55,652
+150
+00:10:51,982 --> 00:10:55,400
 Perform your little dance well. Just like we planned.
 
-163
-00:11:02,110 --> 00:11:03,819
+151
+00:11:02,375 --> 00:11:04,124
 This is all Sudo's fault.
 
-164
-00:11:03,902 --> 00:11:05,069
+152
+00:11:04,207 --> 00:11:05,143
 It totally sucks.
 
-165
-00:11:05,152 --> 00:11:06,777
-I don't know how I'll survive another month
+153
+00:11:05,168 --> 00:11:08,649
+I don't know how I'll survive
+another month living on zero points.
 
-166
-00:11:06,860 --> 00:11:08,402
-living on zero points.
-
-167
-00:11:08,485 --> 00:11:11,152
+154
+00:11:08,732 --> 00:11:11,413
 Maybe we really would be better
 off if he had gotten expelled.
 
-168
-00:11:11,235 --> 00:11:13,152
+155
+00:11:11,482 --> 00:11:12,769
 I hear that for sure.
 
-169
-00:11:13,235 --> 00:11:15,360
+156
+00:11:13,501 --> 00:11:15,001
 So, do you agree with them?
 
-170
-00:11:15,444 --> 00:11:18,902
+157
+00:11:15,787 --> 00:11:18,187
 That Sudo should have gotten expelled for failing?
 
-171
-00:11:18,985 --> 00:11:20,444
+158
+00:11:19,288 --> 00:11:20,552
 I have no opinion.
 
-172
-00:11:20,527 --> 00:11:22,027
+159
+00:11:20,810 --> 00:11:22,237
 But, what are your thoughts on it?
 
-173
-00:11:22,110 --> 00:11:25,152
+160
+00:11:22,289 --> 00:11:24,942
 You know, since you're of the
 people who helped him stay here.
 
-174
-00:11:25,235 --> 00:11:27,569
+161
+00:11:25,482 --> 00:11:27,798
 At the moment, our class has zero points.
 
-175
-00:11:27,652 --> 00:11:30,569
+162
+00:11:27,950 --> 00:11:30,816
 Even if we had been penalized
 for someone getting expelled,
 
-176
-00:11:30,652 --> 00:11:32,694
+163
+00:11:30,874 --> 00:11:32,683
 we'd be no worse off than we are now.
 
-177
-00:11:32,777 --> 00:11:35,235
+164
+00:11:33,024 --> 00:11:34,945
 Yeah, sure, whatever you say.
 
-178
-00:11:36,652 --> 00:11:39,194
+165
+00:11:36,899 --> 00:11:39,277
 'Scuse me? I didn't like the way you said that.
 
-179
-00:11:39,277 --> 00:11:41,694
-You never know when we might be gaining or losing points
+166
+00:11:39,524 --> 00:11:43,108
+You never know when we might be gaining
+or losing points with no knowledge of it.
 
-180
-00:11:41,777 --> 00:11:42,819
-with no knowledge of it.
-
-181
-00:11:42,902 --> 00:11:44,444
+167
+00:11:43,149 --> 00:11:44,505
 What's that supposed to mean?
 
-182
-00:11:44,527 --> 00:11:46,277
+168
+00:11:44,774 --> 00:11:46,469
 We don't know any of the rules.
 
-183
-00:11:46,360 --> 00:11:49,319
+169
+00:11:46,607 --> 00:11:49,198
 We might be getting negative
 marks that we don't know about.
 
-184
-00:11:49,402 --> 00:11:52,277
+170
+00:11:49,615 --> 00:11:52,482
 Demerits for an expulsion might not hit us right now.
 
-185
-00:11:52,360 --> 00:11:56,194
+171
+00:11:52,607 --> 00:11:56,142
 They might matter later. We have no idea how it works.
 
-186
-00:11:56,277 --> 00:11:59,152
-For example, what if one of the requirements for moving up
+172
+00:11:56,520 --> 00:12:01,937
+For example, what if one of the requirements for moving
+up to Class A is that none of us have been expelled?
 
-187
-00:11:59,235 --> 00:12:01,735
-to Class A is that none of us have been expelled?
-
-188
-00:12:01,819 --> 00:12:03,444
+173
+00:12:02,066 --> 00:12:02,853
 Who can say?
 
-189
-00:12:03,527 --> 00:12:05,110
+174
+00:12:03,812 --> 00:12:04,663
 You don't know that.
 
-190
-00:12:05,194 --> 00:12:06,735
-One of the hallmarks of this school
+175
+00:12:05,441 --> 00:12:09,193
+One of the hallmarks of this school is
+that they don't share the rulebook with us.
 
-191
-00:12:06,819 --> 00:12:08,902
-is that they don't share the rulebook with us.
-
-192
-00:12:08,985 --> 00:12:11,402
+176
+00:12:09,232 --> 00:12:14,716
 If we wanna reach Class A, we should play the game like
-
-193
-00:12:11,485 --> 00:12:16,360
 it's life or death, and there are threats at every turn.
 
-194
-00:12:16,444 --> 00:12:17,985
-Anyway. Sudo is an athlete,
+177
+00:12:16,691 --> 00:12:20,291
+Anyway. Sudo is an athlete, and he's in
+good standing with the basketball team.
 
-195
-00:12:18,069 --> 00:12:19,985
-and he's in good standing with the basketball team.
-
-196
-00:12:20,069 --> 00:12:21,819
+178
+00:12:20,316 --> 00:12:22,124
 That could wind up being useful in the end.
 
-197
-00:12:21,902 --> 00:12:24,527
+179
+00:12:22,149 --> 00:12:23,849
 Hey, guys! Listen up.
 
-198
-00:12:24,610 --> 00:12:27,360
+180
+00:12:24,857 --> 00:12:27,358
 I want to be able to trust my classmates.
 
-199
-00:12:27,444 --> 00:12:29,819
-I think that we should band together to find witnesses
+181
+00:12:27,792 --> 00:12:31,434
+I think that we should band together to
+find witnesses as to what happened with Sudo.
 
-200
-00:12:29,902 --> 00:12:31,235
-as to what happened with Sudo.
-
-201
-00:12:31,319 --> 00:12:33,485
+182
+00:12:31,566 --> 00:12:33,732
 Sure! You can count me in on that.
 
-202
-00:12:33,569 --> 00:12:35,527
+183
+00:12:33,816 --> 00:12:35,832
 Well, if you think that's best, Hirata, I'm in.
 
-203
-00:12:35,610 --> 00:12:37,069
+184
+00:12:35,857 --> 00:12:37,316
 Yeah, I want to help, too.
 
-204
-00:12:37,152 --> 00:12:39,360
+185
+00:12:37,399 --> 00:12:39,666
 If we don't stick up for each other, no one will.
 
-205
-00:12:39,444 --> 00:12:40,860
+186
+00:12:39,691 --> 00:12:41,166
 Kushida says it. I do it!
 
-206
-00:12:40,944 --> 00:12:42,485
+187
+00:12:41,191 --> 00:12:42,225
 Yeah, me, too!
 
-207
-00:12:42,569 --> 00:12:44,819
+188
+00:12:42,855 --> 00:12:45,066
 Hey. You two are going to join us, right?
 
-208
-00:12:44,902 --> 00:12:47,235
+189
+00:12:45,149 --> 00:12:46,740
 Do you wanna help us help Sudo?
 
-209
-00:12:47,319 --> 00:12:49,110
+190
+00:12:47,566 --> 00:12:49,357
 In light of everything you just said,
 
-210
-00:12:49,194 --> 00:12:52,069
+191
+00:12:49,441 --> 00:12:52,180
 you'll certainly be helping them, won't you, Ayanokoji?
 
-211
-00:12:52,152 --> 00:12:53,610
-You know.
+192
+00:12:52,399 --> 00:12:55,514
+You know. You're the one who wants
+to advance to Class A, aren't you?
 
-212
-00:12:53,694 --> 00:12:55,319
-You're the one who wants to
-advance to Class A, aren't you?
-
-213
-00:12:55,402 --> 00:12:59,027
+193
+00:12:55,539 --> 00:12:58,393
 So, that means you're gonna help us? Thanks so much!
 
-214
-00:12:59,110 --> 00:13:01,527
+194
+00:12:59,337 --> 00:13:01,297
 Yeah. Guess I have to.
 
-215
-00:13:01,610 --> 00:13:03,652
+195
+00:13:01,857 --> 00:13:03,533
 Horikita, are you in?
 
-216
-00:13:08,777 --> 00:13:10,652
+196
+00:13:09,024 --> 00:13:10,727
 You and I should work together.
 
-217
-00:13:10,735 --> 00:13:12,819
+197
+00:13:10,998 --> 00:13:13,066
 But if we're trying to find witnesses,
 
-218
-00:13:12,902 --> 00:13:14,152
+198
+00:13:13,149 --> 00:13:14,399
 Sudo should stay out of it.
 
-219
-00:13:14,235 --> 00:13:16,652
+199
+00:13:14,482 --> 00:13:16,725
 I think that would probably be best, don't you?
 
-220
-00:13:16,735 --> 00:13:18,152
+200
+00:13:16,982 --> 00:13:17,975
 I agree.
 
-221
-00:13:18,235 --> 00:13:20,652
+201
+00:13:18,482 --> 00:13:20,804
 Involving him would be a conflict of interests.
 
-222
-00:13:20,735 --> 00:13:22,319
+202
+00:13:20,982 --> 00:13:22,095
 Yeah, exactly.
 
-223
-00:13:22,402 --> 00:13:23,694
+203
+00:13:22,649 --> 00:13:23,278
 Great!
 
-224
-00:13:23,777 --> 00:13:25,944
+204
+00:13:23,664 --> 00:13:26,047
 I'm going to share our plan with Sudo, personally.
 
-225
-00:13:26,027 --> 00:13:28,652
+205
+00:13:26,274 --> 00:13:27,866
 I'll see you after class, then!
 
-226
-00:13:32,110 --> 00:13:35,319
+206
+00:13:32,357 --> 00:13:35,566
 I can't believe we couldn't find any clues or witnesses.
 
-227
-00:13:35,402 --> 00:13:36,735
+207
+00:13:35,649 --> 00:13:36,810
 I don't know.
 
-228
-00:13:36,819 --> 00:13:39,069
+208
+00:13:36,835 --> 00:13:39,357
 Have you considered the possibility that Sudo is lying?
 
-229
-00:13:39,152 --> 00:13:40,694
+209
+00:13:39,399 --> 00:13:40,704
 Well, I sure have.
 
-230
-00:13:40,777 --> 00:13:42,569
+210
+00:13:41,024 --> 00:13:42,534
 What about Hirata's group?
 
-231
-00:13:42,652 --> 00:13:44,235
+211
+00:13:42,831 --> 00:13:44,414
 No luck. I texted them,
 
-232
-00:13:44,319 --> 00:13:46,152
+212
+00:13:44,566 --> 00:13:46,399
 they didn't find anything, either.
 
-233
-00:13:46,235 --> 00:13:47,319
+213
+00:13:46,482 --> 00:13:47,566
 Hey, guys!
 
-234
-00:13:47,402 --> 00:13:50,652
+214
+00:13:47,649 --> 00:13:50,562
 Ayanokoji! Hey, Kushida!
 
-235
-00:13:50,735 --> 00:13:52,819
+215
+00:13:50,982 --> 00:13:52,631
 Oh, it's Ichinose.
 
-236
-00:13:52,902 --> 00:13:55,069
+216
+00:13:53,052 --> 00:13:55,280
 Some people in my class told me what's going on.
 
-237
-00:13:55,152 --> 00:13:57,569
+217
+00:13:55,399 --> 00:13:57,566
 You guys are holding an investigation, aren't you?
 
-238
-00:13:57,652 --> 00:13:58,777
+218
+00:13:57,899 --> 00:13:58,632
 Uh...
 
-239
-00:14:00,152 --> 00:14:03,069
+219
+00:14:00,399 --> 00:14:02,975
 Got it. So it's the guys from Class C.
 
-240
-00:14:03,152 --> 00:14:05,694
-Yeah. Please ask around, and if anyone knows something,
+220
+00:14:03,399 --> 00:14:07,374
+Yeah. Please ask around, and if anyone
+knows something, be sure to tell us first.
 
-241
-00:14:05,777 --> 00:14:07,069
-be sure to tell us first.
-
-242
-00:14:07,152 --> 00:14:10,485
+221
+00:14:07,399 --> 00:14:10,442
 Definitely. Sorry I can't help you more than that.
 
-243
-00:14:10,569 --> 00:14:11,985
+222
+00:14:10,862 --> 00:14:13,592
 I'll tell Class B the whole thing,
-
-244
-00:14:12,069 --> 00:14:13,319
 and they'll be happy to help you look.
 
-245
-00:14:13,402 --> 00:14:15,069
+223
+00:14:13,649 --> 00:14:15,316
 Really? That'd be great--
 
-246
-00:14:15,152 --> 00:14:17,485
+224
+00:14:15,417 --> 00:14:17,594
 What are you doing?
 
-247
-00:14:17,569 --> 00:14:20,110
+225
+00:14:17,816 --> 00:14:19,599
 This is probably a plot.
 
-248
-00:14:20,194 --> 00:14:22,819
+226
+00:14:20,441 --> 00:14:23,099
 Listen. I don't think it's wise to rely on other classes--
 
-249
-00:14:22,902 --> 00:14:24,527
+227
+00:14:23,124 --> 00:14:24,434
 Don't worry!
 
-250
-00:14:24,610 --> 00:14:26,444
+228
+00:14:24,857 --> 00:14:26,691
 I'm not up to anything weird.
 
-251
-00:14:26,527 --> 00:14:29,069
+229
+00:14:26,926 --> 00:14:29,242
 I do owe you one, Ayanokoji, remember?
 
-252
-00:14:31,652 --> 00:14:32,944
+230
+00:14:31,865 --> 00:14:33,382
 Ready? Fight!
 
-253
-00:14:33,027 --> 00:14:34,819
+231
+00:14:33,407 --> 00:14:35,124
 Fight! Fight! Fight!
 
-254
-00:14:34,902 --> 00:14:36,319
+232
+00:14:35,149 --> 00:14:36,723
 Ready? Fight!
 
-255
-00:14:36,402 --> 00:14:38,319
+233
+00:14:36,748 --> 00:14:38,566
 Fight! Fight! Fight!
 
-256
-00:14:38,402 --> 00:14:39,777
+234
+00:14:38,649 --> 00:14:40,024
 Ready? Fight!
 
-257
-00:14:39,860 --> 00:14:41,735
+235
+00:14:40,107 --> 00:14:41,982
 Fight! Fight! Fight!
 
-258
-00:14:41,819 --> 00:14:43,069
+236
+00:14:42,066 --> 00:14:43,316
 Ready? Fight!
 
-259
-00:14:43,152 --> 00:14:44,777
+237
+00:14:43,399 --> 00:14:45,024
 Fight! Fight! Fight!
 
-260
-00:14:44,860 --> 00:14:46,735
+238
+00:14:45,107 --> 00:14:46,400
 Hey, Ayanokoji!
 
-261
-00:14:46,819 --> 00:14:49,444
+239
+00:14:47,066 --> 00:14:49,749
 Hey. Did you put up this notice?
 
-262
-00:14:49,527 --> 00:14:52,569
+240
+00:14:49,774 --> 00:14:52,389
 Yeah! But it was Kanzaki's idea.
 
-263
-00:14:52,652 --> 00:14:54,444
-We're gathering information through the class's
+241
+00:14:52,899 --> 00:14:55,883
+We're gathering information through
+the class's online message board. Uh.
 
-264
-00:14:54,527 --> 00:14:56,735
-online message board. Uh.
-
-265
-00:14:56,819 --> 00:14:58,735
+242
+00:14:57,066 --> 00:14:58,806
 Look, we already received an email!
 
-266
-00:14:58,819 --> 00:14:59,985
+243
+00:14:59,066 --> 00:15:00,199
 Oh, what does it say?
 
-267
-00:15:00,069 --> 00:15:02,652
-Let's see... A character witness
+244
+00:15:00,316 --> 00:15:06,072
+Let's see... A character witness about
+one of the guys Sudo fought with, Ishizaki.
 
-268
-00:15:02,735 --> 00:15:05,902
-about one of the guys Sudo fought with, Ishizaki.
-
-269
-00:15:05,985 --> 00:15:08,652
+245
+00:15:06,232 --> 00:15:08,558
 They say this guy was a troublemaker in middle school.
 
-270
-00:15:08,735 --> 00:15:10,319
+246
+00:15:08,982 --> 00:15:12,618
 Apparently, he was a good fighter, too,
-
-271
-00:15:10,402 --> 00:15:12,569
 so everyone in school was afraid of him.
 
-272
-00:15:12,652 --> 00:15:14,569
+247
+00:15:12,899 --> 00:15:14,580
 That raises some red flags.
 
-273
-00:15:14,652 --> 00:15:16,235
-The other guys are on the basketball team,
+248
+00:15:14,899 --> 00:15:17,774
+The other guys are on the basketball
+team, so they're physically fit.
 
-274
-00:15:16,319 --> 00:15:17,652
-so they're physically fit.
+249
+00:15:17,941 --> 00:15:20,759
+It's unlikely Sudo could beat all of
+them by himself without getting hurt.
 
-275
-00:15:17,735 --> 00:15:19,527
-It's unlikely Sudo could beat all of them by himself
-
-276
-00:15:19,610 --> 00:15:20,652
-without getting hurt.
-
-277
-00:15:20,735 --> 00:15:22,235
+250
+00:15:20,888 --> 00:15:22,229
 That's a good point.
 
-278
-00:15:22,319 --> 00:15:25,569
-Perhaps they initially wanted to beat him up, but instead,
+251
+00:15:22,566 --> 00:15:24,722
+Perhaps they initially
+wanted to beat him up,
 
-279
-00:15:25,652 --> 00:15:27,485
-they decided it would be better to frame him
+252
+00:15:24,982 --> 00:15:30,191
+but instead, they decided it would be better to
+frame him and get him expelled. It fits the story.
 
-280
-00:15:27,569 --> 00:15:29,944
-and get him expelled. It fits the story.
-
-281
-00:15:30,027 --> 00:15:31,610
+253
+00:15:30,274 --> 00:15:31,787
 You're right, that's plausible.
 
-282
-00:15:31,694 --> 00:15:34,235
+254
+00:15:31,941 --> 00:15:34,482
 Anyway, I should pay whoever sent us the information.
 
-283
-00:15:34,319 --> 00:15:36,569
+255
+00:15:34,566 --> 00:15:36,767
 Huh? Wait, it's an anonymous tip.
 
-284
-00:15:36,652 --> 00:15:39,027
+256
+00:15:36,899 --> 00:15:38,796
 How am I supposed to reward them, then?
 
-285
-00:15:39,110 --> 00:15:40,527
+257
+00:15:39,357 --> 00:15:40,730
 I think I know a way.
 
-286
-00:15:40,610 --> 00:15:43,444
+258
+00:15:40,857 --> 00:15:43,401
 Uh? Tell me about it, then!
 
-287
-00:15:43,527 --> 00:15:45,569
+259
+00:15:43,774 --> 00:15:45,264
 Her guard's totally down.
 
-288
-00:15:45,652 --> 00:15:47,402
+260
+00:15:45,889 --> 00:15:47,529
 Will you loan me your student ID?
 
-289
-00:15:47,485 --> 00:15:48,860
+261
+00:15:47,732 --> 00:15:48,822
 Of course!
 
-290
-00:15:53,194 --> 00:15:54,444
+262
+00:15:53,441 --> 00:15:54,441
 There.
 
-291
-00:15:57,902 --> 00:15:59,735
+263
+00:15:58,179 --> 00:16:00,012
 There we go! Thanks!
 
-292
-00:15:59,819 --> 00:16:01,027
-If we collect any more info,
+264
+00:16:00,066 --> 00:16:02,989
+If we collect any more info, we'll
+be sure that you're the first to hear!
 
-293
-00:16:01,110 --> 00:16:02,819
-we'll be sure that you're the first to hear!
-
-294
-00:16:02,902 --> 00:16:04,027
+265
+00:16:03,149 --> 00:16:04,031
 'Kay.
 
-295
-00:16:12,444 --> 00:16:15,902
+266
+00:16:12,691 --> 00:16:15,592
 How could one person collect so many points?
 
-296
-00:16:24,694 --> 00:16:25,819
+267
+00:16:24,922 --> 00:16:26,015
 Hey, everyone.
 
-297
-00:16:25,902 --> 00:16:27,110
+268
+00:16:26,149 --> 00:16:27,332
 Oh, welcome back.
 
-298
-00:16:27,194 --> 00:16:30,485
+269
+00:16:27,441 --> 00:16:30,791
 Ayanokoji! I decided to get the guys together.
 
-299
-00:16:30,569 --> 00:16:32,944
+270
+00:16:30,844 --> 00:16:33,191
 We're having a meeting so we can pool what we've learned.
 
-300
-00:16:33,027 --> 00:16:34,110
+271
+00:16:33,274 --> 00:16:34,357
 I gotta say,
 
-301
-00:16:34,194 --> 00:16:35,652
+272
+00:16:34,384 --> 00:16:35,889
 I can't believe how empty your room is.
 
-302
-00:16:35,735 --> 00:16:36,985
+273
+00:16:35,914 --> 00:16:37,112
 Yeah, he's right.
 
-303
-00:16:37,069 --> 00:16:39,194
+274
+00:16:37,137 --> 00:16:39,277
 You don't really have much of anything in here.
 
-304
-00:16:39,277 --> 00:16:41,277
+275
+00:16:39,494 --> 00:16:41,547
 You only have the stuff we were provided.
 
-305
-00:16:41,360 --> 00:16:43,819
+276
+00:16:41,607 --> 00:16:44,124
 So, Ayanokoji. Are you a minimalist?
 
-306
-00:16:43,902 --> 00:16:46,402
+277
+00:16:44,149 --> 00:16:46,649
 No, I'm not. I just don't have extra points to burn.
 
-307
-00:16:46,485 --> 00:16:47,610
+278
+00:16:46,732 --> 00:16:47,857
 But all that aside.
 
-308
-00:16:47,694 --> 00:16:49,235
+279
+00:16:47,941 --> 00:16:49,482
 How did you guys get into my room?
 
-309
-00:16:49,319 --> 00:16:51,194
+280
+00:16:49,566 --> 00:16:51,405
 We had copies of your key made!
 
-310
-00:16:51,277 --> 00:16:52,569
+281
+00:16:51,524 --> 00:16:52,816
 How did you manage that?
 
-311
-00:16:52,652 --> 00:16:54,944
+282
+00:16:52,899 --> 00:16:55,191
 What's wrong, this is our meeting place, right?
 
-312
-00:16:55,027 --> 00:16:56,360
-Wait, are you implying
+283
+00:16:55,793 --> 00:16:57,988
+Wait, are you implying we shouldn't have done that?
 
-313
-00:16:56,444 --> 00:16:57,902
-we shouldn't have done that?
-
-314
-00:16:57,985 --> 00:17:00,569
+284
+00:16:58,203 --> 00:17:00,852
 Uh, um... I can give mine back.
 
-315
-00:17:00,652 --> 00:17:03,152
+285
+00:17:00,899 --> 00:17:03,044
 Well, we aren't going to, we refuse!
 
-316
-00:17:03,235 --> 00:17:05,152
+286
+00:17:03,616 --> 00:17:05,289
 Fine. I don't care.
 
-317
-00:17:07,069 --> 00:17:08,194
+287
+00:17:07,235 --> 00:17:07,606
 Uh?
 
-318
-00:17:10,194 --> 00:17:11,235
+288
+00:17:10,441 --> 00:17:11,482
 Horikita.
 
-319
-00:17:11,319 --> 00:17:13,444
+289
+00:17:11,512 --> 00:17:13,194
 Regarding any witnesses--
 
-320
-00:17:15,610 --> 00:17:17,402
+290
+00:17:15,951 --> 00:17:16,917
 I'm leaving.
 
-321
-00:17:17,485 --> 00:17:20,360
+291
+00:17:17,732 --> 00:17:20,307
 Hey, Horikita! You decided to come after all?
 
-322
-00:17:20,444 --> 00:17:21,777
+292
+00:17:20,672 --> 00:17:23,348
 I think it'd be best for everyone
-
-323
-00:17:21,860 --> 00:17:23,360
 if you'd share what you know.
 
-324
-00:17:23,444 --> 00:17:28,319
+293
+00:17:23,817 --> 00:17:26,874
 If you would prefer it, we can stay quiet and just listen.
 
-325
-00:17:28,402 --> 00:17:31,110
+294
+00:17:28,723 --> 00:17:31,357
 You've put in a lot of effort with minimal results,
 
-326
-00:17:31,194 --> 00:17:33,110
+295
+00:17:31,382 --> 00:17:33,248
 so let me offer some intel.
 
-327
-00:17:33,194 --> 00:17:34,902
+296
+00:17:33,493 --> 00:17:35,201
 There was a witness.
 
-328
-00:17:34,985 --> 00:17:37,319
+297
+00:17:35,325 --> 00:17:37,409
 And, it was someone close.
 
-329
-00:17:37,402 --> 00:17:39,235
+298
+00:17:37,649 --> 00:17:39,142
 You know who it is?
 
-330
-00:17:39,319 --> 00:17:42,360
+299
+00:17:39,566 --> 00:17:42,554
 One of our classmates, Sakura, knows something.
 
-331
-00:18:17,110 --> 00:18:19,694
+300
+00:18:17,357 --> 00:18:19,941
 What is it that makes you think Sakura saw anything?
 
-332
-00:18:19,777 --> 00:18:22,944
+301
+00:18:20,024 --> 00:18:23,149
 When Kushida made the plea in
 class for everyone to help out,
 
-333
-00:18:23,027 --> 00:18:26,319
+302
+00:18:23,433 --> 00:18:26,285
 pretty much all of our other
 classmates turned to face her.
 
-334
-00:18:26,402 --> 00:18:29,360
+303
+00:18:26,649 --> 00:18:29,357
 Sakura, on the other hand, stared at her desk.
 
-335
-00:18:29,444 --> 00:18:32,194
+304
+00:18:29,749 --> 00:18:31,527
 She was the only one, so...
 
-336
-00:18:32,277 --> 00:18:34,194
+305
+00:18:32,524 --> 00:18:34,389
 No good. She's not answering.
 
-337
-00:18:34,277 --> 00:18:35,402
+306
+00:18:34,524 --> 00:18:35,599
 Aw...
 
-338
-00:18:35,485 --> 00:18:37,235
-Dammit! I was starting to think
+307
+00:18:35,732 --> 00:18:39,366
+Dammit! I was starting to think we
+were gonna get somewhere with this chick.
 
-339
-00:18:37,319 --> 00:18:39,152
-we were gonna get somewhere with this chick.
+308
+00:18:39,541 --> 00:18:42,735
+But still. It doesn't even matter
+if she is willing to testify or not.
 
-340
-00:18:39,235 --> 00:18:40,735
-But still.
-
-341
-00:18:40,819 --> 00:18:42,444
-It doesn't even matter if she
-is willing to testify or not.
-
-342
-00:18:42,527 --> 00:18:44,944
+309
+00:18:42,774 --> 00:18:44,554
 It's not going to make much of a difference.
 
-343
-00:18:45,027 --> 00:18:46,860
-The question of whether it was self-defense or not
+310
+00:18:45,274 --> 00:18:48,207
+The question of whether it was
+self-defense or not is just a minor detail.
 
-344
-00:18:46,944 --> 00:18:47,902
-is just a minor detail.
-
-345
-00:18:47,985 --> 00:18:49,860
+311
+00:18:48,232 --> 00:18:49,794
 In the big picture, it's nothing.
 
-346
-00:18:49,944 --> 00:18:51,569
+312
+00:18:50,191 --> 00:18:51,668
 Haven't you guys figured that out?
 
-347
-00:18:51,652 --> 00:18:54,652
---Huh?! --What do mean by that?
+313
+00:18:51,899 --> 00:18:52,492
+Huh?!
 
-348
-00:18:54,735 --> 00:18:57,319
+314
+00:18:52,651 --> 00:18:54,269
+What do mean by that?
+
+315
+00:18:54,982 --> 00:18:55,833
 Nothing at all.
 
-349
-00:18:57,402 --> 00:18:58,944
+316
+00:18:57,630 --> 00:18:58,630
 Goodbye, now.
 
-350
-00:19:07,444 --> 00:19:09,360
+317
+00:19:07,664 --> 00:19:09,188
 Sakura, huh.
 
-351
-00:19:09,444 --> 00:19:12,610
+318
+00:19:09,691 --> 00:19:12,382
 Honestly, I can't even remember what she looks like.
 
-352
-00:19:14,110 --> 00:19:15,069
+319
+00:19:14,306 --> 00:19:14,812
 Mm?
 
-353
-00:19:16,694 --> 00:19:18,069
+320
+00:19:16,941 --> 00:19:17,747
 Kushida.
 
-354
-00:19:18,152 --> 00:19:20,902
+321
+00:19:18,378 --> 00:19:20,666
 I haven't been able to get it out of my head.
 
-355
-00:19:20,985 --> 00:19:23,902
-I hate to bug you about it, but do you have any idea
+322
+00:19:21,351 --> 00:19:26,844
+I hate to bug you about it, but do you have any
+idea what Horikita was talking about earlier today?
 
-356
-00:19:23,985 --> 00:19:26,944
-what Horikita was talking about earlier today?
+323
+00:19:30,191 --> 00:19:34,631
+Even if Sudo was acting in self-defense in
+the fight, that's not the root of the problem.
 
-357
-00:19:29,944 --> 00:19:32,110
-Even if Sudo was acting in self-defense
-
-358
-00:19:32,194 --> 00:19:34,569
-in the fight, that's not the root of the problem.
-
-359
-00:19:34,652 --> 00:19:36,110
+324
+00:19:34,899 --> 00:19:36,357
 It's a bigger issue than just that.
 
-360
-00:19:36,194 --> 00:19:37,277
+325
+00:19:36,441 --> 00:19:36,904
 Huh?
 
-361
-00:19:37,360 --> 00:19:38,735
-Sudo is always talking trash
+326
+00:19:37,278 --> 00:19:40,707
+Sudo is always talking trash and
+being aggressive towards people.
 
-362
-00:19:38,819 --> 00:19:40,402
-and being aggressive towards people.
-
-363
-00:19:40,485 --> 00:19:42,235
+327
+00:19:40,732 --> 00:19:42,226
 He lashes out over nothing.
 
-364
-00:19:42,319 --> 00:19:45,110
+328
+00:19:42,566 --> 00:19:45,231
 The way he acts inevitably makes people resent him.
 
-365
-00:19:45,194 --> 00:19:48,860
+329
+00:19:45,441 --> 00:19:47,781
 He comes off as a jerk pretty much all the time.
 
-366
-00:19:48,944 --> 00:19:51,777
+330
+00:19:49,191 --> 00:19:51,867
 So, hypothetically, say a murder takes place.
 
-367
-00:19:51,860 --> 00:19:53,402
+331
+00:19:52,129 --> 00:19:53,571
 There are two suspects,
 
-368
-00:19:53,485 --> 00:19:56,777
+332
+00:19:53,732 --> 00:19:56,612
 one of whom is known to have committed murder in the past.
 
-369
-00:19:56,860 --> 00:20:00,277
+333
+00:19:57,107 --> 00:20:00,081
 Now, imagine the other is a moral, law-abiding citizen.
 
-370
-00:20:00,360 --> 00:20:02,777
+334
+00:20:00,607 --> 00:20:02,608
 Which one of them would you believe?
 
-371
-00:20:02,860 --> 00:20:06,110
+335
+00:20:03,049 --> 00:20:06,299
 I guess I'd believe the law-abiding citizen, honestly.
 
-372
-00:20:06,194 --> 00:20:08,277
-But the truth is that the so-called "good guy"
+336
+00:20:06,441 --> 00:20:09,542
+But the truth is that the so-called
+"good guy" could be the murderer.
 
-373
-00:20:08,360 --> 00:20:09,694
-could be the murderer.
-
-374
-00:20:09,777 --> 00:20:11,485
+337
+00:20:09,654 --> 00:20:11,791
 Where there is so little evidence, people are inclined
 
-375
-00:20:11,569 --> 00:20:15,069
+338
+00:20:11,816 --> 00:20:14,851
 to go with what they know from
 a person's behavior in the past.
 
-376
-00:20:15,152 --> 00:20:16,277
+339
+00:20:15,399 --> 00:20:18,203
 So, you're saying that Sudo
-
-377
-00:20:16,360 --> 00:20:17,985
 kind of brought this upon himself?
 
-378
-00:20:18,069 --> 00:20:19,819
-That the way he's acted since school started
+340
+00:20:18,316 --> 00:20:21,566
+That the way he's acted since school
+started led him to this situation?
 
-379
-00:20:19,902 --> 00:20:21,319
-led him to this situation?
-
-380
-00:20:21,402 --> 00:20:23,277
+341
+00:20:21,649 --> 00:20:26,274
 Yes, and Sudo doesn't get that or think
-
-381
-00:20:23,360 --> 00:20:26,027
 he's done anything wrong. Look at Horikita.
 
-382
-00:20:26,110 --> 00:20:28,194
+342
+00:20:26,351 --> 00:20:28,424
 That's why she won't cooperate with us.
 
-383
-00:20:28,277 --> 00:20:30,235
-But, I still believe we should make every effort
+343
+00:20:28,524 --> 00:20:32,149
+But, I still believe we should make
+every effort to help clear Sudo's name.
 
-384
-00:20:30,319 --> 00:20:31,902
-to help clear Sudo's name.
-
-385
-00:20:31,985 --> 00:20:35,194
+344
+00:20:32,232 --> 00:20:34,190
 We wouldn't be good friends if we didn't.
 
-386
-00:20:35,277 --> 00:20:36,902
-If you think that's the right thing to do,
+345
+00:20:35,524 --> 00:20:38,415
+If you think that's the right thing
+to do, then follow through with it.
 
-387
-00:20:36,985 --> 00:20:38,360
-then follow through with it.
-
-388
-00:20:38,444 --> 00:20:41,569
+346
+00:20:38,691 --> 00:20:40,964
 I don't believe that that would be a problem at all.
 
-389
-00:20:41,652 --> 00:20:44,402
-Right. Not to change the subject,
+347
+00:20:41,882 --> 00:20:42,419
+Right.
 
-390
-00:20:44,485 --> 00:20:46,069
-but once again you seem to know everything
+348
+00:20:43,321 --> 00:20:48,955
+Not to change the subject, but once again you seem to know
+everything about the way Horikita operates in the world.
 
-391
-00:20:46,152 --> 00:20:48,819
-about the way Horikita operates in the world.
-
-392
-00:20:48,902 --> 00:20:51,694
+349
+00:20:49,118 --> 00:20:51,291
 I think that might be going a bit far.
 
-393
-00:20:54,527 --> 00:20:56,985
+350
+00:20:54,757 --> 00:20:56,934
 Um. Hey, Ayanokoji.
 
-394
-00:20:57,069 --> 00:20:58,194
+351
+00:20:57,316 --> 00:20:58,034
 Do you...
 
-395
-00:20:58,277 --> 00:21:00,569
+352
+00:20:58,524 --> 00:20:59,806
 Do you think that...
 
-396
-00:21:00,652 --> 00:21:04,652
+353
+00:21:00,899 --> 00:21:04,306
 Well, if I... If I were to...
 
-397
-00:21:07,527 --> 00:21:11,110
+354
+00:21:07,774 --> 00:21:10,579
 No. Never mind.
 
-398
-00:21:11,194 --> 00:21:12,902
+355
+00:21:11,441 --> 00:21:13,207
 As far as stuff with Sakura goes,
 
-399
-00:21:12,985 --> 00:21:15,235
+356
+00:21:13,232 --> 00:21:15,541
 I'll approach her alone tomorrow and see what she says.
 
-400
-00:21:15,319 --> 00:21:16,402
-If we all went together,
+357
+00:21:15,566 --> 00:21:18,433
+If we all went together, I think
+she'd get intimidated and shut up.
 
-401
-00:21:16,485 --> 00:21:18,527
-I think she'd get intimidated and shut up.
-
-402
-00:21:18,610 --> 00:21:20,152
+358
+00:21:18,857 --> 00:21:19,954
 See ya later!
 
-403
-00:21:30,985 --> 00:21:32,860
+359
+00:21:31,285 --> 00:21:32,342
 Hey, Sakura!
 
-404
-00:21:32,944 --> 00:21:34,444
+360
+00:21:33,191 --> 00:21:34,339
 Um, yes?
 
-405
-00:21:34,527 --> 00:21:37,235
+361
+00:21:34,774 --> 00:21:37,042
 There's something that I've
 been wanting to talk to you about.
 
-406
-00:21:37,319 --> 00:21:40,610
+362
+00:21:37,566 --> 00:21:40,857
 Do you have a moment? It's about this thing with Sudo.
 
-407
-00:21:40,694 --> 00:21:43,152
+363
+00:21:40,941 --> 00:21:43,349
 Um. I'm sorry but I can't right now.
 
-408
-00:21:43,235 --> 00:21:44,985
+364
+00:21:43,482 --> 00:21:45,196
 There's somewhere I'm supposed to be.
 
-409
-00:21:45,069 --> 00:21:48,235
+365
+00:21:46,892 --> 00:21:48,482
 It's only going to take a moment.
 
-410
-00:21:48,319 --> 00:21:49,610
+366
+00:21:48,625 --> 00:21:49,798
 This is important!
 
-411
-00:21:49,694 --> 00:21:52,860
+367
+00:21:49,823 --> 00:21:52,735
 No, I wasn't there! I really don't know anything!
 
-412
-00:21:54,485 --> 00:21:57,277
+368
+00:21:54,732 --> 00:21:56,761
 Oh! Sorry! Are you okay?
 
-413
-00:22:01,569 --> 00:22:04,527
+369
+00:22:01,877 --> 00:22:04,729
 Oh, no. It's not turning on.
 
-414
-00:22:04,610 --> 00:22:06,652
+370
+00:22:04,857 --> 00:22:06,899
 I'm sorry! I didn't mean to!
 
-415
-00:22:06,735 --> 00:22:08,194
+371
+00:22:06,985 --> 00:22:07,888
 Don't be.
 
-416
-00:22:08,277 --> 00:22:10,527
+372
+00:22:08,490 --> 00:22:10,114
 This whole thing was my fault!
 
-417
-00:22:10,610 --> 00:22:12,402
+373
+00:22:10,857 --> 00:22:12,232
 Wait, come back!
 
-418
-00:22:15,652 --> 00:22:17,319
+374
+00:22:15,985 --> 00:22:17,253
 If I get involved,
 
-419
-00:22:17,402 --> 00:22:21,194
+375
+00:22:17,707 --> 00:22:19,823
 everyone will find out the truth about me.
 
-420
-00:22:21,277 --> 00:22:23,569
+376
+00:22:21,524 --> 00:22:23,310
 No one here can ever know.
 

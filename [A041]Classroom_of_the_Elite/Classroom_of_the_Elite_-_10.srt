@@ -1,1786 +1,1640 @@
 ﻿1
-00:00:38,728 --> 00:00:40,353
+00:00:38,941 --> 00:00:40,220
 Kiyotaka.
 
 2
-00:00:42,312 --> 00:00:45,103
+00:00:42,525 --> 00:00:45,253
 No matter what, you must always remember this.
 
 3
-00:00:45,187 --> 00:00:49,978
+00:00:45,400 --> 00:00:49,299
 To have great power and refuse to use it to your advantage
 
 4
-00:00:50,062 --> 00:00:52,478
+00:00:50,275 --> 00:00:52,294
 is something only a fool would do.
 
 5
-00:02:34,812 --> 00:02:36,353
+00:02:34,965 --> 00:02:36,056
 Hey!
 
 6
-00:02:37,478 --> 00:02:39,895
+00:02:37,651 --> 00:02:39,540
 Check out all the fish we caught!
 
 7
-00:02:39,978 --> 00:02:42,645
+00:02:40,191 --> 00:02:42,506
 And look at all this delicious fruit that we picked!
 
 8
-00:02:42,728 --> 00:02:44,645
+00:02:42,834 --> 00:02:44,751
 Nice work! You guys are awesome.
 
 9
-00:02:44,728 --> 00:02:47,395
+00:02:44,941 --> 00:02:47,608
 Okay, Hirata, what do you want us to do next?
 
 10
-00:02:47,478 --> 00:02:49,312
-If you two wouldn't mind getting the fire started,
+00:02:47,691 --> 00:02:50,801
+If you two wouldn't mind getting the
+fire started, that would be really helpful.
 
 11
-00:02:49,395 --> 00:02:50,645
-that would be really helpful.
-
-12
-00:02:50,728 --> 00:02:51,728
+00:02:50,901 --> 00:02:51,621
 Sure!
 
+12
+00:02:52,005 --> 00:02:54,771
+Kushida, I'd like you and your
+group to oversee meal rations.
+
 13
-00:02:51,812 --> 00:02:52,978
-Kushida, I'd like you and your group
-
-14
-00:02:53,062 --> 00:02:54,520
-to oversee meal rations.
-
-15
-00:02:54,603 --> 00:02:55,895
+00:02:54,816 --> 00:02:55,606
 Right!
 
-16
-00:02:55,978 --> 00:02:57,103
-Anyone else who isn't busy can come help us
+14
+00:02:55,836 --> 00:02:58,583
+Anyone else who isn't busy can
+come help us collect drinking water.
 
-17
-00:02:57,187 --> 00:02:58,853
-collect drinking water.
-
-18
-00:02:59,978 --> 00:03:00,895
+15
+00:03:00,191 --> 00:03:01,011
 All right, then!
 
-19
-00:03:00,978 --> 00:03:02,020
+16
+00:03:01,191 --> 00:03:02,211
 Can you help me carry these?
 
-20
-00:03:02,103 --> 00:03:03,728
+17
+00:03:02,316 --> 00:03:03,755
 Oh! Okay!
 
-21
-00:03:03,812 --> 00:03:05,770
+18
+00:03:04,025 --> 00:03:05,537
 Yosuke Hirata.
 
-22
-00:03:05,853 --> 00:03:09,187
+19
+00:03:06,066 --> 00:03:08,245
 Class D's unofficial leader. Huh.
 
-23
-00:03:19,562 --> 00:03:22,228
+20
+00:03:19,775 --> 00:03:22,441
 It's unusual to see you take initiative like this.
 
-24
-00:03:22,312 --> 00:03:23,812
+21
+00:03:22,525 --> 00:03:24,025
 I'm almost suspicious.
 
-25
-00:03:23,895 --> 00:03:25,978
+22
+00:03:24,108 --> 00:03:25,942
 I have nothing better to do.
 
-26
-00:03:26,062 --> 00:03:27,687
+23
+00:03:26,248 --> 00:03:27,873
 It helps pass the time.
 
-27
-00:03:27,770 --> 00:03:29,978
-I don't mind doing recon, but I don't wanna
+24
+00:03:27,983 --> 00:03:32,338
+I don't mind doing recon, but I don't
+wanna burn undue calories I could store.
 
-28
-00:03:30,062 --> 00:03:32,187
-burn undue calories I could store.
-
-29
-00:03:32,270 --> 00:03:34,437
+25
+00:03:32,477 --> 00:03:34,644
 Stamina is valuable on a desert island.
 
-30
-00:03:34,520 --> 00:03:35,978
-So, I don't like wandering around
+26
+00:03:34,733 --> 00:03:37,900
+So, I don't like wandering
+around without a clear goal in mind.
 
-31
-00:03:36,062 --> 00:03:37,687
-without a clear goal in mind.
-
-32
-00:03:37,770 --> 00:03:39,312
+27
+00:03:37,983 --> 00:03:39,525
 I understand that logic.
 
-33
-00:03:39,395 --> 00:03:40,520
+28
+00:03:39,608 --> 00:03:40,733
 But on the flip side,
 
-34
-00:03:40,603 --> 00:03:42,687
+29
+00:03:40,816 --> 00:03:42,761
 staying cooped up does us no good.
 
-35
-00:03:42,770 --> 00:03:44,312
+30
+00:03:42,983 --> 00:03:44,021
 And, besides...
 
-36
-00:03:44,395 --> 00:03:47,812
+31
+00:03:44,608 --> 00:03:47,745
 Next time, I'll deal with you personally.
 
-37
-00:03:47,895 --> 00:03:50,437
+32
+00:03:48,108 --> 00:03:50,217
 I'm so looking forward to it.
 
-38
-00:03:50,520 --> 00:03:53,228
+33
+00:03:50,733 --> 00:03:53,441
 It's clear that Class C has put a target on your back.
 
-39
-00:03:53,312 --> 00:03:55,478
+34
+00:03:53,525 --> 00:03:55,458
 We've gotta be vigilant about this.
 
-40
-00:03:55,562 --> 00:03:59,228
+35
+00:03:57,646 --> 00:03:59,092
 Yeah, that's true.
 
-41
-00:04:04,645 --> 00:04:06,145
+36
+00:04:04,858 --> 00:04:06,358
 I know!
 
-42
-00:04:07,937 --> 00:04:09,770
+37
+00:04:08,150 --> 00:04:09,702
 This is amazing!
 
-43
-00:04:09,853 --> 00:04:11,187
+38
+00:04:10,066 --> 00:04:13,108
 There's so much fruit in the forest,
-
-44
-00:04:11,270 --> 00:04:12,895
 it's almost like someone planted it!
 
-45
-00:04:12,978 --> 00:04:15,353
+39
+00:04:13,191 --> 00:04:15,454
 But if we need to, we can go fishing right here!
 
-46
-00:04:15,437 --> 00:04:17,978
+40
+00:04:15,636 --> 00:04:18,177
 And the waterfalls provide all our fresh water!
 
-47
-00:04:18,062 --> 00:04:20,187
+41
+00:04:18,275 --> 00:04:20,137
 Looks like Class B hit the jack pot.
 
-48
-00:04:20,270 --> 00:04:22,603
+42
+00:04:20,483 --> 00:04:22,816
 You're all incredibly disciplined. I'm impressed.
 
-49
-00:04:22,687 --> 00:04:26,187
+43
+00:04:24,218 --> 00:04:26,387
 It was pretty hard at first.
 
-50
-00:04:26,270 --> 00:04:29,853
+44
+00:04:26,483 --> 00:04:29,318
 But we rigged some things up, and it's really worked out!
 
-51
-00:04:29,937 --> 00:04:31,187
+45
+00:04:30,150 --> 00:04:31,333
 Ichinose.
 
-52
-00:04:31,270 --> 00:04:33,478
-Is it safe to assume that Class B can be trusted
+46
+00:04:31,456 --> 00:04:35,275
+Is it safe to assume that Class B can
+be trusted to cooperate with Class D?
 
-53
-00:04:33,562 --> 00:04:35,062
-to cooperate with Class D?
-
-54
-00:04:35,145 --> 00:04:37,395
+47
+00:04:35,358 --> 00:04:37,608
 Mm-hm. That's definitely how I see it.
 
-55
-00:04:37,478 --> 00:04:39,937
+48
+00:04:37,671 --> 00:04:39,133
 Sorry to interrupt.
 
-56
-00:04:40,020 --> 00:04:41,270
+49
+00:04:40,172 --> 00:04:41,422
 How can I help you?
 
-57
-00:04:41,353 --> 00:04:43,103
-Oh, I was wondering if there was anything
+50
+00:04:41,566 --> 00:04:45,287
+Oh, I was wondering if there was
+anything you'd like me to do to help out.
 
-58
-00:04:43,187 --> 00:04:45,395
-you'd like me to do to help out.
+51
+00:04:45,691 --> 00:04:49,406
+Well, why not join Chihiro and the
+others to see if there's anything they need?
 
-59
-00:04:45,478 --> 00:04:47,603
-Well, why not join Chihiro and the others
-
-60
-00:04:47,687 --> 00:04:49,395
-to see if there's anything they need?
-
-61
-00:04:49,478 --> 00:04:52,353
+52
+00:04:49,637 --> 00:04:52,436
 I'd be happy to. Thank you very much.
 
-62
-00:04:54,103 --> 00:04:55,895
-He strikes me as a bit distant for someone
+53
+00:04:54,290 --> 00:04:57,316
+He strikes me as a bit distant
+for someone who's in your class.
 
-63
-00:04:55,978 --> 00:04:57,103
-who's in your class.
-
-64
-00:04:57,187 --> 00:04:59,520
+54
+00:04:57,400 --> 00:04:59,683
 Oh, he's not. His name is Kaneda.
 
-65
-00:04:59,603 --> 00:05:02,312
+55
+00:04:59,816 --> 00:05:02,525
 He got driven out of Class C because of some falling out.
 
-66
-00:05:02,395 --> 00:05:04,437
+56
+00:05:02,608 --> 00:05:04,457
 So, he asked to join our camp, instead.
 
-67
-00:05:04,520 --> 00:05:05,895
+57
+00:05:04,733 --> 00:05:06,108
 Oh, sorry.
 
-68
-00:05:05,978 --> 00:05:08,145
+58
+00:05:06,191 --> 00:05:08,358
 I'd love to chat more, but there's more work to do!
 
-69
-00:05:08,228 --> 00:05:10,103
+59
+00:05:08,441 --> 00:05:10,100
 Come visit again soon, okay?
 
-70
-00:05:11,228 --> 00:05:13,978
+60
+00:05:11,441 --> 00:05:13,932
 As much as you know I hate to admit this,
 
-71
-00:05:14,062 --> 00:05:16,312
+61
+00:05:14,275 --> 00:05:16,254
 this is way better than our spot.
 
-72
-00:05:24,020 --> 00:05:25,187
+62
+00:05:24,233 --> 00:05:25,400
 I can't see inside.
 
-73
-00:05:25,270 --> 00:05:27,312
+63
+00:05:25,483 --> 00:05:27,525
 There's a curtain over the opening of the cave.
 
-74
-00:05:27,395 --> 00:05:28,687
+64
+00:05:27,575 --> 00:05:28,735
 Let's check it out.
 
-75
-00:05:28,770 --> 00:05:29,895
+65
+00:05:28,950 --> 00:05:30,075
 What are you doing?
 
-76
-00:05:29,978 --> 00:05:31,812
-There's no reason to be intimidated by them
+66
+00:05:30,191 --> 00:05:33,638
+There's no reason to be intimidated
+by them just because they're Class A.
 
-77
-00:05:31,895 --> 00:05:33,562
-just because they're Class A.
-
-78
-00:05:33,645 --> 00:05:35,353
+67
+00:05:33,858 --> 00:05:35,566
 What are you trying to achieve?
 
-79
-00:05:35,437 --> 00:05:38,312
+68
+00:05:35,650 --> 00:05:38,416
 We don't stand to gain anything by revealing our presence.
 
-80
-00:05:38,395 --> 00:05:39,687
+69
+00:05:38,608 --> 00:05:41,450
 Skulking around in the bushes
-
-81
-00:05:39,770 --> 00:05:41,270
 won't get us anywhere, either.
 
-82
-00:05:41,353 --> 00:05:43,020
+70
+00:05:41,572 --> 00:05:43,239
 Might as well see what happens.
 
-83
-00:05:52,895 --> 00:05:54,103
+71
+00:05:53,108 --> 00:05:54,316
 What do you want?
 
-84
-00:05:54,187 --> 00:05:55,895
+72
+00:05:54,400 --> 00:05:56,108
 We came to scout your spot.
 
-85
-00:05:55,978 --> 00:05:57,395
+73
+00:05:56,191 --> 00:05:57,608
 You got a problem with that?
 
-86
-00:05:57,478 --> 00:05:58,937
+74
+00:05:57,691 --> 00:05:58,517
 Huh?
 
-87
-00:06:03,228 --> 00:06:05,478
+75
+00:06:03,441 --> 00:06:05,448
 How very underhanded.
 
-88
-00:06:05,562 --> 00:06:06,687
+76
+00:06:05,755 --> 00:06:06,880
 We're coming in.
 
-89
-00:06:06,770 --> 00:06:07,770
+77
+00:06:06,950 --> 00:06:07,785
 Hey!
 
-90
-00:06:07,853 --> 00:06:08,812
+78
+00:06:08,066 --> 00:06:08,918
 What?
 
-91
-00:06:08,895 --> 00:06:11,103
+79
+00:06:08,943 --> 00:06:11,058
 This place is property of Class A.
 
-92
-00:06:11,187 --> 00:06:12,895
+80
+00:06:11,320 --> 00:06:12,886
 You don't get to see it.
 
-93
-00:06:12,978 --> 00:06:14,270
+81
+00:06:13,191 --> 00:06:14,245
 Oh?
 
-94
-00:06:14,353 --> 00:06:16,228
+82
+00:06:14,318 --> 00:06:16,441
 Are you saying you've taken possession of this spot?
 
-95
-00:06:16,312 --> 00:06:17,812
+83
+00:06:16,525 --> 00:06:18,025
 That's right. Go away.
 
-96
-00:06:17,895 --> 00:06:19,812
-I'm sorry, is there some rule I'm not aware of
+84
+00:06:18,108 --> 00:06:22,232
+I'm sorry, is there some rule I'm not
+aware of that states I can't enter this cave?
 
-97
-00:06:19,895 --> 00:06:22,228
-that states I can't enter this cave?
-
-98
-00:06:22,312 --> 00:06:24,978
+85
+00:06:22,458 --> 00:06:25,124
 I can't officially use an occupied spot,
 
-99
-00:06:25,062 --> 00:06:27,520
+86
+00:06:25,275 --> 00:06:27,668
 but no one ever said I couldn't look inside.
 
-100
-00:06:27,603 --> 00:06:30,437
+87
+00:06:27,776 --> 00:06:30,512
 That would be considered monopolizing this space.
 
-101
-00:06:30,520 --> 00:06:32,145
+88
+00:06:30,733 --> 00:06:32,358
 I think you're breaking the rules.
 
-102
-00:06:32,228 --> 00:06:34,228
+89
+00:06:32,383 --> 00:06:34,441
 So let me have a look, okay?
 
-103
-00:06:35,562 --> 00:06:37,187
+90
+00:06:35,775 --> 00:06:37,270
 What do you think you're doing?
 
-104
-00:06:37,270 --> 00:06:38,895
+91
+00:06:37,437 --> 00:06:38,676
 Katsuragi!
 
-105
-00:06:38,978 --> 00:06:40,437
-I don't recall giving you permission
+92
+00:06:39,131 --> 00:06:42,259
+I don't recall giving you
+permission to invite your friends.
 
-106
-00:06:40,520 --> 00:06:42,770
-to invite your friends.
-
-107
-00:06:43,812 --> 00:06:45,812
+93
+00:06:43,985 --> 00:06:45,985
 Look, I only wanna see what's inside.
 
-108
-00:06:45,895 --> 00:06:49,437
+94
+00:06:46,088 --> 00:06:48,793
 I can't imagine that being against the rules.
 
-109
-00:06:49,520 --> 00:06:51,937
+95
+00:06:49,733 --> 00:06:52,079
 Well, go ahead and have a look inside, then.
 
-110
-00:06:52,020 --> 00:06:54,228
+96
+00:06:52,213 --> 00:06:54,345
 But, be prepared for the consequences.
 
-111
-00:06:54,312 --> 00:06:57,978
+97
+00:06:54,525 --> 00:06:57,841
 Each class chooses to occupy one spot on the island,
 
-112
-00:06:58,062 --> 00:07:01,353
+98
+00:06:58,275 --> 00:07:01,249
 and they must defend that spot until the test is over.
 
-113
-00:07:01,437 --> 00:07:05,562
+99
+00:07:01,650 --> 00:07:04,648
 If you decide to break this unwritten rule,
 
-114
-00:07:05,645 --> 00:07:07,937
+100
+00:07:05,858 --> 00:07:07,723
 then that will mean war.
 
-115
-00:07:11,062 --> 00:07:14,520
+101
+00:07:11,275 --> 00:07:14,032
 You'd be better off to avoid that kind of trouble.
 
-116
-00:07:20,603 --> 00:07:22,270
+102
+00:07:20,816 --> 00:07:22,483
 I think you need to reapply sunscreen.
 
-117
-00:07:22,353 --> 00:07:24,562
+103
+00:07:22,566 --> 00:07:24,660
 One, two, three, you're gone!
 
-118
-00:07:30,728 --> 00:07:32,395
+104
+00:07:30,907 --> 00:07:32,608
 You've got to be kidding me.
 
-119
-00:07:32,478 --> 00:07:34,812
+105
+00:07:32,691 --> 00:07:35,025
 What in the world does Class C think they're doing?
 
-120
-00:07:34,895 --> 00:07:36,228
+106
+00:07:35,050 --> 00:07:35,750
 Um.
 
-121
-00:07:36,312 --> 00:07:39,520
+107
+00:07:36,525 --> 00:07:39,016
 Ryuen wants to talk to you guys.
 
-122
-00:07:39,603 --> 00:07:41,145
+108
+00:07:39,816 --> 00:07:40,844
 Hey, there.
 
-123
-00:07:41,228 --> 00:07:43,395
+109
+00:07:41,415 --> 00:07:43,582
 You all seem to be living the high life.
 
-124
-00:07:43,478 --> 00:07:45,687
+110
+00:07:43,691 --> 00:07:45,792
 Oh, we are doing exactly that.
 
-125
-00:07:45,770 --> 00:07:47,353
+111
+00:07:45,983 --> 00:07:47,566
 It's our summer vacation, after all.
 
-126
-00:07:47,437 --> 00:07:49,187
+112
+00:07:47,650 --> 00:07:49,400
 Why shouldn't we enjoy it?
 
-127
-00:07:49,270 --> 00:07:49,895
+113
+00:07:49,483 --> 00:07:50,108
 Right?
 
-128
-00:07:49,978 --> 00:07:50,603
-Uh--
+114
+00:07:50,191 --> 00:07:50,816
+Uh!
 
-129
-00:07:50,687 --> 00:07:51,895
+115
+00:07:50,900 --> 00:07:51,670
 That's right!
 
-130
-00:07:51,978 --> 00:07:53,687
-An incompetent leader only ends up
+116
+00:07:52,191 --> 00:07:55,762
+An incompetent leader only
+ends up hurting his subjects.
 
-131
-00:07:53,770 --> 00:07:55,853
-hurting his subjects.
-
-132
-00:07:55,937 --> 00:07:57,395
+117
+00:07:56,150 --> 00:07:57,423
 Ishizaki.
 
-133
-00:07:57,478 --> 00:07:58,978
+118
+00:07:57,691 --> 00:07:58,803
 Yes, sir?
 
-134
-00:07:59,062 --> 00:08:00,478
+119
+00:07:59,275 --> 00:08:00,434
 It's warm.
 
-135
-00:08:00,562 --> 00:08:03,353
+120
+00:08:00,707 --> 00:08:02,093
 I'm very sorry, sir.
 
-136
-00:08:03,437 --> 00:08:06,145
+121
+00:08:03,650 --> 00:08:06,358
 For a measly one or 200 class points.
 
-137
-00:08:06,228 --> 00:08:09,020
+122
+00:08:06,441 --> 00:08:09,233
 The rest of you are willing to endure starvation,
 
-138
-00:08:09,103 --> 00:08:11,228
+123
+00:08:09,316 --> 00:08:11,193
 heat, exhaustion.
 
-139
-00:08:12,478 --> 00:08:15,437
+124
+00:08:12,691 --> 00:08:15,176
 The very thought of it makes me wanna laugh.
 
-140
-00:08:15,520 --> 00:08:17,103
-I was dumb to come here with my guard up
+125
+00:08:15,706 --> 00:08:18,918
+I was dumb to come here with my
+guard up against a fool like you.
 
-141
-00:08:17,187 --> 00:08:18,812
-against a fool like you.
-
-142
-00:08:18,895 --> 00:08:24,062
+126
+00:08:19,108 --> 00:08:23,083
 Who's the real fool here? Is it me?
 
-143
-00:08:24,145 --> 00:08:25,770
+127
+00:08:24,358 --> 00:08:25,502
 Or is it you?
 
-144
-00:08:28,020 --> 00:08:29,520
+128
+00:08:28,233 --> 00:08:29,599
 Ryuen, sir.
 
-145
-00:08:33,520 --> 00:08:35,645
+129
+00:08:33,670 --> 00:08:35,748
 This is the way that I operate,
 
-146
-00:08:35,728 --> 00:08:38,937
+130
+00:08:35,941 --> 00:08:38,880
 and I refuse to settle for anything less than that.
 
-147
-00:08:39,020 --> 00:08:42,520
+131
+00:08:39,233 --> 00:08:42,626
 I see. Well then, do whatever you want.
 
-148
-00:08:42,603 --> 00:08:45,603
+132
+00:08:42,816 --> 00:08:45,105
 It's way better for us if you're out of the game.
 
-149
-00:08:45,687 --> 00:08:49,437
+133
+00:08:45,900 --> 00:08:49,360
 Oh, there was one other thing I wanted to ask you.
 
-150
-00:08:49,520 --> 00:08:51,520
+134
+00:08:49,693 --> 00:08:51,693
 You're familiar with Ibuki, aren't you?
 
-151
-00:08:51,603 --> 00:08:53,478
+135
+00:08:51,816 --> 00:08:53,663
 Of course, she's in our class.
 
-152
-00:08:53,562 --> 00:08:56,103
+136
+00:08:53,775 --> 00:08:56,027
 So? What's it to you?
 
-153
-00:08:56,187 --> 00:08:58,520
+137
+00:08:56,334 --> 00:08:58,667
 Her face was messed up pretty badly.
 
-154
-00:08:58,603 --> 00:09:01,103
+138
+00:08:58,816 --> 00:09:00,972
 Do you know how it may have gotten that way?
 
-155
-00:09:01,187 --> 00:09:04,437
+139
+00:09:01,400 --> 00:09:04,473
 Disobedient servants are of no use to a ruler.
 
-156
-00:09:04,520 --> 00:09:08,145
+140
+00:09:04,733 --> 00:09:07,414
 I only doled out the appropriate punishment.
 
-157
-00:09:11,437 --> 00:09:13,062
+141
+00:09:11,650 --> 00:09:15,191
 You used up all of your S-points
-
-158
-00:09:13,145 --> 00:09:14,978
 on the first day, didn't you?
 
-159
-00:09:15,062 --> 00:09:16,728
+142
+00:09:15,275 --> 00:09:16,827
 That's exactly right.
 
-160
-00:09:16,812 --> 00:09:19,812
+143
+00:09:17,025 --> 00:09:19,826
 I spent all our class's S-points yesterday.
 
-161
-00:09:19,895 --> 00:09:21,562
+144
+00:09:20,046 --> 00:09:21,775
 So it doesn't really matter.
 
-162
-00:09:21,645 --> 00:09:25,728
+145
+00:09:21,858 --> 00:09:25,238
 Ibuki can do what she wants
 and it won't affect our S-points.
 
-163
-00:09:25,812 --> 00:09:28,228
-The rules state that, even if you lose
+146
+00:09:26,025 --> 00:09:30,570
+The rules state that, even if
+you lose all 300 of your S-points,
 
-164
-00:09:28,312 --> 00:09:30,895
-all 300 of your S-points, you can't ever
+147
+00:09:30,595 --> 00:09:34,448
+you can't ever get into negative
+numbers. He used that to his advantage.
 
-165
-00:09:30,978 --> 00:09:34,395
-get into negative numbers. He used that to his advantage.
-
-166
-00:09:34,478 --> 00:09:36,270
+148
+00:09:34,691 --> 00:09:36,285
 A simplistic way of thinking.
 
-167
-00:09:36,353 --> 00:09:38,270
-I guess you don't mind losing all the class points
+149
+00:09:36,566 --> 00:09:39,844
+I guess you don't mind losing all
+the class points we were offered.
 
-168
-00:09:38,353 --> 00:09:39,645
-we were offered.
-
-169
-00:09:39,728 --> 00:09:41,270
+150
+00:09:39,941 --> 00:09:41,450
 Forget all of that.
 
-170
-00:09:41,353 --> 00:09:43,645
+151
+00:09:41,566 --> 00:09:43,697
 Why don't you just come play with me?
 
-171
-00:09:43,728 --> 00:09:47,145
+152
+00:09:43,901 --> 00:09:46,891
 I'll prepare a special tent for us, Suzune.
 
-172
-00:09:47,228 --> 00:09:49,395
+153
+00:09:47,441 --> 00:09:49,526
 Let's get out of here, Ayanokoji.
 
-173
-00:09:49,478 --> 00:09:52,645
+154
+00:09:49,691 --> 00:09:52,858
 If I stay any longer, this guy's gonna make me vomit.
 
-174
-00:09:52,728 --> 00:09:54,562
-Suzune, come back when you're ready
+155
+00:09:52,941 --> 00:09:57,828
+Suzune, come back when you're ready to have
+the time of your life. You know you want to.
 
-175
-00:09:54,645 --> 00:09:58,145
-to have the time of your life. You know you want to.
-
-176
-00:09:58,228 --> 00:10:01,812
+156
+00:09:58,441 --> 00:10:01,827
 I'll blow your mind if you
 would just give me the afternoon.
 
-177
-00:10:07,978 --> 00:10:09,603
+157
+00:10:08,131 --> 00:10:09,420
 Absurd, isn't it?
 
-178
-00:10:09,687 --> 00:10:11,645
+158
+00:10:09,900 --> 00:10:11,858
 But their bad decision benefits us.
 
-179
-00:10:11,728 --> 00:10:12,770
+159
+00:10:11,941 --> 00:10:12,661
 Yeah.
 
-180
-00:10:12,853 --> 00:10:14,312
-In this test, you need to conserve
+160
+00:10:13,066 --> 00:10:18,398
+In this test, you need to conserve any way that
+you can, or there's no way you'll last the whole week.
 
-181
-00:10:14,395 --> 00:10:16,645
-any way that you can, or there's no way
+161
+00:10:18,566 --> 00:10:22,298
+He's not planning to last the whole
+week, which is the reason he did what he did.
 
-182
-00:10:16,728 --> 00:10:18,270
-you'll last the whole week.
-
-183
-00:10:18,353 --> 00:10:20,103
-He's not planning to last the whole week,
-
-184
-00:10:20,187 --> 00:10:22,145
-which is the reason he did what he did.
-
-185
-00:10:22,228 --> 00:10:23,728
+162
+00:10:22,441 --> 00:10:23,851
 What do you mean by that?
 
-186
-00:10:23,812 --> 00:10:25,603
+163
+00:10:23,905 --> 00:10:25,331
 It's pretty simple.
 
-187
-00:10:25,687 --> 00:10:27,353
+164
+00:10:25,900 --> 00:10:27,566
 He'll do exactly what Koenji did.
 
-188
-00:10:27,437 --> 00:10:29,478
+165
+00:10:27,650 --> 00:10:29,068
 Cut any losses and run.
 
-189
-00:10:29,562 --> 00:10:31,937
+166
+00:10:29,680 --> 00:10:31,782
 All they have to do is claim to be sick,
 
-190
-00:10:32,020 --> 00:10:34,270
+167
+00:10:32,233 --> 00:10:34,284
 or that they can't handle the stress.
 
-191
-00:10:34,353 --> 00:10:35,895
-Then they can all go back to the ship
+168
+00:10:34,566 --> 00:10:39,095
+Then they can all go back to the ship and
+enjoy the rest of their summer vacation in comfort.
 
-192
-00:10:35,978 --> 00:10:39,020
-and enjoy the rest of their summer vacation in comfort.
-
-193
-00:10:39,103 --> 00:10:40,937
+169
+00:10:39,316 --> 00:10:43,932
 Hold on, so you're telling me that he never
-
-194
-00:10:41,020 --> 00:10:43,770
 had any intention of participating in the test?
 
-195
-00:10:43,853 --> 00:10:46,937
+170
+00:10:44,066 --> 00:10:46,855
 Well, this exam is about freedom of choice, isn't it?
 
-196
-00:10:47,020 --> 00:10:48,603
-Ryuen might have the best answer.
+171
+00:10:47,233 --> 00:10:50,688
+Ryuen might have the best
+answer. After all, he chose comfort.
 
-197
-00:10:48,687 --> 00:10:50,562
-After all, he chose comfort.
-
-198
-00:10:50,645 --> 00:10:53,645
+172
+00:10:50,838 --> 00:10:53,543
 I don't know. That's beyond me.
 
-199
-00:10:53,728 --> 00:10:57,645
+173
+00:10:53,881 --> 00:10:57,508
 A zero point strategy. Fascinating.
 
-200
-00:11:56,853 --> 00:11:58,770
+174
+00:11:57,066 --> 00:11:58,925
 Good morning to you, Hirata.
 
-201
-00:11:58,853 --> 00:12:00,937
+175
+00:11:59,066 --> 00:12:00,935
 Oh, morning, Ayanokoji.
 
-202
-00:12:01,020 --> 00:12:02,645
+176
+00:12:01,233 --> 00:12:02,802
 I'm sorry if I woke you up.
 
-203
-00:12:02,728 --> 00:12:04,145
+177
+00:12:02,941 --> 00:12:04,228
 No, you didn't.
 
-204
-00:12:04,228 --> 00:12:05,728
-It's just hard for me to sleep very well
+178
+00:12:04,441 --> 00:12:07,678
+It's just hard for me to sleep
+very well in this kind of environment.
 
-205
-00:12:05,812 --> 00:12:08,145
-in this kind of environment.
-
-206
-00:12:08,228 --> 00:12:09,520
+179
+00:12:08,441 --> 00:12:09,733
 My back is killing me.
 
-207
-00:12:14,978 --> 00:12:17,020
+180
+00:12:15,191 --> 00:12:17,142
 That feels great.
 
-208
-00:12:17,103 --> 00:12:18,520
-It must be stressful to be the one
+181
+00:12:17,316 --> 00:12:20,417
+It must be stressful to be the
+one keeping the class together.
 
-209
-00:12:18,603 --> 00:12:20,270
-keeping the class together.
-
-210
-00:12:20,353 --> 00:12:22,978
+182
+00:12:20,566 --> 00:12:22,785
 I only do it because I enjoy it.
 
-211
-00:12:23,062 --> 00:12:25,937
+183
+00:12:23,275 --> 00:12:25,880
 If I didn't, there is no way I'd take that on.
 
-212
-00:12:26,020 --> 00:12:28,478
+184
+00:12:26,233 --> 00:12:28,168
 I just like seeing the class happy.
 
-213
-00:12:46,395 --> 00:12:48,687
+185
+00:12:46,608 --> 00:12:48,900
 Are you really sure you wanna be paired up with me?
 
-214
-00:12:48,770 --> 00:12:50,895
+186
+00:12:48,983 --> 00:12:50,894
 Yeah. I'm sorry.
 
-215
-00:12:50,978 --> 00:12:54,020
+187
+00:12:51,191 --> 00:12:53,909
 I know that I can be a total drag when we're searching.
 
-216
-00:12:54,103 --> 00:12:55,770
+188
+00:12:54,258 --> 00:12:55,925
 And you're not the least bit worried?
 
-217
-00:12:55,853 --> 00:12:57,228
+189
+00:12:56,066 --> 00:12:57,500
 People might start to talk about us.
 
-218
-00:12:57,312 --> 00:12:58,895
+190
+00:12:57,525 --> 00:13:02,107
 No, I couldn't care less about it,
-
-219
-00:12:58,978 --> 00:13:02,312
 to tell you the truth. And, anyway.
 
-220
-00:13:03,687 --> 00:13:05,770
+191
+00:13:03,900 --> 00:13:05,983
 When we first set out on the cruise,
 
-221
-00:13:05,853 --> 00:13:08,603
+192
+00:13:06,066 --> 00:13:08,687
 I was feeling really down in the dumps about it.
 
-222
-00:13:08,687 --> 00:13:10,562
+193
+00:13:08,900 --> 00:13:10,706
 I don't have a single friend so,
 
-223
-00:13:10,645 --> 00:13:13,353
+194
+00:13:10,858 --> 00:13:13,068
 I didn't see how a cruise could be any fun.
 
-224
-00:13:13,437 --> 00:13:16,562
+195
+00:13:13,650 --> 00:13:16,775
 But now... Now, I'm having a good time.
 
-225
-00:13:16,645 --> 00:13:20,228
+196
+00:13:16,858 --> 00:13:18,742
 I'm actually happy that I came.
 
-226
-00:13:20,312 --> 00:13:22,103
+197
+00:13:20,525 --> 00:13:21,718
 I see.
 
-227
-00:13:24,687 --> 00:13:25,853
+198
+00:13:24,900 --> 00:13:26,125
 Man, it's too bad.
 
-228
-00:13:25,937 --> 00:13:27,312
+199
+00:13:26,150 --> 00:13:27,525
 If I had my camera right now,
 
-229
-00:13:27,395 --> 00:13:29,728
+200
+00:13:27,608 --> 00:13:29,603
 I could take an amazing picture of you.
 
-230
-00:13:34,853 --> 00:13:36,062
+201
+00:13:35,066 --> 00:13:36,078
 Weird.
 
-231
-00:13:36,145 --> 00:13:38,270
+202
+00:13:36,358 --> 00:13:38,451
 I wonder where they all could have gone to.
 
-232
-00:13:38,353 --> 00:13:41,020
+203
+00:13:38,566 --> 00:13:41,233
 Ayanokoji, were you out on recon, too?
 
-233
-00:13:41,103 --> 00:13:43,937
+204
+00:13:41,316 --> 00:13:44,208
 No, we were just out exploring the forest.
 
-234
-00:13:44,020 --> 00:13:46,020
+205
+00:13:44,233 --> 00:13:45,863
 And we ended up here on the beach.
 
-235
-00:13:46,103 --> 00:13:48,187
-Aw. I'm so disappointed.
+206
+00:13:46,316 --> 00:13:51,441
+Aw. I'm so disappointed. I was hoping
+to get an idea of who Class C's leader is.
 
-236
-00:13:48,270 --> 00:13:51,228
-I was hoping to get an idea of who Class C's leader is.
+207
+00:13:51,525 --> 00:13:55,107
+The primary goal here is to
+amass as many S-points as possible.
 
-237
-00:13:51,312 --> 00:13:53,062
-The primary goal here is to amass
-
-238
-00:13:53,145 --> 00:13:54,978
-as many S-points as possible.
-
-239
-00:13:55,062 --> 00:13:58,645
+208
+00:13:55,275 --> 00:13:58,755
 Too bad Ryuen gave up, and so, he lost everything.
 
-240
-00:13:58,728 --> 00:14:00,103
-The straightforward approach is definitely
+209
+00:13:58,941 --> 00:14:02,011
+The straightforward approach is
+definitely the best strategy for us.
 
-241
-00:14:00,187 --> 00:14:02,145
-the best strategy for us.
-
-242
-00:14:03,812 --> 00:14:05,187
+210
+00:14:04,025 --> 00:14:04,985
 Ichinose.
 
-243
-00:14:05,270 --> 00:14:06,978
+211
+00:14:05,132 --> 00:14:07,191
 There's something I've been wanting to ask you about.
 
-244
-00:14:07,062 --> 00:14:08,187
+212
+00:14:07,275 --> 00:14:08,136
 What's that?
 
-245
-00:14:08,270 --> 00:14:10,687
+213
+00:14:08,282 --> 00:14:10,602
 Well, Katsuragi from Class A.
 
-246
-00:14:10,770 --> 00:14:12,478
+214
+00:14:10,983 --> 00:14:12,342
 Do you know anything about him?
 
-247
-00:14:12,562 --> 00:14:14,645
+215
+00:14:12,775 --> 00:14:14,614
 You're interested in Katsuragi?
 
-248
-00:14:14,728 --> 00:14:18,353
+216
+00:14:14,941 --> 00:14:18,369
 Well, I know that Sakayanagi is
 sitting out the test completely.
 
-249
-00:14:18,437 --> 00:14:19,812
+217
+00:14:18,650 --> 00:14:22,248
 So Katsuragi has now taken
-
-250
-00:14:19,895 --> 00:14:22,645
 temporary leadership over Class A.
 
-251
-00:14:22,728 --> 00:14:24,728
+218
+00:14:22,941 --> 00:14:24,784
 Katsuragi's an intelligent guy.
 
-252
-00:14:24,812 --> 00:14:26,520
+219
+00:14:25,025 --> 00:14:26,733
 Even with Sakayanagi gone,
 
-253
-00:14:26,603 --> 00:14:29,312
+220
+00:14:26,816 --> 00:14:29,399
 I doubt Class A will suffer much internal discord.
 
-254
-00:14:29,395 --> 00:14:30,520
+221
+00:14:29,608 --> 00:14:30,733
 Although...
 
-255
-00:14:30,603 --> 00:14:32,562
-I doubt anyone who is on Sakayanagi's side
+222
+00:14:30,816 --> 00:14:34,275
+I doubt anyone who is on Sakayanagi's
+side is having a very good time.
 
-256
-00:14:32,645 --> 00:14:34,062
-is having a very good time.
-
-257
-00:14:34,145 --> 00:14:37,187
+223
+00:14:34,358 --> 00:14:36,894
 Those two are opposite extremes, after all.
 
-258
-00:14:37,270 --> 00:14:38,645
+224
+00:14:37,483 --> 00:14:38,858
 Opposite extremes?
 
-259
-00:14:38,728 --> 00:14:41,603
+225
+00:14:38,941 --> 00:14:41,475
 A reformist and a conservative, essentially.
 
-260
-00:14:41,687 --> 00:14:44,520
+226
+00:14:41,900 --> 00:14:44,368
 Their approach to everything is the polar opposite,
 
-261
-00:14:44,603 --> 00:14:47,812
+227
+00:14:44,816 --> 00:14:47,060
 and I hear they're always butting heads over that.
 
-262
-00:14:47,895 --> 00:14:49,770
+228
+00:14:48,075 --> 00:14:49,448
 Sakayanagi.
 
-263
-00:14:52,562 --> 00:14:54,520
+229
+00:14:52,775 --> 00:14:54,630
 Looks like we made it through another day!
 
-264
-00:14:54,603 --> 00:14:55,645
+230
+00:14:54,816 --> 00:14:55,524
 By the way,
 
-265
-00:14:55,728 --> 00:14:57,270
+231
+00:14:55,549 --> 00:14:59,138
 I thought I saw all the Class C people
-
-266
-00:14:57,353 --> 00:14:58,978
 heading to the ship this afternoon.
 
-267
-00:14:59,062 --> 00:15:01,020
+232
+00:14:59,275 --> 00:15:01,103
 Hirata, you know anything about that?
 
-268
-00:15:01,103 --> 00:15:02,978
+233
+00:15:01,316 --> 00:15:03,191
 No. I wish I did.
 
-269
-00:15:03,062 --> 00:15:05,187
+234
+00:15:03,275 --> 00:15:07,483
 They probably just got sick of the island life
-
-270
-00:15:05,270 --> 00:15:07,228
 and decided to quit and head back to the ship.
 
-271
-00:15:07,312 --> 00:15:08,853
+235
+00:15:07,525 --> 00:15:09,066
 You think the whole class did?
 
-272
-00:15:08,937 --> 00:15:10,478
+236
+00:15:09,150 --> 00:15:10,658
 Can they even do that?
 
-273
-00:15:10,562 --> 00:15:13,145
+237
+00:15:10,775 --> 00:15:13,184
 Why would I know any better than you do?
 
-274
-00:15:14,687 --> 00:15:16,103
+238
+00:15:14,900 --> 00:15:15,680
 Hey.
 
-275
-00:15:17,437 --> 00:15:19,728
+239
+00:15:17,650 --> 00:15:19,413
 Are you going to head back to the ship?
 
-276
-00:15:19,812 --> 00:15:22,687
+240
+00:15:20,025 --> 00:15:22,660
 The last thing I wanna look at is those jerks' faces.
 
-277
-00:15:22,770 --> 00:15:24,395
+241
+00:15:22,983 --> 00:15:24,546
 So I am going to stay here.
 
-278
-00:15:24,478 --> 00:15:27,020
+242
+00:15:24,691 --> 00:15:27,063
 Seems kinda suspicious, doesn't it?
 
-279
-00:15:27,103 --> 00:15:28,353
+243
+00:15:27,316 --> 00:15:28,566
 Sudo, don't.
 
-280
-00:15:28,437 --> 00:15:29,562
+244
+00:15:28,650 --> 00:15:29,322
 Hey.
 
-281
-00:15:29,645 --> 00:15:31,187
+245
+00:15:29,522 --> 00:15:31,458
 Do you know anything about what they planned?
 
-282
-00:15:31,270 --> 00:15:33,228
+246
+00:15:31,525 --> 00:15:33,441
 Huh? No, leave me alone.
 
-283
-00:15:33,312 --> 00:15:34,437
+247
+00:15:33,525 --> 00:15:34,520
 Hold it!
 
-284
-00:15:34,520 --> 00:15:35,978
+248
+00:15:34,545 --> 00:15:36,381
 You keep your filthy hands off me!
 
-285
-00:15:36,062 --> 00:15:37,770
+249
+00:15:36,421 --> 00:15:37,983
 What the heck is your problem?
 
-286
-00:15:37,853 --> 00:15:39,603
+250
+00:15:38,066 --> 00:15:39,875
 We helped you, so you owe us one.
 
-287
-00:15:39,687 --> 00:15:41,520
+251
+00:15:39,900 --> 00:15:41,884
 Or, did you conveniently forget about that?
 
-288
-00:15:41,603 --> 00:15:44,103
+252
+00:15:41,909 --> 00:15:44,208
 I didn't even ask for your help, remember?
 
-289
-00:15:44,187 --> 00:15:47,187
+253
+00:15:44,400 --> 00:15:47,163
 Your people just forced their help upon me.
 
-290
-00:15:47,270 --> 00:15:50,270
+254
+00:15:47,483 --> 00:15:50,483
 Wasting your points on an enemy? Idiots.
 
-291
-00:15:50,353 --> 00:15:51,770
---Say that again! --Sudo!
+255
+00:15:50,617 --> 00:15:51,460
+Say that again!
 
-292
-00:15:51,853 --> 00:15:53,145
+256
+00:15:51,485 --> 00:15:52,007
+Sudo!
+
+257
+00:15:52,066 --> 00:15:53,358
 Go ahead and hit me, then!
 
-293
-00:15:53,228 --> 00:15:54,853
+258
+00:15:53,441 --> 00:15:55,066
 Both of you need to calm down.
 
-294
-00:15:54,937 --> 00:15:57,520
+259
+00:15:55,150 --> 00:15:57,733
 This isn't the time for us to
 start fighting among friends.
 
-295
-00:15:57,603 --> 00:16:00,145
+260
+00:15:57,758 --> 00:16:00,416
 We're friends? How stupid can you be?
 
-296
-00:16:00,228 --> 00:16:02,645
+261
+00:16:00,441 --> 00:16:02,479
 Ibuki. Are you okay?
 
-297
-00:16:05,395 --> 00:16:08,187
+262
+00:16:05,608 --> 00:16:07,910
 Damn it! What's her problem?
 
-298
-00:16:14,770 --> 00:16:16,728
+263
+00:16:14,983 --> 00:16:16,661
 Hey, you guys!
 
-299
-00:16:16,812 --> 00:16:18,853
+264
+00:16:17,025 --> 00:16:19,066
 Guys, wake up already, come on!
 
-300
-00:16:18,937 --> 00:16:21,353
+265
+00:16:19,091 --> 00:16:21,349
 Seriously, get up, now!
 
-301
-00:16:23,645 --> 00:16:25,353
+266
+00:16:23,858 --> 00:16:25,063
 What's going on?
 
-302
-00:16:26,895 --> 00:16:30,187
+267
+00:16:27,108 --> 00:16:29,742
 Look, Hirata. I've got bad news!
 
-303
-00:16:30,270 --> 00:16:33,645
+268
+00:16:30,423 --> 00:16:33,643
 What could it possibly be? It's so early.
 
-304
-00:16:33,728 --> 00:16:37,020
+269
+00:16:33,881 --> 00:16:36,442
 This probably has nothing to do with you, Hirata.
 
-305
-00:16:37,103 --> 00:16:38,062
+270
+00:16:37,316 --> 00:16:40,085
 But there's something we need
-
-306
-00:16:38,145 --> 00:16:40,437
 to get to the bottom of right now.
 
-307
-00:16:40,520 --> 00:16:42,603
-This morning, Karuizawa's underwear
+271
+00:16:40,733 --> 00:16:44,375
+This morning, Karuizawa's
+underwear went missing from her bag.
 
-308
-00:16:42,687 --> 00:16:44,145
-went missing from her bag.
-
-309
-00:16:45,728 --> 00:16:48,145
+272
+00:16:45,941 --> 00:16:48,358
 She's in our tent right now, bawling her eyes out.
 
-310
-00:16:48,228 --> 00:16:50,437
+273
+00:16:48,441 --> 00:16:50,650
 Kushida and the others are trying to comfort her
 
-311
-00:16:50,520 --> 00:16:51,395
+274
+00:16:50,733 --> 00:16:51,608
 to no avail.
 
-312
-00:16:51,478 --> 00:16:52,978
+275
+00:16:51,691 --> 00:16:53,250
 Hold on. What are you saying?
 
-313
-00:16:53,062 --> 00:16:54,187
+276
+00:16:53,275 --> 00:16:54,458
 You can't possibly suspect--!
 
-314
-00:16:54,270 --> 00:16:55,562
+277
+00:16:54,483 --> 00:16:55,810
 Well, why shouldn't we suspect you?
 
-315
-00:16:55,645 --> 00:16:57,562
-One of you obviously snuck in and stole them
+278
+00:16:55,858 --> 00:16:58,666
+One of you obviously snuck in and
+stole them in the middle of the night!
 
-316
-00:16:57,645 --> 00:16:58,395
-in the middle of the night!
-
-317
-00:16:58,478 --> 00:17:00,020
+279
+00:16:58,691 --> 00:17:00,291
 You've got to be kidding.
 
-318
-00:17:00,103 --> 00:17:01,937
+280
+00:17:00,316 --> 00:17:02,208
 It was probably that Ibuki girl trying to frame us!
 
-319
-00:17:02,020 --> 00:17:03,853
+281
+00:17:02,233 --> 00:17:04,125
 A girl would never do something like that!
 
-320
-00:17:03,937 --> 00:17:05,312
+282
+00:17:04,150 --> 00:17:05,655
 But how can you be so sure?
 
-321
-00:17:05,395 --> 00:17:07,145
-Look, the point is, we refuse to camp
+283
+00:17:05,702 --> 00:17:09,252
+Look, the point is, we refuse to camp in the
+same place as an underwear-thieving pervert!
 
-322
-00:17:07,228 --> 00:17:08,937
-in the same place as an underwear-thieving pervert!
-
-323
-00:17:10,395 --> 00:17:12,603
+284
+00:17:10,525 --> 00:17:12,816
 Hey, everyone, just calm down for a minute.
 
-324
-00:17:12,687 --> 00:17:14,562
-What proof do you have that one of the Class D boys
+285
+00:17:12,900 --> 00:17:16,191
+What proof do you have that one of the
+Class D boys stole the underwear, anyway?
 
-325
-00:17:14,645 --> 00:17:15,978
-stole the underwear, anyway?
-
-326
-00:17:16,062 --> 00:17:17,687
+286
+00:17:16,275 --> 00:17:17,845
 That's why we came to you.
 
-327
-00:17:17,770 --> 00:17:20,228
+287
+00:17:17,983 --> 00:17:20,120
 We trust you to find the culprit for us.
 
-328
-00:17:20,312 --> 00:17:22,187
+288
+00:17:20,525 --> 00:17:22,191
 You want me to do it?
 
-329
-00:17:22,270 --> 00:17:24,020
-To begin, we request to conduct a search
+289
+00:17:22,490 --> 00:17:26,018
+To begin, we request to conduct
+a search of all the boys' bags!
 
-330
-00:17:24,103 --> 00:17:26,728
-of all the boys' bags!
-
-331
-00:17:26,812 --> 00:17:28,520
+290
+00:17:26,904 --> 00:17:28,253
 Okay, fine.
 
-332
-00:17:28,603 --> 00:17:31,103
-But to protect their privacy, will you agree to allow me
+291
+00:17:28,782 --> 00:17:33,392
+But to protect their privacy, will you agree to
+allow me to conduct the search, instead of you guys?
 
-333
-00:17:31,187 --> 00:17:33,478
-to conduct the search, instead of you guys?
-
-334
-00:17:37,020 --> 00:17:39,603
+292
+00:17:37,233 --> 00:17:39,816
 Come on. I'm startin' to get pissed off.
 
-335
-00:17:39,687 --> 00:17:40,937
+293
+00:17:39,900 --> 00:17:43,557
 They don't even have any evidence
-
-336
-00:17:41,020 --> 00:17:43,520
 that a boy actually did it. It's crazy!
 
-337
-00:17:45,978 --> 00:17:46,895
+294
+00:17:46,191 --> 00:17:47,108
 What's wrong?
 
-338
-00:17:46,978 --> 00:17:49,270
+295
+00:17:47,191 --> 00:17:48,665
 Uh, nothing.
 
-339
-00:17:49,353 --> 00:17:51,020
+296
+00:17:49,439 --> 00:17:51,106
 Wait just a minute.
 
-340
-00:17:51,103 --> 00:17:52,770
+297
+00:17:51,316 --> 00:17:53,090
 You're the one who stole them, aren't you?
 
-341
-00:17:52,853 --> 00:17:55,145
+298
+00:17:53,115 --> 00:17:54,835
 Dumbass! No, man, I'm not!
 
-342
-00:17:55,228 --> 00:17:58,645
+299
+00:17:55,328 --> 00:17:58,745
 Uh-huh. No way. Don't tell me that...
 
-343
-00:17:58,728 --> 00:18:01,312
+300
+00:17:58,941 --> 00:18:01,525
 Of course not. Don't start suspecting me!
 
-344
-00:18:01,395 --> 00:18:02,728
+301
+00:18:01,550 --> 00:18:03,000
 Show me what you've got in there!
 
-345
-00:18:02,812 --> 00:18:04,103
-Cut it out! I'm innocent, I swear.
+302
+00:18:03,025 --> 00:18:05,845
+Cut it out! I'm innocent, I
+swear. I didn't do anything!
 
-346
-00:18:04,187 --> 00:18:05,645
-I didn't do anything!
-
-347
-00:18:08,020 --> 00:18:09,520
+303
+00:18:08,166 --> 00:18:09,666
 Caught red-handed!
 
-348
-00:18:09,603 --> 00:18:11,853
+304
+00:18:09,869 --> 00:18:12,170
 No! I don't know how they got there, I promise!
 
-349
-00:18:11,937 --> 00:18:13,770
+305
+00:18:12,195 --> 00:18:14,101
 It wasn't me, dude. I swear it wasn't!
 
-350
-00:18:13,853 --> 00:18:15,187
+306
+00:18:14,126 --> 00:18:15,400
 No need to lie,
 
-351
-00:18:15,270 --> 00:18:17,020
+307
+00:18:15,483 --> 00:18:17,233
 everyone's got their kinks, man.
 
-352
-00:18:17,103 --> 00:18:18,853
+308
+00:18:17,316 --> 00:18:19,436
 I don't know how they got in my bag!
 
-353
-00:18:21,853 --> 00:18:23,228
+309
+00:18:22,052 --> 00:18:23,348
 Hey, you!
 
-354
-00:18:23,312 --> 00:18:25,145
+310
+00:18:23,525 --> 00:18:25,416
 You believe I'm innocent here, don't you?
 
-355
-00:18:25,228 --> 00:18:27,603
+311
+00:18:25,441 --> 00:18:27,554
 Under the current circumstances...
 
-356
-00:18:27,687 --> 00:18:29,395
-I can't say with any level of certainty
+312
+00:18:27,900 --> 00:18:30,916
+I can't say with any level of
+certainty that you're not the culprit.
 
-357
-00:18:29,478 --> 00:18:30,645
-that you're not the culprit.
-
-358
-00:18:30,728 --> 00:18:32,895
+313
+00:18:30,941 --> 00:18:32,908
 A-Ayanokoji, why?
 
-359
-00:18:32,978 --> 00:18:34,353
+314
+00:18:33,191 --> 00:18:34,354
 But, if you were,
 
-360
-00:18:34,437 --> 00:18:37,020
+315
+00:18:34,379 --> 00:18:37,291
 I don't think you'd be so careless. You'd cover it up.
 
-361
-00:18:37,103 --> 00:18:38,270
+316
+00:18:37,316 --> 00:18:38,273
 You're right!
 
-362
-00:18:38,353 --> 00:18:39,853
+317
+00:18:38,566 --> 00:18:41,990
 So, you think someone else
-
-363
-00:18:39,937 --> 00:18:42,187
 planted the panties in Ike's bag?
 
-364
-00:18:42,270 --> 00:18:43,478
+318
+00:18:42,483 --> 00:18:43,096
 Yeah!
 
-365
-00:18:43,562 --> 00:18:45,145
+319
+00:18:43,121 --> 00:18:45,242
 That's gotta be what happened, don'tcha think?
 
-366
-00:18:45,228 --> 00:18:47,770
+320
+00:18:45,441 --> 00:18:47,741
 Hey! Hurry, it up!
 
-367
-00:18:47,853 --> 00:18:49,687
+321
+00:18:47,943 --> 00:18:49,900
 What do I do? What do I do?
 
-368
-00:18:49,770 --> 00:18:51,478
+322
+00:18:49,936 --> 00:18:51,409
 I'm in major trouble!
 
-369
-00:18:53,103 --> 00:18:54,020
+323
+00:18:53,316 --> 00:18:54,233
 Good luck, man!
 
-370
-00:18:54,103 --> 00:18:56,020
-Uh--
+324
+00:18:54,316 --> 00:18:54,917
+Uh...
 
-371
-00:18:56,103 --> 00:18:58,145
+325
+00:18:56,316 --> 00:18:58,358
 You're gonna have to hide them somewhere.
 
-372
-00:18:58,228 --> 00:19:01,145
+326
+00:18:58,441 --> 00:19:01,358
 Oh, will I? Hide them where? Help me out!
 
-373
-00:19:01,228 --> 00:19:02,728
+327
+00:19:01,441 --> 00:19:04,733
 If you think hiding them is the best idea,
-
-374
-00:19:02,812 --> 00:19:04,520
 then you hide them yourself, smarty-pants!
 
-375
-00:19:04,603 --> 00:19:06,687
+328
+00:19:04,758 --> 00:19:06,793
 Hold on. I didn't mean--
 
-376
-00:19:06,770 --> 00:19:09,187
+329
+00:19:06,983 --> 00:19:08,313
 I'll be right there!
 
-377
-00:19:09,270 --> 00:19:11,812
+330
+00:19:09,483 --> 00:19:11,645
 Huh. You're kidding me.
 
-378
-00:19:14,437 --> 00:19:16,437
+331
+00:19:14,576 --> 00:19:16,148
 We searched all the bags.
 
-379
-00:19:16,520 --> 00:19:17,437
+332
+00:19:16,766 --> 00:19:17,683
 For real?
 
-380
-00:19:17,520 --> 00:19:19,603
+333
+00:19:17,733 --> 00:19:19,574
 Mm-hm. So, now we know.
 
-381
-00:19:19,687 --> 00:19:22,187
+334
+00:19:19,900 --> 00:19:22,149
 None of the boys here were behind the theft.
 
-382
-00:19:22,270 --> 00:19:24,978
+335
+00:19:22,483 --> 00:19:24,602
 We can let them put their stuff away now, right?
 
-383
-00:19:25,062 --> 00:19:27,145
+336
+00:19:25,275 --> 00:19:27,316
 And then we can talk about the next step.
 
-384
-00:19:27,228 --> 00:19:28,978
+337
+00:19:27,441 --> 00:19:29,149
 I demand a pat-down.
 
-385
-00:19:29,062 --> 00:19:30,312
+338
+00:19:29,275 --> 00:19:29,804
 Uh--?
 
-386
-00:19:30,395 --> 00:19:32,645
+339
+00:19:29,829 --> 00:19:32,858
 An underwear thief must have a very deviant mind.
 
-387
-00:19:32,728 --> 00:19:34,812
+340
+00:19:32,941 --> 00:19:35,025
 No telling where he might be keeping them.
 
-388
-00:19:34,895 --> 00:19:35,812
+341
+00:19:35,108 --> 00:19:35,716
 What?
 
-389
-00:19:35,895 --> 00:19:37,187
+342
+00:19:35,942 --> 00:19:37,458
 Could you give us a break already?
 
-390
-00:19:37,270 --> 00:19:38,395
+343
+00:19:37,483 --> 00:19:38,608
 Ike's been acting suspicious this whole time.
 
-391
-00:19:38,478 --> 00:19:39,520
+344
+00:19:38,691 --> 00:19:39,733
 You think he's the one who did it?
 
-392
-00:19:39,603 --> 00:19:40,562
+345
+00:19:39,758 --> 00:19:40,550
 So gross!
 
-393
-00:19:40,645 --> 00:19:42,937
+346
+00:19:41,462 --> 00:19:42,928
 Fine, have it your way.
 
-394
-00:19:43,020 --> 00:19:45,187
+347
+00:19:43,233 --> 00:19:45,129
 Why don't you guys just search me, then?
 
-395
-00:19:45,270 --> 00:19:48,728
+348
+00:19:45,483 --> 00:19:48,412
 No, don't lead the conversation down that path.
 
-396
-00:19:48,812 --> 00:19:50,103
+349
+00:19:49,025 --> 00:19:50,316
 Yes, why don't we?
 
-397
-00:19:50,187 --> 00:19:52,103
+350
+00:19:50,400 --> 00:19:51,956
 Hirata. Go ahead.
 
-398
-00:19:56,395 --> 00:19:58,437
+351
+00:19:56,608 --> 00:19:58,495
 This is the worst thing that could happen.
 
-399
-00:19:58,520 --> 00:20:01,103
+352
+00:19:58,633 --> 00:20:00,711
 There's no way of talking myself out of it.
 
-400
-00:20:01,187 --> 00:20:03,478
+353
+00:20:01,373 --> 00:20:03,545
 I'd be better off if I just told the truth.
 
-401
-00:20:03,562 --> 00:20:05,270
+354
+00:20:03,775 --> 00:20:04,945
 They might believe me.
 
-402
-00:20:05,353 --> 00:20:08,062
+355
+00:20:05,566 --> 00:20:07,924
 Sorry. I'll make this as quick as possible.
 
-403
-00:20:11,103 --> 00:20:13,478
+356
+00:20:11,202 --> 00:20:12,494
 It's over.
 
-404
-00:20:16,228 --> 00:20:18,228
+357
+00:20:16,255 --> 00:20:18,221
 Ayanokoji doesn't have them, either.
 
-405
-00:20:19,812 --> 00:20:21,645
+358
+00:20:19,984 --> 00:20:22,005
 So you can rest assured it wasn't one of us.
 
-406
-00:20:21,728 --> 00:20:24,228
+359
+00:20:22,030 --> 00:20:24,500
 Really? Well, if you say so, I can trust it.
 
-407
-00:20:24,312 --> 00:20:25,478
+360
+00:20:24,525 --> 00:20:25,321
 Thanks.
 
-408
-00:20:29,478 --> 00:20:30,770
+361
+00:20:29,691 --> 00:20:30,421
 Right.
 
-409
-00:20:30,853 --> 00:20:32,312
+362
+00:20:30,545 --> 00:20:32,583
 I'll let the others know, if that's okay with you.
 
-410
-00:20:32,395 --> 00:20:34,687
+363
+00:20:32,608 --> 00:20:34,543
 Yeah. See you later, then.
 
-411
-00:20:36,478 --> 00:20:40,020
+364
+00:20:36,691 --> 00:20:39,577
 Hirata. Can we talk for a sec?
 
-412
-00:20:47,187 --> 00:20:49,978
+365
+00:20:47,400 --> 00:20:49,516
 Why didn't you tell them what you found?
 
-413
-00:20:50,062 --> 00:20:53,812
+366
+00:20:50,275 --> 00:20:53,595
 I thought so. That was the underwear, then?
 
-414
-00:20:53,895 --> 00:20:55,312
+367
+00:20:54,108 --> 00:20:54,881
 Yeah.
 
-415
-00:20:55,395 --> 00:20:57,603
+368
+00:20:55,608 --> 00:20:57,392
 Did you take them, Ayanokoji?
 
-416
-00:20:57,687 --> 00:20:59,478
+369
+00:20:57,900 --> 00:20:59,515
 No. I didn't.
 
-417
-00:20:59,562 --> 00:21:01,478
+370
+00:20:59,775 --> 00:21:01,268
 Good, I believe you.
 
-418
-00:21:01,562 --> 00:21:05,228
+371
+00:21:01,775 --> 00:21:04,301
 You aren't the kind of person
 who'd do something like that.
 
-419
-00:21:05,312 --> 00:21:06,937
-Well, that's quite a relief, but I think
+372
+00:21:05,525 --> 00:21:09,479
+Well, that's quite a relief, but I think it
+would be best if I took those off your hands.
 
-420
-00:21:07,020 --> 00:21:09,353
-it would be best if I took those off your hands.
-
-421
-00:21:09,437 --> 00:21:11,145
+373
+00:21:09,650 --> 00:21:10,872
 Are you sure?
 
-422
-00:21:12,978 --> 00:21:14,853
+374
+00:21:13,191 --> 00:21:14,702
 Yeah, it's the only way.
 
-423
-00:21:14,937 --> 00:21:18,103
+375
+00:21:15,150 --> 00:21:17,730
 I'll suffer least for being the culprit.
 
-424
-00:21:18,187 --> 00:21:20,145
+376
+00:21:18,400 --> 00:21:20,025
 I'm her boyfriend, after all.
 
-425
-00:21:21,395 --> 00:21:25,020
+377
+00:21:21,608 --> 00:21:24,617
 I really do believe you didn't do it, Ayanokoji.
 
-426
-00:21:25,103 --> 00:21:28,478
+378
+00:21:25,316 --> 00:21:26,622
 That's why I saved you.
 
-427
-00:21:28,562 --> 00:21:31,187
+379
+00:21:28,701 --> 00:21:30,957
 And, the way you answer won't change that,
 
-428
-00:21:31,270 --> 00:21:35,353
+380
+00:21:31,483 --> 00:21:34,992
 but I just have to ask. Will you find the actual culprit?
 
-429
-00:21:35,437 --> 00:21:37,978
+381
+00:21:35,650 --> 00:21:37,320
 Me, help find the culprit?
 
-430
-00:21:38,062 --> 00:21:39,395
+382
+00:21:38,275 --> 00:21:38,946
 Yes.
 
-431
-00:21:41,895 --> 00:21:45,978
+383
+00:21:42,108 --> 00:21:45,229
 Well, I'll try my absolute best to, at least.
 
-432
-00:21:46,062 --> 00:21:48,187
+384
+00:21:46,275 --> 00:21:47,265
 Thanks a lot.
 
-433
-00:21:48,270 --> 00:21:51,062
+385
+00:21:48,483 --> 00:21:51,275
 And if you do, will you let me be the first to know?
 
-434
-00:21:51,145 --> 00:21:52,270
+386
+00:21:51,358 --> 00:21:51,968
 Please?
 
-435
-00:21:52,353 --> 00:21:54,395
+387
+00:21:52,108 --> 00:21:54,321
 I don't want anybody else to hear about it.
 
-436
-00:21:54,478 --> 00:21:56,312
-So I need you to promise that you'll tell me
+388
+00:21:54,691 --> 00:21:57,809
+So I need you to promise that
+you'll tell me before anyone else.
 
-437
-00:21:56,395 --> 00:21:57,895
-before anyone else.
-
-438
-00:21:57,978 --> 00:22:01,770
+389
+00:21:58,009 --> 00:22:00,942
 Are you asking me to help you
 cover up the truth in all this?
 
-439
-00:22:01,853 --> 00:22:04,603
+390
+00:22:01,933 --> 00:22:03,947
 "Cover up the truth." Huh.
 
-440
-00:22:04,687 --> 00:22:07,395
+391
+00:22:04,900 --> 00:22:06,662
 Yeah, I guess that is what I'm asking.
 
-441
-00:22:07,478 --> 00:22:09,687
+392
+00:22:07,631 --> 00:22:09,404
 Because, no matter who it is,
 
-442
-00:22:09,770 --> 00:22:13,312
+393
+00:22:09,970 --> 00:22:12,743
 I think it would be best for us to bury the real story.
 
-443
-00:22:16,020 --> 00:22:20,520
+394
+00:22:16,233 --> 00:22:18,741
 I don't want everything to be ruined over this.
 
-444
-00:22:20,603 --> 00:22:22,062
+395
+00:22:20,789 --> 00:22:21,848
 So that's why
 
-445
-00:22:22,145 --> 00:22:24,895
+396
+00:22:22,312 --> 00:22:24,581
 I would like your mind working with me on it.
 

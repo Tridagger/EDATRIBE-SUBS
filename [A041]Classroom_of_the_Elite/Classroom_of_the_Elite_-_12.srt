@@ -1,1913 +1,1687 @@
 ﻿1
-00:00:28,862 --> 00:00:30,029
+00:00:28,862 --> 00:00:29,675
 What the--?
 
 2
-00:00:44,446 --> 00:00:47,112
+00:00:44,622 --> 00:00:45,855
 Ibuki, here.
 
 3
-00:00:47,196 --> 00:00:50,154
+00:00:47,242 --> 00:00:49,876
 I've acquired Class D's card, as directed.
 
 4
-00:00:52,612 --> 00:00:54,779
+00:00:52,612 --> 00:00:53,720
 Right.
 
 5
-00:00:54,862 --> 00:00:56,196
+00:00:54,808 --> 00:00:55,731
 Yes.
 
 6
-00:00:57,946 --> 00:01:00,987
+00:00:57,946 --> 00:01:00,854
 Yes, I see. We'll meet up there in a bit.
 
 7
-00:01:04,237 --> 00:01:08,321
+00:01:04,194 --> 00:01:08,062
 Class A's final score will be 544 points.
 
 8
-00:01:08,404 --> 00:01:12,321
+00:01:08,442 --> 00:01:11,422
 That's 350 ahead of Class B.
 
 9
-00:01:12,404 --> 00:01:15,529
+00:01:12,404 --> 00:01:14,834
 And it beats Class D's score by...
 
 10
-00:01:15,612 --> 00:01:17,196
+00:01:15,612 --> 00:01:17,244
 ...an overwhelming number.
 
 11
-00:01:30,321 --> 00:01:32,904
+00:01:30,404 --> 00:01:32,004
 You're finally awake.
 
 12
-00:01:32,987 --> 00:01:36,154
+00:01:32,939 --> 00:01:35,932
 Where are we? How did I get here?
 
 13
-00:01:36,237 --> 00:01:38,487
+00:01:36,304 --> 00:01:37,799
 And why are we together?
 
 14
-00:01:38,571 --> 00:01:40,696
+00:01:38,571 --> 00:01:40,640
 I found you passed out in the forest.
 
 15
-00:01:40,779 --> 00:01:42,904
+00:01:40,779 --> 00:01:42,673
 I picked you up and brought you here.
 
 16
-00:01:45,654 --> 00:01:47,987
+00:01:45,607 --> 00:01:47,891
 I chased Ibuki to where you found me.
 
 17
-00:01:48,071 --> 00:01:50,112
+00:01:48,071 --> 00:01:49,932
 She's the one who took the key card.
 
 18
-00:01:50,196 --> 00:01:52,321
+00:01:50,196 --> 00:01:52,127
 But I wasn't able to get it back from her.
 
 19
-00:01:52,404 --> 00:01:53,612
+00:01:52,742 --> 00:01:53,516
 Not in this state.
 
 20
-00:01:53,696 --> 00:01:55,112
+00:01:53,696 --> 00:01:54,582
 I see.
 
 21
-00:01:57,446 --> 00:02:00,821
+00:01:57,446 --> 00:02:00,934
 Horikita, you have to drop out.
 
 22
-00:02:02,237 --> 00:02:03,612
-I'll figure out a way to deal with
+00:02:02,331 --> 00:02:05,463
+I'll figure out a way to deal
+with Ibuki and the stolen card.
 
 23
-00:02:03,696 --> 00:02:05,654
-Ibuki and the stolen card.
-
-24
-00:02:05,737 --> 00:02:08,237
+00:02:05,737 --> 00:02:07,714
 You can't keep this up any longer.
 
-25
+24
 00:02:08,321 --> 00:02:09,654
 I won't drop out.
 
-26
-00:02:09,737 --> 00:02:12,612
+25
+00:02:09,737 --> 00:02:12,671
 We'll lose more points if I do, and we can't afford to.
 
-27
-00:02:12,696 --> 00:02:13,779
+26
+00:02:12,696 --> 00:02:13,837
 Especially not now.
 
-28
-00:02:13,862 --> 00:02:14,862
+27
+00:02:13,862 --> 00:02:14,921
 Look, you're sick--
 
-29
-00:02:14,946 --> 00:02:17,196
+28
+00:02:14,946 --> 00:02:16,842
 I don't have any choice in the matter.
 
-30
-00:02:17,279 --> 00:02:19,279
+29
+00:02:17,279 --> 00:02:19,222
 If we want to reach Class A.
 
-31
-00:02:19,362 --> 00:02:21,196
+30
+00:02:19,362 --> 00:02:20,928
 Don't obsess about that.
 
-32
-00:02:21,279 --> 00:02:22,904
+31
+00:02:21,279 --> 00:02:22,449
 It doesn't matter.
 
-33
-00:02:22,987 --> 00:02:25,904
+32
+00:02:22,987 --> 00:02:25,680
 I want to show my brother I'm not a loser.
 
-34
-00:02:25,987 --> 00:02:28,446
+33
+00:02:25,987 --> 00:02:27,828
 But will that do you any good?
 
-35
-00:02:28,529 --> 00:02:30,821
+34
+00:02:28,529 --> 00:02:30,656
 Do you think it will change anything?
 
-36
+35
 00:02:32,779 --> 00:02:35,821
 I dunno. But still, this is all my fault.
 
-37
-00:02:35,904 --> 00:02:40,446
+36
+00:02:35,904 --> 00:02:39,927
 If I had friends, we could
 have carried the card in shifts.
 
-38
-00:02:40,529 --> 00:02:45,237
+37
+00:02:40,619 --> 00:02:44,370
 But I don't. No one in class cares about me.
 
-39
-00:02:45,321 --> 00:02:48,654
+38
+00:02:45,321 --> 00:02:47,847
 It's all my fault. I'm done for.
 
-40
-00:02:48,737 --> 00:02:50,196
+39
+00:02:48,730 --> 00:02:52,483
 Do you mean to say that you're starting
-
-41
-00:02:50,279 --> 00:02:53,196
 to see the value in having allies?
 
-42
-00:02:53,279 --> 00:02:55,279
+40
+00:02:53,279 --> 00:02:55,129
 I won't let this define me.
 
-43
-00:02:55,362 --> 00:02:58,279
+41
+00:02:55,462 --> 00:02:58,061
 I swear to you. I'll make up for it.
 
-44
-00:02:58,362 --> 00:02:59,821
+42
+00:02:58,362 --> 00:03:00,002
 I'll do it alone if I must.
 
-45
-00:02:59,904 --> 00:03:02,029
+43
+00:03:00,027 --> 00:03:01,807
 You won't be able to do it alone.
 
-46
-00:03:02,112 --> 00:03:04,237
+44
+00:03:02,112 --> 00:03:04,079
 I hate to be the one to tell you this,
 
-47
-00:03:04,321 --> 00:03:06,821
+45
+00:03:04,739 --> 00:03:06,223
 but you aren't strong enough.
 
-48
-00:03:06,904 --> 00:03:08,612
+46
+00:03:06,958 --> 00:03:08,612
 Are you saying I should give up?
 
-49
-00:03:08,696 --> 00:03:11,321
+47
+00:03:08,884 --> 00:03:11,097
 No, that's not what I'm trying to say at all.
 
-50
-00:03:11,404 --> 00:03:13,154
+48
+00:03:11,404 --> 00:03:12,884
 There's no need to give up.
 
-51
-00:03:14,654 --> 00:03:16,654
+49
+00:03:14,654 --> 00:03:16,582
 If you can't win the battle alone,
 
-52
-00:03:16,737 --> 00:03:18,862
+50
+00:03:16,737 --> 00:03:18,555
 then look for others who can help.
 
-53
-00:03:18,946 --> 00:03:20,779
+51
+00:03:18,946 --> 00:03:20,561
 I'll be one of those people.
 
-54
-00:03:20,862 --> 00:03:22,821
+52
+00:03:20,862 --> 00:03:22,447
 That's not like you.
 
-55
-00:03:22,904 --> 00:03:28,029
+53
+00:03:22,904 --> 00:03:28,103
 You're usually so cryptic, and you...
 
-56
-00:03:37,446 --> 00:03:40,071
+54
+00:03:37,446 --> 00:03:39,227
 Excuse me, ma'am?
 
-57
-00:03:40,154 --> 00:03:44,029
+55
+00:03:40,155 --> 00:03:43,465
 Horikita. What happened?
 
-58
-00:03:44,112 --> 00:03:45,196
-She's had a bad fever,
+56
+00:03:44,059 --> 00:03:47,209
+She's had a bad fever, and she
+just passed out because of it.
 
-59
-00:03:45,279 --> 00:03:47,487
-and she just passed out because of it.
-
-60
-00:03:47,571 --> 00:03:49,904
+57
+00:03:47,571 --> 00:03:49,646
 She needs to be somewhere she can rest.
 
-61
-00:03:52,029 --> 00:03:54,529
+58
+00:03:51,975 --> 00:03:54,149
 She'll have to drop out of the exam.
 
-62
-00:03:54,612 --> 00:03:56,696
+59
+00:03:54,612 --> 00:03:56,304
 Do you accept that loss?
 
-63
-00:03:56,779 --> 00:03:58,029
+60
+00:03:56,805 --> 00:03:57,556
 Yes.
 
-64
-00:04:00,071 --> 00:04:01,237
-I heard that Horikita
+61
+00:04:00,097 --> 00:04:02,713
+I heard that Horikita dropped out of the test.
 
-65
-00:04:01,321 --> 00:04:02,696
-dropped out of the test.
-
-66
+62
 00:04:02,779 --> 00:04:04,571
 Ibuki's gone missing, too.
 
-67
-00:04:04,654 --> 00:04:07,237
+63
+00:04:04,654 --> 00:04:07,296
 Do you think she was responsible for the arson after all?
 
-68
-00:04:07,321 --> 00:04:08,404
+64
+00:04:07,321 --> 00:04:08,416
 But, why would she be?
 
-69
-00:04:08,487 --> 00:04:10,196
+65
+00:04:08,493 --> 00:04:10,308
 I mean, what would that even accomplish?
 
-70
-00:04:10,279 --> 00:04:12,946
+66
+00:04:10,333 --> 00:04:13,147
 Wait, do you think Ibuki could have been Class C's leader?
 
-71
-00:04:13,029 --> 00:04:14,446
+67
+00:04:13,172 --> 00:04:14,446
 I have no idea.
 
-72
+68
 00:04:14,529 --> 00:04:16,737
 But everyone else in Class C dropped out, right?
 
-73
-00:04:16,821 --> 00:04:19,071
+69
+00:04:16,821 --> 00:04:18,797
 By now, their leader must be gone.
 
-74
-00:04:20,487 --> 00:04:22,946
+70
+00:04:20,487 --> 00:04:22,241
 Our key card was stolen?
 
-75
-00:04:23,029 --> 00:04:24,279
+71
+00:04:23,029 --> 00:04:23,833
 Yeah.
 
-76
-00:04:24,362 --> 00:04:26,654
+72
+00:04:24,093 --> 00:04:26,452
 But I haven't told anyone else anything about it.
 
-77
+73
 00:04:26,737 --> 00:04:29,279
 This confirms that Ibuki was sent to find our leader.
 
-78
-00:04:29,362 --> 00:04:31,321
+74
+00:04:29,423 --> 00:04:31,007
 As for the underwear theft,
 
-79
-00:04:31,404 --> 00:04:33,529
+75
+00:04:31,384 --> 00:04:33,309
 we can assume that was also her.
 
-80
-00:04:33,612 --> 00:04:35,862
+76
+00:04:33,612 --> 00:04:35,154
 Why would she do that?
 
-81
-00:04:35,946 --> 00:04:39,446
+77
+00:04:35,946 --> 00:04:39,294
 No, there's no use in trying to figure out why.
 
-82
-00:04:39,529 --> 00:04:41,862
+78
+00:04:39,555 --> 00:04:41,921
 What we need to be concerned with now is tomorrow,
 
-83
-00:04:41,946 --> 00:04:45,404
+79
+00:04:41,946 --> 00:04:44,632
 when they name our leader, and we lose those points.
 
-84
-00:04:45,487 --> 00:04:46,987
-The penalty from our drop-outs
+80
+00:04:45,499 --> 00:04:50,958
+The penalty from our drop-outs and having our
+leader guessed is a total loss of 110 S-points.
 
-85
-00:04:47,071 --> 00:04:50,946
-and having our leader guessed
-is a total loss of 110 S-points.
+81
+00:04:51,029 --> 00:04:54,580
+The fact that they know our leader
+will negate all our bonus points, too.
 
-86
-00:04:51,029 --> 00:04:52,612
-The fact that they know our leader will negate
-
-87
-00:04:52,696 --> 00:04:54,737
-all our bonus points, too.
-
-88
-00:04:54,821 --> 00:04:58,404
+82
+00:04:54,821 --> 00:04:57,826
 And that will leave us with only about 50 S-points.
 
-89
-00:04:58,487 --> 00:05:01,154
+83
+00:04:58,545 --> 00:05:00,674
 After the test results are revealed,
 
-90
+84
 00:05:01,237 --> 00:05:03,821
 it won't take long for people to start blaming each other.
 
-91
-00:05:03,904 --> 00:05:07,487
+85
+00:05:03,904 --> 00:05:06,379
 Yeah, might devolve into a bit of a witch hunt.
 
-92
-00:05:07,571 --> 00:05:08,696
+86
+00:05:07,571 --> 00:05:08,380
 You know.
 
-93
-00:05:08,779 --> 00:05:10,946
-I thought this exam would give us the chance
+87
+00:05:08,779 --> 00:05:12,901
+I thought this exam would give us the
+chance we needed to bring our class together.
 
-94
-00:05:11,029 --> 00:05:13,154
-we needed to bring our class together.
-
-95
-00:05:13,237 --> 00:05:16,737
+88
+00:05:13,237 --> 00:05:16,534
 I thought that, if we could unify and do our best,
 
-96
-00:05:16,821 --> 00:05:20,987
+89
+00:05:16,821 --> 00:05:19,519
 that it might help forge bonds between all of us.
 
-97
-00:05:21,071 --> 00:05:23,362
+90
+00:05:21,071 --> 00:05:22,027
 But, no.
 
-98
-00:05:23,446 --> 00:05:25,529
+91
+00:05:23,446 --> 00:05:25,055
 The reverse happened,
 
-99
-00:05:25,612 --> 00:05:28,071
+92
+00:05:25,612 --> 00:05:27,635
 and this could be the end of Class D.
 
-100
-00:05:30,529 --> 00:05:34,196
+93
+00:05:30,529 --> 00:05:33,822
 Hirata. I have a little favor to ask of you.
 
-101
-00:05:36,737 --> 00:05:38,821
+94
+00:05:36,737 --> 00:05:39,009
 Before the test officially ends,
 
-102
-00:05:38,904 --> 00:05:40,821
-take a few moments to name who you think
+95
+00:05:39,034 --> 00:05:42,921
+take a few moments to name who you
+think the other class leaders are.
 
-103
-00:05:40,904 --> 00:05:43,237
-the other class leaders are.
-
-104
+96
 00:05:47,612 --> 00:05:48,612
 I haven't seen Kaneda...
 
-105
+97
 00:05:48,696 --> 00:05:49,737
 All right, guys.
 
-106
-00:05:49,821 --> 00:05:51,404
-Write down on this form who you suspect
+98
+00:05:49,821 --> 00:05:53,103
+Write down on this form who you
+suspect the other class leaders are.
 
-107
-00:05:51,487 --> 00:05:53,112
-the other class leaders are.
+99
+00:05:53,238 --> 00:05:56,379
+If you don't have any idea, then
+leave it blank, just to be safe.
 
-108
-00:05:53,196 --> 00:05:55,362
-If you don't have any idea, then leave it blank,
-
-109
-00:05:55,446 --> 00:05:56,321
-just to be safe.
-
-110
+100
 00:05:56,404 --> 00:05:57,737
 That makes sense.
 
-111
+101
 00:05:57,821 --> 00:05:59,321
 Should I just leave it blank, then?
 
-112
-00:05:59,404 --> 00:06:01,862
+102
+00:05:59,404 --> 00:06:01,764
 Each wrong guess costs us 50 points.
 
-113
+103
 00:06:01,946 --> 00:06:03,446
 I don't see any need to risk it.
 
-114
+104
 00:06:03,529 --> 00:06:04,654
 Good call.
 
-115
-00:06:04,737 --> 00:06:07,196
+105
+00:06:04,737 --> 00:06:06,827
 We have more than 200 points, anyway.
 
-116
-00:06:09,612 --> 00:06:11,946
+106
+00:06:09,612 --> 00:06:11,033
 Um, hi.
 
-117
-00:06:12,029 --> 00:06:14,779
+107
+00:06:12,029 --> 00:06:14,156
 The test is finally over.
 
-118
+108
 00:06:14,862 --> 00:06:16,487
 Yeah. It's finally over.
 
-119
-00:06:16,571 --> 00:06:18,404
-Do you have any idea what our final score
+109
+00:06:16,571 --> 00:06:20,434
+Do you have any idea what our final
+score on the exam will turn out to be?
 
-120
-00:06:18,487 --> 00:06:20,404
-on the exam will turn out to be?
-
-121
-00:06:20,487 --> 00:06:22,946
+110
+00:06:20,487 --> 00:06:22,919
 There was that thing with Ibuki, you know?
 
-122
-00:06:24,279 --> 00:06:28,571
+111
+00:06:24,279 --> 00:06:27,331
 Right! All remaining classes are here.
 
-123
-00:06:28,654 --> 00:06:31,487
+112
+00:06:28,748 --> 00:06:31,063
 I formally declare the test complete.
 
-124
-00:06:31,571 --> 00:06:34,321
+113
+00:06:31,571 --> 00:06:34,064
 All scores are in, and everything's final.
 
-125
-00:06:34,404 --> 00:06:36,737
+114
+00:06:34,441 --> 00:06:35,241
 Hey.
 
-126
+115
 00:06:36,821 --> 00:06:39,196
 You wouldn't say goodbye without me, would you?
 
-127
+116
 00:06:39,279 --> 00:06:40,779
 What's Ryuen doing here?
 
-128
+117
 00:06:40,862 --> 00:06:42,737
 You mean he stayed on the island, after all?
 
-129
-00:06:42,821 --> 00:06:45,154
+118
+00:06:42,821 --> 00:06:45,212
 Ryuen's here, but Ibuki's not?
 
-130
-00:06:45,237 --> 00:06:46,821
+119
+00:06:45,237 --> 00:06:46,711
 Yeah, why is that?
 
-131
-00:06:46,904 --> 00:06:49,487
+120
+00:06:46,904 --> 00:06:49,051
 You did an excellent job, Ryuen.
 
-132
+121
 00:06:49,571 --> 00:06:52,821
 You helped Class A earn over 500 S-points.
 
-133
+122
 00:06:52,904 --> 00:06:56,529
 Allow me to offer a hand in gratitude for your hard work.
 
-134
-00:06:56,612 --> 00:06:58,279
+123
+00:06:56,612 --> 00:06:58,239
 Just wait.
 
-135
-00:06:58,362 --> 00:07:01,779
+124
+00:06:58,377 --> 00:07:01,229
 You're all about to witness something very interesting.
 
-136
-00:07:01,862 --> 00:07:04,029
+125
+00:07:01,862 --> 00:07:03,753
 What do you mean by that?
 
-137
-00:07:06,321 --> 00:07:08,279
+126
+00:07:06,325 --> 00:07:10,446
 If we hang a curtain over the entrance
-
-138
-00:07:08,362 --> 00:07:10,446
 to the cave, and hide everything in there,
 
-139
-00:07:10,529 --> 00:07:13,779
+127
+00:07:10,529 --> 00:07:13,579
 then the other classes won't have a clue what we're doing.
 
-140
+128
 00:07:13,862 --> 00:07:15,612
 This is a bold plan you've conceived.
 
-141
-00:07:15,696 --> 00:07:17,029
+129
+00:07:15,649 --> 00:07:16,775
 Very risky.
 
-142
-00:07:17,112 --> 00:07:19,487
+130
+00:07:17,112 --> 00:07:19,528
 And it's the only way I'll apply myself.
 
-143
-00:07:19,571 --> 00:07:21,654
+131
+00:07:19,571 --> 00:07:21,312
 The school can shove its test.
 
-144
-00:07:21,737 --> 00:07:24,821
+132
+00:07:21,737 --> 00:07:24,218
 I absolutely abhor hard work.
 
-145
-00:07:24,904 --> 00:07:27,404
+133
+00:07:24,904 --> 00:07:27,251
 On the first day of the special exam.
 
-146
+134
 00:07:27,487 --> 00:07:29,987
 I forged a contract with Class A.
 
-147
-00:07:30,071 --> 00:07:32,529
-Class C would buy and transfer 200 S-points'
+135
+00:07:30,071 --> 00:07:34,779
+Class C would buy and transfer 200
+S-points' worth of goods to Class A.
 
-148
-00:07:32,612 --> 00:07:34,779
-worth of goods to Class A.
-
-149
-00:07:34,862 --> 00:07:36,779
+136
+00:07:34,862 --> 00:07:40,324
 And, I would give any information Class C
-
-150
-00:07:36,862 --> 00:07:40,612
 collected on the other class leaders to Katsuragi.
 
-151
-00:07:43,279 --> 00:07:44,987
+137
+00:07:43,494 --> 00:07:45,046
 Regarding the other leaders.
 
-152
-00:07:45,071 --> 00:07:48,487
+138
+00:07:45,071 --> 00:07:48,044
 I will need more than just your word on their identity.
 
-153
-00:07:48,571 --> 00:07:51,529
+139
+00:07:48,629 --> 00:07:51,154
 I need you to show me a photo of their key card.
 
-154
-00:07:51,612 --> 00:07:54,237
+140
+00:07:51,612 --> 00:07:53,856
 That, or get me the card itself.
 
-155
+141
 00:07:54,321 --> 00:07:56,279
 Right. Sure thing, man.
 
-156
-00:07:56,362 --> 00:07:58,696
+142
+00:07:56,362 --> 00:08:00,874
 One thing though, when you form an alliance
-
-157
-00:07:58,779 --> 00:08:01,196
 with someone, shouldn't you trust them?
 
-158
-00:08:05,821 --> 00:08:09,279
+143
+00:08:05,821 --> 00:08:09,104
 That's right. I need you to truly hate me.
 
-159
+144
 00:08:09,362 --> 00:08:10,696
 'Cause If you don't...
 
-160
+145
 00:08:12,404 --> 00:08:14,446
 ...you won't fool anyone.
 
-161
-00:08:19,862 --> 00:08:22,154
+146
+00:08:19,862 --> 00:08:21,867
 Take a hike.
 
-162
+147
 00:08:22,237 --> 00:08:25,362
 Next, I sent Ibuki and Kaneda to work as spies.
 
-163
+148
 00:08:25,446 --> 00:08:28,862
 Ibuki in Class D, and Kaneda in Class B.
 
-164
-00:08:30,779 --> 00:08:32,612
+149
+00:08:30,738 --> 00:08:32,391
 Then came the revelry.
 
-165
-00:08:33,904 --> 00:08:36,196
-We spent all 100 of the S-points we had left
+150
+00:08:33,904 --> 00:08:38,760
+We spent all 100 of the S-points we
+had left after the trade with Class A.
 
-166
-00:08:36,279 --> 00:08:38,904
-after the trade with Class A.
+151
+00:08:38,987 --> 00:08:45,674
+Then I had everyone except Kaneda
+and Ibuki drop out. I alone remained.
 
-167
-00:08:38,987 --> 00:08:40,446
-Then I had everyone except
-
-168
-00:08:40,529 --> 00:08:46,279
-Kaneda and Ibuki drop out. I alone remained.
-
-169
-00:08:46,362 --> 00:08:49,404
+152
+00:08:46,362 --> 00:08:48,753
 I went into hiding, deep in the jungle.
 
-170
-00:08:49,487 --> 00:08:55,196
+153
+00:08:51,065 --> 00:08:54,111
 You must really hate Katsuragi, am I right?
 
-171
-00:08:55,279 --> 00:08:57,279
+154
+00:08:55,279 --> 00:09:00,321
 I was working with Sakayanagi's faction
-
-172
-00:08:57,362 --> 00:09:00,321
 from Class A, too. One of the guys in that camp
 
-173
-00:09:00,404 --> 00:09:02,612
-was intentionally abusing a spot on the island
+155
+00:09:00,404 --> 00:09:04,981
+was intentionally abusing a spot on the
+island to reduce his own class's points.
 
-174
-00:09:02,696 --> 00:09:05,404
-to reduce his own class's points.
-
-175
+156
 00:09:05,487 --> 00:09:08,571
 He was human garbage, but remarkably forthright.
 
-176
+157
 00:09:08,654 --> 00:09:11,279
 Enough to tell me who his class leader was.
 
-177
-00:09:13,404 --> 00:09:15,154
-What I hadn't planned for was Ibuki's
+158
+00:09:13,384 --> 00:09:17,384
+What I hadn't planned for was
+Ibuki's digital camera breaking.
 
-178
-00:09:15,237 --> 00:09:17,404
-digital camera breaking.
+159
+00:09:17,493 --> 00:09:23,816
+It was an unfortunate kink in the works, and forced
+Katsuragi and me to verify Class D's key card in person.
 
-179
-00:09:17,487 --> 00:09:19,612
-It was an unfortunate kink in the works,
-
-180
-00:09:19,696 --> 00:09:21,654
-and forced Katsuragi and me to verify
-
-181
-00:09:21,737 --> 00:09:23,946
-Class D's key card in person.
-
-182
-00:09:25,612 --> 00:09:28,237
+160
+00:09:25,612 --> 00:09:28,217
 It's genuine. Good job.
 
-183
+161
 00:09:28,321 --> 00:09:29,821
 Your obligation is complete.
 
-184
-00:09:29,904 --> 00:09:32,696
+162
+00:09:29,904 --> 00:09:32,329
 Care to know who Class B's leader is?
 
-185
-00:09:32,779 --> 00:09:35,237
+163
+00:09:32,779 --> 00:09:35,124
 Naturally, B holds their cards close.
 
-186
-00:09:35,321 --> 00:09:37,946
+164
+00:09:35,321 --> 00:09:37,863
 So all evidence is purely circumstantial.
 
-187
-00:09:38,029 --> 00:09:41,237
+165
+00:09:38,043 --> 00:09:41,180
 Unless you have verifiable proof, I don't care.
 
-188
-00:09:42,654 --> 00:09:44,571
+166
+00:09:42,670 --> 00:09:44,571
 Ryuen, you smell like a dead animal.
 
-189
-00:09:44,654 --> 00:09:47,987
+167
+00:09:44,654 --> 00:09:47,875
 Take a shower, set yourself on fire, whatever works.
 
-190
-00:10:03,112 --> 00:10:06,821
+168
+00:10:03,263 --> 00:10:06,541
 Ryuen. Are you there?
 
-191
+169
 00:10:11,987 --> 00:10:14,029
 Is the test finally over?
 
-192
-00:10:14,112 --> 00:10:15,321
-Kaneda and Ibuki
+170
+00:10:14,112 --> 00:10:17,329
+Kaneda and Ibuki have
+dropped out as well.
 
-193
-00:10:15,404 --> 00:10:17,404
-have dropped out as well.
-
-194
-00:10:17,487 --> 00:10:18,654
+171
+00:10:17,487 --> 00:10:18,526
 I see.
 
-195
-00:10:18,737 --> 00:10:22,779
+172
+00:10:18,737 --> 00:10:21,865
 Anyway. Let's close this out.
 
-196
-00:10:22,862 --> 00:10:24,446
+173
+00:10:22,862 --> 00:10:24,067
 Of course.
 
-197
-00:10:26,821 --> 00:10:31,029
+174
+00:10:26,759 --> 00:10:30,574
 Class A's leader is Yahiko Totsuka.
 
-198
-00:10:31,112 --> 00:10:33,987
+175
+00:10:31,112 --> 00:10:33,867
 B's is Chihiro Shiranami.
 
-199
-00:10:34,071 --> 00:10:37,487
+176
+00:10:34,071 --> 00:10:37,225
 D's is Suzune Horikita.
 
-200
+177
 00:10:37,571 --> 00:10:40,362
 Honestly now, you say that you hate it.
 
-201
+178
 00:10:40,446 --> 00:10:42,612
 Any kind of exertion or hard work.
 
-202
-00:10:42,696 --> 00:10:44,112
+179
+00:10:42,696 --> 00:10:43,714
 But, look at you.
 
-203
-00:10:44,196 --> 00:10:45,904
+180
+00:10:43,739 --> 00:10:45,962
 You're like a soldier who's just fought an epic battle.
 
-204
-00:10:45,987 --> 00:10:47,196
+181
+00:10:45,987 --> 00:10:47,308
 You're dirty, injured.
 
-205
-00:10:47,279 --> 00:10:49,112
-The others talk about your determination
+182
+00:10:47,333 --> 00:10:50,497
+The others talk about your
+determination in seeking victory.
 
-206
-00:10:49,196 --> 00:10:50,446
-in seeking victory.
-
-207
-00:10:50,529 --> 00:10:53,196
+183
+00:10:50,529 --> 00:10:53,254
 Why don't you quit your babbling already, teacher.
 
-208
+184
 00:10:53,279 --> 00:10:55,487
 Now that I've guessed every class's leader,
 
-209
-00:10:55,571 --> 00:10:57,987
-that will subtract 50 points from each of their scores
+185
+00:10:55,571 --> 00:11:00,363
+that will subtract 50 points from each of
+their scores and negate their bonus points.
 
-210
-00:10:58,071 --> 00:11:00,904
-and negate their bonus points.
+186
+00:11:00,974 --> 00:11:04,877
+Class A will only gain a
+paltry 170 points from this test.
 
-211
-00:11:00,987 --> 00:11:03,654
-Class A will only gain a paltry 170 points
-
-212
-00:11:03,737 --> 00:11:05,029
-from this test.
-
-213
-00:11:05,112 --> 00:11:06,821
+187
+00:11:05,112 --> 00:11:06,879
 As for Class C's points--
 
-214
-00:11:06,904 --> 00:11:09,737
+188
+00:11:06,904 --> 00:11:09,638
 150 just from naming the leaders.
 
-215
-00:11:09,821 --> 00:11:11,321
-Combine that with the points we gained
+189
+00:11:09,840 --> 00:11:15,639
+Combine that with the points we gained from
+securing spots, and we'll beat Class A, for sure.
 
-216
-00:11:11,404 --> 00:11:15,654
-from securing spots, and we'll beat Class A, for sure.
-
-217
-00:11:17,196 --> 00:11:20,696
+190
+00:11:17,331 --> 00:11:20,410
 That means I win again.
 
-218
-00:11:21,904 --> 00:11:23,862
+191
+00:11:22,005 --> 00:11:23,862
 And now, the time has come.
 
-219
-00:11:23,946 --> 00:11:26,946
+192
+00:11:24,040 --> 00:11:26,879
 I will reveal the results of the special examination.
 
-220
-00:11:27,029 --> 00:11:31,071
+193
+00:11:27,199 --> 00:11:30,934
 Coming in last: Class C, with zero points.
 
-221
-00:11:32,696 --> 00:11:33,779
+194
+00:11:32,696 --> 00:11:33,542
 What?
 
-222
-00:11:33,862 --> 00:11:36,571
+195
+00:11:33,722 --> 00:11:36,532
 Next, in third place: Class A,
 
-223
-00:11:36,654 --> 00:11:39,362
+196
+00:11:36,739 --> 00:11:38,825
 with 120 points.
 
-224
-00:11:39,446 --> 00:11:41,029
+197
+00:11:39,478 --> 00:11:41,219
 In second: Class B.
 
-225
-00:11:41,112 --> 00:11:42,571
+198
+00:11:41,244 --> 00:11:42,617
 One hundred and forty points.
 
-226
+199
 00:11:42,654 --> 00:11:45,862
 Finally, in first place: Class D,
 
-227
-00:11:45,946 --> 00:11:48,571
+200
+00:11:45,946 --> 00:11:48,504
 with 225 points.
 
-228
-00:11:48,654 --> 00:11:49,946
+201
+00:11:48,529 --> 00:11:50,004
 First place?
 
-229
+202
 00:11:50,029 --> 00:11:51,654
 Huh, really?
 
-230
-00:11:51,737 --> 00:11:53,112
+203
+00:11:51,683 --> 00:11:53,058
 We did it!
 
-231
-00:12:02,571 --> 00:12:04,029
+204
+00:12:02,677 --> 00:12:03,824
 What on earth?
 
-232
-00:12:04,112 --> 00:12:05,904
+205
+00:12:04,112 --> 00:12:05,841
 How could that have happened?
 
-233
-00:12:14,946 --> 00:12:15,904
-Well then, it looks like
+206
+00:12:14,946 --> 00:12:18,105
+Well then, it looks like you
+had a great time on the island.
 
-234
-00:12:15,987 --> 00:12:18,529
-you had a great time on the island.
-
-235
-00:12:24,487 --> 00:12:26,112
+207
+00:12:24,487 --> 00:12:26,171
 Shut your mouth, Koenji!
 
-236
-00:12:26,196 --> 00:12:28,237
-You realize that we lost 30 whole point
+208
+00:12:26,196 --> 00:12:29,269
+You realize that we lost 30
+whole point because of you, right?
 
-237
-00:12:28,321 --> 00:12:29,404
-because of you, right?
-
-238
-00:12:29,487 --> 00:12:31,404
+209
+00:12:29,294 --> 00:12:31,404
 Oh, just calm down.
 
-239
+210
 00:12:31,487 --> 00:12:33,946
 I was laid up with a very nasty cold, my good man.
 
-240
-00:12:34,029 --> 00:12:35,696
+211
+00:12:33,971 --> 00:12:35,696
 What was I supposed to do?
 
-241
+212
 00:12:35,779 --> 00:12:38,654
 You damn vain punk. Cut it out!
 
-242
-00:12:38,737 --> 00:12:41,071
+213
+00:12:38,737 --> 00:12:41,039
 Dry off and stop glistening!
 
-243
-00:12:47,237 --> 00:12:48,612
+214
+00:12:47,329 --> 00:12:48,302
 Wait up!
 
-244
-00:12:52,404 --> 00:12:55,446
+215
+00:12:52,424 --> 00:12:55,251
 You better tell me exactly what's going on here.
 
-245
-00:12:58,404 --> 00:12:59,737
+216
+00:12:58,404 --> 00:13:01,658
 It all played out more or less
-
-246
-00:12:59,821 --> 00:13:01,696
 the way I expected it would.
 
-247
+217
 00:13:01,779 --> 00:13:03,779
 The Katsuragi faction is finished,
 
-248
-00:13:03,862 --> 00:13:06,404
+218
+00:13:03,917 --> 00:13:06,337
 or they'll lose a great deal of influence, at least.
 
-249
-00:13:06,487 --> 00:13:07,737
+219
+00:13:06,487 --> 00:13:07,423
 That's right.
 
-250
-00:13:07,821 --> 00:13:09,696
+220
+00:13:07,474 --> 00:13:09,696
 And if we're united going into the second term,
 
-251
-00:13:09,779 --> 00:13:12,404
+221
+00:13:09,779 --> 00:13:12,106
 then Class A is going to be unstoppable.
 
-252
-00:13:13,987 --> 00:13:15,987
+222
+00:13:13,967 --> 00:13:16,046
 Katsuragi's here, so I'd better hang up.
 
-253
-00:13:16,071 --> 00:13:19,904
+223
+00:13:16,118 --> 00:13:18,864
 Yes. Again, nice work.
 
-254
-00:13:19,987 --> 00:13:21,112
-How are you going to atone
+224
+00:13:19,987 --> 00:13:22,196
+How are you going to atone for this one, Katsuragi?
 
-255
-00:13:21,196 --> 00:13:22,196
-for this one, Katsuragi?
+225
+00:13:22,221 --> 00:13:24,421
+Signing that contract was an enormous mistake!
 
-256
-00:13:22,279 --> 00:13:23,112
-Signing that contract
+226
+00:13:24,446 --> 00:13:27,017
+Don't forget every single one
+of you signed off on it, too!
 
-257
-00:13:23,196 --> 00:13:24,362
-was an enormous mistake!
-
-258
-00:13:24,446 --> 00:13:25,612
-Don't forget every single one of you
-
-259
-00:13:25,696 --> 00:13:27,654
-signed off on it, too!
-
-260
-00:13:27,737 --> 00:13:30,362
+227
+00:13:27,709 --> 00:13:30,263
 This is just pathetic, Katsuragi.
 
-261
+228
 00:13:31,654 --> 00:13:32,737
 Hashimoto.
 
-262
-00:13:32,821 --> 00:13:34,696
-How dare you criticize Katsuragi
+229
+00:13:32,821 --> 00:13:37,125
+How dare you criticize Katsuragi when
+you're probably the reason we failed!
 
-263
-00:13:34,779 --> 00:13:37,237
-when you're probably the reason we failed!
-
-264
-00:13:37,321 --> 00:13:40,446
+230
+00:13:37,321 --> 00:13:40,784
 I don't know what you did,
 but why don't you try going to--
 
-265
+231
 00:13:41,987 --> 00:13:43,362
 Hashimoto.
 
-266
-00:13:43,446 --> 00:13:45,612
+232
+00:13:43,446 --> 00:13:45,585
 You spoke to Ryuen, did you not?
 
-267
-00:13:47,612 --> 00:13:49,362
-I know you sold the name of Class A's leader
+233
+00:13:47,612 --> 00:13:51,404
+I know you sold the name of Class A's
+leader to that opportunistic scumbag.
 
-268
-00:13:49,446 --> 00:13:51,404
-to that opportunistic scumbag.
-
-269
-00:14:03,487 --> 00:14:05,196
+234
+00:14:03,487 --> 00:14:04,753
 Second place, huh?
 
-270
-00:14:05,279 --> 00:14:09,237
+235
+00:14:05,338 --> 00:14:09,296
 Yeah it is still a loss, unfortunately.
 
-271
-00:14:09,321 --> 00:14:13,529
+236
+00:14:09,321 --> 00:14:12,948
 Class D really was the only clear winner in this exam.
 
-272
-00:14:13,612 --> 00:14:16,321
+237
+00:14:13,612 --> 00:14:16,379
 Hey. Remember the first day?
 
-273
-00:14:16,404 --> 00:14:19,529
+238
+00:14:16,458 --> 00:14:19,587
 What the teacher told us? She said to keep in mind
 
-274
-00:14:19,612 --> 00:14:22,612
+239
+00:14:19,612 --> 00:14:22,523
 anything in this school can be bought with points.
 
-275
+240
 00:14:22,696 --> 00:14:25,071
 Yeah. I do recall that.
 
-276
+241
 00:14:25,154 --> 00:14:26,987
 It may be really expensive,
 
-277
-00:14:27,071 --> 00:14:29,029
+242
+00:14:27,071 --> 00:14:28,494
 but it can still be bought.
 
-278
-00:14:30,946 --> 00:14:32,654
+243
+00:14:30,946 --> 00:14:32,586
 You can be in any class you want,
 
-279
-00:14:32,737 --> 00:14:34,571
+244
+00:14:32,710 --> 00:14:34,544
 if you pay the price.
 
-280
-00:14:44,904 --> 00:14:46,612
+245
+00:14:44,904 --> 00:14:46,278
 I apologize.
 
-281
-00:14:50,987 --> 00:14:54,196
+246
+00:14:50,987 --> 00:14:54,014
 Well. I've figured it out.
 
-282
-00:14:56,529 --> 00:14:58,904
+247
+00:14:56,529 --> 00:14:58,719
 The reason they got that high score,
 
-283
-00:14:58,987 --> 00:15:02,612
+248
+00:14:58,987 --> 00:15:01,627
 and why our score ended up being zero.
 
-284
-00:15:02,696 --> 00:15:05,112
+249
+00:15:02,696 --> 00:15:04,842
 It's because we guessed it incorrectly.
 
-285
+250
 00:15:05,196 --> 00:15:06,487
 Class D's leader.
 
-286
-00:15:06,571 --> 00:15:07,821
+251
+00:15:06,571 --> 00:15:07,461
 What?
 
-287
-00:15:07,904 --> 00:15:11,237
+252
+00:15:07,904 --> 00:15:11,204
 Well, you weren't our leader anymore, Horikita.
 
-288
-00:15:11,321 --> 00:15:14,071
+253
+00:15:11,321 --> 00:15:13,941
 Wh-What? But the card!
 
-289
-00:15:17,446 --> 00:15:20,612
+254
+00:15:17,446 --> 00:15:20,475
 What the...? What's your name doing on it?
 
-290
-00:15:20,696 --> 00:15:23,029
+255
+00:15:20,696 --> 00:15:22,812
 Just before the test ended,
 
-291
-00:15:23,112 --> 00:15:24,987
+256
+00:15:23,112 --> 00:15:25,242
 I had Class D's leader changed.
 
-292
+257
 00:15:26,446 --> 00:15:28,696
 You can't just change leaders,
 
-293
-00:15:28,779 --> 00:15:30,946
+258
+00:15:28,779 --> 00:15:30,914
 unless you've got a really good reason.
 
-294
-00:15:31,029 --> 00:15:33,779
-Which obviously means, if you
-do have a really good reason,
+259
+00:15:31,029 --> 00:15:35,559
+Which obviously means, if you do have a
+really good reason, you are allowed to switch.
 
-295
-00:15:33,862 --> 00:15:35,779
-you are allowed to switch.
-
-296
-00:15:36,821 --> 00:15:38,737
+260
+00:15:36,821 --> 00:15:38,525
 Our leader's health was failing.
 
-297
-00:15:38,821 --> 00:15:41,737
+261
+00:15:38,821 --> 00:15:40,753
 That's as good a reason as any.
 
-298
-00:15:41,821 --> 00:15:44,029
+262
+00:15:41,821 --> 00:15:46,436
 Because of that, when Ryuen and Katsuragi
-
-299
-00:15:44,112 --> 00:15:46,487
 named you class D's leader, they were wrong.
 
-300
-00:15:46,571 --> 00:15:48,154
+263
+00:15:46,571 --> 00:15:47,462
 It was me.
 
-301
-00:15:48,237 --> 00:15:49,946
-Wait, you conceived of this whole plan
+264
+00:15:48,237 --> 00:15:51,468
+Wait, you conceived of this
+whole plan by yourself, didn't you?
 
-302
-00:15:50,029 --> 00:15:51,904
-by yourself, didn't you?
-
-303
-00:15:51,987 --> 00:15:53,612
+265
+00:15:51,987 --> 00:15:53,274
 Yeah, I did.
 
-304
-00:15:55,029 --> 00:15:56,446
-I knew Ibuki was a spy,
+266
+00:15:55,029 --> 00:15:58,881
+I knew Ibuki was a spy, so I
+destroyed her digital camera.
 
-305
-00:15:56,529 --> 00:15:58,987
-so I destroyed her digital camera.
-
-306
-00:15:59,071 --> 00:16:00,987
+267
+00:15:59,071 --> 00:16:03,760
 That meant she would have to steal the key card itself,
-
-307
-00:16:01,071 --> 00:16:03,821
 which would be much harder than taking a picture of it.
 
-308
-00:16:05,612 --> 00:16:07,279
+268
+00:16:05,612 --> 00:16:09,502
 Then I waited until your condition
-
-309
-00:16:07,362 --> 00:16:09,696
 had sufficiently deteriorated.
 
-310
-00:16:11,696 --> 00:16:14,196
+269
+00:16:11,696 --> 00:16:14,067
 I promise to give you Sakura's email address,
 
-311
-00:16:14,279 --> 00:16:15,529
+270
+00:16:14,092 --> 00:16:15,529
 but you've gotta do something for me.
 
-312
-00:16:15,612 --> 00:16:16,987
+271
+00:16:15,612 --> 00:16:16,560
 Ah?!
 
-313
-00:16:17,071 --> 00:16:18,529
-I got you to show me your card
+272
+00:16:17,071 --> 00:16:22,077
+I got you to show me your card while
+Ibuki was watching, staged a distraction,
 
-314
-00:16:18,612 --> 00:16:22,362
-while Ibuki was watching, staged a distraction,
-
-315
-00:16:22,446 --> 00:16:24,987
+273
+00:16:22,446 --> 00:16:24,234
 got you to go to the waterfall.
 
-316
-00:16:25,071 --> 00:16:28,612
+274
+00:16:25,149 --> 00:16:28,459
 And thus, Ibuki was lured into stealing your key card.
 
-317
-00:16:29,821 --> 00:16:30,987
-Then, I started the fire
+275
+00:16:29,867 --> 00:16:32,908
+Then, I started the fire to throw the camp into chaos.
 
-318
-00:16:31,071 --> 00:16:32,862
-to throw the camp into chaos.
-
-319
-00:16:32,946 --> 00:16:36,071
+276
+00:16:32,946 --> 00:16:35,568
 Giving Ibuki the opening she needed to escape.
 
-320
-00:16:37,654 --> 00:16:39,404
-I knew their plan had always been for her
+277
+00:16:37,654 --> 00:16:42,341
+I knew their plan had always been for her to
+sneak away from the camp and show Ryuen the card.
 
-321
-00:16:39,487 --> 00:16:42,571
-to sneak away from the camp and show Ryuen the card.
-
-322
+278
 00:16:42,654 --> 00:16:45,279
 Then you convinced me that I should drop out,
 
-323
-00:16:45,362 --> 00:16:47,529
+279
+00:16:45,362 --> 00:16:47,161
 and made yourself the leader.
 
-324
-00:16:47,612 --> 00:16:49,529
+280
+00:16:47,612 --> 00:16:49,587
 Yeah, but that came later.
 
-325
-00:16:49,612 --> 00:16:51,029
-At first, I'd planned to amass points
+281
+00:16:49,612 --> 00:16:52,868
+At first, I'd planned to amass
+points by occupying all the spots.
 
-326
-00:16:51,112 --> 00:16:53,654
-by occupying all the spots.
+282
+00:16:53,737 --> 00:16:58,171
+But then I saw Katsuragi leaving one of
+the spots with Class A's key card in his hand.
 
-327
-00:16:53,737 --> 00:16:55,279
-But then I saw Katsuragi leaving
-
-328
-00:16:55,362 --> 00:16:58,112
-one of the spots with Class A's key card in his hand.
-
-329
-00:16:58,196 --> 00:17:01,529
+283
+00:16:58,196 --> 00:17:01,587
 So, that means Class A's leader was Katsuragi?
 
-330
-00:17:01,612 --> 00:17:04,821
+284
+00:17:01,612 --> 00:17:04,878
 No. Katsuragi is a cautious person.
 
-331
+285
 00:17:04,904 --> 00:17:07,029
 He would never do anything that careless.
 
-332
-00:17:07,112 --> 00:17:08,779
-He wouldn't even occupy a spot when someone
+286
+00:17:07,112 --> 00:17:10,479
+He wouldn't even occupy a spot when
+someone might be around to see him.
 
-333
-00:17:08,862 --> 00:17:10,654
-might be around to see him.
-
-334
-00:17:10,737 --> 00:17:13,529
+287
+00:17:10,737 --> 00:17:13,438
 It was just a performance to hide the truth.
 
-335
-00:17:13,612 --> 00:17:15,237
+288
+00:17:13,612 --> 00:17:17,685
 That someone else had occupied the spot,
-
-336
-00:17:15,321 --> 00:17:18,071
 without checking it in with him first.
 
-337
+289
 00:17:18,154 --> 00:17:19,821
 That's how I was able to infer
 
-338
+290
 00:17:19,904 --> 00:17:22,446
 that Class A's leader was in fact Yahiko,
 
-339
-00:17:22,529 --> 00:17:25,237
+291
+00:17:22,529 --> 00:17:25,088
 who was with Katsuragi at the time I saw him.
 
-340
-00:17:27,029 --> 00:17:29,112
-And as for Class C, I was well aware
+292
+00:17:27,029 --> 00:17:31,862
+And as for Class C, I was well aware that
+Ryuen had never actually left the island.
 
-341
-00:17:29,196 --> 00:17:31,862
-that Ryuen had never actually left the island.
-
-342
+293
 00:17:33,029 --> 00:17:34,821
 When we went to pay Ryuen a visit,
 
-343
-00:17:34,904 --> 00:17:38,529
+294
+00:17:34,904 --> 00:17:37,702
 he had a two-way radio on the table next to him.
 
-344
-00:17:38,612 --> 00:17:41,987
+295
+00:17:38,612 --> 00:17:41,348
 Ibuki was in possession of one just like it.
 
-345
-00:17:42,071 --> 00:17:44,154
-If Ryuen was indeed still in contact
+296
+00:17:42,188 --> 00:17:48,054
+If Ryuen was indeed still in contact with Ibuki
+that way, it meant he still had to be on the island.
 
-346
-00:17:44,237 --> 00:17:48,112
-with Ibuki that way, it meant
-he still had to be on the island.
-
-347
-00:17:48,196 --> 00:17:52,404
+297
+00:17:48,196 --> 00:17:51,515
 After that, I was certain that Ryuen was Class C's leader.
 
-348
-00:17:52,487 --> 00:17:54,446
+298
+00:17:52,487 --> 00:17:54,504
 That's what made me change my tactics.
 
-349
-00:17:54,529 --> 00:17:56,529
-I switched from a spot occupation strategy
+299
+00:17:54,529 --> 00:18:00,333
+I switched from a spot occupation strategy to a
+leader identification strategy, and used you as a pawn.
 
-350
-00:17:56,612 --> 00:17:58,487
-to a leader identification strategy,
-
-351
-00:17:58,571 --> 00:18:00,821
-and used you as a pawn.
-
-352
+300
 00:18:00,904 --> 00:18:02,654
 But I left Class B alone.
 
-353
-00:18:02,737 --> 00:18:04,654
-I determined eroding our friendly alliance
+301
+00:18:02,737 --> 00:18:07,680
+I determined eroding our friendly alliance with
+them would be detrimental to us in the long run.
 
-354
-00:18:04,737 --> 00:18:07,696
-with them would be detrimental to us in the long run.
-
-355
+302
 00:18:07,779 --> 00:18:08,779
 And, to be honest,
 
-356
+303
 00:18:08,862 --> 00:18:10,821
 there was already a spy in Class B.
 
-357
-00:18:10,904 --> 00:18:12,904
-So, I knew that their leader would be revealed,
+304
+00:18:10,904 --> 00:18:15,404
+So, I knew that their leader would be
+revealed, even without any action on my part.
 
-358
-00:18:12,987 --> 00:18:15,404
-even without any action on my part.
-
-359
-00:18:15,487 --> 00:18:17,321
+305
+00:18:15,487 --> 00:18:17,257
 And you surmised correctly.
 
-360
-00:18:17,404 --> 00:18:20,987
+306
+00:18:17,463 --> 00:18:20,740
 Their leader was identified, costing them serious points.
 
-361
-00:18:21,071 --> 00:18:23,029
-Yes, if another class guesses your leader,
+307
+00:18:21,071 --> 00:18:27,749
+Yes, if another class guesses your leader, it costs you
+50 points, and all your bonus points are negated, as well.
 
-362
-00:18:23,112 --> 00:18:26,029
-it costs you 50 points, and all your bonus points
-
-363
-00:18:26,112 --> 00:18:28,154
-are negated, as well.
-
-364
-00:18:28,237 --> 00:18:32,029
+308
+00:18:28,237 --> 00:18:31,377
 You really put one over on everyone this time.
 
-365
-00:18:32,112 --> 00:18:33,446
-But, I don't get it.
+309
+00:18:32,112 --> 00:18:35,827
+But, I don't get it. You claim to
+have no interest in ascending to Class A,
 
-366
-00:18:33,529 --> 00:18:35,862
-You claim to have no interest in ascending to Class A,
-
-367
-00:18:35,946 --> 00:18:38,071
+310
+00:18:35,946 --> 00:18:37,802
 so why did you help me?
 
-368
+311
 00:18:39,487 --> 00:18:41,987
 I can't figure out what motivates you.
 
-369
-00:18:42,071 --> 00:18:42,987
+312
+00:18:42,071 --> 00:18:43,046
 Why do you do it?
 
-370
-00:18:43,071 --> 00:18:46,154
+313
+00:18:43,071 --> 00:18:45,726
 There she is! Horikita!
 
-371
+314
 00:18:46,237 --> 00:18:48,362
 We've been looking everywhere for you!
 
-372
-00:18:48,446 --> 00:18:49,946
+315
+00:18:48,446 --> 00:18:49,769
 How did you do it?
 
-373
-00:18:50,029 --> 00:18:53,529
+316
+00:18:49,794 --> 00:18:52,806
 We heard that you're the only
 reason Class D won this thing!
 
-374
+317
 00:18:53,612 --> 00:18:55,529
 Hirata told us everything you did!
 
-375
-00:18:55,612 --> 00:18:57,112
+318
+00:18:55,612 --> 00:18:59,796
 He said that you're the one who figured out
-
-376
-00:18:57,196 --> 00:18:59,737
 who Class A and C's leaders were. That's awesome!
 
-377
-00:18:59,821 --> 00:19:01,654
+319
+00:18:59,821 --> 00:19:01,712
 Thanks to you, we've got tons of points now!
 
-378
-00:19:01,737 --> 00:19:03,904
+320
+00:19:01,737 --> 00:19:03,962
 You're amazing! What a genius!
 
-379
-00:19:03,987 --> 00:19:05,237
+321
+00:19:03,987 --> 00:19:05,296
 --You guys, wait. --Ibuki was the one
 
-380
-00:19:05,321 --> 00:19:06,904
-who started the fire, and when she ran away,
+322
+00:19:05,321 --> 00:19:08,279
+who started the fire, and when she ran
+away, you chased her in the rain, right?
 
-381
-00:19:06,987 --> 00:19:08,279
-you chased her in the rain, right?
-
-382
-00:19:08,362 --> 00:19:09,446
+323
+00:19:08,304 --> 00:19:09,504
 --Um, well. --And he told us
 
-383
-00:19:09,529 --> 00:19:10,821
+324
+00:19:09,529 --> 00:19:10,879
 that's the reason you're under the weather!
 
-384
+325
 00:19:10,904 --> 00:19:13,446
 So cool! You're the best friend ever!
 
-385
-00:19:13,529 --> 00:19:15,946
+326
+00:19:13,471 --> 00:19:15,618
 Friend? What are you talking about?
 
-386
-00:19:21,612 --> 00:19:24,154
+327
+00:19:21,612 --> 00:19:23,963
 Horikita sure is popular, huh?
 
-387
-00:19:24,237 --> 00:19:25,946
+328
+00:19:24,237 --> 00:19:25,645
 Yeah, I guess so.
 
-388
-00:19:28,321 --> 00:19:30,571
+329
+00:19:28,321 --> 00:19:30,204
 I really do hate her.
 
-389
-00:19:30,654 --> 00:19:32,779
+330
+00:19:30,654 --> 00:19:32,677
 Because, for better or for worse,
 
-390
-00:19:32,862 --> 00:19:35,654
+331
+00:19:32,862 --> 00:19:34,632
 she has nothing to hide.
 
-391
-00:19:35,737 --> 00:19:38,446
+332
+00:19:35,737 --> 00:19:37,698
 She and I are opposites. So...
 
-392
-00:19:38,529 --> 00:19:40,821
+333
+00:19:38,529 --> 00:19:40,450
 Well, most people are more like you.
 
-393
-00:19:40,904 --> 00:19:42,362
+334
+00:19:40,904 --> 00:19:42,105
 Me, included.
 
-394
-00:19:42,446 --> 00:19:45,154
+335
+00:19:42,446 --> 00:19:44,771
 Hey, Ayanokoji?
 
-395
-00:19:45,237 --> 00:19:46,821
+336
+00:19:45,237 --> 00:19:46,142
 What is it?
 
-396
-00:19:46,904 --> 00:19:49,237
-If you had to make a choice, like,
+337
+00:19:46,904 --> 00:19:50,832
+If you had to make a choice,
+like, who you would be with...
 
-397
-00:19:49,321 --> 00:19:51,196
-who you would be with...
-
-398
-00:19:52,987 --> 00:19:56,112
+338
+00:19:52,987 --> 00:19:55,472
 You would choose Horikita, wouldn't you?
 
-399
-00:19:56,196 --> 00:19:58,029
+339
+00:19:56,196 --> 00:19:57,207
 I don't know.
 
-400
-00:19:58,112 --> 00:19:59,154
+340
+00:19:58,112 --> 00:19:59,002
 Meanie.
 
-401
+341
 00:20:12,446 --> 00:20:15,071
 First, please allow me to congratulate you.
 
-402
-00:20:15,154 --> 00:20:17,237
+342
+00:20:15,154 --> 00:20:17,188
 I am genuinely impressed.
 
-403
-00:20:17,321 --> 00:20:19,571
+343
+00:20:17,321 --> 00:20:19,396
 Oh, so now you're satisfied?
 
-404
-00:20:19,654 --> 00:20:21,487
+344
+00:20:19,654 --> 00:20:21,233
 Then tell me something.
 
-405
-00:20:21,571 --> 00:20:23,362
-Is it true that an outsider attempted
+345
+00:20:21,571 --> 00:20:26,176
+Is it true that an outsider attempted to
+get me expelled, or did you make that part up?
 
-406
-00:20:23,446 --> 00:20:26,154
-to get me expelled, or did you make that part up?
-
-407
-00:20:26,237 --> 00:20:27,196
+346
+00:20:26,423 --> 00:20:26,886
 Hm.
 
-408
-00:20:27,279 --> 00:20:29,112
-I won't play this game, and I refuse
+347
+00:20:27,279 --> 00:20:31,790
+I won't play this game, and I refuse to
+do anything else for you until I have proof.
 
-409
-00:20:29,196 --> 00:20:31,779
-to do anything else for you until I have proof.
+348
+00:20:31,862 --> 00:20:35,987
+Have you forgotten that I know every
+little thing about you? Come on, now.
 
-410
-00:20:31,862 --> 00:20:33,071
-Have you forgotten that I know
-
-411
-00:20:33,154 --> 00:20:35,987
-every little thing about you? Come on, now.
-
-412
-00:20:36,071 --> 00:20:38,571
+349
+00:20:36,071 --> 00:20:38,142
 Don't you think that that's proof enough?
 
-413
-00:20:40,821 --> 00:20:42,904
+350
+00:20:40,821 --> 00:20:42,664
 Icarus' wings.
 
-414
-00:20:42,987 --> 00:20:45,029
+351
+00:20:42,987 --> 00:20:44,230
 What about 'em?
 
-415
-00:20:45,112 --> 00:20:48,029
-Icarus wanted to fly in order to be free.
+352
+00:20:45,112 --> 00:20:47,778
+Icarus wanted to fly
+in order to be free.
 
-416
-00:20:48,112 --> 00:20:50,237
+353
+00:20:48,112 --> 00:20:52,495
 But he only did it because his father taught him
-
-417
-00:20:50,321 --> 00:20:52,612
 how to make the wings and take flight.
 
-418
-00:20:52,696 --> 00:20:55,321
+354
+00:20:52,696 --> 00:20:54,435
 He couldn't have done it alone.
 
-419
-00:20:55,404 --> 00:20:58,612
+355
+00:20:55,404 --> 00:20:58,425
 The poor boy wasn't flying of his own accord.
 
-420
-00:20:58,696 --> 00:21:02,737
+356
+00:20:58,696 --> 00:21:01,688
 Now, don't you think that sounds a little bit familiar?
 
-421
+357
 00:21:02,821 --> 00:21:04,529
 That man who called me,
 
-422
-00:21:04,612 --> 00:21:07,446
+358
+00:21:04,612 --> 00:21:07,596
 who I am sure you've figured out by now is your father,
 
-423
-00:21:07,529 --> 00:21:10,654
-said, "Someday, Kiyotaka will choose to leave the school
+359
+00:21:07,621 --> 00:21:12,340
+said, "Someday, Kiyotaka will choose
+to leave the school of his own accord."
 
-424
-00:21:10,737 --> 00:21:12,737
-of his own accord."
+360
+00:21:12,834 --> 00:21:16,834
+Fly too close, and you'll burn your
+wings, then plunge into the sea and drown.
 
-425
-00:21:12,821 --> 00:21:14,987
-Fly too close, and you'll burn your wings,
-
-426
-00:21:15,071 --> 00:21:16,821
-then plunge into the sea and drown.
-
-427
-00:21:16,904 --> 00:21:19,154
+361
+00:21:16,904 --> 00:21:18,900
 We both know that won't happen.
 
-428
-00:21:19,237 --> 00:21:21,487
+362
+00:21:19,237 --> 00:21:20,738
 Poor, little Icarus.
 
-429
-00:21:21,571 --> 00:21:25,112
+363
+00:21:21,571 --> 00:21:24,533
 What will your next move in our little game be?
 
-430
-00:21:25,196 --> 00:21:28,154
+364
+00:21:25,196 --> 00:21:27,267
 I think you know the answer to that.
 
-431
-00:21:28,237 --> 00:21:32,654
+365
+00:21:28,237 --> 00:21:32,359
 "Poor" Icarus? He didn't heed Daedalus' warnings.
 
-432
-00:21:34,571 --> 00:21:36,071
-You would have gotten
+366
+00:21:34,571 --> 00:21:39,386
+You would have gotten hundreds of thousands
+of points every month until graduation?
 
-433
-00:21:36,154 --> 00:21:39,612
-hundreds of thousands of points
-every month until graduation?
+367
+00:21:39,696 --> 00:21:43,900
+From the very beginning, that
+contract was the only thing I was after.
 
-434
-00:21:39,696 --> 00:21:42,112
-From the very beginning, that contract was
-
-435
-00:21:42,196 --> 00:21:44,029
-the only thing I was after.
-
-436
-00:21:44,112 --> 00:21:47,737
+368
+00:21:44,112 --> 00:21:47,026
 The bonus points were just a part of that goal.
 
-437
-00:21:47,821 --> 00:21:49,112
+369
+00:21:47,821 --> 00:21:48,765
 However,
 
-438
-00:21:49,196 --> 00:21:51,196
-I don't like it when people try to get in the way
+370
+00:21:49,196 --> 00:21:52,591
+I don't like it when people try
+to get in the way of what I want.
 
-439
-00:21:51,279 --> 00:21:52,904
-of what I want.
-
-440
-00:21:54,446 --> 00:21:56,279
+371
+00:21:54,463 --> 00:21:55,843
 Class D.
 
-441
-00:22:06,196 --> 00:22:09,987
+372
+00:22:06,196 --> 00:22:09,748
 I... I've been looking all over for you.
 
-442
-00:22:10,071 --> 00:22:11,987
+373
+00:22:10,071 --> 00:22:11,628
 Oh, it's you again.
 
-443
-00:22:12,071 --> 00:22:13,529
+374
+00:22:12,071 --> 00:22:13,478
 What do you want this time?
 
-444
-00:22:13,612 --> 00:22:15,737
+375
+00:22:13,758 --> 00:22:15,476
 I heard from Hirata.
 
-445
-00:22:15,821 --> 00:22:18,321
+376
+00:22:15,821 --> 00:22:18,374
 When you said who Class A and C's leaders were,
 
-446
-00:22:18,404 --> 00:22:21,529
+377
+00:22:18,474 --> 00:22:21,529
 you also told him I was the one
 who figured the whole thing out.
 
-447
-00:22:22,779 --> 00:22:24,529
+378
+00:22:22,413 --> 00:22:24,475
 And then after the test was over,
 
-448
-00:22:24,612 --> 00:22:25,696
+379
+00:22:24,612 --> 00:22:27,563
 you asked him to do something
-
-449
-00:22:25,779 --> 00:22:27,612
 to bring the class back together.
 
-450
+380
 00:22:27,696 --> 00:22:30,279
 Are you trying to use me as some kind of cover?
 
-451
-00:22:30,362 --> 00:22:32,529
-Horikita, remember what I said to you
+381
+00:22:30,362 --> 00:22:33,989
+Horikita, remember what I
+said to you a long time ago?
 
-452
-00:22:32,612 --> 00:22:37,237
-a long time ago? I told you that you need allies.
+382
+00:22:34,856 --> 00:22:37,029
+I told you that you need allies.
 
-453
-00:22:38,529 --> 00:22:40,737
+383
+00:22:38,529 --> 00:22:40,483
 Is that why you did all of this?
 
-454
-00:22:40,821 --> 00:22:43,946
+384
+00:22:40,923 --> 00:22:43,689
 I'm finally starting to see a real change in you.
 
-455
-00:22:45,279 --> 00:22:47,529
+385
+00:22:45,279 --> 00:22:47,237
 Why's it always your fault?
 
-456
-00:22:47,612 --> 00:22:49,404
-Look, I acknowledge that we are allies,
+386
+00:22:47,612 --> 00:22:52,703
+Look, I acknowledge that we are allies, but I'll
+only do it grudgingly, so don't get any ideas, okay?
 
-457
-00:22:49,494 --> 00:22:52,703
-but I'll only do it grudgingly,
-so don't get any ideas, okay?
+387
+00:22:52,779 --> 00:22:56,362
+And you better not act like we're all
+buddy-buddy once we get back to school, or trust me,
 
-458
-00:22:52,779 --> 00:22:54,696
-And you better not act like we're all buddy-buddy
-
-459
-00:22:54,779 --> 00:22:56,362
-once we get back to school, or trust me,
-
-460
-00:22:56,446 --> 00:22:58,196
+388
+00:22:56,405 --> 00:22:57,811
 there'll be hell to pay!
 
-461
+389
 00:22:58,279 --> 00:22:59,946
 It's just for our goals.
 
-462
-00:23:00,029 --> 00:23:03,071
+390
+00:22:59,971 --> 00:23:02,170
 We're working together to get to Class A!
 
-463
-00:23:03,154 --> 00:23:04,154
+391
+00:23:03,227 --> 00:23:03,889
 But...
 
-464
-00:23:04,237 --> 00:23:06,654
+392
+00:23:04,237 --> 00:23:06,193
 Despite that, I have to tell you.
 
-465
-00:23:08,279 --> 00:23:10,446
+393
+00:23:08,279 --> 00:23:09,679
 Thanks for your help.
 
-466
+394
 00:23:10,529 --> 00:23:13,862
 Not that I need you or anything. I am fine without you!
 
-467
-00:23:13,946 --> 00:23:15,612
+395
+00:23:14,046 --> 00:23:15,453
 But, Horikita.
 
-468
-00:23:15,696 --> 00:23:17,987
+396
+00:23:15,735 --> 00:23:17,854
 I've never considered you an ally.
 
-469
-00:23:18,071 --> 00:23:19,987
+397
+00:23:18,071 --> 00:23:19,598
 Not even for a second.
 
-470
-00:23:21,946 --> 00:23:27,279
+398
+00:23:21,946 --> 00:23:26,492
 Not you. Not Kushida. Not Hirata.
 
-471
-00:23:27,362 --> 00:23:29,737
+399
+00:23:27,362 --> 00:23:29,351
 People are nothing but tools to me.
 
-472
-00:23:29,821 --> 00:23:33,737
+400
+00:23:29,821 --> 00:23:33,390
 All of them. I don't care what I have to do to win.
 
-473
-00:23:34,987 --> 00:23:38,862
+401
+00:23:34,987 --> 00:23:37,786
 I don't care what I have to sacrifice.
 
-474
-00:23:38,946 --> 00:23:42,321
+402
+00:23:39,099 --> 00:23:42,012
 In this world, winning is everything.
 
-475
-00:23:43,821 --> 00:23:47,154
+403
+00:23:43,821 --> 00:23:47,099
 And in the end, I'm going to win.
 
-476
-00:23:48,862 --> 00:23:50,529
+404
+00:23:48,862 --> 00:23:50,614
 That's all that matters.
 
