@@ -1,28 +1,28 @@
 ﻿1
-00:00:03,532 --> 00:00:05,733
+00:00:03,532 --> 00:00:05,695
 <i>I'd like to tell you a little story.</i>
 
 2
-00:00:06,249 --> 00:00:10,020
-<i>It happened a long time ago,</i>
-<i>when I was in the sixth grade.</i>
+00:00:06,541 --> 00:00:10,020
+<i>It happened a long time ago,
+when I was in the sixth grade.</i>
 
 3
 00:00:10,330 --> 00:00:14,746
-<i>One day at school,
-a girl brought a box of hamsters to class.</i>
+<i>One day at school, a girl
+brought a box of hamsters to class.</i>
 
 4
 00:00:14,862 --> 00:00:16,831
 <i>And she was very upset.</i>
 
 5
-00:00:17,054 --> 00:00:20,695
+00:00:17,140 --> 00:00:20,781
 <i>She said she started with two,
 and before she knew it, they'd bred.</i>
 
 6
-00:00:20,909 --> 00:00:23,812
+00:00:21,134 --> 00:00:23,763
 <i>Now she had more than she could take care of.</i>
 
 7
@@ -30,1149 +30,1127 @@ and before she knew it, they'd bred.</i>
 <i>I happily took them for her.</i>
 
 8
-00:00:26,334 --> 00:00:28,009
+00:00:26,438 --> 00:00:28,009
 <i>When I got home that day,</i>
 
 9
-00:00:28,034 --> 00:00:30,092
+00:00:28,070 --> 00:00:30,092
 <i>I filled a big wine jug with water.</i>
 
 10
-00:00:30,378 --> 00:00:34,040
+00:00:30,443 --> 00:00:34,040
 <i>Then I dropped the hamsters in one by one.</i>
 
 11
-00:00:34,306 --> 00:00:36,723
+00:00:34,306 --> 00:00:36,697
 <i>When I checked on them three hours later,</i>
 
 12
-00:00:36,748 --> 00:00:38,297
+00:00:36,810 --> 00:00:38,297
 <i>I couldn’t believe my eyes.</i>
 
 13
-00:00:39,133 --> 00:00:42,128
+00:00:39,295 --> 00:00:42,095
 <i>One hamster was still alive,</i>
 
 14
-00:00:42,153 --> 00:00:45,890
+00:00:42,208 --> 00:00:45,890
 <i>standing atop the drowned corpse of one of its siblings.</i>
 
 15
-00:00:46,208 --> 00:00:48,761
+00:00:46,404 --> 00:00:48,761
 <i>And I was thrilled.</i>
 
 16
-00:00:49,118 --> 00:00:52,702
+00:00:49,164 --> 00:00:52,722
 <i>I named it Spice and decided to keep it for my pet.</i>
 
 17
-00:00:52,979 --> 00:00:55,657
-<i>Why? Because when I saw it in the jug,</i>
+00:00:53,163 --> 00:00:58,659
+<i>Why? Because when I saw it in the jug, it
+reminded me of a story called "The Spider's Thread."</i>
 
 18
-00:00:55,682 --> 00:00:58,557
-<i>it reminded me of a story called "The Spider's Thread."</i>
-
-19
-00:00:58,796 --> 00:00:59,796
+00:00:58,909 --> 00:00:59,909
 <i>Do you know it?</i>
 
-20
+19
 00:01:00,158 --> 00:01:02,641
 <i>It's about a sinner in Hell named Kandata</i>
 
-21
-00:01:02,666 --> 00:01:05,994
+20
+00:01:02,707 --> 00:01:06,019
 <i>who, while alive, once spared a spider's life.</i>
 
-22
-00:01:06,218 --> 00:01:08,179
+21
+00:01:06,346 --> 00:01:08,179
 <i>Moved by this act of compassion,</i>
 
-23
-00:01:08,204 --> 00:01:11,929
+22
+00:01:08,301 --> 00:01:11,929
 <i>the Buddha lowered a spider's
 thread from paradise down to him.</i>
 
-24
+23
 00:01:12,778 --> 00:01:15,368
-<i>Kandata started climbing it,</i>
-<i>and half way up,</i>
+<i>Kandata started climbing it, and half way up,</i>
 
-25
-00:01:15,393 --> 00:01:17,967
+24
+00:01:15,499 --> 00:01:17,967
 <i>he saw his fellow sinners climbing after him.</i>
 
-26
+25
 00:01:18,429 --> 00:01:20,946
-<i>He tried to knock them off,</i>
-<i>and then...</i>
+<i>He tried to knock them off, and then...</i>
 
-27
-00:01:22,636 --> 00:01:24,076
+26
+00:01:22,636 --> 00:01:24,129
 <i>the thread snapped,</i>
 
-28
-00:01:24,139 --> 00:01:27,276
+27
+00:01:24,303 --> 00:01:27,276
 <i>sending Kandata back down to Hell.</i>
 
-29
+28
 00:01:28,426 --> 00:01:32,605
 <i>Now, what I'm about to tell you
 next might sound hard to believe,</i>
 
-30
-00:01:32,880 --> 00:01:36,100
-<i>but if anyone could understand, 
-it would be you.</i>
+29
+00:01:32,966 --> 00:01:36,186
+<i>but if anyone could understand, it would be you.</i>
 
-31
-00:01:36,896 --> 00:01:38,931
+30
+00:01:36,942 --> 00:01:38,977
 <i>Ever since I met Spice,</i>
 
-32
-00:01:39,104 --> 00:01:42,074
+31
+00:01:39,185 --> 00:01:42,074
 <i>I could see the spider's thread on people.</i>
 
-33
-00:01:43,010 --> 00:01:46,055
+32
+00:01:43,081 --> 00:01:46,055
 <i>Whomever it touched, I was compelled to kill.</i>
 
-34
-00:01:46,652 --> 00:01:50,523
+33
+00:01:46,920 --> 00:01:50,523
 <i>But then a boy came along who disrupted my duties.</i>
 
+34
+00:01:50,815 --> 00:01:55,597
+<i>And wouldn't you know it, I saw
+the spider's thread attached to him.</i>
+
 35
-00:01:50,548 --> 00:01:54,084
-<i>And wouldn't you know it,</i>
-<i>I saw the spider's thread</i>
-
-36
-00:01:54,084 --> 00:01:55,597
-<i>attached to him.</i>
-
-37
-00:01:56,911 --> 00:01:58,926
+00:01:57,064 --> 00:01:58,926
 Yashiro!
 
-38
-00:01:59,022 --> 00:02:01,947
+36
+00:01:59,068 --> 00:02:01,993
 I know your future!
 
-39
-00:02:02,655 --> 00:02:06,267
+37
+00:02:02,838 --> 00:02:06,267
 <i>I tried to kill the boy, but he didn't die.</i>
 
-40
-00:02:06,292 --> 00:02:09,509
+38
+00:02:06,976 --> 00:02:09,509
 <i>So I nicknamed him Spice,</i>
 
-41
+39
 00:02:09,534 --> 00:02:11,662
 <i>and I kept a close eye on him.</i>
 
-42
-00:02:13,072 --> 00:02:16,158
-<i>That boy</i>
-<i>was you, Satoru!</i>
+40
+00:02:13,188 --> 00:02:16,158
+<i>That boy was you, Satoru!</i>
 
-43
-00:03:50,619 --> 00:03:53,248
+41
+00:03:50,785 --> 00:03:53,414
 That'll be 987 yen, please.
 
-44
-00:03:54,164 --> 00:03:56,139
+42
+00:03:54,384 --> 00:03:56,069
 Thanks for shopping with us.
 
-45
-00:04:44,296 --> 00:04:48,099
+43
+00:04:44,565 --> 00:04:48,099
 <i>Satoru mentioned something to me once about the train.</i>
 
-46
-00:04:50,185 --> 00:04:54,215
+44
+00:04:50,286 --> 00:04:54,215
 Remember, you don't have to change trains to go to Ueno.
 
-47
-00:04:55,568 --> 00:04:56,880
+45
+00:04:55,767 --> 00:04:56,880
 <i>He was right.</i>
 
-48
-00:04:57,421 --> 00:04:59,885
+46
+00:04:57,608 --> 00:04:59,794
 <i>But why did he point that out to me?</i>
 
-49
-00:05:51,950 --> 00:05:54,925
+47
+00:05:52,131 --> 00:05:54,871
 Good morning, kiddo. Sleep well?
 
-50
-00:06:03,247 --> 00:06:05,449
-Huh.
-He's in great shape
+48
+00:06:03,351 --> 00:06:07,584
+Huh. He's in great shape for someone
+who's been in a coma for 15 years.
 
-51
-00:06:05,449 --> 00:06:07,584
-for someone who's been in a coma for 15 years.
-
-52
+49
 00:06:08,247 --> 00:06:10,867
 Fifteen years.
 
-53
-00:06:11,764 --> 00:06:13,765
+50
+00:06:11,844 --> 00:06:13,845
 Wow! Talking already.
 
-54
-00:06:14,043 --> 00:06:16,596
+51
+00:06:14,169 --> 00:06:16,722
 It won't be long before you can start physical therapy.
 
-55
-00:06:19,952 --> 00:06:22,452
+52
+00:06:20,036 --> 00:06:22,452
 <i>I heard that for the past 15 years,</i>
 
-56
-00:06:22,477 --> 00:06:26,655
+53
+00:06:22,504 --> 00:06:26,655
 <i>mom spent four hours a day giving
 every joint in my body a workout.</i>
 
-57
-00:06:28,772 --> 00:06:30,241
-<i>About three years ago,</i>
+54
+00:06:28,845 --> 00:06:34,912
+<i>About three years ago, she got one of those EMS monitor
+thingies to let her know when I was conscious again.</i>
 
-58
-00:06:30,241 --> 00:06:34,839
-<i>she got one of those EMS monitor thingies
-to let her know when I was conscious again.</i>
-
-59
+55
 00:06:36,324 --> 00:06:39,408
 <i>She got another thing to stimulate my muscles.</i>
 
-60
+56
 00:06:40,362 --> 00:06:43,973
 <i>When I was in fifth grade, I stood about 4½ feet tall.</i>
 
-61
-00:06:45,089 --> 00:06:46,643
+57
+00:06:45,155 --> 00:06:46,709
 <i>I'm 5'5" now.</i>
 
-62
-00:06:48,112 --> 00:06:51,582
+58
+00:06:48,138 --> 00:06:51,608
 <i>Dr. Kitamura said, if it wasn't for my mom,</i>
 
-63
-00:06:51,662 --> 00:06:54,127
+59
+00:06:51,848 --> 00:06:54,313
 <i>I wouldn't be in as good a shape as I am.</i>
 
-64
+60
 00:06:54,950 --> 00:06:58,377
 This might be difficult but I think you're ready for it.
 
-65
+61
 00:06:58,514 --> 00:07:00,379
 Try to answer my next question.
 
-66
-00:07:01,206 --> 00:07:03,232
+62
+00:07:01,253 --> 00:07:03,279
 What's the last thing you can remember,
 
-67
+63
 00:07:03,416 --> 00:07:05,653
 before you lost consciousness, that is?
 
-68
+64
 00:07:06,009 --> 00:07:08,751
-OK.
-I remember I was...
+OK. I remember I was...
 
-69
+65
 00:07:15,586 --> 00:07:16,872
 Oh...
 
-70
-00:07:17,223 --> 00:07:18,222
+66
+00:07:17,396 --> 00:07:18,204
 Wait.
 
-71
-00:07:19,219 --> 00:07:20,553
+67
+00:07:19,325 --> 00:07:20,477
 Damn it.
 
-72
-00:07:24,018 --> 00:07:26,794
-<i>It's like these memories,</i>
-<i>whatever they are,</i>
+68
+00:07:24,168 --> 00:07:26,702
+<i>It's like these memories, whatever they are,</i>
 
-73
-00:07:26,819 --> 00:07:28,399
+69
+00:07:26,819 --> 00:07:28,322
 <i>are locked behind a door.</i>
 
-74
-00:07:31,660 --> 00:07:32,879
+70
+00:07:31,880 --> 00:07:32,804
 That's you.
 
-75
-00:07:35,948 --> 00:07:37,646
-‐Well, aren't you surprised?
-‐Hmm?
+71
+00:07:36,020 --> 00:07:37,546
+Well, aren't you surprised?
 
-76
+72
+00:07:37,571 --> 00:07:37,996
+Hmm?
+
+73
 00:07:38,213 --> 00:07:39,891
 Your face has changed a lot.
 
-77
-00:07:39,991 --> 00:07:42,311
-The last time you saw it,
-you were 11.
+74
+00:07:39,991 --> 00:07:42,284
+The last time you saw it, you were 11.
 
-78
-00:07:42,398 --> 00:07:44,908
+75
+00:07:42,510 --> 00:07:44,934
 Well, I guess since your memories are scrambled,
 
-79
+76
 00:07:45,243 --> 00:07:48,619
-it'll take a while before this all sinks in.
-It's just a matter of time.
+it'll take a while before this all
+sinks in. It's just a matter of time.
 
-80
-00:07:49,017 --> 00:07:51,995
+77
+00:07:49,308 --> 00:07:51,995
 <i>That day, I thought maybe the doc was right.</i>
 
-81
-00:07:52,259 --> 00:07:55,070
+78
+00:07:52,372 --> 00:07:54,944
 <i>I should have felt weird waking up in this time.</i>
 
-82
+79
 00:07:55,189 --> 00:07:56,390
 <i>But I didn't.</i>
 
-83
+80
 00:07:56,636 --> 00:07:58,947
 <i>But the thing is, I should have.</i>
 
-84
-00:07:59,674 --> 00:08:04,446
+81
+00:07:59,766 --> 00:08:04,290
 <i>Patience, heart rate monitor, sense of loss, arbitration.</i>
 
-85
-00:08:05,206 --> 00:08:07,376
+82
+00:08:05,278 --> 00:08:07,226
 <i>I knew those words.</i>
 
-86
-00:08:07,438 --> 00:08:09,292
+83
+00:08:07,624 --> 00:08:09,167
 <i>But when did I learn them?</i>
 
-87
-00:08:10,294 --> 00:08:12,534
+84
+00:08:10,427 --> 00:08:12,411
 <i>What the heck happened to me?</i>
 
-88
-00:08:16,824 --> 00:08:18,759
+85
+00:08:16,843 --> 00:08:18,616
 Good morning, Satoru.
 
-89
-00:08:19,905 --> 00:08:21,373
+86
+00:08:19,932 --> 00:08:21,186
 Good morning, Mom.
 
-90
+87
 00:08:21,398 --> 00:08:24,014
-Guess what?
-You've got some visitors.
+Guess what? You've got some visitors.
 
-91
+88
 00:08:24,539 --> 00:08:26,135
 Look who decided to wake up.
 
-92
+89
 00:08:26,160 --> 00:08:28,010
-You look great.
-How are you feeling?
+You look great. How are you feeling?
 
-93
-00:08:29,726 --> 00:08:32,263
+90
+00:08:29,841 --> 00:08:32,096
 <i>I remember Kenya and Hiromi.</i>
 
-94
-00:08:32,263 --> 00:08:34,898
+91
+00:08:32,263 --> 00:08:34,547
 <i>They were two of my very best friends.</i>
 
-95
-00:08:34,898 --> 00:08:38,235
+92
+00:08:35,266 --> 00:08:38,235
 <i>Kenya's a lawyer now and Hiromi's a doctor.</i>
 
-96
-00:08:39,141 --> 00:08:42,183
+93
+00:08:39,340 --> 00:08:42,067
 <i>We talked for hours about this and that.</i>
 
-97
-00:08:42,239 --> 00:08:46,993
+94
+00:08:42,487 --> 00:08:46,993
 <i>Now and then I got the feeling Kenya
 wanted to ask me something, but he didn't.</i>
 
-98
-00:08:47,118 --> 00:08:49,354
+95
+00:08:47,189 --> 00:08:49,111
 <i>Maybe Mom told him not to.</i>
 
-99
-00:08:49,680 --> 00:08:52,355
+96
+00:08:49,944 --> 00:08:52,355
 <i>We just talked about trivial things.</i>
 
-100
-00:08:54,124 --> 00:08:56,393
-‐See ya later.
-‐Take it easy.
+97
+00:08:54,234 --> 00:08:55,201
+See ya later.
 
-101
-00:08:58,755 --> 00:09:01,533
+98
+00:08:55,226 --> 00:08:56,417
+Take it easy.
+
+99
+00:08:58,775 --> 00:09:01,553
 <i>There was lots of stuff I wanted to ask the guys.</i>
 
-102
-00:09:01,900 --> 00:09:06,609
+100
+00:09:01,922 --> 00:09:06,642
 <i>But Mom being Mom, I bet she wanted to
 avoid that to spare me from the shock.</i>
 
-103
-00:09:07,643 --> 00:09:11,477
+101
+00:09:07,761 --> 00:09:11,477
 <i>For 15 years, she dedicated herself to keeping me alive,</i>
 
-104
-00:09:11,502 --> 00:09:13,633
+102
+00:09:11,575 --> 00:09:13,633
 <i>hoping I'd wake up one day.</i>
 
-105
-00:09:14,430 --> 00:09:17,249
+103
+00:09:14,430 --> 00:09:17,038
 <i>She doesn't want me to remember what happened.</i>
 
-106
-00:09:17,274 --> 00:09:19,311
+104
+00:09:17,233 --> 00:09:19,270
 <i>It's probably a good thing I don't.</i>
 
-107
-00:09:28,171 --> 00:09:29,543
+105
+00:09:28,457 --> 00:09:29,404
 I got ya.
 
-108
-00:09:29,568 --> 00:09:32,196
+106
+00:09:29,730 --> 00:09:32,139
 We'll try it again tomorrow, OK?
 
-109
-00:09:40,044 --> 00:09:41,388
+107
+00:09:40,229 --> 00:09:41,388
 Satoru?
 
-110
-00:10:03,210 --> 00:10:05,189
+108
+00:10:03,552 --> 00:10:05,282
 Congratulations, Kayo.
 
+109
+00:10:08,287 --> 00:10:11,386
+Yeah, I'm married. My last name is Sugita.
+
+110
+00:10:11,595 --> 00:10:14,077
+No way. So Hiromi's a dad now?
+
 111
-00:10:08,205 --> 00:10:11,386
-Yeah, I'm married.
-My last name is Sugita.
-
-112
-00:10:11,582 --> 00:10:14,097
-No way.
-So Hiromi's a dad now?
-
-113
 00:10:14,122 --> 00:10:14,866
 Mm‐hmm.
 
-114
-00:10:14,891 --> 00:10:18,562
-I got the feeling he wanted to tell me
-something important: now I know what.
+112
+00:10:14,943 --> 00:10:18,536
+I got the feeling he wanted to tell
+me something important: now I know what.
 
-115
+113
 00:10:19,667 --> 00:10:22,982
-He looks just like him.
-He's even got the same long eyelashes.
+He looks just like him. He's
+even got the same long eyelashes.
 
-116
-00:10:23,007 --> 00:10:25,515
+114
+00:10:23,148 --> 00:10:25,515
 Yep. He's just like his daddy.
 
-117
+115
 00:10:25,761 --> 00:10:27,195
 We named him Mirai.
 
-118
-00:10:27,220 --> 00:10:30,090
-That's a cool name.
-It means "the future."
+116
+00:10:27,389 --> 00:10:29,970
+That's a cool name. It means "the future."
 
-119
-00:10:32,268 --> 00:10:35,504
+117
+00:10:32,367 --> 00:10:35,603
 You know, we felt weird about getting together.
 
-120
-00:10:35,877 --> 00:10:39,109
+118
+00:10:36,126 --> 00:10:39,109
 It didn't seem right for us to be happy.
 
-121
-00:10:39,616 --> 00:10:41,646
+119
+00:10:39,616 --> 00:10:44,336
 We're alive because of what you did
+and because of us, you ended up in a coma.
 
-122
-00:10:41,671 --> 00:10:44,336
-and because of us,
-you ended up in a coma.
-
-123
-00:10:44,731 --> 00:10:45,998
+120
+00:10:44,748 --> 00:10:45,951
 It felt like...
 
-124
-00:10:46,643 --> 00:10:49,310
+121
+00:10:46,798 --> 00:10:49,310
 like we were leaving you behind, I guess.
 
-125
-00:10:50,837 --> 00:10:53,780
+122
+00:10:50,959 --> 00:10:53,780
 Kayo, whatever happened to me happened.
 
-126
-00:10:53,950 --> 00:10:56,152
+123
+00:10:54,067 --> 00:10:56,152
 So don't go blaming yourself about it.
 
-127
-00:10:56,286 --> 00:10:58,588
-I don't have any regrets,
-'cause in the end,
+124
+00:10:56,356 --> 00:10:58,658
+I don't have any regrets, 'cause in the end,
 
-128
-00:10:58,683 --> 00:11:00,740
+125
+00:10:58,802 --> 00:11:00,859
 I'm here 'cause it's where I'm supposed to be.
 
-129
+126
 00:11:02,469 --> 00:11:06,610
 After being gone for 15 years,
 you're still a smooth talker.
 
-130
-00:11:06,635 --> 00:11:08,066
+127
+00:11:06,674 --> 00:11:08,105
 Oh, I am?
 
+128
+00:11:09,307 --> 00:11:11,175
+I get what you're saying, Satoru,
+
+129
+00:11:11,244 --> 00:11:14,704
+but before you came along, I
+thought I'd always be alone in life.
+
+130
+00:11:14,885 --> 00:11:17,236
+And here I am with my very own family.
+
 131
-00:11:09,307 --> 00:11:11,200
-I get what you're saying,
-Satoru,
+00:11:17,592 --> 00:11:20,515
+You made that possible, so thank you.
 
 132
-00:11:11,200 --> 00:11:14,704
-but before you came along,
-I thought I'd always be alone in life.
+00:11:21,998 --> 00:11:24,092
+<i>She said... "thank you."</i>
 
 133
-00:11:14,704 --> 00:11:17,203
-And here I am
-with my very own family.
-
-134
-00:11:17,512 --> 00:11:20,516
-You made that possible,
-so thank you.
-
-135
-00:11:21,765 --> 00:11:24,161
-<i>She said...</i>
-<i>"thank you."</i>
-
-136
-00:11:24,747 --> 00:11:27,198
+00:11:25,020 --> 00:11:27,238
 <i>But I can't remember what for.</i>
 
-137
+134
 00:11:30,340 --> 00:11:32,663
 Uh‐oh, someone's hungry.
 
-138
+135
 00:11:32,688 --> 00:11:34,069
 OK, OK.
 
-139
-00:11:42,874 --> 00:11:45,676
+136
+00:11:43,125 --> 00:11:45,649
 Satoru, are you OK?
 
-140
+137
 00:11:45,701 --> 00:11:46,467
 Yeah.
 
-141
-00:11:46,492 --> 00:11:48,824
+138
+00:11:46,638 --> 00:11:48,824
 I shouldn’t have sprung all this on you.
 
-142
-00:11:48,849 --> 00:11:50,516
+139
+00:11:48,983 --> 00:11:50,455
 It's a lot to process.
 
-143
-00:11:51,614 --> 00:11:53,320
+140
+00:11:51,741 --> 00:11:53,320
 Well, we'll see you later.
 
-144
-00:11:53,345 --> 00:11:55,060
+141
+00:11:53,405 --> 00:11:55,120
 Yeah, see you later.
 
-145
-00:12:11,928 --> 00:12:14,430
-Hey, kiddo,
-you have a good workout today?
+142
+00:12:12,301 --> 00:12:14,565
+Hey, kiddo, you have a good workout today?
 
-146
-00:12:14,430 --> 00:12:18,300
+143
+00:12:14,819 --> 00:12:18,300
 Uh‐huh. Kayo came by a little while ago.
 
-147
-00:12:18,371 --> 00:12:20,669
+144
+00:12:18,427 --> 00:12:20,669
 Mm. I bumped into her outside.
 
-148
+145
 00:12:20,694 --> 00:12:22,689
 She's got the cutest baby.
 
-149
-00:12:25,608 --> 00:12:27,777
+146
+00:12:25,782 --> 00:12:27,777
 Listen, Mom?
 
-150
-00:12:28,384 --> 00:12:29,425
+147
+00:12:28,683 --> 00:12:29,418
 What's up?
 
-151
-00:12:29,974 --> 00:12:34,564
-‐Not those assholes again.
-‐What?
+148
+00:12:29,974 --> 00:12:32,638
+Not those assholes again.
 
-152
-00:12:34,751 --> 00:12:38,164
+149
+00:12:33,926 --> 00:12:34,608
+What?
+
+150
+00:12:34,974 --> 00:12:38,164
 Paparazzi from the gossip rags looking for a story.
 
-153
-00:12:38,299 --> 00:12:41,023
+151
+00:12:38,299 --> 00:12:40,962
 Waking up after 15 years made you a celebrity.
 
-154
-00:12:41,023 --> 00:12:43,225
-‐Oh.
-‐Screw 'em.
+152
+00:12:41,189 --> 00:12:42,082
+Oh.
 
-155
-00:12:43,225 --> 00:12:45,363
+153
+00:12:42,248 --> 00:12:43,225
+Screw 'em.
+
+154
+00:12:43,412 --> 00:12:45,363
 Anyway, you wanted to tell me something?
 
-156
-00:12:45,583 --> 00:12:48,072
+155
+00:12:45,612 --> 00:12:48,072
 No. It wasn't important.
 
-157
-00:12:49,461 --> 00:12:50,486
+156
+00:12:49,667 --> 00:12:50,486
 Come in.
 
+157
+00:12:53,592 --> 00:12:54,860
+How are we doing?
+
 158
-00:12:53,592 --> 00:12:56,470
--How are we doing?
--So far, so good, doc.
+00:12:54,885 --> 00:12:56,480
+So far, so good, doc.
 
 159
-00:12:57,275 --> 00:12:58,811
+00:12:57,662 --> 00:12:58,811
 I was wondering...
 
 160
-00:12:59,250 --> 00:13:01,536
+00:12:59,448 --> 00:13:01,536
 when do you think I'll be able to walk again?
 
 161
-00:13:01,978 --> 00:13:04,246
-I don't know.
-It depends on you.
+00:13:02,167 --> 00:13:04,433
+I don't know. It depends on you.
 
 162
-00:13:04,246 --> 00:13:07,449
+00:13:04,693 --> 00:13:07,409
 If it's OK, I'd like to do twice as much rehab.
 
 163
-00:13:07,449 --> 00:13:10,252
-‐Why? ‐I wanna walk outside again.
+00:13:08,005 --> 00:13:08,554
+Why?
 
 164
-00:13:10,470 --> 00:13:13,556
-Uh, sure, I'll see what I can do.
+00:13:08,679 --> 00:13:10,276
+I wanna walk outside again.
 
 165
-00:13:13,556 --> 00:13:15,314
-Sorry, I have to take this.
+00:13:10,607 --> 00:13:13,441
+Uh, sure, I'll see what I can do.
 
 166
-00:13:15,758 --> 00:13:18,294
-Yes, Director. Yes, sir.
+00:13:13,556 --> 00:13:15,205
+Sorry, I have to take this.
 
 167
-00:13:18,700 --> 00:13:20,530
-He's doing great, actually.
+00:13:15,998 --> 00:13:18,196
+Yes, Director. Yes, sir.
 
 168
-00:13:21,209 --> 00:13:23,394
-He should get all his memoires back any time now.
+00:13:18,847 --> 00:13:20,677
+He's doing great, actually.
 
 169
-00:13:25,094 --> 00:13:26,379
-I'm sorry, no.
+00:13:21,362 --> 00:13:23,547
+He should get all his memoires back any time now.
 
 170
-00:13:26,404 --> 00:13:29,470
+00:13:25,215 --> 00:13:26,379
+I'm sorry, no.
+
+171
+00:13:26,502 --> 00:13:29,470
 Like I told you the other day,
 I'm not comfortable with that.
 
-171
-00:13:29,938 --> 00:13:33,126
+172
+00:13:30,024 --> 00:13:33,212
 With all due respect, he's my patient, not a guinea pig...
 
-172
-00:13:35,457 --> 00:13:36,766
+173
+00:13:35,632 --> 00:13:36,766
 I have to go.
 
-173
-00:13:39,290 --> 00:13:41,292
-You're doing great,
-Satoru.
-
 174
-00:13:41,435 --> 00:13:44,336
-Your arms and legs have gotten a lot stronger.
+00:13:39,290 --> 00:13:41,292
+You're doing great, Satoru.
 
 175
-00:14:08,975 --> 00:14:10,952
-- Congratulations.
-- Way to go!
+00:13:41,454 --> 00:13:44,355
+Your arms and legs have gotten a lot stronger.
 
 176
+00:14:08,975 --> 00:14:09,974
+Congratulations.
+
+177
+00:14:09,999 --> 00:14:10,952
+Way to go!
+
+178
 00:14:10,977 --> 00:14:12,915
 You walked the whole way without our help.
 
-177
-00:14:12,915 --> 00:14:14,178
+179
+00:14:12,940 --> 00:14:14,288
 Awesome job!
 
-178
-00:14:27,123 --> 00:14:30,459
-Hey, Satoru,
-Kenya stopped by for a little visit.
+180
+00:14:27,123 --> 00:14:30,377
+Hey, Satoru, Kenya stopped by for a little visit.
 
-179
-00:14:30,717 --> 00:14:32,118
+181
+00:14:30,877 --> 00:14:32,017
 Hi, Kenya.
 
-180
+182
 00:14:32,143 --> 00:14:34,034
 I hope it's OK I stopped by.
 
-181
-00:14:34,059 --> 00:14:36,131
-Are you kidding?
-Of course it is.
+183
+00:14:34,153 --> 00:14:36,131
+Are you kidding? Of course it is.
 
-182
-00:14:36,149 --> 00:14:37,684
+184
+00:14:36,149 --> 00:14:37,521
 Hello, Satoru.
 
-183
+185
 00:14:40,019 --> 00:14:41,520
 Have we met before?
 
-184
-00:14:41,520 --> 00:14:43,397
-Matter of fact,
-we have.
-
-185
-00:14:43,617 --> 00:14:48,056
-Your mom and I used to work together back
-before you started elementary school.
-
 186
+00:14:41,787 --> 00:14:43,397
+Matter of fact, we have.
+
+187
+00:14:43,857 --> 00:14:47,978
+Your mom and I used to work together
+back before you started elementary school.
+
+188
 00:14:48,546 --> 00:14:49,037
 Oh.
 
-187
+189
 00:14:49,280 --> 00:14:51,799
 Come on, you honestly think he'd remember you?
 
-188
-00:14:51,836 --> 00:14:53,926
+190
+00:14:51,870 --> 00:14:53,863
 That was like 20 years ago now.
 
-189
+191
 00:14:58,972 --> 00:15:00,590
-All right,
-take care, buddy.
+All right, take care, buddy.
 
-190
+192
 00:15:01,240 --> 00:15:02,264
 See you later.
 
-191
-00:15:05,434 --> 00:15:08,828
-We've waited 15 years.
-No reason to get impatient.
-
-192
-00:15:09,115 --> 00:15:10,653
- ‐We should go easy on him.
- ‐ Yeah.
-
 193
-00:15:21,476 --> 00:15:22,753
-Hi, Kumi.
+00:15:05,434 --> 00:15:08,828
+We've waited 15 years. No reason to get impatient.
 
 194
-00:15:25,477 --> 00:15:29,082
-Ah, so the surgery's in two weeks, huh?
+00:15:09,349 --> 00:15:10,542
+We should go easy on him.
 
 195
+00:15:10,757 --> 00:15:11,544
+Yeah.
+
+196
+00:15:21,729 --> 00:15:22,543
+Hi, Kumi.
+
+197
+00:15:25,719 --> 00:15:29,082
+Ah, so the surgery's in two weeks, huh?
+
+198
 00:15:29,502 --> 00:15:32,706
 They're gonna put some of my
 big sister's bone marrow in me.
 
-196
-00:15:32,912 --> 00:15:35,000
+199
+00:15:33,111 --> 00:15:35,000
 They said it will cure me.
 
-197
-00:15:35,748 --> 00:15:39,117
+200
+00:15:35,937 --> 00:15:38,819
 But even so, I'm scared.
 
-198
+201
 00:15:42,337 --> 00:15:45,073
 <i>You were asleep for 15 years?!</i>
 
-199
-00:15:45,306 --> 00:15:47,887
+202
+00:15:45,542 --> 00:15:47,887
 I know you've been at this hospital for a while.
 
-200
-00:15:47,887 --> 00:15:50,890
-‐What's it been, like three months now?
-‐Mm‐hmm.
+203
+00:15:47,912 --> 00:15:49,535
+What's it been, like three months now?
 
-201
-00:15:50,890 --> 00:15:54,831
+204
+00:15:50,068 --> 00:15:50,848
+Mm‐hmm.
+
+205
+00:15:50,934 --> 00:15:54,831
 It's gonna be hard to stay motivated
 in physical therapy once you leave.
 
-202
-00:15:55,208 --> 00:15:57,445
+206
+00:15:55,487 --> 00:15:57,445
 You’re the reason I was working so hard.
 
-203
-00:16:06,133 --> 00:16:07,357
+207
+00:16:06,186 --> 00:16:07,410
 Courage...
 
-204
-00:16:09,393 --> 00:16:12,345
-Whenever I need courage,
-here's what I do.
-
-205
-00:16:12,979 --> 00:16:16,040
-I picture someone I really care about smiling.
-
-206
-00:16:16,447 --> 00:16:18,770
-It only works if I smile back, though.
-
-207
-00:16:22,069 --> 00:16:24,150
-"The time‐traveling pedo.
-
 208
-00:16:24,175 --> 00:16:26,415
-He wakes up an adult,
-but he's still a kid at heart.
+00:16:09,684 --> 00:16:12,345
+Whenever I need courage, here's what I do.
 
 209
+00:16:13,372 --> 00:16:16,040
+I picture someone I really care about smiling.
+
+210
+00:16:16,820 --> 00:16:18,770
+It only works if I smile back, though.
+
+211
+00:16:22,262 --> 00:16:24,150
+"The time‐traveling pedo.
+
+212
+00:16:24,175 --> 00:16:26,415
+He wakes up an adult, but he's still a kid at heart.
+
+213
 00:16:26,440 --> 00:16:28,276
 Still hot for little girls.
 
-210
+214
 00:16:28,301 --> 00:16:31,070
-Soon he'll be released.
-Hide your children."
+Soon he'll be released. Hide your children."
 
-211
-00:16:31,095 --> 00:16:33,054
-‐What do you think?
-‐Good angle.
+215
+00:16:31,095 --> 00:16:31,963
+What do you think?
 
-212
+216
+00:16:31,988 --> 00:16:33,078
+Good angle.
+
+217
 00:16:33,487 --> 00:16:38,178
 Taking photos of a civilian without their permission.
 
-213
-00:16:38,203 --> 00:16:40,372
+218
+00:16:38,405 --> 00:16:40,372
 Slander, trespassing.
 
-214
-00:16:40,563 --> 00:16:43,533
-If I see you again,
-I'll call the police.
-
-215
-00:16:43,558 --> 00:16:45,527
-Get out of here. Now.
-
-216
-00:16:47,152 --> 00:16:50,428
-They were some of the prettiest flowers I'd ever seen.
-
-217
-00:16:50,923 --> 00:16:53,091
-Oh, hello, Mr. Nishizono.
-
-218
-00:16:53,194 --> 00:16:54,830
-Hello, Kumi.
-
 219
-00:16:57,019 --> 00:17:00,995
-‐Satoru Fujinuma.
-‐Uh... yes?
+00:16:40,489 --> 00:16:43,459
+If I see you again, I'll call the police.
 
 220
-00:17:01,209 --> 00:17:03,807
-It's me. Don't you remember?
+00:16:43,604 --> 00:16:45,423
+Get out of here. Now.
 
 221
+00:16:47,118 --> 00:16:50,394
+They were some of the prettiest flowers I'd ever seen.
+
+222
+00:16:51,049 --> 00:16:52,808
+Oh, hello, Mr. Nishizono.
+
+223
+00:16:53,300 --> 00:16:54,672
+Hello, Kumi.
+
+224
+00:16:57,215 --> 00:16:59,015
+Satoru Fujinuma.
+
+225
+00:16:59,072 --> 00:17:01,019
+Uh... yes?
+
+226
+00:17:01,301 --> 00:17:03,689
+It's me. Don't you remember?
+
+227
 00:17:04,136 --> 00:17:08,057
 It's OK. I've changed a lot
 since the last time you saw me.
 
-222
+228
 00:17:08,649 --> 00:17:10,759
 I was your homeroom teacher once,
 
-223
-00:17:10,828 --> 00:17:12,597
+229
+00:17:10,828 --> 00:17:12,469
 when you were in fifth grade.
 
-224
-00:17:12,622 --> 00:17:16,226
+230
+00:17:12,675 --> 00:17:16,157
 I'm Gaku Yashiro.
 
-225
+231
 00:17:16,226 --> 00:17:18,602
 I go by Manabu Nishizono now.
 
-226
-00:17:18,886 --> 00:17:21,255
+232
+00:17:19,056 --> 00:17:21,177
 I changed my name a while back.
 
-227
-00:17:22,398 --> 00:17:24,734
-Why did you change it,
-if you don't mind me asking?
+233
+00:17:22,398 --> 00:17:24,792
+Why did you change it, if you don't mind me asking?
 
-228
-00:17:24,734 --> 00:17:27,570
-Not at all.
-I got married five years ago
+234
+00:17:24,865 --> 00:17:27,570
+Not at all. I got married five years ago
 
-229
-00:17:27,570 --> 00:17:30,606
--and took on my wife's family's name.
-- Oh.
+235
+00:17:27,570 --> 00:17:29,509
+and took on my wife's family's name.
 
-230
-00:17:30,606 --> 00:17:34,048
+236
+00:17:29,567 --> 00:17:30,148
+Oh.
+
+237
+00:17:30,639 --> 00:17:34,081
 My father‐in‐law was a city
 council member for a long time.
 
-231
-00:17:34,073 --> 00:17:36,442
+238
+00:17:34,176 --> 00:17:36,633
 But he passed away three years ago.
 
-232
-00:17:36,913 --> 00:17:39,983
+239
+00:17:37,019 --> 00:17:39,974
 I joined the council and took over his constituency.
 
-233
-00:17:40,197 --> 00:17:42,014
+240
+00:17:40,334 --> 00:17:42,014
 I kept the kanji for my given name,
 
-234
+241
 00:17:42,039 --> 00:17:43,797
 but I use the more common reading now.
 
-235
-00:17:43,822 --> 00:17:45,964
+242
+00:17:43,857 --> 00:17:45,964
 Wow. A real‐life politician.
 
-236
-00:17:45,989 --> 00:17:48,158
+243
+00:17:46,143 --> 00:17:48,158
 Just a lowly council member.
 
-237
-00:17:48,480 --> 00:17:53,742
+244
+00:17:48,511 --> 00:17:53,742
 Yeah, well, still, I get the feeling you'd
 be super awesome at politics, Mr. Yashiro.
 
-238
-00:17:55,743 --> 00:18:00,662
+245
+00:17:55,891 --> 00:18:00,662
 Anyway, I met Kumi and her parents at
 a charity event for kids with leukemia.
 
-239
-00:18:00,805 --> 00:18:02,999
-I know the director
-of this hospital,
-
-240
-00:18:03,024 --> 00:18:05,381
+246
+00:18:00,805 --> 00:18:05,315
+I know the director of this hospital,
 so I pulled some strings and got her in.
 
-241
-00:18:05,406 --> 00:18:06,974
+247
+00:18:05,406 --> 00:18:06,582
 That's nice of you.
 
-242
-00:18:07,143 --> 00:18:10,046
-When I heard you came to,
-I wanted to come visit.
+248
+00:18:07,143 --> 00:18:09,929
+When I heard you came to, I wanted to come visit.
 
-243
-00:18:10,071 --> 00:18:13,475
-I'm sorry it took me so long, 
-but with work and all.
+249
+00:18:10,078 --> 00:18:13,482
+I'm sorry it took me so long, but with work and all.
 
-244
-00:18:14,942 --> 00:18:17,577
+250
+00:18:15,121 --> 00:18:17,180
 Well, thanks for taking the time.
 
-245
+251
 00:18:17,861 --> 00:18:22,455
-To be honest, I've been looking forward
-to this day for the past 15 years.
+To be honest, I've been looking
+forward to this day for the past 15 years.
 
-246
+252
 00:18:22,739 --> 00:18:24,375
 Yeah, well, me too.
 
-247
-00:18:24,494 --> 00:18:28,098
+253
+00:18:24,944 --> 00:18:27,704
 You don't remember how close we were, do you?
 
-248
+254
 00:18:28,098 --> 00:18:30,656
 I don't. Sorry.
 
-249
-00:18:30,742 --> 00:18:32,555
+255
+00:18:30,808 --> 00:18:32,621
 No, it's all right.
 
-250
-00:18:34,191 --> 00:18:37,468
+256
+00:18:34,244 --> 00:18:37,468
 They said it would take a while
 before you got your memories back.
 
-251
-00:18:37,760 --> 00:18:39,892
+257
+00:18:37,773 --> 00:18:39,905
 You'll remember me, in time.
 
-252
-00:19:21,017 --> 00:19:22,128
+258
+00:19:21,092 --> 00:19:22,001
 Hello.
 
-253
-00:19:23,859 --> 00:19:27,262
-‐ Mr. Yashiro.
-‐Were you on your way to see Kumi?
+259
+00:19:23,859 --> 00:19:25,115
+Mr. Yashiro.
 
-254
+260
+00:19:25,241 --> 00:19:27,128
+Were you on your way to see Kumi?
+
+261
 00:19:27,287 --> 00:19:29,522
 Yeah. Her surgery's coming up.
 
-255
-00:19:29,610 --> 00:19:32,446
+262
+00:19:29,610 --> 00:19:32,351
 The nurses said today is the
 last day she can have visitors.
 
-256
-00:19:32,471 --> 00:19:34,767
-True.
-I just left her room.
-
-257
-00:19:35,035 --> 00:19:38,438
-She was asleep,
-so unfortunately I couldn't talk to her.
-
-258
-00:19:38,644 --> 00:19:42,220
-Well, that sucks.
-I guess I'll try seeing her later, then.
-
-259
-00:19:43,302 --> 00:19:45,765
-Uh... since you're here,
-can I talk to you?
-
-260
-00:19:45,790 --> 00:19:49,409
-Sure, but let's go someplace
-we can have some privacy,
-
-261
-00:19:49,562 --> 00:19:51,317
-away from these reporters.
-
-262
-00:19:54,163 --> 00:19:56,593
-Don't worry,
-I know the perfect spot.
-
 263
-00:20:01,702 --> 00:20:05,777
-OK, here we are. 
-I'll bet you didn't know about this elevator.
+00:19:32,471 --> 00:19:34,767
+True. I just left her room.
 
 264
-00:20:07,397 --> 00:20:09,932
-Feels like we're going on an adventure, huh?
+00:19:35,035 --> 00:19:38,605
+She was asleep, so unfortunately I couldn't talk to her.
 
 265
-00:20:17,873 --> 00:20:19,785
-Would you push the button for the roof?
+00:19:38,738 --> 00:19:42,077
+Well, that sucks. I guess I'll try seeing her later, then.
 
 266
-00:20:38,741 --> 00:20:40,443
-Hmm. Too bad.
+00:19:43,565 --> 00:19:45,765
+Uh... since you're here, can I talk to you?
 
 267
-00:20:41,006 --> 00:20:44,017
-The sunset would have been amazing if it weren't raining.
+00:19:45,969 --> 00:19:49,409
+Sure, but let's go someplace we can have some privacy,
 
 268
-00:20:44,553 --> 00:20:48,153
-At least we won't be bothered by any paparazzi up here.
+00:19:49,657 --> 00:19:51,317
+away from these reporters.
 
 269
+00:19:54,353 --> 00:19:56,671
+Don't worry, I know the perfect spot.
+
+270
+00:20:01,702 --> 00:20:05,777
+OK, here we are. I'll bet you
+didn't know about this elevator.
+
+271
+00:20:07,687 --> 00:20:10,000
+Feels like we're going on an adventure, huh?
+
+272
+00:20:17,906 --> 00:20:19,818
+Would you push the button for the roof?
+
+273
+00:20:38,747 --> 00:20:40,449
+Hmm. Too bad.
+
+274
+00:20:41,073 --> 00:20:44,017
+The sunset would have been amazing if it weren't raining.
+
+275
+00:20:44,854 --> 00:20:48,020
+At least we won't be bothered by any paparazzi up here.
+
+276
 00:20:48,304 --> 00:20:52,004
 But the roof's off‐limits so don't tell on me, OK?
 
-270
+277
 00:20:53,261 --> 00:20:57,272
 It's funny, being up here reminds
 me of how you, Kenya and Hiromi
 
-271
+278
 00:20:57,297 --> 00:21:00,147
 always talked about going to your hideout after school.
 
-272
-00:21:01,163 --> 00:21:02,632
+279
+00:21:01,336 --> 00:21:02,278
 Yashiro...
 
-273
-00:21:07,728 --> 00:21:09,629
+280
+00:21:07,814 --> 00:21:09,462
 I remember everything,
 
-274
-00:21:09,654 --> 00:21:11,071
+281
+00:21:09,686 --> 00:21:11,103
 you son of a bitch.
 

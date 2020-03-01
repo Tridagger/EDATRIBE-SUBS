@@ -1,1416 +1,1314 @@
 ﻿1
-00:00:00,897 --> 00:00:03,967
+00:00:01,106 --> 00:00:03,580
 <i>Kayo's late. Again.</i>
 
 2
-00:00:03,967 --> 00:00:07,370
-<i>But she said she was gonna</i>
-<i>give me my present today.</i>
+00:00:04,328 --> 00:00:07,345
+<i>But she said she was gonna give me my present today.</i>
 
 3
-00:00:07,370 --> 00:00:11,207
-<i>Maybe she was up all night</i>
-<i>making it and overslept.</i>
+00:00:07,905 --> 00:00:11,054
+<i>Maybe she was up all night making it and overslept.</i>
 
 4
-00:00:11,207 --> 00:00:13,176
-‐ Satoru?
-<i>‐Yeah.</i>
+00:00:11,182 --> 00:00:11,994
+Satoru?
 
 5
-00:00:13,176 --> 00:00:15,542
-‐Satoru?
-‐Huh? Yes, sir!
+00:00:12,019 --> 00:00:12,933
+<i>Yeah.</i>
 
 6
-00:00:15,567 --> 00:00:18,840
-Everything all right,
-or is there something on your mind?
+00:00:13,176 --> 00:00:14,065
+Satoru?
 
 7
-00:00:30,160 --> 00:00:32,228
-Kayo?!
+00:00:14,178 --> 00:00:15,542
+Huh? Yes, sir!
 
 8
-00:00:32,228 --> 00:00:33,830
-Open up, it's me!
+00:00:15,567 --> 00:00:18,749
+Everything all right, or is there something on your mind?
 
 9
-00:00:33,830 --> 00:00:35,732
-Kayo!
+00:00:30,451 --> 00:00:31,517
+Kayo?!
 
 10
-00:00:44,923 --> 00:00:47,092
-<i>Oh, no.</i>
+00:00:32,672 --> 00:00:33,990
+Open up, it's me!
 
 11
-00:00:55,455 --> 00:00:57,023
-<i>Rubber boot tracks.</i>
+00:00:34,170 --> 00:00:35,497
+Kayo!
 
 12
-00:00:57,048 --> 00:00:58,654
-<i>Too big to be a kid's.</i>
+00:00:45,487 --> 00:00:46,333
+<i>Oh, no.</i>
 
 13
-00:00:58,654 --> 00:01:01,557
-<i>It snowed two nights ago.</i>
+00:00:55,455 --> 00:00:56,781
+<i>Rubber boot tracks.</i>
 
 14
+00:00:57,048 --> 00:00:58,612
+<i>Too big to be a kid's.</i>
+
+15
+00:00:59,172 --> 00:01:01,018
+<i>It snowed two nights ago.</i>
+
+16
 00:01:01,557 --> 00:01:03,159
 <i>And these tracks are fresh.</i>
 
-15
-00:01:03,159 --> 00:01:07,430
-<i>Whoever was here was an adult.</i>
-<i>Probably male.</i>
-
-16
-00:01:09,648 --> 00:01:13,285
-Shit.
-Now what do we do?
-
 17
-00:03:07,481 --> 00:03:11,052
-<i>I didn't go back to school</i>
-<i>for two days.</i>
+00:01:03,682 --> 00:01:06,729
+<i>Whoever was here was an adult. Probably male.</i>
 
 18
-00:03:13,129 --> 00:03:16,767
-<i>Huh. I guess Mom went</i>
-<i>to the store.</i>
+00:01:10,186 --> 00:01:12,586
+Shit. Now what do we do?
 
 19
+00:03:07,744 --> 00:03:10,604
+<i>I didn't go back to school for two days.</i>
+
+20
+00:03:13,181 --> 00:03:16,241
+<i>Huh. I guess Mom went to the store.</i>
+
+21
 00:03:17,531 --> 00:03:21,665
 I found out a kid got snatched not
 too long ago over in the next town.
 
-20
-00:03:21,785 --> 00:03:23,670
-But the cops already caught
-that scumbag.
-
-21
-00:03:24,178 --> 00:03:28,034
-This guy is someone new.
-We have to warn people before he does it again.
-
 22
-00:03:28,262 --> 00:03:31,296
-The problem is the police put a gag order on the story.
+00:03:21,785 --> 00:03:23,670
+But the cops already caught that scumbag.
 
 23
-00:03:31,321 --> 00:03:35,587
-What about airing it when kids aren't watching?
-The station could do that easy.
+00:03:24,178 --> 00:03:28,237
+This guy is someone new. We have to
+warn people before he does it again.
 
 24
-00:03:35,612 --> 00:03:38,883
+00:03:28,542 --> 00:03:31,296
+The problem is the police put a gag order on the story.
+
+25
+00:03:31,444 --> 00:03:35,587
+What about airing it when kids aren't
+watching? The station could do that easy.
+
+26
+00:03:35,837 --> 00:03:38,883
 And I can go talk to the school
 and see if they'll issue a warning.
 
-25
-00:03:38,908 --> 00:03:43,547
-‐ OK. I'll talk to the boss about your idea.
-‐ I'd appreciate it.
-
-26
-00:03:43,572 --> 00:03:47,910
-<i>He's a reporter for Ishikari TV.
-My Mom used to work with him.</i>
-
 27
+00:03:38,962 --> 00:03:42,166
+OK. I'll talk to the boss about your idea.
+
+28
+00:03:42,191 --> 00:03:43,547
+I'd appreciate it.
+
+29
+00:03:43,696 --> 00:03:47,815
+<i>He's a reporter for Ishikari
+TV. My Mom used to work with him.</i>
+
+30
 00:03:48,592 --> 00:03:52,786
 The last thing I want is for Satoru to
 grow up with horrible memories like this.
 
-28
-00:03:52,811 --> 00:03:53,998
+31
+00:03:52,904 --> 00:03:53,938
 I hear you.
 
-29
-00:03:54,232 --> 00:03:57,140
+32
+00:03:54,439 --> 00:03:56,944
 <i>Making me forget was her idea.</i>
 
-30
-00:03:59,052 --> 00:04:01,721
-I know you're worried,
-but you gotta eat something.
-
-31
-00:04:01,721 --> 00:04:03,999
-What happened
-isn't your fault, kiddo.
-
-32
-00:04:04,509 --> 00:04:07,494
-I tried
-but I couldn't help her.
-
 33
-00:04:07,494 --> 00:04:09,296
-I don't know about that.
+00:03:59,052 --> 00:04:01,693
+I know you're worried, but you gotta eat something.
 
 34
-00:04:09,296 --> 00:04:12,665
-I just... I didn't
-want her to be alone.
+00:04:01,721 --> 00:04:03,746
+What happened isn't your fault, kiddo.
 
 35
-00:04:12,665 --> 00:04:14,935
-And thanks to you,
-she wasn't.
+00:04:04,615 --> 00:04:07,396
+I tried but I couldn't help her.
 
 36
-00:04:14,935 --> 00:04:18,538
-It wasn't enough.
-I should have done more.
+00:04:07,640 --> 00:04:09,108
+I don't know about that.
 
 37
-00:04:19,041 --> 00:04:21,408
-Look, what happened happened.
+00:04:09,793 --> 00:04:12,665
+I just... I didn't want her to be alone.
 
 38
-00:04:21,408 --> 00:04:24,211
-So it's pointless to beat
-yourself up about it.
+00:04:13,073 --> 00:04:14,967
+And thanks to you, she wasn't.
 
 39
-00:04:24,211 --> 00:04:28,481
-In a situation like hers,
-there’s only so much anyone could have done.
+00:04:15,222 --> 00:04:17,997
+It wasn't enough. I should have done more.
 
 40
-00:04:28,481 --> 00:04:30,784
-That goes for you and me.
+00:04:19,272 --> 00:04:21,408
+Look, what happened happened.
 
 41
-00:04:30,784 --> 00:04:32,986
-You should go back to school tomorrow.
+00:04:21,480 --> 00:04:24,313
+So it's pointless to beat yourself up about it.
 
 42
-00:04:32,986 --> 00:04:36,757
-- ‐You'll just feel worse staying here alone.
--  ‐ OK.
+00:04:24,620 --> 00:04:28,481
+In a situation like hers, there’s
+only so much anyone could have done.
 
 43
-00:04:36,757 --> 00:04:39,359
-Good. Now eat up, OK?
+00:04:28,703 --> 00:04:30,485
+That goes for you and me.
 
 44
-00:04:39,359 --> 00:04:41,194
-Yeah.
+00:04:30,925 --> 00:04:32,885
+You should go back to school tomorrow.
 
 45
-00:04:43,096 --> 00:04:45,899
-I, uh,
-have a confession.
+00:04:33,381 --> 00:04:35,608
+You'll just feel worse staying here alone.
 
 46
-00:04:45,899 --> 00:04:50,303
+00:04:36,021 --> 00:04:36,635
+OK.
+
+47
+00:04:36,757 --> 00:04:38,793
+Good. Now eat up, OK?
+
+48
+00:04:39,617 --> 00:04:40,257
+Yeah.
+
+49
+00:04:43,220 --> 00:04:45,651
+I, uh, have a confession.
+
+50
+00:04:46,198 --> 00:04:50,303
 The other day, I told you Kayo was
 home with a cold. That's not true.
 
-47
-00:04:50,303 --> 00:04:54,674
+51
+00:04:50,846 --> 00:04:54,674
 She's staying with her grandmother
 in Sapporo for personal reasons.
 
-48
-00:04:54,674 --> 00:04:58,111
-It happened so fast,
-she didn't have a chance to say goodbye.
-
-49
-00:04:58,111 --> 00:05:00,480
-But don’t worry,
-I hear she's doing well.
-
-50
-00:05:02,850 --> 00:05:04,451
-She ran away.
-
-51
-00:05:04,451 --> 00:05:07,387
-I heard Kayo's mom
-hit her with a broom.
-
 52
-00:05:07,387 --> 00:05:08,989
-Oh, my God, really?
+00:04:55,342 --> 00:04:58,111
+It happened so fast, she didn't
+have a chance to say goodbye.
 
 53
-00:05:08,989 --> 00:05:11,224
-It's better
-she's with her grandma.
+00:04:58,187 --> 00:05:00,374
+But don’t worry, I hear she's doing well.
 
 54
-00:05:11,224 --> 00:05:13,160
-Hey, Satoru.
+00:05:02,850 --> 00:05:04,415
+She ran away.
 
 55
-00:05:13,301 --> 00:05:15,569
-‐Cheer up, man.
-‐Yeah, don't worry.
+00:05:04,701 --> 00:05:07,307
+I heard Kayo's mom hit her with a broom.
 
 56
-00:05:15,594 --> 00:05:17,830
-‐You'll see her again.
-‐Mm‐hmm.
+00:05:07,332 --> 00:05:08,753
+Oh, my God, really?
 
 57
-00:05:19,522 --> 00:05:24,693
+00:05:08,778 --> 00:05:11,224
+It's better she's with her grandma.
+
+58
+00:05:11,224 --> 00:05:12,399
+Hey, Satoru.
+
+59
+00:05:13,301 --> 00:05:14,481
+Cheer up, man.
+
+60
+00:05:14,506 --> 00:05:15,569
+Yeah, don't worry.
+
+61
+00:05:15,594 --> 00:05:16,700
+You'll see her again.
+
+62
+00:05:16,725 --> 00:05:17,480
+Mm‐hmm.
+
+63
+00:05:19,699 --> 00:05:24,693
 Satoru, the school and the PTA talked
 about it and decided this was for the best.
 
-58
-00:05:24,693 --> 00:05:28,331
-I hate to ask this, but could
-you go along with the story?
+64
+00:05:24,789 --> 00:05:28,199
+I hate to ask this, but could you go along with the story?
 
-59
-00:05:28,331 --> 00:05:29,598
+65
+00:05:28,479 --> 00:05:29,318
 Sure.
 
-60
-00:05:29,598 --> 00:05:31,934
+66
+00:05:30,147 --> 00:05:31,214
 I'm sorry.
 
-61
-00:05:31,934 --> 00:05:35,238
-<i>The press couldn't</i>
-<i>talk about it either.</i>
+67
+00:05:32,815 --> 00:05:34,988
+<i>The press couldn't talk about it either.</i>
 
-62
-00:05:35,238 --> 00:05:40,476
-<i>And for the past few days,
-the police had a car parked outside Kayo's house.</i>
+68
+00:05:35,401 --> 00:05:40,117
+<i>And for the past few days, the police
+had a car parked outside Kayo's house.</i>
 
-63
-00:05:40,476 --> 00:05:46,015
+69
+00:05:41,112 --> 00:05:45,340
 <i>They were watching it because they
 pegged her mom as the prime suspect.</i>
 
-64
-00:05:48,234 --> 00:05:52,005
-<i>Then, six days</i>
-<i>after Kayo disappeared...</i>
+70
+00:05:48,387 --> 00:05:51,778
+<i>Then, six days after Kayo disappeared...</i>
 
-65
-00:05:56,086 --> 00:05:58,822
-Listen up, everyone,
-I have an announcement.
+71
+00:05:56,086 --> 00:05:58,665
+Listen up, everyone, I have an announcement.
 
-66
+72
 00:05:58,822 --> 00:06:02,058
-From now on, when you leave school,
-make sure you're either with your parents...
+From now on, when you leave school, make
+sure you're either with your parents...
 
-67
+73
 00:06:02,083 --> 00:06:04,005
 <i>...the next girl was kidnapped,</i>
 
-68
-00:06:04,030 --> 00:06:06,599
-<i>sooner than</i>
-<i>she should have been.</i>
+74
+00:06:04,030 --> 00:06:06,252
+<i>sooner than she should have been.</i>
 
-69
-00:06:08,957 --> 00:06:11,226
-You hear
-about Aya Nakanishi?
+75
+00:06:09,103 --> 00:06:11,134
+You hear about Aya Nakanishi?
 
-70
+76
 00:06:11,401 --> 00:06:15,338
-I don't know if you knew her,
-but she was a student at Izumi Elementary.
+I don't know if you knew her, but
+she was a student at Izumi Elementary.
 
-71
-00:06:15,338 --> 00:06:16,606
+77
+00:06:15,520 --> 00:06:16,581
 I heard.
 
-72
-00:06:16,606 --> 00:06:21,278
+78
+00:06:16,789 --> 00:06:21,278
 I have a friend who goes there and he said
 she ran away to go live with her grandfather.
 
-73
-00:06:21,278 --> 00:06:24,982
-She did, huh?
-Just like Kayo.
+79
+00:06:21,572 --> 00:06:24,384
+She did, huh? Just like Kayo.
 
-74
-00:06:24,982 --> 00:06:28,118
-She didn't run away.
-That’s a lie.
+80
+00:06:25,155 --> 00:06:28,084
+She didn't run away. That’s a lie.
 
-75
-00:06:29,887 --> 00:06:34,057
-If you ask me, there's
-a kidnapper on the loose.
+81
+00:06:30,000 --> 00:06:33,424
+If you ask me, there's a kidnapper on the loose.
 
-76
-00:06:35,658 --> 00:06:38,896
-<i>The details might not be</i>
-<i>exactly the same,</i>
+82
+00:06:36,270 --> 00:06:38,731
+<i>The details might not be exactly the same,</i>
 
-77
-00:06:38,896 --> 00:06:43,412
+83
+00:06:39,265 --> 00:06:42,979
 <i>but things were definitely following
 the same flow of time as before.</i>
 
-78
-00:06:45,602 --> 00:06:50,908
-<i>Stations ran stories on the missing girls all
-day, except Ishikari TV.</i>
+84
+00:06:46,036 --> 00:06:50,908
+<i>Stations ran stories on the missing
+girls all day, except Ishikari TV.</i>
 
-79
-00:06:50,960 --> 00:06:54,163
-<i>They only ran them early in
-the morning and late at night.</i>
+85
+00:06:51,214 --> 00:06:54,015
+<i>They only ran them early in the morning and late at night.</i>
 
-80
-00:06:54,188 --> 00:06:58,816
+86
+00:06:54,242 --> 00:06:58,570
 <i>So parents were advised to have
 their kids watch Ishikari TV only.</i>
 
-81
-00:06:58,816 --> 00:07:01,184
-‐
-‐ I'm home.
+87
+00:06:59,445 --> 00:07:00,832
+I'm home.
 
-82
-00:07:10,572 --> 00:07:14,164
-<i>After Aya Nakanishi went
-missing, I noticed something.</i>
+88
+00:07:10,547 --> 00:07:14,139
+<i>After Aya Nakanishi went missing, I noticed something.</i>
 
-83
-00:07:14,164 --> 00:07:17,783
-<i>The cops had dialed back</i>
-<i>their stakeout at Kayo's place.</i>
+89
+00:07:14,463 --> 00:07:17,586
+<i>The cops had dialed back their stakeout at Kayo's place.</i>
 
-84
-00:07:18,126 --> 00:07:21,970
-<i>They must have realized a serial
-kidnapper was on the loose.</i>
+90
+00:07:18,158 --> 00:07:21,380
+<i>They must have realized a
+serial kidnapper was on the loose.</i>
 
-85
+91
 00:07:38,377 --> 00:07:40,712
 <i>Ten days after Kayo disappeared...</i>
 
-86
-00:07:42,521 --> 00:07:46,191
-<i>I saw her mom toss out</i>
-<i>a bag of trash.</i>
+92
+00:07:42,965 --> 00:07:45,745
+<i>I saw her mom toss out a bag of trash.</i>
 
-87
-00:07:46,596 --> 00:07:49,299
+93
+00:07:47,045 --> 00:07:48,919
 <i>A pair of mittens was in it.</i>
 
-88
-00:07:51,261 --> 00:07:55,265
-<i>I'll give you</i> <i>your present tomorrow.
-</i> <i>Promise.</i>
+94
+00:07:51,400 --> 00:07:55,265
+<i>I'll give you your present tomorrow.  Promise.</i>
 
-89
-00:08:18,558 --> 00:08:20,593
+95
+00:08:18,801 --> 00:08:20,081
 <i>Where am I?</i>
 
-90
-00:08:29,306 --> 00:08:34,144
-‐I'm back in 2006 again.
-‐
+96
+00:08:29,953 --> 00:08:32,833
+I'm back in 2006 again.
 
-91
+97
 00:08:35,584 --> 00:08:37,998
 Address: 23‐1 Fourth Street.
 
-92
-00:08:38,023 --> 00:08:41,392
-Victim: Sachiko Fujinuma.
-Female, 52.
-
-93
-00:08:41,484 --> 00:08:45,355
-Suspect is her son,
-Satoru Fujinuma, 29.
-
-94
-00:08:45,355 --> 00:08:47,142
-We're talking
-to the eyewitness now.
-
-95
-00:08:47,167 --> 00:08:48,769
-Over.
-
-96
-00:08:51,226 --> 00:08:53,673
-‐
-‐ Are you Satoru Fujinuma?
-
-97
-00:08:53,698 --> 00:08:57,968
-<i>No, it wasn't me!</i>
-<i>I didn't do it!</i>
-
 98
-00:08:58,869 --> 00:09:02,505
-<i>Goddamn it.</i>
-<i>I couldn't save Kayo.</i>
+00:08:38,058 --> 00:08:41,392
+Victim: Sachiko Fujinuma. Female, 52.
 
 99
-00:09:02,505 --> 00:09:06,543
-<i>Mom's still dead.
-Everyone still thinks I killed her.</i>
+00:08:41,532 --> 00:08:45,330
+Suspect is her son, Satoru Fujinuma, 29.
 
 100
-00:09:06,543 --> 00:09:09,007
-<i>I couldn't change anything after all.</i>
+00:08:45,355 --> 00:08:47,051
+We're talking to the eyewitness now.
 
 101
-00:09:10,392 --> 00:09:12,127
-<i>Only one thing to do.</i>
+00:08:47,842 --> 00:08:48,495
+Over.
 
 102
-00:09:12,508 --> 00:09:13,923
-<i>Run.</i>
+00:08:52,515 --> 00:08:53,843
+Are you Satoru Fujinuma?
 
 103
-00:09:20,462 --> 00:09:23,499
-<i>I'm hiding under a bridge in a box.</i>
+00:08:53,868 --> 00:08:57,683
+<i>No, it wasn't me! I didn't do it!</i>
 
 104
+00:08:59,312 --> 00:09:02,357
+<i>Goddamn it. I couldn't save Kayo.</i>
+
+105
+00:09:02,704 --> 00:09:06,177
+<i>Mom's still dead. Everyone still thinks I killed her.</i>
+
+106
+00:09:06,639 --> 00:09:08,725
+<i>I couldn't change anything after all.</i>
+
+107
+00:09:10,613 --> 00:09:12,032
+<i>Only one thing to do.</i>
+
+108
+00:09:12,906 --> 00:09:13,679
+<i>Run.</i>
+
+109
+00:09:20,847 --> 00:09:23,060
+<i>I'm hiding under a bridge in a box.</i>
+
+110
 00:09:23,499 --> 00:09:24,901
 <i>Talk about clichés.</i>
 
-105
-00:09:24,901 --> 00:09:28,037
+111
+00:09:25,693 --> 00:09:27,426
 <i>I wonder if I made the news yet.</i>
 
-106
-00:09:28,037 --> 00:09:30,272
+112
+00:09:28,659 --> 00:09:29,923
 <i>Come on, think.</i>
 
-107
-00:09:30,272 --> 00:09:32,074
+113
+00:09:30,530 --> 00:09:32,074
 <i>Why was Mom murdered?</i>
 
-108
-00:09:32,074 --> 00:09:34,510
+114
+00:09:32,829 --> 00:09:34,590
 <i>Did she know who the killer was?</i>
 
-109
-00:09:34,510 --> 00:09:38,080
-<i>When I found her, I didn't see</i>
-<i>her phone anywhere.</i>
-
-110
-00:09:38,080 --> 00:09:41,083
-<i>Or her bag.</i>
-<i>They were both gone.</i>
-
-111
-00:09:41,083 --> 00:09:44,754
-<i>The killer took 'em, but why?</i>
-
-112
-00:09:44,754 --> 00:09:49,218
-<i>I bet she had evidence on him,
-and he was scared the cops would find it.</i>
-
-113
-00:09:50,273 --> 00:09:52,442
-<i>Shit.</i>
-
-114
-00:09:55,749 --> 00:09:57,333
-<i>I'm crashing hard.</i>
-
 115
-00:09:57,333 --> 00:10:00,803
-<i>If I only had a day to sleep,</i>
-<i>I'd think better.</i>
+00:09:35,264 --> 00:09:38,055
+<i>When I found her, I didn't see her phone anywhere.</i>
 
 116
-00:10:07,643 --> 00:10:11,247
-‐ There you go.Eat up.
-‐ Thanks.
+00:09:38,382 --> 00:09:40,900
+<i>Or her bag. They were both gone.</i>
 
 117
+00:09:41,553 --> 00:09:44,045
+<i>The killer took 'em, but why?</i>
+
+118
+00:09:44,754 --> 00:09:48,722
+<i>I bet she had evidence on him, and
+he was scared the cops would find it.</i>
+
+119
+00:09:50,679 --> 00:09:51,832
+<i>Shit.</i>
+
+120
+00:09:55,749 --> 00:09:57,308
+<i>I'm crashing hard.</i>
+
+121
+00:09:57,677 --> 00:10:00,465
+<i>If I only had a day to sleep, I'd think better.</i>
+
+122
+00:10:08,662 --> 00:10:10,144
+There you go.Eat up.
+
+123
+00:10:10,316 --> 00:10:11,044
+Thanks.
+
+124
 00:10:11,247 --> 00:10:13,195
 I'm sorry about work today.
 
-118
-00:10:13,220 --> 00:10:16,469
-It's no big deal.
-One no‐show won't get you fired.
-
-119
-00:10:16,518 --> 00:10:18,587
-Airi was worried about you, though.
-
-120
-00:10:18,809 --> 00:10:22,065
-I wasn't 'cause I figured you
-had a pretty good reason.
-
-121
-00:10:22,232 --> 00:10:24,335
-We can talk about it after we eat.
-
-122
-00:10:24,482 --> 00:10:25,917
-Thanks.
-
-123
-00:10:28,708 --> 00:10:32,012
-That sucks. Fight with your mom
-was that bad, huh?
-
-124
-00:10:32,012 --> 00:10:35,332
-‐Yeah.
-‐That's the trouble with old folks.
-
 125
-00:10:35,357 --> 00:10:38,686
-They can be hella stubborn.
-You can crash here as long as you want.
+00:10:13,232 --> 00:10:16,469
+It's no big deal. One no‐show won't get you fired.
 
 126
-00:10:38,711 --> 00:10:41,402
-But your mom's your mom,
-so try and patch things up with her.
+00:10:16,698 --> 00:10:18,484
+Airi was worried about you, though.
 
 127
-00:10:41,468 --> 00:10:42,836
-I will.
+00:10:18,949 --> 00:10:21,792
+I wasn't 'cause I figured you had a pretty good reason.
 
 128
-00:10:42,861 --> 00:10:44,529
-Hey,
-you want a beer?
+00:10:22,372 --> 00:10:24,335
+We can talk about it after we eat.
 
 129
-00:10:44,591 --> 00:10:47,027
-- ‐ No.
-- ‐ Crap, I'm all out.
+00:10:24,585 --> 00:10:25,545
+Thanks.
 
 130
-00:10:47,393 --> 00:10:49,871
-I'm gonna go out
-and get some more.
+00:10:28,708 --> 00:10:31,987
+That sucks. Fight with your mom was that bad, huh?
 
 131
-00:10:53,399 --> 00:10:57,203
-<i>He's kind of a knob,
-but his heart's in the right place.</i>
+00:10:32,474 --> 00:10:33,374
+Yeah.
 
 132
-00:10:57,203 --> 00:10:59,214
-<i>I feel bad for lying.</i>
+00:10:33,688 --> 00:10:36,649
+That's the trouble with old
+folks. They can be hella stubborn.
 
 133
+00:10:36,834 --> 00:10:38,608
+You can crash here as long as you want.
+
+134
+00:10:38,711 --> 00:10:41,402
+But your mom's your mom, so
+try and patch things up with her.
+
+135
+00:10:41,777 --> 00:10:42,597
+I will.
+
+136
+00:10:42,898 --> 00:10:44,566
+Hey, you want a beer?
+
+137
+00:10:44,671 --> 00:10:45,505
+No.
+
+138
+00:10:45,678 --> 00:10:47,111
+Crap, I'm all out.
+
+139
+00:10:47,935 --> 00:10:49,639
+I'm gonna go out and get some more.
+
+140
+00:10:53,626 --> 00:10:56,907
+<i>He's kind of a knob, but his heart's in the right place.</i>
+
+141
+00:10:57,356 --> 00:10:58,876
+<i>I feel bad for lying.</i>
+
+142
 00:11:00,263 --> 00:11:03,599
 <i>Police rushed to the apartment
 after receiving an anonymous tip.</i>
 
-134
-00:11:03,718 --> 00:11:08,123
-<i>Inside, they found the body of a woman
-believed to be the tenant's mother.</i>
+143
+00:11:03,718 --> 00:11:07,805
+<i>Inside, they found the body of a
+woman believed to be the tenant's mother.</i>
 
-135
-00:11:08,148 --> 00:11:11,317
-<i>The suspect, described as</i>
-<i>a male in his late 20s,</i>
+144
+00:11:08,148 --> 00:11:13,006
+<i>The suspect, described as a male in his late
+20s, fled the scene before he could be questioned.</i>
 
-136
-00:11:11,317 --> 00:11:13,078
-<i>fled the scene</i>
-<i>before he could be questioned.</i>
+145
+00:11:13,103 --> 00:11:15,402
+<i>The police are currently
+searching the neighborhood for him.</i>
 
-137
-00:11:13,103 --> 00:11:15,453
-<i>The police are currently searching
-the neighborhood for him.</i>
+146
+00:11:15,529 --> 00:11:18,400
+<i>This is not good. This is so not good.</i>
 
-138
-00:11:15,478 --> 00:11:18,718
-<i>This is not good.</i>
-<i>This is so not good.</i>
-
-139
+147
 00:11:19,525 --> 00:11:21,300
 <i>And now the sports minute.</i>
 
-140
-00:11:21,649 --> 00:11:24,639
-<i>Japan's soccer team is heading
-for the playoffs in Germany today</i>
+148
+00:11:21,649 --> 00:11:26,799
+<i>Japan's soccer team is heading for the playoffs in
+Germany today for what some are calling the most...</i>
 
-141
-00:11:24,664 --> 00:11:26,799
-<i>for what some are calling the most...</i>
-
-142
-00:11:28,301 --> 00:11:30,670
+149
+00:11:28,183 --> 00:11:30,465
 <i>Should have known he'd screw me over.</i>
 
-143
+150
 00:11:30,670 --> 00:11:32,872
 <i>What am I saying? I can't blame him.</i>
 
-144
-00:11:32,872 --> 00:11:34,927
+151
+00:11:33,197 --> 00:11:34,748
 <i>He was just trying to do the right thing.</i>
 
-145
-00:11:34,952 --> 00:11:37,160
+152
+00:11:35,141 --> 00:11:37,007
 <i>If I was in his shoes, I'd do the same.</i>
 
-146
-00:11:37,185 --> 00:11:38,334
+153
+00:11:37,185 --> 00:11:38,234
 <i>Goddamn it.</i>
 
-147
-00:11:42,799 --> 00:11:44,331
+154
+00:11:43,001 --> 00:11:44,055
 Uggh!
 
-148
-00:11:49,550 --> 00:11:51,337
-‐
-‐ You're an idiot.
+155
+00:11:49,866 --> 00:11:51,092
+You're an idiot.
 
-149
-00:11:54,602 --> 00:11:55,861
+156
+00:11:54,887 --> 00:11:55,448
 Airi?
 
-150
+157
 00:11:55,861 --> 00:11:59,576
-No way! You called me by my first name?
-That's a first.
+No way! You called me by my first name? That's a first.
 
-151
-00:11:59,774 --> 00:12:02,943
+158
+00:11:59,927 --> 00:12:02,807
 You know, if you're on the run,
 you shouldn't leave your phone on.
 
-152
-00:12:02,968 --> 00:12:05,373
-The police can use GPS
-to track you.
-
-153
-00:12:05,398 --> 00:12:06,304
-Oh.
-
-154
-00:12:07,539 --> 00:12:11,108
-Are you just gonna sit there?
-Hop on, let's go.
-
-155
-00:12:11,203 --> 00:12:13,072
-Come on, shake a leg.
-
-156
-00:12:20,820 --> 00:12:23,124
-Sorry about this, Katagiri.
-
-157
-00:12:23,149 --> 00:12:24,704
-Call me Airi.
-
-158
-00:12:24,739 --> 00:12:27,074
-It's one of the perks
-of riding tandem.
-
 159
-00:12:27,393 --> 00:12:29,487
-I can't believe
-you let me in your house.
+00:12:02,968 --> 00:12:05,221
+The police can use GPS to track you.
 
 160
-00:12:29,512 --> 00:12:31,614
-You do know why
-they're after me, right?
+00:12:05,524 --> 00:12:06,221
+Oh.
 
 161
-00:12:31,914 --> 00:12:33,958
-The cops came to see
-the manager today.
+00:12:07,864 --> 00:12:10,891
+Are you just gonna sit there? Hop on, let's go.
 
 162
-00:12:33,983 --> 00:12:35,968
-I overheard them
-talking about it.
+00:12:11,344 --> 00:12:12,764
+Come on, shake a leg.
 
 163
-00:12:35,968 --> 00:12:39,838
-‐It was on the news, too.
-‐Then why did you risk helping me get away?
+00:12:21,210 --> 00:12:23,124
+Sorry about this, Katagiri.
 
 164
+00:12:23,216 --> 00:12:24,676
+Call me Airi.
+
+165
+00:12:24,923 --> 00:12:26,916
+It's one of the perks of riding tandem.
+
+166
+00:12:27,393 --> 00:12:29,450
+I can't believe you let me in your house.
+
+167
+00:12:29,557 --> 00:12:31,614
+You do know why they're after me, right?
+
+168
+00:12:31,914 --> 00:12:33,958
+The cops came to see the manager today.
+
+169
+00:12:33,983 --> 00:12:35,795
+I overheard them talking about it.
+
+170
+00:12:36,042 --> 00:12:37,334
+It was on the news, too.
+
+171
+00:12:37,663 --> 00:12:39,838
+Then why did you risk helping me get away?
+
+172
 00:12:39,863 --> 00:12:41,674
 'Cause you didn't kill her, that's why.
 
-165
-00:12:41,674 --> 00:12:45,603
+173
+00:12:41,906 --> 00:12:45,603
 At dinner, I could see how much you
 guys meant to each other. That's a fact.
 
-166
-00:12:46,603 --> 00:12:48,519
+174
+00:12:46,905 --> 00:12:47,845
 Yeah, well...
 
-167
+175
 00:12:48,846 --> 00:12:49,785
 Thank you.
 
-168
+176
 00:12:49,946 --> 00:12:51,481
 You don't have to thank me.
 
-169
-00:12:51,634 --> 00:12:55,143
-I can't imagine what you're going through,
-and to have the cops after you, too?
+177
+00:12:51,883 --> 00:12:54,981
+I can't imagine what you're going
+through, and to have the cops after you, too?
 
-170
-00:12:55,168 --> 00:12:56,861
+178
+00:12:55,168 --> 00:12:56,594
 You don't deserve that.
 
-171
-00:12:57,423 --> 00:13:01,190
+179
+00:12:57,706 --> 00:13:01,094
 No one deserves the kind of stuff
 you've been through before, either.
 
-172
-00:13:01,215 --> 00:13:01,983
+180
+00:13:01,341 --> 00:13:01,841
 What?
 
-173
-00:13:04,124 --> 00:13:07,461
-This. You left it behind
-at work the other day.
+181
+00:13:04,366 --> 00:13:07,412
+This. You left it behind at work the other day.
 
-174
-00:13:07,739 --> 00:13:10,909
-One of the chapters had a stickie
-so I went ahead and read it.
+182
+00:13:07,830 --> 00:13:10,811
+One of the chapters had a
+stickie so I went ahead and read it.
 
-175
-00:13:10,941 --> 00:13:14,111
+183
+00:13:11,098 --> 00:13:13,984
 Talked all about what happened in
 your hometown when you were a kid,
 
-176
-00:13:14,142 --> 00:13:16,355
+184
+00:13:14,284 --> 00:13:16,107
 how Kayo Hinazuki was murdered.
 
-177
-00:13:17,225 --> 00:13:19,161
+185
+00:13:17,516 --> 00:13:18,882
 I cried when I read it.
 
-178
-00:13:19,295 --> 00:13:22,331
+186
+00:13:19,435 --> 00:13:21,708
 She died the day of the Girls Festival.
 
-179
-00:13:22,387 --> 00:13:23,721
+187
+00:13:22,583 --> 00:13:23,516
 It says that?
 
-180
-00:13:23,849 --> 00:13:27,053
-Yeah. It says she died
-on March 3rd.
-
-181
-00:13:28,823 --> 00:13:31,258
-Anyway, make yourself at home.
-
-182
-00:13:31,624 --> 00:13:33,987
-I have to take the bike back
-before they miss it.
-
-183
-00:13:35,075 --> 00:13:38,008
-And don't even think
-about leaving this room.
-
-184
-00:13:43,036 --> 00:13:45,840
-<i>This isn't</i>
-<i>how it was before.</i>
-
-185
-00:13:46,349 --> 00:13:49,319
-<i>It changed.</i>
-<i>I changed it.</i>
-
-186
-00:13:49,541 --> 00:13:52,677
-<i>If I can go back again,</i>
-<i>I can save Kayo.</i>
-
-187
-00:14:02,602 --> 00:14:05,572
-<i>Oh, yeah, I'm in Airi's room.</i>
-
 188
-00:14:05,572 --> 00:14:07,173
-<i>"Dear Satoru,</i>
+00:13:24,043 --> 00:13:27,053
+Yeah. It says she died on March 3rd.
 
 189
-00:14:07,173 --> 00:14:09,542
-<i>I think I should stick</i>
-<i>to my normal schedule today,</i>
+00:13:29,021 --> 00:13:31,258
+Anyway, make yourself at home.
 
 190
-00:14:09,542 --> 00:14:12,072
-<i>so I'm going in to work</i>
-<i>my usual shift.</i>
+00:13:31,624 --> 00:13:33,900
+I have to take the bike back before they miss it.
 
 191
-00:14:12,350 --> 00:14:14,472
-<i>The fam said they'd be</i>
-<i>leaving the house around 10</i>
+00:13:35,075 --> 00:13:37,808
+And don't even think about leaving this room.
 
 192
-00:14:14,497 --> 00:14:17,490
-<i>and won't be coming back</i>
-<i>till after 8 tonight.</i>
+00:13:43,364 --> 00:13:45,324
+<i>This isn't how it was before.</i>
 
 193
-00:14:18,017 --> 00:14:22,121
-<i>The key to the house and my
-bike are next to my clock.</i>
+00:13:46,565 --> 00:13:49,319
+<i>It changed. I changed it.</i>
 
 194
-00:14:22,121 --> 00:14:24,405
-<i>Here's the number to my cell.</i>
+00:13:49,735 --> 00:13:52,601
+<i>If I can go back again, I can save Kayo.</i>
 
 195
-00:14:26,080 --> 00:14:29,028
-<i>Wait. 
-I thought her last name was Katagiri.</i>
+00:14:02,736 --> 00:14:04,982
+<i>Oh, yeah, I'm in Airi's room.</i>
 
 196
-00:14:30,842 --> 00:14:32,443
-Thank you,
-Mr. Nishizono!
+00:14:05,773 --> 00:14:07,173
+<i>"Dear Satoru,</i>
 
 197
-00:14:32,468 --> 00:14:34,550
-I can't tell you how much
-we appreciate it.
+00:14:07,370 --> 00:14:12,096
+<i>I think I should stick to my normal schedule
+today, so I'm going in to work my usual shift.</i>
 
 198
-00:14:35,106 --> 00:14:39,712
-Well, your father's done so much for
-me, I wish I could do more.
+00:14:12,482 --> 00:14:17,407
+<i>The fam said they'd be leaving the house around
+10 and won't be coming back till after 8 tonight.</i>
 
 199
-00:14:39,737 --> 00:14:42,405
-Oh, God, no, believe me,
-you've done enough.
+00:14:18,429 --> 00:14:21,744
+<i>The key to the house and my bike are next to my clock.</i>
 
 200
-00:14:42,430 --> 00:14:44,313
-Heck, my dad couldn't be happier.
+00:14:22,530 --> 00:14:24,230
+<i>Here's the number to my cell.</i>
 
 201
-00:14:44,338 --> 00:14:46,831
-Thanks to that stoplight
-and crosswalk you approved,
+00:14:26,080 --> 00:14:29,028
+<i>Wait. I thought her last name was Katagiri.</i>
 
 202
-00:14:46,856 --> 00:14:49,325
-we get more customers now
-than ever before.
+00:14:30,842 --> 00:14:32,443
+Thank you, Mr. Nishizono!
 
 203
-00:14:49,350 --> 00:14:51,217
-Please.
-Your business is doing well
+00:14:32,468 --> 00:14:34,550
+I can't tell you how much we appreciate it.
 
 204
-00:14:51,217 --> 00:14:53,934
-because your father is
-a shrewd businessman.
+00:14:35,106 --> 00:14:39,712
+Well, your father's done so much
+for me, I wish I could do more.
 
 205
-00:14:54,069 --> 00:14:57,423
-All I did was give him
-a little boost, that's all.
+00:14:39,743 --> 00:14:42,391
+Oh, God, no, believe me, you've done enough.
 
 206
-00:14:57,455 --> 00:15:00,956
-Besides, it's a school route.
-Safety first, you know.
+00:14:42,451 --> 00:14:44,313
+Heck, my dad couldn't be happier.
 
 207
-00:15:00,981 --> 00:15:04,787
-The city council's been talking about
-putting a stoplight here for ages.
+00:14:44,377 --> 00:14:49,267
+Thanks to that stoplight and crosswalk you
+approved, we get more customers now than ever before.
 
 208
-00:15:04,812 --> 00:15:07,559
-I left the receipts by the till.
-Heading home.
+00:14:49,380 --> 00:14:53,934
+Please. Your business is doing well
+because your father is a shrewd businessman.
 
 209
-00:15:07,584 --> 00:15:10,002
-Sure. Nice hustle today, Airi.
+00:14:54,188 --> 00:14:57,311
+All I did was give him a little boost, that's all.
 
 210
-00:15:10,613 --> 00:15:13,987
-- ‐What you got there?
--  ‐ Oh, just some leftover pizza.
+00:14:57,644 --> 00:15:00,956
+Besides, it's a school route. Safety first, you know.
 
 211
-00:15:14,012 --> 00:15:17,737
-Leftovers, are you kidding?
-Go on, get a fresh one. My treat.
+00:15:01,313 --> 00:15:04,775
+The city council's been talking
+about putting a stoplight here for ages.
 
 212
-00:15:17,762 --> 00:15:20,368
-Thanks for the offer, boss, 
-but this will do.
+00:15:04,812 --> 00:15:07,488
+I left the receipts by the till. Heading home.
 
 213
+00:15:07,701 --> 00:15:09,961
+Sure. Nice hustle today, Airi.
+
+214
+00:15:10,613 --> 00:15:11,554
+What you got there?
+
+215
+00:15:11,673 --> 00:15:13,987
+Oh, just some leftover pizza.
+
+216
+00:15:14,134 --> 00:15:17,737
+Leftovers, are you kidding? Go
+on, get a fresh one. My treat.
+
+217
+00:15:17,762 --> 00:15:20,368
+Thanks for the offer, boss, but this will do.
+
+218
 00:15:20,662 --> 00:15:22,679
 My friend won't know the difference anyway.
 
-214
+219
 00:15:22,704 --> 00:15:25,317
-Oh, 
-uh, I hope she likes it, then.
+Oh, uh, I hope she likes it, then.
 
-215
+220
 00:15:25,342 --> 00:15:27,930
 That is, if your friend's a, you know, girl.
 
-216
-00:15:27,955 --> 00:15:31,221
-Yeah, well...
-see you tomorrow.
-
-217
-00:15:33,058 --> 00:15:35,407
-She’s a cute girl, huh?
-
-218
-00:15:35,662 --> 00:15:39,459
-Yeah, I guess,
-if you're into that sort of thing.
-
-219
-00:15:39,484 --> 00:15:42,469
-I mean she's 17.
-She's just a kid.
-
-220
-00:15:42,469 --> 00:15:46,038
-Yeah, well... I should
-get back to the office.
-
 221
-00:15:48,299 --> 00:15:50,201
-Thanks for stopping by, sir.
+00:15:27,955 --> 00:15:30,761
+Yeah, well... see you tomorrow.
 
 222
-00:16:02,882 --> 00:16:04,825
-Hey, Airi!
+00:15:33,058 --> 00:15:35,217
+She’s a cute girl, huh?
 
 223
-00:16:05,726 --> 00:16:08,704
-‐What's up?
-‐Here. You forgot to take this.
+00:15:36,117 --> 00:15:39,459
+Yeah, I guess, if you're into that sort of thing.
 
 224
-00:16:08,791 --> 00:16:10,797
-It is part of the promotion
-after all.
+00:15:39,582 --> 00:15:42,235
+I mean she's 17. She's just a kid.
 
 225
-00:16:10,797 --> 00:16:12,532
-Oh. OK, thanks.
+00:15:42,924 --> 00:15:46,285
+Yeah, well... I should get back to the office.
 
 226
-00:16:13,023 --> 00:16:16,168
-I was wondering, have you talked
-to Satoru lately?
+00:15:48,558 --> 00:15:50,141
+Thanks for stopping by, sir.
 
 227
-00:16:16,291 --> 00:16:19,612
-‐No.
- ‐I can't believe he'd just up and kill his own...
+00:16:03,181 --> 00:16:04,328
+Hey, Airi!
 
 228
-00:16:19,637 --> 00:16:21,812
-I mean, you know
-what they're saying he did.
+00:16:05,726 --> 00:16:06,627
+What's up?
 
 229
-00:16:21,837 --> 00:16:24,700
-‐It's not like the guy at all.
-‐No, it isn't.
+00:16:06,713 --> 00:16:08,728
+Here. You forgot to take this.
 
 230
-00:16:24,771 --> 00:16:27,677
-I don't know how tight you guys were,but if you see him,
+00:16:08,791 --> 00:16:10,797
+It is part of the promotion after all.
 
 231
-00:16:27,702 --> 00:16:29,766
-
-do what you can to help him, OK?
+00:16:11,011 --> 00:16:12,532
+Oh. OK, thanks.
 
 232
+00:16:13,023 --> 00:16:16,123
+I was wondering, have you talked to Satoru lately?
+
+233
+00:16:16,337 --> 00:16:16,946
+No.
+
+234
+00:16:17,400 --> 00:16:19,502
+I can't believe he'd just up and kill his own...
+
+235
+00:16:19,849 --> 00:16:21,812
+I mean, you know what they're saying he did.
+
+236
+00:16:21,837 --> 00:16:23,402
+It's not like the guy at all.
+
+237
+00:16:23,443 --> 00:16:24,724
+No, it isn't.
+
+238
+00:16:24,876 --> 00:16:27,506
+I don't know how tight you guys were,but if you see him,
+
+239
+00:16:28,040 --> 00:16:29,693
+do what you can to help him, OK?
+
+240
 00:16:29,830 --> 00:16:30,583
 Sure.
 
-233
-00:16:30,608 --> 00:16:34,049
-Let him know we're on his side.
-And if you talk to him, give me a shout.
-
-234
-00:16:34,074 --> 00:16:35,884
-Yeah, I totally will.
-
-235
-00:16:42,440 --> 00:16:43,842
-<i>What am I doing?</i>
-
-236
-00:16:43,867 --> 00:16:46,002
-<i>I doubt I'm gonna find</i>
-<i>anything.</i>
-
-237
-00:16:48,234 --> 00:16:51,403
-<i>A kid disappeared here.</i>
-<i>Three years ago.</i>
-
-238
-00:16:51,824 --> 00:16:54,227
-<i>Yeah, I think I remember this.</i>
-
-239
-00:16:54,458 --> 00:16:57,366
-<i>And three weeks later,</i>
-<i>they arrested some guy for it.</i>
-
-240
-00:16:57,391 --> 00:17:00,513
-<i>Even after the trial,</i>
-<i>he swore he was innocent.</i>
-
 241
-00:17:02,114 --> 00:17:04,659
-<i>It's a hell of a coincidence.</i>
+00:16:30,679 --> 00:16:34,049
+Let him know we're on his side. And
+if you talk to him, give me a shout.
 
 242
-00:17:05,194 --> 00:17:07,053
-<i>Or... is it?</i>
+00:16:34,089 --> 00:16:35,715
+Yeah, I totally will.
 
 243
-00:17:20,464 --> 00:17:23,235
-Why would you wanna go
-and call the police for?
+00:16:42,517 --> 00:16:43,657
+<i>What am I doing?</i>
 
 244
-00:17:23,778 --> 00:17:25,004
-Airi!
+00:16:44,054 --> 00:16:45,674
+<i>I doubt I'm gonna find anything.</i>
 
 245
-00:17:25,004 --> 00:17:27,700
-Is that why you wanted me
-to help Satoru?
+00:16:48,531 --> 00:16:51,284
+<i>A kid disappeared here. Three years ago.</i>
 
 246
-00:17:27,725 --> 00:17:30,943
-You said you were on his side.
-You said that!
+00:16:52,036 --> 00:16:54,129
+<i>Yeah, I think I remember this.</i>
 
 247
-00:17:31,205 --> 00:17:33,796
-Wait a sec, Airi.
-I just...
+00:16:54,503 --> 00:16:57,309
+<i>And three weeks later, they arrested some guy for it.</i>
 
 248
-00:17:33,859 --> 00:17:36,215
-I was worried about you,
-that's all.
+00:16:57,600 --> 00:17:00,667
+<i>Even after the trial, he swore he was innocent.</i>
 
 249
-00:17:42,327 --> 00:17:45,296
-If all you wanted was to get him caught,
-you should have told me the truth!
+00:17:02,358 --> 00:17:04,440
+<i>It's a hell of a coincidence.</i>
 
 250
-00:17:45,399 --> 00:17:48,966
-I trusted you!
-I trusted you and you lied to me!
+00:17:05,293 --> 00:17:07,053
+<i>Or... is it?</i>
 
 251
-00:17:49,712 --> 00:17:52,478
-I didn't want to see you get hurt,
- I swear.
+00:17:20,537 --> 00:17:23,183
+Why would you wanna go and call the police for?
 
 252
-00:17:53,469 --> 00:17:57,036
-‐ That I believe.
-‐I'm sorry.
+00:17:23,936 --> 00:17:24,856
+Airi!
 
 253
-00:17:57,036 --> 00:17:59,238
-Boss, please...
+00:17:25,082 --> 00:17:27,700
+Is that why you wanted me to help Satoru?
 
 254
+00:17:27,725 --> 00:17:30,876
+You said you were on his side. You said that!
+
+255
+00:17:31,205 --> 00:17:33,638
+Wait a sec, Airi. I just...
+
+256
+00:17:33,859 --> 00:17:36,215
+I was worried about you, that's all.
+
+257
+00:17:42,313 --> 00:17:45,449
+If all you wanted was to get him
+caught, you should have told me the truth!
+
+258
+00:17:45,474 --> 00:17:48,922
+I trusted you! I trusted you and you lied to me!
+
+259
+00:17:49,712 --> 00:17:52,478
+I didn't want to see you get hurt, I swear.
+
+260
+00:17:53,469 --> 00:17:56,915
+‐ That I believe. ‐I'm sorry.
+
+261
+00:17:57,036 --> 00:17:59,195
+Boss, please...
+
+262
 00:17:59,900 --> 00:18:01,741
 If you're really worried about me,
 
-255
+263
 00:18:02,147 --> 00:18:04,266
 then don't call the police over here.
 
-256
-00:18:04,457 --> 00:18:06,779
-I don't want my family
-getting involved in this.
-
-257
-00:18:16,791 --> 00:18:18,893
-I'm sorry, Satoru.
-
-258
-00:18:18,893 --> 00:18:22,396
-Nah, it's no big deal.
-I got to sleep a bit,
-
-259
-00:18:22,396 --> 00:18:25,396
-so thanks for letting me stay
-and conk out on your floor.
-
-260
-00:18:25,571 --> 00:18:28,474
-No, don't mention it.
-I just wish you could go back.
-
-261
-00:18:28,474 --> 00:18:31,091
-It's OK.
-It's better if I don't.
-
-262
-00:18:31,440 --> 00:18:34,346
-By the way, that's not
-your parents' house, is it?
-
-263
-00:18:34,346 --> 00:18:37,583
-Huh‐uh. I'm staying
-with my uncle and his wife.
-
 264
-00:18:37,583 --> 00:18:39,759
-My town doesn't have a high school.
+00:18:04,457 --> 00:18:06,779
+I don't want my family getting involved in this.
 
 265
-00:18:39,784 --> 00:18:42,621
-It's out in the boonies,
-so I had to come to the city for it.
+00:18:17,100 --> 00:18:18,646
+I'm sorry, Satoru.
 
 266
-00:18:42,621 --> 00:18:46,298
-I asked my uncle and he said
-I could stay with them in Chiba.
+00:18:19,039 --> 00:18:22,179
+Nah, it's no big deal. I got to sleep a bit,
 
 267
-00:18:47,291 --> 00:18:50,461
-- ‐ Mind if I ask a weird question?
--  ‐ Hmm‐mm.
+00:18:22,396 --> 00:18:25,207
+so thanks for letting me stay and conk out on your floor.
 
 268
-00:18:51,191 --> 00:18:55,108
-Like, why do you believe me?
-You don't even know me all that well.
+00:18:25,546 --> 00:18:28,449
+No, don't mention it. I just wish you could go back.
 
 269
-00:18:56,729 --> 00:18:58,871
-You're right, I don't,
-but I don't care.
+00:18:28,584 --> 00:18:31,032
+It's OK. It's better if I don't.
 
 270
-00:18:58,982 --> 00:19:00,662
-I want to believe you.
+00:18:31,620 --> 00:18:34,346
+By the way, that's not your parents' house, is it?
 
 271
-00:19:02,157 --> 00:19:04,193
-<i>When I was</i>
-<i>in elementary school,</i>
+00:18:34,746 --> 00:18:37,583
+Huh‐uh. I'm staying with my uncle and his wife.
 
 272
-00:19:04,304 --> 00:19:06,897
-<i>my dad took me</i>
-<i>grocery shopping one day.</i>
+00:18:37,863 --> 00:18:39,703
+My town doesn't have a high school.
 
 273
-00:19:10,247 --> 00:19:14,251
+00:18:40,063 --> 00:18:42,621
+It's out in the boonies, so I
+had to come to the city for it.
+
+274
+00:18:43,097 --> 00:18:45,954
+I asked my uncle and he said I
+could stay with them in Chiba.
+
+275
+00:18:47,444 --> 00:18:49,451
+Mind if I ask a weird question?
+
+276
+00:18:49,831 --> 00:18:50,518
+Hmm‐mm.
+
+277
+00:18:51,264 --> 00:18:55,181
+Like, why do you believe me? You
+don't even know me all that well.
+
+278
+00:18:56,729 --> 00:18:58,871
+You're right, I don't, but I don't care.
+
+279
+00:18:59,172 --> 00:19:00,662
+I want to believe you.
+
+280
+00:19:02,239 --> 00:19:04,066
+<i>When I was in elementary school,</i>
+
+281
+00:19:04,364 --> 00:19:06,777
+<i>my dad took me grocery shopping one day.</i>
+
+282
+00:19:10,504 --> 00:19:14,251
 <i>The owner stopped my dad and
 accused him of stealing a candy bar.</i>
 
-274
-00:19:14,251 --> 00:19:17,687
-<i>Like I said, my town's small,</i>
-<i>so the owner knew my dad.</i>
-
-275
-00:19:17,687 --> 00:19:21,025
-<i>He said if he just admitted stealing
-it, he'd drop the whole thing.</i>
-
-276
-00:19:21,025 --> 00:19:23,981
-<i>But he refused, and the owner</i>
-<i>kept pushing him.</i>
-
-277
-00:19:24,795 --> 00:19:26,959
-<i>I never heard my dad yell before,</i>
-
-278
-00:19:26,984 --> 00:19:29,194
-<i>but that day he went off.</i>
-
-279
-00:19:29,599 --> 00:19:31,958
-<i>The owner ended up calling the police.</i>
-
-280
-00:19:32,124 --> 00:19:34,794
-<i>And since my dad belonged</i>
-<i>to the local farmers' co‐op,</i>
-
-281
-00:19:34,921 --> 00:19:37,987
-<i>they gave him a three‐month</i>
-<i>suspension as punishment.</i>
-
-282
-00:19:38,483 --> 00:19:42,905
-You didn't steal it, Daddy. 
-I know! I saw, you didn't do anything wrong!
-
 283
-00:19:43,413 --> 00:19:46,593
-<i>After what happened,</i>
-<i>Dad quit the co‐op,</i>
+00:19:14,804 --> 00:19:17,596
+<i>Like I said, my town's small, so the owner knew my dad.</i>
 
 284
-00:19:46,618 --> 00:19:48,738
-<i>divorced Mom, and left.</i>
+00:19:17,942 --> 00:19:20,791
+<i>He said if he just admitted
+stealing it, he'd drop the whole thing.</i>
 
 285
-00:19:49,386 --> 00:19:52,289
-<i>I guess my Mom thought</i>
-<i>he really stole it.</i>
+00:19:21,311 --> 00:19:23,865
+<i>But he refused, and the owner kept pushing him.</i>
 
 286
-00:19:52,289 --> 00:19:54,491
-<i>Like everyone else in town.</i>
+00:19:24,832 --> 00:19:26,871
+<i>I never heard my dad yell before,</i>
 
 287
-00:19:56,874 --> 00:19:59,964
-If someone believes in you,
-you're not alone.
+00:19:27,038 --> 00:19:28,918
+<i>but that day he went off.</i>
 
 288
-00:19:59,964 --> 00:20:03,624
+00:19:29,881 --> 00:19:31,958
+<i>The owner ended up calling the police.</i>
+
+289
+00:19:32,147 --> 00:19:34,794
+<i>And since my dad belonged to the local farmers' co‐op,</i>
+
+290
+00:19:35,120 --> 00:19:37,879
+<i>they gave him a three‐month suspension as punishment.</i>
+
+291
+00:19:38,483 --> 00:19:42,795
+You didn't steal it, Daddy. I know!
+I saw, you didn't do anything wrong!
+
+292
+00:19:43,741 --> 00:19:46,593
+<i>After what happened, Dad quit the co‐op,</i>
+
+293
+00:19:46,663 --> 00:19:48,738
+<i>divorced Mom, and left.</i>
+
+294
+00:19:49,713 --> 00:19:51,993
+<i>I guess my Mom thought he really stole it.</i>
+
+295
+00:19:52,373 --> 00:19:53,961
+<i>Like everyone else in town.</i>
+
+296
+00:19:57,000 --> 00:19:59,745
+If someone believes in you, you're not alone.
+
+297
+00:20:00,117 --> 00:20:03,676
 And if I was in your situation,
 I'd want someone to believe me.
 
-289
-00:20:05,010 --> 00:20:06,712
+298
+00:20:05,164 --> 00:20:06,564
 I think you should go home.
 
-290
-00:20:06,737 --> 00:20:10,049
-Tell the cops I forced you to hide me.
-They'll buy that story.
+299
+00:20:06,737 --> 00:20:09,954
+Tell the cops I forced you to
+hide me. They'll buy that story.
 
-291
-00:20:10,074 --> 00:20:13,519
-God, you're an idiot.
-You can't deal with this on your own.
+300
+00:20:10,161 --> 00:20:13,446
+God, you're an idiot. You
+can't deal with this on your own.
 
-292
+301
 00:20:13,544 --> 00:20:15,145
 And I won't lie to the police.
 
-293
-00:20:15,145 --> 00:20:19,106
-- ‐OK, but could you not call me an idiot anymore?
--  ‐
+302
+00:20:15,226 --> 00:20:19,080
+OK, but could you not call me an idiot anymore?
 
-294
-00:20:19,131 --> 00:20:20,758
+303
+00:20:19,180 --> 00:20:20,758
 No promises!
 
-295
-00:20:21,479 --> 00:20:24,962
-I'll be back in a sec with a change
-of clothes and stuff for you.
+304
+00:20:21,901 --> 00:20:24,645
+I'll be back in a sec with a
+change of clothes and stuff for you.
 
-296
+305
 00:20:28,234 --> 00:20:31,485
-<i>The boss didn't call the police after all.
-Good for him.</i>
+<i>The boss didn't call the police after all. Good for him.</i>
 
-297
-00:20:39,331 --> 00:20:40,606
+306
+00:20:39,626 --> 00:20:40,352
 But...
 
-298
-00:20:40,676 --> 00:20:42,210
+307
+00:20:40,924 --> 00:20:42,057
 it can't be.
 
-299
-00:20:43,573 --> 00:20:45,475
+308
+00:20:43,877 --> 00:20:45,350
 What is this?
 
-300
-00:20:45,500 --> 00:20:49,123
+309
+00:20:45,703 --> 00:20:48,889
 It can't be from him 'cause he
 told me his mom's phone was gone.
 
-301
-00:20:49,148 --> 00:20:50,850
+310
+00:20:49,305 --> 00:20:50,662
 Unless he found it.
 
-302
-00:20:50,875 --> 00:20:53,578
+311
+00:20:50,998 --> 00:20:53,156
 <i>No, it's from the killer.</i>
 
-303
-00:20:53,818 --> 00:20:55,232
+312
+00:20:53,777 --> 00:20:55,015
 <i>He's after me now.</i>
 
-304
-00:20:59,068 --> 00:21:01,237
+313
+00:20:59,068 --> 00:21:01,172
 Oh, my God!
 
-305
-00:21:03,096 --> 00:21:04,867
+314
+00:21:03,427 --> 00:21:04,502
 Gotta get out!
 
-306
-00:21:05,636 --> 00:21:06,967
+315
+00:21:05,793 --> 00:21:06,899
 I gotta...
 
