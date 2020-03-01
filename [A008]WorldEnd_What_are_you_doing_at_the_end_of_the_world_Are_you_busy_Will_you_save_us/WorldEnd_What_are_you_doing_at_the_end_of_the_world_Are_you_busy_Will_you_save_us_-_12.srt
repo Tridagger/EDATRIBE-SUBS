@@ -1,1688 +1,1248 @@
 ﻿1
-00:00:19,375 --> 00:00:22,541
-[SOLDIER 12A grunting]
-
-2
-00:00:23,375 --> 00:00:25,250
-[SOLDIER 12A screams]
-
-3
-00:00:32,750 --> 00:00:35,208
-[WILLEM]
+00:00:23,665 --> 00:00:25,620
 I feel like I must know you.
 
-4
-00:00:35,291 --> 00:00:37,833
+2
+00:00:26,324 --> 00:00:28,351
 It's been a while, hasn't it?
 
-5
-00:00:39,583 --> 00:00:41,166
+3
+00:00:30,488 --> 00:00:31,523
 Forgive me.
 
-6
-00:00:41,250 --> 00:00:42,958
+4
+00:00:32,289 --> 00:00:33,863
 Seems it's a bit too long.
 
-7
-00:00:43,041 --> 00:00:45,875
-I can't quite put a name
-to your face anymore.
+5
+00:00:34,049 --> 00:00:36,626
+I can't quite put a name to your face anymore.
 
-8
-00:00:48,541 --> 00:00:49,833
-[WILLEM gasps]
-
-9
-00:00:54,750 --> 00:00:58,041
-[panting]
-
-10
-00:00:59,875 --> 00:01:01,083
+6
+00:00:50,931 --> 00:00:51,848
 Tell me.
 
-11
-00:01:01,166 --> 00:01:03,000
+7
+00:00:52,133 --> 00:00:53,761
 You wanted to fight them.
 
-12
-00:01:03,083 --> 00:01:04,875
-[WILLEM]
+8
+00:00:54,194 --> 00:00:55,314
 Yes, I did.
 
-13
-00:01:04,958 --> 00:01:08,250
-I believed that was the only
-way I could help people.
+9
+00:00:56,034 --> 00:00:58,707
+I believed that was the only way I could help people.
 
-14
-00:01:08,333 --> 00:01:12,000
-I fought so I could protect
-what was important.
+10
+00:00:59,375 --> 00:01:02,061
+I fought so I could protect what was important.
 
-15
-00:01:12,083 --> 00:01:16,083
-The truth is, though,
-I was being delusional.
+11
+00:01:03,065 --> 00:01:06,651
+The truth is, though, I was being delusional.
 
-16
-00:01:16,166 --> 00:01:18,166
+12
+00:01:07,131 --> 00:01:09,071
 I never protected anything.
 
-17
-00:01:18,250 --> 00:01:21,041
-I let it all slip
-through my fingers.
+13
+00:01:09,155 --> 00:01:11,672
+I let it all slip through my fingers.
 
-18
-00:01:21,125 --> 00:01:23,625
-What I'm doing now
-doesn't actually matter.
+14
+00:01:12,074 --> 00:01:14,530
+What I'm doing now doesn't actually matter.
 
-19
-00:01:23,708 --> 00:01:25,500
+15
+00:01:14,613 --> 00:01:16,217
 Nothing is going to change.
 
-20
-00:01:25,583 --> 00:01:28,791
-How many times will I have to
-suffer through this lesson?
+16
+00:01:16,488 --> 00:01:19,396
+How many times will I have to suffer through this lesson?
 
-21
-00:01:30,291 --> 00:01:31,875
-[WILLEM]
+17
+00:01:21,224 --> 00:01:22,780
 All I know...
 
-22
-00:01:31,958 --> 00:01:34,708
-All I've ever really
-known is to fight.
+18
+00:01:22,863 --> 00:01:25,510
+All I've ever really known is to fight.
 
-23
-00:01:36,166 --> 00:01:37,750
+19
+00:01:27,071 --> 00:01:28,655
 What am I doing here?
 
-24
-00:01:37,833 --> 00:01:39,125
+20
+00:01:28,738 --> 00:01:29,962
 I wish I knew.
 
-25
-00:01:40,208 --> 00:01:41,166
-[WILLEM growls]
+21
+00:03:09,144 --> 00:03:11,880
+You! Stabilize the ship, and do it now!
 
-26
-00:03:18,166 --> 00:03:20,916
-[MOGDAMAN] You! Stabilize
-the ship, and do it now!
+22
+00:03:12,082 --> 00:03:14,538
+In case you haven't noticed, I've got my hands full!
 
-27
-00:03:21,000 --> 00:03:23,458
-In case you haven't noticed,
-I've got my hands full!
-
-28
-00:03:23,541 --> 00:03:25,333
-[MOGDAMAN]
+23
+00:03:14,563 --> 00:03:16,238
 Attention, everyone on board!
 
-29
-00:03:25,416 --> 00:03:27,791
-The bridge and power circuits
-are top priority.
+24
+00:03:16,436 --> 00:03:18,696
+The bridge and power circuits are top priority.
 
-30
-00:03:27,875 --> 00:03:29,625
+25
+00:03:18,857 --> 00:03:20,530
 Defend them at all costs.
 
-31
-00:03:29,708 --> 00:03:31,416
+26
+00:03:20,613 --> 00:03:22,321
 The ship will crash otherwise.
 
-32
-00:03:31,500 --> 00:03:33,375
-Grit your teeth
-and fight, soldiers!
+27
+00:03:22,405 --> 00:03:24,469
+Grit your teeth and fight, soldiers!
 
-33
-00:03:33,458 --> 00:03:34,833
-Yeah, that's easy
-for you to say!
+28
+00:03:24,494 --> 00:03:26,253
+Yeah, that's easy for you to say!
 
-34
-00:03:34,916 --> 00:03:36,958
-[SOLDIERS grunting]
-
-35
-00:03:38,291 --> 00:03:40,166
-[BIRDY gasping]
-
-36
-00:03:40,250 --> 00:03:41,250
-[CAT]
+29
+00:03:31,155 --> 00:03:32,155
 Oh, God!
 
-37
-00:03:41,333 --> 00:03:43,708
-[FROGGO]
+30
+00:03:32,238 --> 00:03:34,613
 Get off! No!
 
-38
-00:03:48,708 --> 00:03:50,375
+31
+00:03:39,613 --> 00:03:41,280
 Thanks! Just in time!
 
-39
-00:03:52,791 --> 00:03:54,041
-[NEPHREN]
+32
+00:03:43,696 --> 00:03:44,946
 Stay back.
 
-40
-00:03:54,125 --> 00:03:56,416
-[BIRDY]
+33
+00:03:45,030 --> 00:03:47,321
 Wait. You sure you're okay?
 
-41
-00:03:56,500 --> 00:03:57,708
-[CAT]
+34
+00:03:47,554 --> 00:03:48,762
 We can fight with you!
 
-42
-00:03:57,791 --> 00:03:59,416
-[NEPHREN]
+35
+00:03:48,787 --> 00:03:50,321
 Do what I said.
 
-43
-00:03:59,500 --> 00:04:02,250
-Stay back.
-This is what I'm here for.
+36
+00:03:50,405 --> 00:03:52,932
+Stay back. This is what I'm here for.
 
-44
-00:04:12,041 --> 00:04:13,500
-[RHANTOLK grunts]
+37
+00:04:06,405 --> 00:04:08,855
+Come on! There's no end to them!
 
-45
-00:04:15,500 --> 00:04:18,125
-[RHANTOLK] Come on!
-There's no end to them!
+38
+00:04:12,946 --> 00:04:16,488
+That said, my sword is
+performing better than it ever has.
 
-46
-00:04:22,041 --> 00:04:24,041
-That said,
-my sword is performing
-
-47
-00:04:24,125 --> 00:04:25,583
-better than it ever has.
-
-48
-00:04:25,666 --> 00:04:29,500
+39
+00:04:16,638 --> 00:04:19,611
 I guess the T.O.'s skills must
 be the real deal, after all.
 
-49
-00:04:29,583 --> 00:04:31,541
-My body's in incredible
-shape, too.
+40
+00:04:20,604 --> 00:04:22,544
+My body's in incredible shape, too.
 
-50
-00:04:31,625 --> 00:04:33,750
+41
+00:04:22,664 --> 00:04:24,399
 Historia and I can do this.
 
-51
-00:04:35,125 --> 00:04:36,041
+42
+00:04:26,252 --> 00:04:26,946
 Oh, no!
 
-52
-00:04:36,125 --> 00:04:37,291
-[RHANTOLK screams]
-
-53
-00:04:39,416 --> 00:04:42,333
-[RHANTOLK grunting]
-
-54
-00:04:49,208 --> 00:04:49,958
-[thud]
-
-55
-00:04:50,041 --> 00:04:51,333
-[RHANTOLK gasps]
-
-56
-00:05:05,000 --> 00:05:07,666
+43
+00:04:56,287 --> 00:04:58,355
 Hey. You all right?
 
-57
-00:05:07,750 --> 00:05:10,041
-[RHANTOLK] What in the world
-did you just do?
+44
+00:04:58,655 --> 00:05:00,770
+What in the world did you just do?
 
-58
-00:05:10,125 --> 00:05:12,666
-[WILLEM] Save you.
-How's it look up there?
+45
+00:05:01,030 --> 00:05:03,085
+Save you. How's it look up there?
 
-59
-00:05:12,750 --> 00:05:14,958
-Nopht and Nephren?
-Are they still fighting, too?
+46
+00:05:03,713 --> 00:05:05,921
+Nopht and Nephren? Are they still fighting, too?
 
-60
-00:05:15,041 --> 00:05:18,125
-[gasps] I saw Nopht
-not very long ago.
+47
+00:05:06,206 --> 00:05:09,205
+I saw Nopht not very long ago.
 
-61
-00:05:18,208 --> 00:05:21,083
-And, yes, as far as I know
-she's still fighting.
+48
+00:05:09,345 --> 00:05:11,692
+And, yes, as far as I know she's still fighting.
 
-62
-00:05:21,166 --> 00:05:23,541
-Nephren, though, I haven't
-seen in a while.
+49
+00:05:12,205 --> 00:05:14,367
+Nephren, though, I haven't seen in a while.
 
-63
-00:05:23,625 --> 00:05:25,416
-I can only assume she
-must be in the hold
+50
+00:05:14,604 --> 00:05:18,014
+I can only assume she must be in the
+hold guarding the people trapped there.
 
-64
-00:05:25,500 --> 00:05:27,333
-guarding the people
-trapped there.
-
-65
-00:05:37,708 --> 00:05:38,666
-[RHANTOLK]
+51
+00:05:28,747 --> 00:05:29,489
 No.
 
-66
-00:05:38,750 --> 00:05:40,375
-How did you get
-that kind of wound?
+52
+00:05:29,789 --> 00:05:31,414
+How did you get that kind of wound?
 
-67
-00:05:40,458 --> 00:05:42,041
+53
+00:05:31,497 --> 00:05:32,819
 What have you been doing?
 
-68
-00:05:43,375 --> 00:05:45,833
-[WILLEM]
+54
+00:05:34,360 --> 00:05:36,744
 I've been... fighting.
 
-69
-00:05:46,875 --> 00:05:50,208
-[WILLEM]
+55
+00:05:37,788 --> 00:05:40,677
 Whether in the past, or now.
 
-70
-00:05:50,291 --> 00:05:55,333
-Fighting... is the only thing
-I've ever been good for.
+56
+00:05:41,330 --> 00:05:46,050
+Fighting... is the only thing I've ever been good for.
 
-71
-00:05:55,416 --> 00:05:58,583
-The only thing I've...
-been good at.
+57
+00:05:46,435 --> 00:05:49,602
+The only thing I've... been good at.
 
-72
-00:06:03,208 --> 00:06:05,500
-[NOPHT yells]
-
-73
-00:06:08,333 --> 00:06:09,500
-[gasps]
-
-74
-00:06:11,625 --> 00:06:12,833
-[NOPHT grunts]
-
-75
-00:06:20,208 --> 00:06:21,500
+58
+00:06:11,247 --> 00:06:12,418
 Not you, too.
 
-76
-00:06:21,583 --> 00:06:23,875
+59
+00:06:12,622 --> 00:06:14,413
 Even you had to go and die.
 
-77
-00:06:23,958 --> 00:06:26,458
-I still don't get what you
-meant by that line.
+60
+00:06:14,997 --> 00:06:17,497
+I still don't get what you meant by that line.
 
-78
-00:06:26,541 --> 00:06:29,416
-The "our lives are more
-important" thing?
+61
+00:06:17,580 --> 00:06:19,620
+The "our lives are more important" thing?
 
-79
-00:06:29,500 --> 00:06:32,208
+62
+00:06:20,539 --> 00:06:22,906
 And if they are, why?
 
-80
-00:06:33,166 --> 00:06:36,875
-Wonder how the girls are doing.
-Hope they're okay.
+63
+00:06:24,205 --> 00:06:27,914
+Wonder how the girls are doing. Hope they're okay.
 
-81
-00:06:46,041 --> 00:06:48,333
-Got any idea how long
-I've been out?
+64
+00:06:37,080 --> 00:06:39,010
+Got any idea how long I've been out?
 
-82
-00:06:48,416 --> 00:06:50,333
+65
+00:06:39,455 --> 00:06:41,163
 Oh, not terribly long.
 
-83
-00:06:50,416 --> 00:06:52,041
+66
+00:06:41,455 --> 00:06:43,109
 A couple of minutes at most.
 
-84
-00:06:52,125 --> 00:06:53,791
+67
+00:06:43,195 --> 00:06:44,602
 That's not too bad.
 
-85
-00:06:56,000 --> 00:06:58,375
-You shouldn't be
-moving around like that.
+68
+00:06:47,126 --> 00:06:49,294
+You shouldn't be moving around like that.
 
-86
-00:06:58,458 --> 00:07:00,833
+69
+00:06:49,574 --> 00:06:51,060
 Not with those injuries.
 
-87
-00:07:00,916 --> 00:07:02,625
-[WILLEM] Does this mean
-you're worried about me?
+70
+00:06:51,955 --> 00:06:53,664
+Does this mean you're worried about me?
 
-88
-00:07:02,708 --> 00:07:05,541
-I simply would prefer it if
-you did not commit suicide.
+71
+00:06:53,747 --> 00:06:56,512
+I simply would prefer it if you did not commit suicide.
 
-89
-00:07:05,625 --> 00:07:07,916
+72
+00:06:56,664 --> 00:06:58,698
 Or use my friend as an excuse.
 
-90
-00:07:08,000 --> 00:07:11,041
-[WILLEM]
+73
+00:06:59,039 --> 00:07:01,986
 Understood. I'll try not to.
 
-91
-00:07:12,375 --> 00:07:15,041
-You're awfully strong,
-aren't you?
+74
+00:07:03,414 --> 00:07:05,398
+You're awfully strong, aren't you?
 
-92
-00:07:15,125 --> 00:07:17,750
-Even unarmed, you can hold
-your own against timere.
+75
+00:07:06,164 --> 00:07:08,789
+Even unarmed, you can hold your own against timere.
 
-93
-00:07:17,833 --> 00:07:19,291
+76
+00:07:08,899 --> 00:07:09,986
 Suppose so.
 
-94
-00:07:19,375 --> 00:07:21,000
+77
+00:07:10,434 --> 00:07:11,958
 Were all humans like you?
 
-95
-00:07:21,083 --> 00:07:24,041
-Was "ridiculously strong"
-a common attribute?
+78
+00:07:12,122 --> 00:07:14,825
+Was "ridiculously strong" a common attribute?
 
-96
-00:07:24,708 --> 00:07:25,708
+79
+00:07:15,747 --> 00:07:16,747
 It wasn't.
 
-97
-00:07:25,791 --> 00:07:29,333
-I was because...
-I used to be a brave.
+80
+00:07:16,830 --> 00:07:19,770
+I was because... I used to be a brave.
 
-98
-00:07:29,416 --> 00:07:31,875
-I was special, one of
-the chosen warriors.
+81
+00:07:20,455 --> 00:07:22,914
+I was special, one of the chosen warriors.
 
-99
-00:07:31,958 --> 00:07:34,916
-We took out enemies
-to save people.
+82
+00:07:22,997 --> 00:07:25,314
+We took out enemies to save people.
 
-100
-00:07:35,000 --> 00:07:37,041
-Being a brave was
-a dream of mine.
+83
+00:07:26,039 --> 00:07:28,080
+Being a brave was a dream of mine.
 
-101
-00:07:37,125 --> 00:07:39,666
-So I trained in sword and
-hand-to-hand combat.
+84
+00:07:28,164 --> 00:07:30,705
+So I trained in sword and hand-to-hand combat.
 
-102
-00:07:39,750 --> 00:07:42,625
-I even learned how
-to tune carillons.
+85
+00:07:30,789 --> 00:07:32,947
+I even learned how to tune carillons.
 
-103
-00:07:42,708 --> 00:07:44,833
-I gained as much strength
-as a person could
+86
+00:07:33,747 --> 00:07:37,495
+I gained as much strength as a
+person could through sheer effort.
 
-104
-00:07:44,916 --> 00:07:46,833
-through sheer effort.
-
-105
-00:07:48,708 --> 00:07:50,833
+87
+00:07:39,747 --> 00:07:41,276
 But it wasn't enough.
 
-106
-00:07:50,916 --> 00:07:53,500
-Whatever "strength"
-I had was useless.
+88
+00:07:41,955 --> 00:07:44,251
+Whatever "strength" I had was useless.
 
-107
-00:07:53,583 --> 00:07:56,541
-I couldn't save
-who I cared about.
+89
+00:07:44,622 --> 00:07:46,575
+I couldn't save who I cared about.
 
-108
-00:07:56,625 --> 00:07:58,208
+90
+00:07:47,664 --> 00:07:48,747
 Not Almaria.
 
-109
-00:07:58,291 --> 00:07:59,791
+91
+00:07:49,330 --> 00:07:50,489
 Not Lillia.
 
-110
-00:08:01,583 --> 00:08:03,333
+92
+00:07:52,622 --> 00:07:53,770
 Not Chtholly.
 
-111
-00:08:04,833 --> 00:08:06,166
+93
+00:07:55,872 --> 00:07:56,814
 Doubtful.
 
-112
-00:08:06,250 --> 00:08:08,625
-Winning in battle is not
-the only way to save people.
+94
+00:07:57,289 --> 00:07:59,722
+Winning in battle is not the only way to save people.
 
-113
-00:08:08,708 --> 00:08:09,958
-[WILLEM]
+95
+00:07:59,747 --> 00:08:00,881
 Sit tight here.
 
-114
-00:08:10,041 --> 00:08:12,250
+96
+00:08:01,080 --> 00:08:02,314
 Just for a little while.
 
-115
-00:08:12,333 --> 00:08:15,125
-Generating more venenum
-now would be suicidal.
+97
+00:08:03,372 --> 00:08:06,007
+Generating more venenum now would be suicidal.
 
-116
-00:08:15,208 --> 00:08:17,041
+98
+00:08:06,167 --> 00:08:07,608
 And you don't like that.
 
-117
-00:08:22,958 --> 00:08:24,500
+99
+00:08:13,997 --> 00:08:15,381
 Say what you will.
 
-118
-00:08:24,583 --> 00:08:27,000
-You were a source of
-salvation for Chtholly,
+100
+00:08:15,582 --> 00:08:17,999
+You were a source of salvation for Chtholly,
 
-119
-00:08:27,083 --> 00:08:29,041
+101
+00:08:18,122 --> 00:08:19,769
 even if you can't see it.
 
-120
-00:08:42,375 --> 00:08:46,166
-[WILLEM gasping]
-
-121
-00:08:50,875 --> 00:08:51,666
-[CHTHOLLY]
+102
+00:08:41,914 --> 00:08:42,705
 Hey.
 
-122
-00:08:51,750 --> 00:08:52,791
-[ELQ]
+103
+00:08:42,789 --> 00:08:43,406
 What?
 
-123
-00:08:52,875 --> 00:08:53,958
-[CHTHOLLY]
+104
+00:08:43,800 --> 00:08:44,965
 I need a favor.
 
-124
-00:08:54,041 --> 00:08:55,083
-[gasps]
-
-125
-00:08:55,166 --> 00:08:56,333
+105
+00:08:46,205 --> 00:08:47,372
 It'll be the last one.
 
-126
-00:08:56,416 --> 00:08:57,791
+106
+00:08:47,455 --> 00:08:48,436
 No way!
 
-127
-00:08:57,875 --> 00:08:58,916
+107
+00:08:48,847 --> 00:08:49,888
 Oh, please?
 
-128
-00:08:59,000 --> 00:09:01,000
+108
+00:08:50,039 --> 00:08:51,869
 I think I made a promise to him.
 
-129
-00:09:01,083 --> 00:09:03,916
-It was a promise that he
-wouldn't have to fight anymore.
+109
+00:08:52,122 --> 00:08:54,784
+It was a promise that he wouldn't have to fight anymore.
 
-130
-00:09:04,000 --> 00:09:06,625
-And I... I would take on
-the rest of his battles.
+110
+00:08:55,039 --> 00:08:57,664
+And I... I would take on the rest of his battles.
 
-131
-00:09:06,708 --> 00:09:08,208
+111
+00:08:57,747 --> 00:08:59,247
 I would fight them for him.
 
-132
-00:09:08,291 --> 00:09:10,958
+112
+00:08:59,330 --> 00:09:01,817
 No means no, and I said no!
 
-133
-00:09:11,041 --> 00:09:14,166
-I also need to
-tell him something.
+113
+00:09:02,080 --> 00:09:04,276
+I also need to tell him something.
 
-134
-00:09:14,250 --> 00:09:15,958
+114
+00:09:05,242 --> 00:09:06,511
 I have to go.
 
-135
-00:09:21,166 --> 00:09:23,125
+115
+00:09:12,180 --> 00:09:13,454
 No matter what?
 
-136
-00:09:23,208 --> 00:09:24,750
+116
+00:09:14,247 --> 00:09:15,789
 No matter what.
 
-137
-00:09:24,833 --> 00:09:27,958
-But, you'll disappear entirely
-if you go back there again.
+117
+00:09:15,872 --> 00:09:18,952
+But, you'll disappear entirely if you go back there again.
 
-138
-00:09:28,041 --> 00:09:29,541
+118
+00:09:19,080 --> 00:09:22,455
 I don't mean just your memories.
+Your most important feelings will go!
 
-139
-00:09:29,625 --> 00:09:31,416
-Your most important
-feelings will go!
-
-140
-00:09:31,500 --> 00:09:32,541
+119
+00:09:22,537 --> 00:09:23,580
 All of it.
 
-141
-00:09:32,625 --> 00:09:36,500
+120
+00:09:23,664 --> 00:09:25,959
 All of you will be gone forever!
 
-142
-00:09:36,583 --> 00:09:38,625
+121
+00:09:27,548 --> 00:09:29,310
 I don't want to let that happen.
 
-143
-00:09:38,708 --> 00:09:41,500
-Sounds awful. But letting
-things end this way?
+122
+00:09:29,747 --> 00:09:32,539
+Sounds awful. But letting things end this way?
 
-144
-00:09:41,583 --> 00:09:45,166
-To me, that would be
-worse than anything.
+123
+00:09:32,622 --> 00:09:35,012
+To me, that would be worse than anything.
 
-145
-00:09:45,250 --> 00:09:46,958
+124
+00:09:36,289 --> 00:09:37,464
 Chtholly...
 
-146
-00:09:47,041 --> 00:09:48,583
+125
+00:09:38,080 --> 00:09:39,386
 Please say yes.
 
-147
-00:09:48,666 --> 00:09:50,250
+126
+00:09:39,705 --> 00:09:40,670
 Let me go.
 
-148
-00:09:50,333 --> 00:09:51,833
+127
+00:09:41,372 --> 00:09:42,765
 One last time.
 
-149
-00:09:51,916 --> 00:09:53,833
+128
+00:09:42,955 --> 00:09:44,553
 Let me go back to him.
 
-150
-00:10:01,625 --> 00:10:02,708
-[SOLDIERS gasping]
-
-151
-00:10:10,583 --> 00:10:12,458
-[NEPHREN panting]
-
-152
-00:10:15,750 --> 00:10:17,333
-[NEPHREN groans]
-
-153
-00:10:17,416 --> 00:10:18,791
+129
+00:10:08,455 --> 00:10:09,709
 She's been hit!
 
-154
-00:10:18,875 --> 00:10:19,958
+130
+00:10:09,914 --> 00:10:10,883
 Damn it!
 
-155
-00:10:20,041 --> 00:10:21,333
-[CAT]
+131
+00:10:11,080 --> 00:10:12,372
 ...thing's gonna pay!
 
-156
-00:10:21,416 --> 00:10:24,541
-[BIRDY] Get the bastard!
-Keep her safe at all costs!
+132
+00:10:12,455 --> 00:10:15,580
+Get the bastard! Keep her safe at all costs!
 
-157
-00:10:24,625 --> 00:10:26,500
---[FROGGO] I'll get this side!
---[CAT] I'm over here!
+133
+00:10:15,664 --> 00:10:16,598
+I'll get this side!
 
-158
-00:10:26,583 --> 00:10:28,166
-[NEPHREN gasping]
+134
+00:10:16,623 --> 00:10:17,563
+I'm over here!
 
-159
-00:10:28,250 --> 00:10:31,500
-[BIRDY] Whoa! Watch out!
-Here it comes again!
-
-160
-00:10:33,375 --> 00:10:34,208
-[NEPHREN]
+135
+00:10:24,414 --> 00:10:25,247
 Get back.
 
-161
-00:10:34,291 --> 00:10:35,250
-[BOTH gasp]
-
-162
-00:10:48,333 --> 00:10:52,500
-[NEPHREN gasping]
-
-163
-00:10:52,583 --> 00:10:53,500
-[FROGGO]
+136
+00:10:43,622 --> 00:10:44,539
 What's wrong?
 
-164
-00:10:53,583 --> 00:10:55,583
-[CAT]
+137
+00:10:44,622 --> 00:10:45,799
 We gotta help her!
 
-165
-00:10:57,916 --> 00:11:00,291
-[NOPHT]
+138
+00:10:48,955 --> 00:10:51,115
 Damn you. Get off!
 
-166
-00:11:00,375 --> 00:11:02,958
+139
+00:10:51,414 --> 00:10:53,822
 Go away! Get off!
 
-167
-00:11:03,041 --> 00:11:05,833
+140
+00:10:54,080 --> 00:10:56,381
 Get off, get off, get off!
 
-168
-00:11:05,916 --> 00:11:08,166
+141
+00:10:56,895 --> 00:10:59,145
 Will you go away?!
 
-169
-00:11:09,750 --> 00:11:11,583
-We've regained control
-of the main rotor.
+142
+00:11:00,789 --> 00:11:02,680
+We've regained control of the main rotor.
 
-170
-00:11:11,666 --> 00:11:13,250
-[MOGDAMAN]
+143
+00:11:02,705 --> 00:11:04,040
 Good work, soldier!
 
-171
-00:11:13,333 --> 00:11:16,250
-[alarm blares]
-
-172
-00:11:16,333 --> 00:11:17,708
-[ARMADILLO]
+144
+00:11:07,372 --> 00:11:10,214
 We've lost altitude-control
-
-173
-00:11:17,791 --> 00:11:19,208
 wings three through five.
 
-174
-00:11:19,291 --> 00:11:20,416
+145
+00:11:10,330 --> 00:11:11,555
 Seven is done for, too.
 
-175
-00:11:20,500 --> 00:11:22,125
-[MOGDAMAN]
+146
+00:11:11,580 --> 00:11:13,164
 What?! Agh, you!
 
-176
-00:11:22,208 --> 00:11:23,208
+147
+00:11:13,247 --> 00:11:14,247
 You need to fix this!
 
-177
-00:11:23,291 --> 00:11:26,750
-Oh, fine. I will.
-Now! Listen to me!
+148
+00:11:14,330 --> 00:11:17,789
+Oh, fine. I will. Now! Listen to me!
 
-178
-00:11:26,833 --> 00:11:29,375
-We're leaving this
-area at top speed!
+149
+00:11:17,872 --> 00:11:20,167
+We're leaving this area at top speed!
 
-179
-00:11:29,458 --> 00:11:33,166
+150
+00:11:20,497 --> 00:11:24,205
 All hands, grab on to something
 so you don't get thrown off!
 
-180
-00:11:33,875 --> 00:11:35,333
-[CAT, FROGGO yelp]
-
-181
-00:11:42,333 --> 00:11:45,208
-[SOLDIERS grunting]
-
-182
-00:11:45,291 --> 00:11:47,291
-[FROGGO]
+151
+00:11:36,330 --> 00:11:37,484
 It's our girl!
 
-183
-00:11:47,375 --> 00:11:48,875
+152
+00:11:38,361 --> 00:11:39,368
 Hold tight.
 
-184
-00:11:48,958 --> 00:11:50,916
+153
+00:11:39,997 --> 00:11:41,323
 Comin' to get you.
 
-185
-00:11:51,000 --> 00:11:52,875
-[NEPHREN]
+154
+00:11:42,039 --> 00:11:43,084
 Don't...
 
-186
-00:11:52,958 --> 00:11:55,375
+155
+00:11:43,880 --> 00:11:45,804
 Please stay away.
 
-187
-00:11:55,458 --> 00:11:56,666
+156
+00:11:46,497 --> 00:11:47,705
 It's too late.
 
-188
-00:11:56,750 --> 00:11:58,500
+157
+00:11:47,789 --> 00:11:49,332
 The Gate's opening.
 
-189
-00:11:58,583 --> 00:12:01,875
+158
+00:11:49,622 --> 00:11:51,938
 I... I...
 
-190
-00:12:01,958 --> 00:12:03,958
-I can't hold it off--
+159
+00:11:52,997 --> 00:11:54,655
+I can't hold it off...
 
-191
-00:12:04,041 --> 00:12:05,875
+160
+00:11:55,080 --> 00:11:56,883
 You just hang in there, missy!
 
-192
-00:12:05,958 --> 00:12:07,791
+161
+00:11:56,997 --> 00:11:58,742
 And hurry up, toad, grab her!
 
-193
-00:12:07,875 --> 00:12:10,041
-[gasps] Ren!
+162
+00:11:59,755 --> 00:12:00,615
+Ren!
 
-194
-00:12:40,125 --> 00:12:41,583
-[NEPHREN]
+163
+00:12:31,212 --> 00:12:32,332
 Willem?
 
-195
-00:12:41,666 --> 00:12:44,000
+164
+00:12:32,705 --> 00:12:34,718
 Yes! It's me!
 
-196
-00:12:44,083 --> 00:12:45,291
+165
+00:12:35,102 --> 00:12:36,113
 You're okay!
 
-197
-00:12:45,375 --> 00:12:47,000
+166
+00:12:36,414 --> 00:12:37,191
 I think--
 
-198
-00:12:47,083 --> 00:12:50,000
-I think I maybe managed
-to finally save someone.
+167
+00:12:38,122 --> 00:12:41,039
+I think I maybe managed to finally save someone.
 
-199
-00:12:50,083 --> 00:12:50,875
-[NEPHREN]
+168
+00:12:41,122 --> 00:12:41,914
 Huh...
 
-200
-00:12:50,958 --> 00:12:51,875
-[WILLEM]
+169
+00:12:41,939 --> 00:12:42,856
 Hold on.
 
-201
-00:12:51,958 --> 00:12:53,625
+170
+00:12:42,997 --> 00:12:44,311
 I'll pull you up now.
 
-202
-00:12:54,875 --> 00:12:57,000
-[WILLEM groaning]
-
-203
-00:12:58,916 --> 00:13:01,458
-[WILLEM groans]
-
-204
-00:13:04,291 --> 00:13:05,041
-[NEPHREN]
+171
+00:12:55,330 --> 00:12:56,080
 Willem...
 
-205
-00:13:05,125 --> 00:13:06,750
+172
+00:12:56,164 --> 00:12:57,612
 Please, don't say it.
 
-206
-00:13:06,833 --> 00:13:08,958
-[NEPHREN]
+173
+00:12:57,872 --> 00:12:59,813
 I generated too much venenum.
 
-207
-00:13:09,041 --> 00:13:10,458
+174
+00:13:00,080 --> 00:13:01,382
 It's too late.
 
-208
-00:13:10,541 --> 00:13:12,583
+175
+00:13:01,547 --> 00:13:03,437
 I'll figure something out!
 
-209
-00:13:12,666 --> 00:13:15,083
-[NEPHREN] The Gate will
-probably open soon.
+176
+00:13:03,705 --> 00:13:05,789
+The Gate will probably open soon.
 
-210
-00:13:15,166 --> 00:13:17,916
-If it does,
-this entire ship will blow.
+177
+00:13:06,145 --> 00:13:08,895
+If it does, this entire ship will blow.
 
-211
-00:13:18,000 --> 00:13:20,666
+178
+00:13:09,059 --> 00:13:10,863
 I said I'll figure it out!
 
-212
-00:13:20,750 --> 00:13:22,875
-[WILLEM groaning]
-
-213
-00:13:22,958 --> 00:13:25,000
-[WILLEM panting]
-
-214
-00:13:25,083 --> 00:13:28,208
-[NEPHREN]
+179
+00:13:16,122 --> 00:13:19,116
 Willem, saving people is my job.
 
-215
-00:13:28,291 --> 00:13:30,791
+180
+00:13:19,330 --> 00:13:21,522
 It's the job of all Leprechauns.
 
-216
-00:13:31,625 --> 00:13:33,958
-[WILLEM]
+181
+00:13:22,664 --> 00:13:24,846
 Ren, what are you--?
 
-217
-00:13:34,041 --> 00:13:35,666
-[NEPHREN]
+182
+00:13:25,080 --> 00:13:26,387
 It's all right.
 
-218
-00:13:35,750 --> 00:13:36,958
+183
+00:13:26,789 --> 00:13:27,740
 Don't worry.
 
-219
-00:13:37,041 --> 00:13:39,916
-You've already saved us
-plenty of times.
+184
+00:13:28,080 --> 00:13:30,520
+You've already saved us plenty of times.
 
-220
-00:13:40,000 --> 00:13:43,291
-So please,
-you have to let me go.
+185
+00:13:31,039 --> 00:13:33,895
+So please, you have to let me go.
 
-221
-00:13:43,375 --> 00:13:44,958
+186
+00:13:34,414 --> 00:13:35,509
 Don't say that.
 
-222
-00:13:45,041 --> 00:13:47,500
+187
+00:13:36,080 --> 00:13:37,751
 Ren, I can't let you go.
 
-223
-00:13:57,083 --> 00:13:58,708
-[WILLEM gasps]
-
-224
-00:14:12,916 --> 00:14:14,666
+188
+00:14:03,955 --> 00:14:05,175
 This isn't right.
 
-225
-00:14:17,375 --> 00:14:20,000
+189
+00:14:08,414 --> 00:14:11,023
 I can't... Ren!
 
-226
-00:14:21,333 --> 00:14:24,875
-[NOPHT exhales, laughs]
-
-227
-00:14:24,958 --> 00:14:27,791
-[NOPHT]
+190
+00:14:15,997 --> 00:14:18,330
 Okay, this is real bad.
 
-228
-00:14:27,875 --> 00:14:30,750
-It's almost funny how
-much I can't move now.
+191
+00:14:18,914 --> 00:14:21,535
+It's almost funny how much I can't move now.
 
-229
-00:14:30,833 --> 00:14:31,791
-[clattering]
+192
+00:14:28,997 --> 00:14:30,535
+Hey. What are you...?
 
-230
-00:14:37,958 --> 00:14:39,666
-Hey. What are you--?
-
-231
-00:14:39,750 --> 00:14:41,583
+193
+00:14:30,789 --> 00:14:32,288
 Don't be stupid!
 
-232
-00:14:41,666 --> 00:14:44,875
-If you can get up, then you need
-to hurry and hide somewhere!
+194
+00:14:32,705 --> 00:14:35,663
+If you can get up, then you
+need to hurry and hide somewhere!
 
-233
-00:14:44,958 --> 00:14:46,583
+195
+00:14:35,997 --> 00:14:37,372
 Chtholly!
 
-234
-00:15:02,958 --> 00:15:05,166
+196
+00:14:53,997 --> 00:14:56,095
 What am I gonna do with him?
 
-235
-00:15:06,416 --> 00:15:09,708
-Please stop, Chtholly!
-Come back!
+197
+00:14:57,432 --> 00:15:00,501
+Please stop, Chtholly! Come back!
 
-236
-00:15:09,791 --> 00:15:12,291
-We'll handle the fighting,
-even your share.
+198
+00:15:00,830 --> 00:15:03,282
+We'll handle the fighting, even your share.
 
-237
-00:15:12,375 --> 00:15:16,375
-You don't have to fight anymore,
-so please, don't do it!
+199
+00:15:03,442 --> 00:15:07,383
+You don't have to fight anymore, so please, don't do it!
 
-238
-00:15:16,458 --> 00:15:19,333
-You're free to pursue
-your happiness now.
+200
+00:15:07,497 --> 00:15:10,104
+You're free to pursue your happiness now.
 
-239
-00:15:19,416 --> 00:15:21,875
+201
+00:15:10,455 --> 00:15:12,766
 So go grab it, and don't let go.
 
-240
-00:15:21,958 --> 00:15:23,291
+202
+00:15:12,997 --> 00:15:14,404
 Be happy for us!
 
-241
-00:15:23,375 --> 00:15:27,000
-Otherwise, we'll never be able
-to live with ourselves!
+203
+00:15:14,414 --> 00:15:17,653
+Otherwise, we'll never be able to live with ourselves!
 
-242
-00:15:28,250 --> 00:15:29,791
+204
+00:15:19,289 --> 00:15:20,248
 You're wrong.
 
-243
-00:15:29,875 --> 00:15:31,375
+205
+00:15:20,914 --> 00:15:22,414
 I can't find happiness.
 
-244
-00:15:31,458 --> 00:15:35,416
-Meaning there's really no
-reason for me to pursue it.
+206
+00:15:22,497 --> 00:15:25,478
+Meaning there's really no reason for me to pursue it.
 
-245
-00:15:35,500 --> 00:15:38,833
-How can one pursue what
-they already have?
+207
+00:15:26,473 --> 00:15:29,639
+How can one pursue what they already have?
 
-246
-00:15:38,916 --> 00:15:40,333
+208
+00:15:29,955 --> 00:15:31,241
 Why would I try?
 
-247
-00:15:40,416 --> 00:15:42,125
+209
+00:15:31,429 --> 00:15:32,807
 Don't you understand?
 
-248
-00:15:43,041 --> 00:15:45,791
-I'm the happiest girl
-in the world.
+210
+00:15:34,040 --> 00:15:36,554
+I'm the happiest girl in the world.
 
-249
-00:15:58,083 --> 00:15:59,041
-[ELQ]
+211
+00:15:49,122 --> 00:15:50,080
 Books burning down.
 
-250
-00:15:59,125 --> 00:16:00,416
+212
+00:15:50,164 --> 00:15:51,455
 Snake swimming in the flames.
 
-251
-00:16:00,500 --> 00:16:01,458
+213
+00:15:51,539 --> 00:15:52,497
 Crumbling silver moon.
 
-252
-00:16:01,541 --> 00:16:03,041
-Princesses fighting
-to the death.
+214
+00:15:52,580 --> 00:15:54,080
+Princesses fighting to the death.
 
-253
-00:16:03,125 --> 00:16:04,500
-Lies of the dead.
-Big bell ringing.
+215
+00:15:54,164 --> 00:15:55,539
+Lies of the dead. Big bell ringing.
 
-254
-00:16:04,583 --> 00:16:05,750
+216
+00:15:55,622 --> 00:15:56,789
 Pillar of milk pouring...
 
-255
-00:16:05,833 --> 00:16:08,125
+217
+00:15:56,872 --> 00:15:58,859
 Ribbon drifting in the sky.
 
-256
-00:16:08,208 --> 00:16:11,083
+218
+00:15:59,247 --> 00:16:01,901
 Chtholly. Hang in there!
 
-257
-00:16:14,375 --> 00:16:15,583
-[CHTHOLLY gasps]
-
-258
-00:16:20,750 --> 00:16:22,583
-[WILLEM]
+219
+00:16:11,789 --> 00:16:13,584
 I'll save her if it kills me.
 
-259
-00:16:22,666 --> 00:16:23,625
-[WILLEM grunts]
-
-260
-00:16:40,333 --> 00:16:41,875
+220
+00:16:31,372 --> 00:16:32,671
 Chtholly...?
 
-261
-00:16:54,125 --> 00:16:57,125
-[WILLEM gasping]
-
-262
-00:17:45,750 --> 00:17:48,416
-[CHTHOLLY]
+221
+00:17:36,789 --> 00:17:39,003
 We swore never to part.
 
-263
-00:17:49,208 --> 00:17:52,125
-[CHTHOLLY]
+222
+00:17:40,247 --> 00:17:42,964
 With our vow, came euphoria.
 
-264
-00:17:53,666 --> 00:17:57,083
-[WILLEM]
+223
+00:17:44,705 --> 00:17:47,238
 We swore to be together forever.
 
-265
-00:17:57,166 --> 00:18:00,333
+224
+00:17:48,205 --> 00:17:51,372
 With our vow, came peace.
 
-266
-00:18:01,041 --> 00:18:04,708
-[CHTHOLLY]
+225
+00:17:52,033 --> 00:17:54,671
 My love for him was undeniable.
 
-267
-00:18:04,791 --> 00:18:08,583
-[WILLEM] What she meant
-to me was undeniable.
+226
+00:17:55,830 --> 00:17:58,661
+What she meant to me was undeniable.
 
-268
-00:18:08,666 --> 00:18:11,333
-[CHTHOLLY]
+227
+00:17:59,645 --> 00:18:02,229
 There was no greater happiness.
 
-269
-00:18:12,541 --> 00:18:14,958
-[WILLEM]
+228
+00:18:03,506 --> 00:18:05,535
 There was no greater joy.
 
-270
-00:18:16,666 --> 00:18:19,125
-[CHTHOLLY]
+229
+00:18:07,705 --> 00:18:09,647
 Yet, he offered more.
 
-271
-00:18:19,208 --> 00:18:22,125
-[WILLEM]
+230
+00:18:10,247 --> 00:18:12,415
 I promised to make her happy.
 
-272
-00:18:22,208 --> 00:18:24,625
-[CHTHOLLY]
+231
+00:18:13,247 --> 00:18:15,336
 And I delighted in it.
 
-273
-00:18:24,708 --> 00:18:27,166
-[WILLEM]
+232
+00:18:15,747 --> 00:18:18,205
 And I-- I was comforted.
 
-274
-00:18:27,250 --> 00:18:29,875
-[CHTHOLLY] The gifts of love
-and bliss he presented to me
+233
+00:18:18,289 --> 00:18:22,872
+The gifts of love and bliss he presented
+to me were unlike anything I'd ever known.
 
-275
-00:18:29,958 --> 00:18:31,833
-were unlike anything
-I'd ever known.
+234
+00:18:22,955 --> 00:18:26,122
+She granted me more than I ever believed possible.
 
-276
-00:18:31,916 --> 00:18:35,375
-[WILLEM] She granted me more
-than I ever believed possible.
+235
+00:18:26,497 --> 00:18:27,664
+But I...
 
-277
-00:18:35,458 --> 00:18:36,625
-But I--
+236
+00:18:27,721 --> 00:18:30,304
+My life became his, and his mine.
 
-278
-00:18:36,708 --> 00:18:39,291
-[CHTHOLLY] My life became his,
-and his mine.
-
-279
-00:18:39,375 --> 00:18:41,500
+237
+00:18:30,414 --> 00:18:32,240
 He blessed me with his world.
 
-280
-00:18:41,583 --> 00:18:45,125
-There is no joy ever known
-that can compare with my own.
+238
+00:18:32,622 --> 00:18:36,164
+There is no joy ever known that can compare with my own.
 
-281
-00:19:29,666 --> 00:19:31,833
-[footsteps]
-
-282
-00:19:41,375 --> 00:19:44,583
-[CHTHOLLY]
+239
+00:19:32,414 --> 00:19:34,029
 Will... em.
 
-283
-00:19:44,666 --> 00:19:46,583
+240
+00:19:35,651 --> 00:19:37,396
 Thank you so much.
 
-284
-00:19:48,166 --> 00:19:50,000
-[WILLEM whimpers]
-
-285
-00:19:53,625 --> 00:19:56,541
-[WILLEM]
+241
+00:19:44,664 --> 00:19:46,927
 You goddamn fool.
 
-286
-00:20:02,083 --> 00:20:05,625
-[bell tolls]
-
-287
-00:20:05,708 --> 00:20:07,958
-[LIMESKIN]
+242
+00:19:56,747 --> 00:19:58,606
 I'll never get used to it.
 
-288
-00:20:08,041 --> 00:20:10,291
+243
+00:19:59,080 --> 00:20:01,179
 No matter how often it happens,
 
-289
-00:20:10,375 --> 00:20:13,500
-losing warriors
-never gets easier.
+244
+00:20:01,414 --> 00:20:03,651
+losing warriors never gets easier.
 
-290
-00:20:13,583 --> 00:20:14,750
+245
+00:20:04,622 --> 00:20:07,414
 The struggle within your hearts
+must have been the most difficult.
 
-291
-00:20:14,833 --> 00:20:16,375
-must have been
-the most difficult.
+246
+00:20:07,497 --> 00:20:10,440
+There's no battle more merciless and painful than that.
 
-292
-00:20:16,458 --> 00:20:19,791
-There's no battle more
-merciless and painful than that.
+247
+00:20:10,914 --> 00:20:13,713
+Well done on staying fighters until the very end.
 
-293
-00:20:19,875 --> 00:20:23,000
-Well done on staying fighters
-until the very end.
-
-294
-00:20:29,708 --> 00:20:32,291
-[NOPHT]
+248
+00:20:20,747 --> 00:20:23,330
 I've never been so angry!
 
-295
-00:20:32,375 --> 00:20:33,875
-I told that girl not
-to fight anymore!
+249
+00:20:23,414 --> 00:20:26,414
+I told that girl not to fight
+anymore! I said that it was our turn!
 
-296
-00:20:33,958 --> 00:20:35,375
-I said that it was our turn!
-
-297
-00:20:35,458 --> 00:20:37,041
+250
+00:20:26,497 --> 00:20:28,080
 But no, of course not!
 
-298
-00:20:37,125 --> 00:20:40,041
-She just couldn't help
-her stupid self! Damn!
+251
+00:20:28,164 --> 00:20:30,839
+She just couldn't help her stupid self! Damn!
 
-299
-00:20:40,125 --> 00:20:42,666
-Whatever, the happiest girl
-in the world, my ass!
+252
+00:20:31,124 --> 00:20:33,665
+Whatever, the happiest girl in the world, my ass!
 
-300
-00:20:42,750 --> 00:20:43,916
+253
+00:20:33,789 --> 00:20:37,050
 How could she possibly think
+we'd be okay with this situation?!
 
-301
-00:20:44,000 --> 00:20:46,500
-we'd be okay with
-this situation?!
-
-302
-00:20:46,583 --> 00:20:48,250
-She goes out in
-a blaze of glory,
-
-303
-00:20:48,333 --> 00:20:49,791
+254
+00:20:37,622 --> 00:20:40,830
+She goes out in a blaze of glory,
 and all's well that ends well?
 
-304
-00:20:49,875 --> 00:20:53,666
-There's nothing well
-about any of this, okay?!
+255
+00:20:40,914 --> 00:20:43,568
+There's nothing well about any of this, okay?!
 
-305
-00:20:53,750 --> 00:20:55,833
-[RHANTOLK]
+256
+00:20:44,789 --> 00:20:46,461
 Nopht, please be quiet.
 
-306
-00:20:55,916 --> 00:20:57,166
-[NOPHT grunts]
+257
+00:20:47,871 --> 00:20:51,376
+One's happiness is one's own to define and to decide.
 
-307
-00:20:57,250 --> 00:20:59,083
-[RHANTOLK] One's happiness
-is one's own to define
+258
+00:20:51,476 --> 00:20:57,039
+Looking down on someone else's decision or trying to
+make that choice for them is nothing more than oppression.
 
-308
-00:20:59,166 --> 00:21:02,375
-and to decide. Looking down
-on someone else's decision
+259
+00:20:57,872 --> 00:21:00,270
+Well, then, pardon my oppression-ness!
 
-309
-00:21:02,458 --> 00:21:04,166
-or trying to make
-that choice for them
-
-310
-00:21:04,250 --> 00:21:06,750
-is nothing more than oppression.
-
-311
-00:21:06,833 --> 00:21:09,375
-Well, then, pardon
-my oppression-ness!
-
-312
-00:21:09,458 --> 00:21:11,000
-[NOPHT growls]
-
-313
-00:21:11,083 --> 00:21:12,375
-[RHANTOLK]
+260
+00:21:01,975 --> 00:21:02,878
 You know.
 
-314
-00:21:12,458 --> 00:21:16,166
-All things equal, if anyone
-can bestow happiness,
+261
+00:21:03,366 --> 00:21:07,234
+All things equal, if anyone can bestow happiness,
 
-315
-00:21:16,250 --> 00:21:17,708
+262
+00:21:07,289 --> 00:21:08,747
 it's people like you.
 
-316
-00:21:17,791 --> 00:21:19,583
-People who will always
-stay true to the good
+263
+00:21:08,830 --> 00:21:12,997
+People who will always stay true to
+the good within their oppressive natures.
 
-317
-00:21:19,666 --> 00:21:21,958
-within their oppressive natures.
-
-318
-00:21:25,875 --> 00:21:28,083
+264
+00:21:16,914 --> 00:21:18,971
 It looks like spring is coming.
 
-319
-00:21:31,625 --> 00:21:34,208
-[BOTH panting]
-
-320
-00:21:34,291 --> 00:21:35,541
-[TIAT]
+265
+00:21:25,330 --> 00:21:26,524
 Five more laps!
 
-321
-00:21:35,625 --> 00:21:38,208
-[COLLON]
+266
+00:21:26,664 --> 00:21:29,114
 Hard work and spirit!
 
-322
-00:21:38,291 --> 00:21:40,291
-Well, they're certainly
-full of energy.
+267
+00:21:29,330 --> 00:21:31,330
+Well, they're certainly full of energy.
 
-323
-00:21:40,375 --> 00:21:42,250
+268
+00:21:31,414 --> 00:21:33,289
 Yeah, you can say that again.
 
-324
-00:21:42,333 --> 00:21:45,541
-[TIAT, COLLON grunting]
+269
+00:21:36,665 --> 00:21:39,204
+Apparently, the girls are working hard today.
 
-325
-00:21:45,625 --> 00:21:48,208
-Apparently, the girls
-are working hard today.
-
-326
-00:21:48,291 --> 00:21:50,166
+270
+00:21:39,357 --> 00:21:40,804
 They sure are.
 
-327
-00:21:50,250 --> 00:21:52,958
-Although, kinda sad their
-favorite older fairies
+271
+00:21:41,289 --> 00:21:45,232
+Although, kinda sad their favorite
+older fairies aren't here to help 'em.
 
-328
-00:21:53,041 --> 00:21:54,500
-aren't here to help 'em.
+272
+00:21:45,622 --> 00:21:47,876
+They might be getting a little too worked up.
 
-329
-00:21:54,583 --> 00:21:57,041
-They might be getting
-a little too worked up.
-
-330
-00:21:59,166 --> 00:22:00,750
+273
+00:21:50,205 --> 00:21:51,724
 This does take me back.
 
-331
-00:22:00,833 --> 00:22:02,958
-Chtholly was just
-like that, too.
+274
+00:21:51,872 --> 00:21:53,727
+Chtholly was just like that, too.
 
-332
-00:22:03,041 --> 00:22:06,000
-She lost her older sister
-figure like they did.
+275
+00:21:54,080 --> 00:21:56,893
+She lost her older sister figure like they did.
 
-333
-00:22:06,083 --> 00:22:08,583
-And she also used her sorrow
-and loss as motivation
+276
+00:21:57,122 --> 00:22:01,443
+And she also used her sorrow and loss
+as motivation to grow even more powerful.
 
-334
-00:22:08,666 --> 00:22:10,708
-to grow even more powerful.
-
-335
-00:22:10,791 --> 00:22:12,958
+277
+00:22:01,830 --> 00:22:03,715
 Ah, the joys of youth.
 
-336
-00:22:13,041 --> 00:22:17,125
-I don't know. I don't think
-I could ever do that.
+278
+00:22:04,067 --> 00:22:07,332
+I don't know. I don't think I could ever do that.
 
-337
-00:22:17,208 --> 00:22:19,416
-[ITHEA cries]
+279
+00:22:11,955 --> 00:22:15,709
+I'm sorry, could you maybe
+pretend you didn't see this?
 
-338
-00:22:20,916 --> 00:22:23,125
-[ITHEA] I'm sorry,
-could you maybe pretend
+280
+00:22:16,660 --> 00:22:19,193
+It's not the best example to set.
 
-339
-00:22:23,208 --> 00:22:25,333
-you didn't see this?
-
-340
-00:22:25,416 --> 00:22:28,333
-It's not the best
-example to set.
-
-341
-00:22:28,416 --> 00:22:30,333
+281
+00:22:19,455 --> 00:22:21,308
 You know, as the eldest.
 
-342
-00:22:30,416 --> 00:22:32,291
-[ITHEA cries]
+282
+00:22:28,205 --> 00:22:31,269
+See what? I don't know what you're talking about.
 
-343
-00:22:37,166 --> 00:22:40,375
-See what? I don't know what
-you're talking about.
-
-344
-00:22:40,458 --> 00:22:43,750
-[ITHEA whimpers]
-
-345
-00:22:43,833 --> 00:22:47,541
-[wails]
-
-346
-00:22:53,375 --> 00:22:55,291
-[SOUWONG]
+283
+00:22:44,414 --> 00:22:46,140
 No response at all?
 
-347
-00:22:55,375 --> 00:22:57,833
-My pulse tracing is sure
-to locate anyone,
+284
+00:22:46,414 --> 00:22:48,872
+My pulse tracing is sure to locate anyone,
 
-348
-00:22:57,916 --> 00:23:00,791
-so long as they're
-alive, that is.
+285
+00:22:48,955 --> 00:22:51,541
+so long as they're alive, that is.
 
-349
-00:23:01,916 --> 00:23:03,208
+286
+00:22:52,955 --> 00:22:54,247
 Come on, now.
 
-350
-00:23:03,291 --> 00:23:05,833
+287
+00:22:54,330 --> 00:22:56,329
 Black Agate Swordmaster.
 
-351
-00:23:06,458 --> 00:23:08,916
-[GIRL] Excuse the interruption,
-Great Sage.
+288
+00:22:57,497 --> 00:22:59,925
+Excuse the interruption, Great Sage.
 
-352
-00:23:09,000 --> 00:23:11,166
-[SOUWONG]
+289
+00:23:00,039 --> 00:23:01,785
 Of course, that's it!
 
-353
-00:23:11,250 --> 00:23:12,875
+290
+00:23:02,289 --> 00:23:03,914
 Oh, no, I'm sorry.
 
-354
-00:23:12,958 --> 00:23:14,750
-I didn't mean to
-frighten you again.
+291
+00:23:03,997 --> 00:23:05,789
+I didn't mean to frighten you again.
 
-355
-00:23:14,833 --> 00:23:16,458
+292
+00:23:05,872 --> 00:23:07,174
 Please forgive me!
 
-356
-00:23:24,166 --> 00:23:30,625
-[BABY cries]
-
-357
-00:23:30,708 --> 00:23:32,333
-[FAIRY 12A]
+293
+00:23:21,747 --> 00:23:23,299
 Listen to that!
 
-358
-00:23:32,416 --> 00:23:34,041
-Poor thing hasn't
-let go of her feelings
+294
+00:23:23,455 --> 00:23:26,747
+Poor thing hasn't let go of her
+feelings from her past life yet.
 
-359
-00:23:34,125 --> 00:23:35,708
-from her past life yet.
+295
+00:23:26,830 --> 00:23:28,580
+She must have a really pure heart.
 
-360
-00:23:35,791 --> 00:23:37,541
-She must have a
-really pure heart.
+296
+00:23:28,664 --> 00:23:31,122
+By that, do you mean simple and naive?
 
-361
-00:23:37,625 --> 00:23:40,083
-[FAIRY 12B] By that, do you
-mean simple and naïve?
-
-362
-00:23:40,166 --> 00:23:42,416
-[FAIRY 12A]
+297
+00:23:31,205 --> 00:23:33,109
 That is one way to look at it.
 
-363
-00:23:42,500 --> 00:23:43,958
+298
+00:23:33,539 --> 00:23:34,963
 Good evening, sweetheart.
 
-364
-00:23:44,041 --> 00:23:46,375
+299
+00:23:35,080 --> 00:23:37,132
 It's so nice to meet you.
 
-365
-00:23:46,458 --> 00:23:48,125
-[laughs] So stubborn.
+300
+00:23:37,589 --> 00:23:39,209
+So stubborn.
 
-366
-00:23:48,208 --> 00:23:51,291
+301
+00:23:39,315 --> 00:23:42,008
 Ugh. Here, let me try something.
 
-367
-00:23:51,375 --> 00:23:53,000
+302
+00:23:42,360 --> 00:23:43,892
 There we go.
 
-368
-00:23:53,083 --> 00:23:57,333
-[muffled]
+303
+00:23:50,414 --> 00:23:53,122
+See? She got tired and is now silent.
 
-369
-00:23:59,375 --> 00:24:02,083
-See? She got tired
-and is now silent.
-
-370
-00:24:02,166 --> 00:24:04,250
-[FAIRY 12A]
+304
+00:23:53,205 --> 00:23:55,191
 That's enough of that...
 
-371
-00:24:04,875 --> 00:24:09,875
-[FAIRY 12A sighs]
+305
+00:23:58,964 --> 00:24:00,521
 Welcome, little one.
 
-372
-00:24:09,958 --> 00:24:11,958
-Welcome to this fragile,
-dying world
+306
+00:24:00,997 --> 00:24:05,639
+Welcome to this fragile, dying world
+with no redeeming qualities whatsoever.
 
-373
-00:24:12,041 --> 00:24:15,041
-with no redeeming
-qualities whatsoever.
-
-374
-00:24:15,125 --> 00:24:17,250
+307
+00:24:06,131 --> 00:24:07,600
 We're happy to have you.
-
-375
-00:24:17,333 --> 00:24:18,500
-[gasps]
 
