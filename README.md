@@ -23,7 +23,7 @@ OneDirve：http://pan.edatribe.com
 | A005 | No Game No Life                                                                                                     | 游戏人生                                 | 12集 | 进行 |
 | A006 | Death Note                                                                                                          | 死亡笔记                                 | 37集 | 计划 |
 | A007 | Assassination Classroom                                                                                             | 暗杀教室                                 | 47集 | 计划 |
-| A008 | [WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A008]No-Rin)                               | 末日时在做什么？有没有空？可以来拯救吗？ | 12集 | 完成 |
+| A008 | [WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/%5BA008%5DWorldEnd_What_are_you_doing_at_the_end_of_the_world_Are_you_busy_Will_you_save_us)                               | 末日时在做什么？有没有空？可以来拯救吗？ | 12集 | 完成 |
 | A009 | Sword Art Online                                                                                                    | 刀剑神域                                 | 73集 | 计划 |
 | A010 | Jormungand                                                                                                          | 军火女王                                 | 24集 | 计划 |
 | A011 | [Erased](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A011]Erased)                                       | 只有我不在的街道                         | 12集 | 完成 |
