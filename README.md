@@ -23,7 +23,7 @@ OneDirve：http://pan.edatribe.com
 | A005 | No Game No Life                                                                                                     | 游戏人生                                 | 12集 | 进行 |
 | A006 | Death Note                                                                                                          | 死亡笔记                                 | 37集 | 计划 |
 | A007 | Assassination Classroom                                                                                             | 暗杀教室                                 | 47集 | 计划 |
-| A008 | WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?                               | 末日时在做什么？有没有空？可以来拯救吗？ | 12集 | 进行 |
+| A008 | [WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A008]No-Rin)                               | 末日时在做什么？有没有空？可以来拯救吗？ | 12集 | 完成 |
 | A009 | Sword Art Online                                                                                                    | 刀剑神域                                 | 73集 | 计划 |
 | A010 | Jormungand                                                                                                          | 军火女王                                 | 24集 | 计划 |
 | A011 | [Erased](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A011]Erased)                                       | 只有我不在的街道                         | 12集 | 完成 |
@@ -102,7 +102,7 @@ OneDirve：http://pan.edatribe.com
 | M015 | Ponyo | 悬崖上的金鱼姬 | 2008 | 计划 |
 | M016 | Porco Rosso | 红猪 | 1992 | 计划 |
 | M017 | A Certain Magical Index - Movie | 魔法的禁书目录：恩底弥翁的奇迹 | 2013 | 计划 |
-| M018 | [Maquia_When_the_Promised_Flower_Blooms](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M018]Maquia_When_the_Promised_Flower_Blooms) | 朝花夕誓 - 于离别之朝束起约定之花 | 2018 | 完成 |
+| M018 | [Maquia When the Promised Flower Blooms](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M018]Maquia_When_the_Promised_Flower_Blooms) | 朝花夕誓 - 于离别之朝束起约定之花 | 2018 | 完成 |
 
 ### 字幕制作说明
 #### 详细解释
