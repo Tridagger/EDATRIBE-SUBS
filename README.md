@@ -79,7 +79,7 @@ OneDirve：http://pan.edatribe.com
 | A061 | Akashic Records of Bastard Magic Instructor                                                                         | 不正经的魔术讲师与禁忌教典               | 12集 | 计划 |
 | A062 | Akame ga Kill!                                                                                                      | 斩·赤红之瞳!                             | 24集 | 计划 |
 | A063 | A Centaur's Life                                                                                                    | 人马少女的烦恼                           | 12集 | 计划 |
-
+| A064 | One_Punch_Man | 一圈超人 | 12集 | 计划 |
 
 
 ### **剧场版**
