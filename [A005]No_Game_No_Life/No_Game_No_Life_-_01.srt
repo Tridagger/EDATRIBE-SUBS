@@ -1,2283 +1,1588 @@
 ﻿1
-00:00:21,321 --> 00:00:24,057
-Queen:
-<i>I don't believe this!</i>
+00:00:20,700 --> 00:00:22,406
+I don't believe this!
 
 2
-00:00:24,057 --> 00:00:26,326
+00:00:23,320 --> 00:00:24,987
 There's only four of them!
 
 3
-00:00:31,297 --> 00:00:34,234
-They beat 1,200 players
-all on their own?
+00:00:30,923 --> 00:00:33,743
+They beat 1,200 players all on their own?
 
 4
-00:00:37,170 --> 00:00:38,438
-( grunts )
-
-5
-00:00:44,811 --> 00:00:47,781
+00:00:44,012 --> 00:00:47,061
 Enough, this ends now!
 
+5
+00:01:09,386 --> 00:01:10,777
+You're mine.
+
 6
-00:01:08,068 --> 00:01:09,936
-( chuckles )
+00:01:28,136 --> 00:01:31,526
+No! You can't dodge that.
 
 7
-00:01:09,936 --> 00:01:11,638
-Queen:
-<i>You're mine.</i>
+00:01:31,743 --> 00:01:33,428
+You can't dodge that!
 
 8
-00:01:25,085 --> 00:01:26,587
-( gasps )
+00:01:34,058 --> 00:01:36,511
+Tell me if this story rings a bell.
 
 9
-00:01:28,555 --> 00:01:32,325
-Queen:
-<i>No! You can't</i>
-<i>dodge that.</i>
+00:01:36,536 --> 00:01:40,476
+It may just be an urban legend,
+but I assure you, it's a good one.
 
 10
-00:01:32,325 --> 00:01:34,227
-<i>You can't dodge that!</i>
+00:01:40,604 --> 00:01:43,010
+There exists a band of anonymous players,
 
 11
-00:01:37,363 --> 00:01:40,166
-Boy:
-<i>Tell me if this story</i>
-<i>rings a bell.</i>
+00:01:43,041 --> 00:01:45,839
+gamers who obliterate anyone who comes to face them,
 
 12
-00:01:40,166 --> 00:01:42,102
-<i>It may just be an urban legend,</i>
+00:01:45,894 --> 00:01:48,755
+reaching scores never achieved before or since.
 
 13
-00:01:42,102 --> 00:01:42,936
-<i>but I assure you,</i>
+00:01:48,780 --> 00:01:52,359
+in every game they play, their win records are flawless.
 
 14
-00:01:42,936 --> 00:01:44,204
-<i>it's a good one.</i>
+00:01:52,494 --> 00:01:54,963
+Since their user names are always left empty,
 
 15
-00:01:44,204 --> 00:01:45,238
-<i>There exists a band</i>
+00:01:55,028 --> 00:01:57,786
+they are simply known to people as "Blank".
 
 16
-00:01:45,238 --> 00:01:46,406
-<i>of anonymous players,</i>
+00:01:57,977 --> 00:02:00,547
+And according to every player who has encountered them,
 
 17
-00:01:46,406 --> 00:01:49,309
-<i>gamers who obliterate</i>
-<i>anyone who comes to face them,</i>
+00:02:00,572 --> 00:02:02,497
+they're indeed unbeatable.
 
 18
-00:01:49,309 --> 00:01:51,945
-<i>reaching scores never</i>
-<i>achieved before or since.</i>
-
-19
-00:01:51,945 --> 00:01:55,782
-<i>In every game they play,</i>
-<i>their win records are flawless.</i>
-
-20
-00:01:55,782 --> 00:01:58,251
-<i>Since their user names</i>
-<i>are always left empty,</i>
-
-21
-00:01:58,251 --> 00:02:01,454
-<i>they are simply known</i>
-<i>to people as "Blank."</i>
-
-22
-00:02:01,454 --> 00:02:04,024
-<i>And according to every player</i>
-<i>who has encountered them,</i>
-
-23
-00:02:04,024 --> 00:02:06,226
-<i>they're indeed unbeatable.</i>
-
-24
-00:02:06,226 --> 00:02:07,460
+00:02:02,573 --> 00:02:03,583
 Cheaters?
 
-25
-00:02:07,460 --> 00:02:09,162
-You think that's how
-they keep winning?
+19
+00:02:03,705 --> 00:02:05,407
+You think that's how they keep winning?
 
-26
-00:02:09,162 --> 00:02:10,430
+20
+00:02:05,445 --> 00:02:06,713
 Yeah. I'm sure of it.
 
-27
-00:02:10,430 --> 00:02:12,666
-It's got to be just
-a lousy group of hackers.
+21
+00:02:06,899 --> 00:02:08,924
+It's got to be just a lousy group of hackers.
 
-28
-00:02:12,666 --> 00:02:15,802
-Come on, there's no way
-they could beat 1,200 people
+22
+00:02:09,141 --> 00:02:13,048
+Come on, there's no way they could beat
+1,200 people with just the four of them.
 
-29
-00:02:15,802 --> 00:02:16,603
-with just the four of them.
+23
+00:02:13,112 --> 00:02:16,329
+Auto‐aimers and wall hacks, hitbox manipulation.
 
-30
-00:02:16,603 --> 00:02:20,106
-Auto‐aimers and wall hacks,
-hitbox manipulation.
-
-31
-00:02:20,106 --> 00:02:21,107
+24
+00:02:16,389 --> 00:02:17,513
 They got to be cheating.
 
-32
-00:02:21,107 --> 00:02:22,776
+25
+00:02:17,569 --> 00:02:18,594
 Oh, do they?
 
-33
-00:02:22,776 --> 00:02:25,345
-And here I thought cheating
-was our expertise.
+26
+00:02:19,293 --> 00:02:21,795
+And here I thought cheating was our expertise.
 
-34
-00:02:25,345 --> 00:02:26,980
-<i>Otherwise,</i>
-<i>I'd wouldn't be able</i>
+27
+00:02:21,930 --> 00:02:25,087
+Otherwise, I'd wouldn't be able
+to cast so many spells like that.
 
-35
-00:02:26,980 --> 00:02:28,682
-<i>to cast so many spells</i>
-<i>like that.</i>
+28
+00:02:25,237 --> 00:02:27,006
+I don't know. This is different.
 
-36
-00:02:28,682 --> 00:02:30,617
-Man:
-<i>I don't know.</i>
-<i>This is different.</i>
+29
+00:02:27,031 --> 00:02:28,694
+But Blank dodged them anyway.
 
-37
-00:02:30,617 --> 00:02:32,385
-Queen:
-<i>But Blank dodged them anyway.</i>
+30
+00:02:28,835 --> 00:02:33,379
+They already knew I was cheating to cast
+consecutive spells before I even did it.
 
-38
-00:02:32,385 --> 00:02:33,854
-<i>They already knew</i>
-<i>I was cheating</i>
-
-39
-00:02:33,854 --> 00:02:37,791
-<i>to cast consecutive spells</i>
-<i>before I even did it.</i>
-
-40
-00:02:37,791 --> 00:02:39,159
+31
+00:02:34,074 --> 00:02:35,237
 They're amazing.
 
-41
-00:02:39,159 --> 00:02:41,528
-They're like super geniuses
-or something!
+32
+00:02:35,469 --> 00:02:37,852
+They're like super geniuses or something!
 
-42
-00:02:41,528 --> 00:02:43,263
-You think maybe
-they'd go out with me?!
+33
+00:02:37,915 --> 00:02:39,806
+You think maybe they'd go out with me?!
 
-43
-00:02:43,263 --> 00:02:47,033
-Man:
+34
+00:02:39,846 --> 00:02:41,500
 Oh, God.
-Queen:
-( cackling )
 
-44
-00:02:47,033 --> 00:02:49,770
-Boy:
-<i>And so the rumors spread with</i>
-<i>their infamy.</i>
+35
+00:02:43,894 --> 00:02:46,386
+And so the rumors spread with their infamy.
 
-45
-00:02:49,770 --> 00:02:53,874
-<i>You know, urban legends</i>
-<i>are like a kind of wish.</i>
+36
+00:02:46,479 --> 00:02:49,684
+You know, urban legends are like a kind of wish.
 
-46
-00:02:53,874 --> 00:02:55,075
-<i>Because...</i>
+37
+00:02:50,052 --> 00:02:51,145
+Because...
 
-47
-00:02:55,075 --> 00:02:56,342
-( powers down )
+38
+00:02:52,947 --> 00:02:54,132
+in reality...
 
-48
-00:02:56,342 --> 00:02:59,145
-<i>in reality...</i>
+39
+00:02:55,564 --> 00:02:57,588
+the least interesting answer
 
-49
-00:02:59,145 --> 00:03:01,582
-<i>the least interesting answer</i>
+40
+00:02:58,316 --> 00:03:00,496
+is usually the correct one.
 
-50
-00:03:01,582 --> 00:03:04,284
-<i>is usually the correct one.</i>
-
-51
-00:03:05,485 --> 00:03:10,290
-( sighs )
+41
+00:03:03,220 --> 00:03:06,342
 We won... somehow.
 
-52
-00:03:10,724 --> 00:03:11,725
-( sighs )
-
-53
-00:03:11,725 --> 00:03:14,427
+42
+00:03:08,387 --> 00:03:09,849
 Hey, listen, Little Sis,
-could you do me a favor
 
-54
-00:03:14,427 --> 00:03:16,997
-<i>and please stop controlling</i>
-<i>the main account for Blank</i>
+43
+00:03:10,001 --> 00:03:14,170
+could you do me a favor and please stop
+controlling the main account for Blank with your feet?
 
-55
-00:03:16,997 --> 00:03:18,198
-<i>with your feet?</i>
+44
+00:03:14,195 --> 00:03:15,505
+Kind of nasty.
 
-56
-00:03:18,198 --> 00:03:19,299
-<i>Kind of nasty.</i>
-
-57
-00:03:19,299 --> 00:03:22,335
+45
+00:03:15,530 --> 00:03:18,229
 Hungry, I'm still hungry.
 
-58
-00:03:23,303 --> 00:03:26,072
+46
+00:03:19,762 --> 00:03:21,161
 Want some, Sora?
 
-59
-00:03:26,072 --> 00:03:27,841
-Sora:
+47
+00:03:22,289 --> 00:03:23,464
 Sure, why not?
 
-60
-00:03:29,175 --> 00:03:32,779
-<i>( electronic music plays )</i>
+48
+00:03:39,848 --> 00:03:42,753
+Really splurging on some fancy rations, huh, Shiro?
 
-61
-00:03:34,781 --> 00:03:38,619
-Sora:
-<i>Really splurging on some</i>
-<i>fancy rations, huh, Shiro?</i>
+49
+00:03:43,503 --> 00:03:45,968
+Nutrition's important.
 
-62
-00:03:38,619 --> 00:03:41,187
-Shiro:
-<i>Nutrition's important.</i>
+50
+00:03:45,993 --> 00:03:49,234
+Listen, the human brain can
+function as long as it has glucose.
 
-63
-00:03:41,187 --> 00:03:43,056
-Listen, the human brain
-can function
+51
+00:03:49,259 --> 00:03:51,893
+White bread is best in terms of cost‐performance.
 
-64
-00:03:43,056 --> 00:03:44,424
-as long as it has glucose.
+52
+00:03:51,918 --> 00:03:53,753
+Yeah. Thanks for the lecture.
 
-65
-00:03:44,424 --> 00:03:47,060
-White bread is best
-in terms of cost‐performance.
+53
+00:03:53,962 --> 00:03:57,833
+But I need other types of nutrients,
+too, or I won't get any bigger.
 
-66
-00:03:47,060 --> 00:03:48,895
-Yeah.
-Thanks for the lecture.
+54
+00:03:57,833 --> 00:04:01,704
+You're already a perfect,
+flawless beauty, you darling girl.
 
-67
-00:03:48,895 --> 00:03:51,131
-But I need other types
-of nutrients, too,
-
-68
-00:03:51,131 --> 00:03:52,766
-or I won't get any bigger.
-
-69
-00:03:52,766 --> 00:03:55,335
-Sora:
-<i>You're already a perfect,</i>
-<i>flawless beauty,</i>
-
-70
-00:03:55,335 --> 00:03:56,637
-<i>you darling girl.</i>
-
-71
-00:03:56,637 --> 00:03:59,573
+55
+00:04:01,729 --> 00:04:02,668
 Mm.
-Sora:
+
+56
+00:04:02,756 --> 00:04:04,085
 Hey, what time is it?
 
-72
-00:03:59,573 --> 00:04:02,876
-Shiro:
-<i>Um... 8:00 A. M.,</i>
-<i>the middle of the night.</i>
+57
+00:04:04,741 --> 00:04:07,943
+Um... 8:00 A. M., the middle of the night.
 
-73
-00:04:02,876 --> 00:04:06,046
-Sora: What day?
-Does that even
-matter to a NEET?
+58
+00:04:07,999 --> 00:04:08,834
+What day?
 
-74
-00:04:06,046 --> 00:04:06,647
+59
+00:04:08,859 --> 00:04:10,923
+Does that even matter to a NEET?
+
+60
+00:04:10,948 --> 00:04:11,644
 It does!
 
-75
-00:04:06,647 --> 00:04:09,215
-It tells me when MMORPGs
-are going to have new events!
+61
+00:04:11,714 --> 00:04:14,282
+It tells me when MMORPGs are going to have new events!
 
-76
-00:04:09,215 --> 00:04:10,684
+62
+00:04:14,337 --> 00:04:15,791
 And wha‐ wait!
 
-77
-00:04:10,684 --> 00:04:12,452
-I know you've been up
-for five days straight,
+63
+00:04:15,816 --> 00:04:19,628
+I know you've been up for five days straight,
+but if you quit now, I won't have a healer!
 
-78
-00:04:12,452 --> 00:04:15,789
-but if you quit now,
-I won't have a healer!
-
-79
-00:04:15,789 --> 00:04:16,857
+64
+00:04:20,494 --> 00:04:21,924
 I know you can do it.
 
-80
-00:04:16,857 --> 00:04:19,392
-You seriously think
-I can control four characters
+65
+00:04:22,011 --> 00:04:25,000
+You seriously think I can
+control four characters at one time?
 
-81
-00:04:19,392 --> 00:04:22,696
-at one time?
-Shiro:
+66
+00:04:25,025 --> 00:04:27,024
 Just believe.
 
+67
+00:04:27,439 --> 00:04:29,564
+Wait, no! Please don't fall asleep!
+
+68
+00:04:29,605 --> 00:04:33,308
+If you go to sleep, Shiro, everyone
+and by everyone, I mean me will die!
+
+69
+00:04:33,476 --> 00:04:36,445
+Okay, fine, fine, I'll do it!
+
+70
+00:04:36,470 --> 00:04:38,672
+I can take these suckers!
+
+71
+00:04:43,130 --> 00:04:47,005
+This world is chaotic, unfair, and unforgiving.
+
+72
+00:04:47,196 --> 00:04:48,967
+It has no meaning or value.
+
+73
+00:04:49,324 --> 00:04:52,588
+However, some people simply refuse to accept this,
+
+74
+00:04:52,588 --> 00:04:55,109
+even though they know they can't change anything.
+
+75
+00:04:55,359 --> 00:04:59,035
+They wish that the world could
+be just a little more interesting.
+
+76
+00:04:59,423 --> 00:05:03,443
+And that's how urban legends
+are formed, from wishes like that.
+
+77
+00:05:04,383 --> 00:05:06,440
+Okay, so let's get things started.
+
+78
+00:05:06,854 --> 00:05:11,094
+Let's offer a subtle stylistic
+catalyst for a chance at a new beginning.
+
+79
+00:05:11,506 --> 00:05:13,525
+Let's ask the question...
+
+80
+00:05:13,882 --> 00:05:16,297
+"Have you ever heard the latest rumor?"
+
+81
+00:05:18,492 --> 00:05:19,372
+Email.
+
 82
-00:04:22,696 --> 00:04:24,497
-Wait, no!
-Please don't fall asleep!
+00:05:19,397 --> 00:05:23,433
+Listen, your brother's been playing
+four characters on four separate screens.
 
 83
-00:04:24,497 --> 00:04:25,932
-<i>If you go to sleep,</i>
-<i>Shiro, everyone‐</i>
+00:05:23,591 --> 00:05:26,205
+I don't know what you want, but
+I'm seriously about to drop dead here.
 
 84
-00:04:25,932 --> 00:04:28,068
-<i>and by everyone,</i>
-<i>I mean me‐ will die!</i>
-
-85
-00:04:28,068 --> 00:04:31,171
-<i>( shouts )</i>
-<i>Okay, fine, fine,</i>
-<i>I'll do it!</i>
-
-86
-00:04:31,171 --> 00:04:34,074
-<i>I can take these suckers!</i>
-<i>( mouse clicking rapidly )</i>
-
-87
-00:04:34,074 --> 00:04:37,844
-<i>(birds chirping)</i>
-
-88
-00:04:37,844 --> 00:04:42,248
-Boy:
-<i>This world is chaotic,</i>
-<i>unfair, and unforgiving.</i>
-
-89
-00:04:42,248 --> 00:04:43,850
-<i>It has no meaning or value.</i>
-
-90
-00:04:43,850 --> 00:04:47,521
-<i>However, some people simply</i>
-<i>refuse to accept this,</i>
-
-91
-00:04:47,521 --> 00:04:50,356
-<i>even though they know</i>
-<i>they can't change anything.</i>
-
-92
-00:04:50,356 --> 00:04:52,025
-<i>They wish that</i>
-<i>the world could be</i>
-
-93
-00:04:52,025 --> 00:04:54,494
-<i>just a little more interesting.</i>
-
-94
-00:04:54,494 --> 00:04:56,963
-<i>And that's how</i>
-<i>urban legends are formed,</i>
-
-95
-00:04:56,963 --> 00:04:59,499
-<i>from wishes like that.</i>
-
-96
-00:04:59,499 --> 00:05:01,768
-<i>Okay, so let's get</i>
-<i>things started.</i>
-
-97
-00:05:01,768 --> 00:05:04,538
-<i>Let's offer a subtle</i>
-<i>stylistic catalyst</i>
-
-98
-00:05:04,538 --> 00:05:06,439
-<i>for a chance</i>
-<i>at a new beginning.</i>
-
-99
-00:05:06,439 --> 00:05:08,942
-<i>Let's ask the question...</i>
-
-100
-00:05:08,942 --> 00:05:11,745
-<i>"Have you ever heard</i>
-<i>the latest rumor?"</i>
-
-101
-00:05:11,745 --> 00:05:13,313
-<i>(tablet beeps)</i>
-
-102
-00:05:13,313 --> 00:05:14,247
-Email.
-Sora:
-Listen, your brother's been
-playing four characters
-
-103
-00:05:14,247 --> 00:05:17,017
-Sora:
-Listen, your brother's been
-playing four characters
-
-104
-00:05:17,017 --> 00:05:18,184
-on four separate screens.
-
-105
-00:05:18,184 --> 00:05:20,186
-I don't know what you want,
-but I'm seriously about
-
-106
-00:05:20,186 --> 00:05:24,257
-to drop dead here.
-Shiro:
+00:05:26,230 --> 00:05:28,429
 It may be from a friend.
 
-107
-00:05:24,257 --> 00:05:27,193
+85
+00:05:29,118 --> 00:05:30,240
 Whose friend?
-Shiro:
+
+86
+00:05:30,567 --> 00:05:31,733
 Your friend?
 
-108
-00:05:27,193 --> 00:05:28,895
-( wheezes and laughs)
+87
+00:05:32,521 --> 00:05:34,013
 That's weird.
 
-109
-00:05:28,895 --> 00:05:31,231
-I thought I heard my sister
-say something really mean
+88
+00:05:34,038 --> 00:05:37,564
+I thought I heard my sister say
+something really mean and sarcastic to me.
 
-110
-00:05:31,231 --> 00:05:33,366
-and sarcastic to me.
-
-111
-00:05:36,202 --> 00:05:37,804
+89
+00:05:41,245 --> 00:05:42,085
 Huh?
 
-112
-00:05:39,272 --> 00:05:40,941
-Sora:
-<i>What is this?</i>
+90
+00:05:44,251 --> 00:05:45,368
+What is this?
 
-113
-00:05:40,941 --> 00:05:44,911
-<i>And how does this guy know that</i>
-<i>the two of us are siblings?</i>
+91
+00:05:46,008 --> 00:05:49,253
+And how does this guy know
+that the two of us are siblings?
 
-114
-00:05:46,246 --> 00:05:47,748
+92
+00:05:51,130 --> 00:05:52,331
 What should we do?
 
-115
-00:05:50,116 --> 00:05:53,554
-Sora:
-<i>Is he trying to</i>
-<i>cut a deal with us?</i>
+93
+00:05:55,183 --> 00:05:57,666
+Is he trying to cut a deal with us?
 
-116
-00:05:53,554 --> 00:05:57,924
-Well, it might be fun
-to see where this goes.
+94
+00:05:58,510 --> 00:06:02,377
+Well, it might be fun to see where this goes.
 
-117
-00:06:01,294 --> 00:06:02,696
+95
+00:06:06,091 --> 00:06:08,100
 Huh? Chess?
 
-118
-00:06:02,696 --> 00:06:05,666
-Shiro:
-<i>Well, good night.</i>
-<i>( thud )</i>
+96
+00:06:08,125 --> 00:06:09,967
+Well, good night.
 
-119
-00:06:05,666 --> 00:06:07,233
-Huh, wait, wait!
-Don't fall asleep yet.
+97
+00:06:10,118 --> 00:06:15,097
+Huh, wait, wait! Don't fall asleep yet. I can't
+handle a high‐level chess simulation on my own!
 
-120
-00:06:07,233 --> 00:06:10,604
-I can't handle a high‐level
-chess simulation on my own!
+98
+00:06:17,527 --> 00:06:21,890
+Chess is a finite two‐player,
+zero‐sum, perfect information game.
 
-121
-00:06:12,539 --> 00:06:15,241
-Sora:
-<i>Chess is a finite</i>
-<i>two‐player, zero‐sum,</i>
+99
+00:06:22,104 --> 00:06:23,813
+Luck plays no part in it.
 
-122
-00:06:15,241 --> 00:06:17,277
-<i>perfect information game.</i>
+100
+00:06:23,908 --> 00:06:27,882
+Theoretically, to each game, there is
+a perfect solution that will never fail.
 
-123
-00:06:17,277 --> 00:06:18,845
-<i>Luck plays no part in it.</i>
+101
+00:06:28,382 --> 00:06:37,119
+Of course, that's only if you have a mind capable of
+calculating the 10'^120 possible states of the board.
 
-124
-00:06:18,845 --> 00:06:21,447
-<i>Theoretically, to each game,</i>
-<i>there is a perfect solution</i>
-
-125
-00:06:21,447 --> 00:06:23,517
-<i>that will never fail.</i>
-
-126
-00:06:23,517 --> 00:06:26,452
-<i>Of course, that's only</i>
-<i>if you have a mind capable</i>
-
-127
-00:06:26,452 --> 00:06:31,124
-<i>of calculating</i>
-<i>the 10'^120 possible states</i>
-
-128
-00:06:31,124 --> 00:06:32,826
-<i>of the board.</i>
-
-129
-00:06:34,528 --> 00:06:36,530
-Shiro:
+102
+00:06:39,579 --> 00:06:41,305
 Chess is no different
 
-130
-00:06:36,530 --> 00:06:39,866
-than simply playing
-tic‐tac‐toe.
+103
+00:06:41,557 --> 00:06:44,705
+than simply playing tic‐tac‐toe.
 
-131
-00:06:42,302 --> 00:06:43,870
+104
+00:06:47,004 --> 00:06:48,155
 That's right.
 
-132
-00:06:43,870 --> 00:06:45,772
-Sora:
-<i>Shiro has beaten</i>
-<i>a program designed</i>
+105
+00:06:48,667 --> 00:06:53,920
+Shiro has beaten a program designed to
+defeat grandmasters 20 times in a row,
 
-133
-00:06:45,772 --> 00:06:49,009
-<i>to defeat grandmasters</i>
-<i>20 times in a row,</i>
+106
+00:06:54,012 --> 00:06:56,653
+alternating between going first and second.
 
-134
-00:06:49,009 --> 00:06:52,478
-<i>alternating between</i>
-<i>going first and second.</i>
+107
+00:06:57,235 --> 00:06:58,163
+However...
 
-135
-00:06:52,478 --> 00:06:54,447
-<i>However...</i>
+108
+00:07:01,917 --> 00:07:04,367
+It cut off its own piece's advance.
 
-136
-00:06:55,281 --> 00:06:56,850
-( gasps )
-
-137
-00:06:56,850 --> 00:06:59,686
-Shiro:
-<i>It cut off</i>
-<i>its own piece's advance.</i>
-
-138
-00:06:59,686 --> 00:07:02,088
+109
+00:07:04,641 --> 00:07:05,672
 Hold on, Shiro.
+
+110
+00:07:05,925 --> 00:07:06,481
 What?
 
-139
-00:07:02,088 --> 00:07:04,725
-A program will always
-select the best strategy.
+111
+00:07:07,071 --> 00:07:09,589
+A program will always select the best strategy.
 
-140
-00:07:04,725 --> 00:07:06,593
-You can win 'cause
-they're predictable.
+112
+00:07:09,614 --> 00:07:11,241
+You can win 'cause they're predictable.
 
-141
-00:07:06,593 --> 00:07:10,030
+113
+00:07:11,814 --> 00:07:15,777
 But this one's deliberately
-using a bad move
+using a bad move to lure you in.
 
-142
-00:07:10,030 --> 00:07:10,964
-<i>to lure you in.</i>
-
-143
-00:07:10,964 --> 00:07:12,966
-Sora:
+114
+00:07:16,031 --> 00:07:17,033
 It's a human.
-Shiro:
+
+115
+00:07:17,517 --> 00:07:17,850
 Hmm...
 
-144
-00:07:12,966 --> 00:07:14,568
-Don't worry, if it's
-a contest of skill,
+116
+00:07:17,875 --> 00:07:20,744
+Don't worry, if it's a contest of
+skill, you've got this in the bag.
 
-145
-00:07:14,568 --> 00:07:16,002
-you've got this
-in the bag.
+117
+00:07:21,204 --> 00:07:23,364
+I'll tell you when they're up to something tricky.
 
-146
-00:07:16,002 --> 00:07:19,305
-<i>Sora:</i>
-<i>I'll tell you when they're up</i>
-<i>to something tricky.</i>
+118
+00:07:24,101 --> 00:07:26,103
+The two of us, Sora and Shiro,
 
-147
-00:07:19,305 --> 00:07:21,307
-<i>The two of us,</i>
-<i>Sora and Shiro,</i>
+119
+00:07:26,349 --> 00:07:27,885
+form two halves of a whole.
 
-148
-00:07:21,307 --> 00:07:22,843
-<i>form two halves of a whole.</i>
+120
+00:07:28,043 --> 00:07:29,529
+Now let's see if there's somebody
 
-149
-00:07:22,843 --> 00:07:25,411
-<i>Now let's see</i>
-<i>if there's somebody</i>
+121
+00:07:29,961 --> 00:07:32,730
+who's got the balls to beat us.
 
-150
-00:07:25,411 --> 00:07:27,814
-who's got the balls
-to beat us.
+122
+00:07:40,355 --> 00:07:44,194
+Checkmate! You are winner!
 
-151
-00:07:32,418 --> 00:07:35,288
-( both groan )
-
-152
-00:07:35,288 --> 00:07:39,325
-Male computerized voice:
-<i>Checkmate! You are winner!</i>
-
-153
-00:07:39,325 --> 00:07:41,161
-( both sigh )
-
-154
-00:07:41,161 --> 00:07:43,764
-( yawning )
+123
+00:07:45,642 --> 00:07:48,806
 Yeah, we won!
 
-155
-00:07:43,764 --> 00:07:47,100
-I haven't worked
-this hard in a long time.
+124
+00:07:48,831 --> 00:07:51,475
+I haven't worked this hard in a long time.
 
-156
-00:07:47,100 --> 00:07:48,935
+125
+00:07:51,665 --> 00:07:53,539
 Was that guy really human?
 
-157
-00:07:48,935 --> 00:07:50,070
-<i>( chimes )</i>
-
-158
-00:07:50,070 --> 00:07:52,238
-Together:
+126
+00:07:54,778 --> 00:07:55,484
 Huh?
 
-159
-00:07:58,378 --> 00:08:00,547
+127
+00:08:03,056 --> 00:08:04,908
 What the hell?
 
-160
-00:08:06,019 --> 00:08:09,355
-Sora:
-<i>What do you mean,</i>
-<i>"is it fun?"</i>
+128
+00:08:10,805 --> 00:08:13,489
+What do you mean, "is it fun?"
 
-161
-00:08:09,355 --> 00:08:11,558
-<i>In this game there's no way</i>
-<i>to know the rules</i>
+129
+00:08:14,311 --> 00:08:17,485
+In this game there's no way to
+know the rules or how to win,
 
-162
-00:08:11,558 --> 00:08:14,595
-<i>or how to win,</i>
-<i>yet there are 7 billion players</i>
+130
+00:08:17,661 --> 00:08:21,371
+yet there are 7 billion players all
+making whatever moves they want.
 
-163
-00:08:14,595 --> 00:08:16,429
-<i>all making whatever</i>
-<i>moves they want.</i>
+131
+00:08:21,418 --> 00:08:24,309
+If you lose too much, or win
+too much, there are penalties.
 
-164
-00:08:16,429 --> 00:08:18,398
-<i>If you lose too much,</i>
-<i>or win too much,</i>
+132
+00:08:24,851 --> 00:08:28,321
+You can't pass your turn, and if
+you complain, people look down on you.
 
-165
-00:08:18,398 --> 00:08:20,200
-<i>there are penalties.</i>
+133
+00:08:28,536 --> 00:08:32,000
+There's no parameters or freakin' genre or anything.
 
-166
-00:08:20,200 --> 00:08:21,101
-<i>You can't pass your turn,</i>
+134
+00:08:32,233 --> 00:08:33,542
+You know what you call that?
 
-167
-00:08:21,101 --> 00:08:23,469
-<i>and if you complain,</i>
-<i>people look down on you.</i>
+135
+00:08:33,813 --> 00:08:34,774
+You call it...
 
-168
-00:08:23,469 --> 00:08:24,805
-<i>There's no parameters</i>
+136
+00:08:34,862 --> 00:08:36,647
+A crappy game.
 
-169
-00:08:24,805 --> 00:08:27,508
-<i>or freakin' genre</i>
-<i>or anything.</i>
+137
+00:08:47,344 --> 00:08:50,457
+Uh, believe me, if there's a world like that,
 
-170
-00:08:27,508 --> 00:08:29,242
-<i>You know what you call that?</i>
-
-171
-00:08:29,242 --> 00:08:30,343
-<i>You call it...</i>
-
-172
-00:08:30,343 --> 00:08:32,579
-Sora and Shiro:
-<i>A crappy game.</i>
-
-173
-00:08:33,914 --> 00:08:35,215
-<i>( chimes )</i>
-
-174
-00:08:40,286 --> 00:08:42,255
-( laughs )
-
-175
-00:08:42,255 --> 00:08:45,491
-Sora:
-Uh, believe me,
-if there's a world like that,
-
-176
-00:08:45,491 --> 00:08:46,893
+138
+00:08:50,558 --> 00:08:51,799
 then the two of us,
 
-177
-00:08:46,893 --> 00:08:50,664
-<i>well, we were born</i>
-<i>in the wrong one, for sure.</i>
+139
+00:08:51,960 --> 00:08:54,881
+well, we were born in the wrong one, for sure.
 
-178
-00:08:51,364 --> 00:08:52,766
-( both gasp )
+140
+00:09:00,265 --> 00:09:01,795
+Huh? What the...
 
-179
-00:08:53,499 --> 00:08:55,301
-(static buzzing)
-
-180
-00:08:55,301 --> 00:08:58,972
-Huh? What the‐
+141
+00:09:01,820 --> 00:09:02,636
 Sora?
 
-181
-00:08:58,972 --> 00:09:01,642
-Boy:
-<i>You know what?</i>
-<i>I think so, too!</i>
+142
+00:09:04,039 --> 00:09:06,378
+You know what? I think so, too!
 
-182
-00:09:01,642 --> 00:09:03,343
-<i>In fact,</i>
-<i>it sounds like you two</i>
+143
+00:09:06,553 --> 00:09:11,009
+In fact, it sounds like you two don't
+have any business living in this world at all!
 
-183
-00:09:03,343 --> 00:09:05,912
-<i>don't have any business living</i>
-<i>in this world at all!</i>
+144
+00:09:11,644 --> 00:09:13,115
+So how does this sound?
 
-184
-00:09:05,912 --> 00:09:08,048
-( both shout )
-Boy:
-<i>So how does this sound?</i>
+145
+00:09:13,115 --> 00:09:14,861
+How would you like a second chance
 
-185
-00:09:08,048 --> 00:09:10,817
-<i>How would you like</i>
-<i>a second chance to be made anew</i>
+146
+00:09:14,886 --> 00:09:19,155
+to be made anew in the world in which you
+should have been born in the first place?
 
-186
-00:09:10,817 --> 00:09:13,186
-<i>in the world in which</i>
-<i>you should have been born</i>
+147
+00:09:21,927 --> 00:09:25,031
+Welcome to the world of my creation!
 
-187
-00:09:13,186 --> 00:09:14,821
-<i>in the first place?</i>
-
-188
-00:09:17,057 --> 00:09:20,293
-<i>Welcome to the world</i>
-<i>of my creation!</i>
-
-189
-00:09:20,293 --> 00:09:21,461
-( both shout )
-
-190
-00:09:21,461 --> 00:09:23,229
+148
+00:09:26,528 --> 00:09:28,566
 What's going on?!
 
-191
-00:09:23,229 --> 00:09:25,431
-( shouts )
+149
+00:09:30,498 --> 00:09:33,625
+This is the ideal world you've always dreamed of‐
 
-192
-00:09:25,431 --> 00:09:28,602
-This is the ideal world
-you've always dreamed of‐
-
-193
-00:09:28,602 --> 00:09:30,370
+150
+00:09:33,669 --> 00:09:35,080
 the world of games!
 
-194
-00:09:30,370 --> 00:09:30,904
+151
+00:09:35,105 --> 00:09:35,971
 It's Disboard!
 
-195
-00:09:30,904 --> 00:09:32,205
-It's Disboard!
-Sora:
+152
+00:09:35,971 --> 00:09:37,272
 Shit!
 
-196
-00:09:32,205 --> 00:09:34,407
-You see, everything
-in this world
-(whimper)
+153
+00:09:37,272 --> 00:09:41,109
+You see, everything in this
+world is decided by a simple game...
 
-197
-00:09:34,407 --> 00:09:36,042
-is decided by a simple game‐
+154
+00:09:41,109 --> 00:09:44,232
+Government, politics, even the lives of its people.
 
-198
-00:09:36,042 --> 00:09:39,680
-Government, politics,
-even the lives of its people.
-
-199
-00:09:39,680 --> 00:09:40,714
-Shiro:
+155
+00:09:44,464 --> 00:09:45,559
 Who are you?
 
-200
-00:09:40,714 --> 00:09:42,983
-Me?
-They call me Tet.
+156
+00:09:45,584 --> 00:09:47,853
+Me? They call me Tet.
 
-201
-00:09:42,983 --> 00:09:45,719
-I live over here.
-I'm a god.
+157
+00:09:47,878 --> 00:09:50,660
+I live over here. I'm a god.
 
-202
-00:09:45,719 --> 00:09:47,453
-A god?
-You're so short.
+158
+00:09:50,754 --> 00:09:52,337
+A god? You're so short.
 
-203
-00:09:47,453 --> 00:09:49,990
-Now's not the time!
-We're gonna die!
+159
+00:09:52,362 --> 00:09:54,848
+Now's not the time! We're gonna die!
 
-204
-00:09:49,990 --> 00:09:51,357
-Try to stay focused, please.
+160
+00:09:54,873 --> 00:09:58,860
+Try to stay focused, please. So everything
+here is decided by ten simple pledges.
 
-205
-00:09:51,357 --> 00:09:53,894
-So everything here is decided
-by ten simple pledges.
+161
+00:09:58,908 --> 00:10:04,555
+One‐ Killing others, waging war, and stealing
+from people is strictly forbidden in this world.
 
-206
-00:09:53,894 --> 00:09:56,630
-( beep )
-One‐ Killing others,
-waging war,
+162
+00:10:04,605 --> 00:10:08,036
+Two‐ All conflicts, no matter how great or small,
 
-207
-00:09:56,630 --> 00:09:58,398
-and stealing from people
-is strictly forbidden
+163
+00:10:08,072 --> 00:10:09,760
+must be resolved through games.
 
-208
-00:09:58,398 --> 00:09:59,933
-in this world.
+164
+00:10:09,958 --> 00:10:15,310
+Three‐ Before the games begin, each player must
+bet something that they agree is of equal value.
 
-209
-00:09:59,933 --> 00:10:03,069
-(beep)
-Tet:
-Two‐ All conflicts,
-no matter how great or small,
+165
+00:10:15,416 --> 00:10:21,207
+Four‐ As long as it doesn't go against number three, what
+they bet and the rules of the game will not be questioned.
 
-210
-00:10:03,069 --> 00:10:05,105
-must be resolved
-through games.
+166
+00:10:21,596 --> 00:10:25,801
+Five‐ The challenged party has the
+right to determine the rules of the game.
 
-211
-00:10:05,105 --> 00:10:06,740
-<i>(beep)</i>
-<i>Three‐</i>
-<i>Before the games begin,</i>
+167
+00:10:26,054 --> 00:10:30,774
+Six‐ All bets made in accordance
+with the pledges must be upheld.
 
-212
-00:10:06,740 --> 00:10:08,809
-<i>each player</i>
-<i>must bet something</i>
+168
+00:10:31,282 --> 00:10:36,851
+Seven‐ Conflicts between groups will be overseen
+by appointed representatives with absolute authority.
 
-213
-00:10:08,809 --> 00:10:10,243
-<i>that they agree</i>
-<i>is of equal value.</i>
+169
+00:10:37,099 --> 00:10:41,443
+Eight‐ Being caught cheating during
+a game results in an instant loss.
 
-214
-00:10:10,243 --> 00:10:13,213
-<i>( beep )</i>
-<i>Four‐ As long as it doesn't</i>
-<i>go against number three,</i>
+170
+00:10:41,619 --> 00:10:46,639
+And nine‐ In the name of Almighty God,‐that's
+me‐ the previous rules may never be altered.
 
-215
-00:10:13,213 --> 00:10:15,281
-<i>what they bet</i>
-<i>and the rules of the game</i>
+171
+00:10:46,842 --> 00:10:49,069
+Okay, great, now would you shut up and save us?!
 
-216
-00:10:15,281 --> 00:10:16,082
-<i>will not be questioned.</i>
+172
+00:10:49,144 --> 00:10:51,732
+The ground! the ground, the ground, the ground!
 
-217
-00:10:16,082 --> 00:10:19,352
-<i>( beep )</i>
-<i>Five‐ The challenged party has</i>
-<i>the right to determine</i>
-
-218
-00:10:19,352 --> 00:10:20,987
-<i>the rules of the game.</i>
-
-219
-00:10:20,987 --> 00:10:24,457
-<i>( beep )</i>
-<i>Six‐ All bets made in</i>
-<i>accordance with the pledges</i>
-
-220
-00:10:24,457 --> 00:10:26,459
-<i>must be upheld.</i>
-
-221
-00:10:26,459 --> 00:10:29,029
-<i>(beep)</i>
-<i>Seven‐ Conflicts between</i>
-<i>groups will be overseen</i>
-
-222
-00:10:29,029 --> 00:10:32,032
-<i>by appointed representatives</i>
-<i>with absolute authority.</i>
-
-223
-00:10:32,032 --> 00:10:34,868
-<i>( beep )</i>
-<i>Eight‐ Being caught cheating</i>
-<i>during a game</i>
-
-224
-00:10:34,868 --> 00:10:36,503
-<i>results in an instant loss.</i>
-
-225
-00:10:36,503 --> 00:10:39,773
-(beep)
-And nine‐ In the name
-of Almighty God,‐that's me‐
-
-226
-00:10:39,773 --> 00:10:41,775
-the previous rules
-may never be altered.
-
-227
-00:10:41,775 --> 00:10:44,077
-Okay, great, now would you
-shut up and save us?!
-
-228
-00:10:44,077 --> 00:10:46,747
-<i>Sora:</i>
-<i>The ground! the ground,</i>
-<i>the ground, the ground!</i>
-
-229
-00:10:46,747 --> 00:10:48,982
+173
+00:10:51,814 --> 00:10:52,249
 Shiro!
+
+174
+00:10:52,274 --> 00:10:52,804
 Sora!
 
-230
-00:10:48,982 --> 00:10:50,684
-(explosion)
-Sora:
-( grunts )
+175
+00:11:07,529 --> 00:11:11,214
+Number ten‐ Let's all have fun and play together!
 
-231
-00:10:59,693 --> 00:11:01,261
-( wheezes )
-
-232
-00:11:02,462 --> 00:11:06,399
-Number ten‐
-Let's all have fun
-and play together!
-
-233
-00:11:06,399 --> 00:11:07,367
-( laughs )
-
-234
-00:11:07,367 --> 00:11:09,636
-Sora:
+176
+00:11:12,040 --> 00:11:13,945
 Huh? Hey!
 
-235
-00:11:09,636 --> 00:11:12,606
-Tet:
-<i>( distantly ) I look forward</i>
-<i>to seeing you two again.</i>
+177
+00:11:14,765 --> 00:11:17,608
+I look forward to seeing you two again.
 
-236
-00:11:12,606 --> 00:11:17,678
-<i>I'm pretty sure</i>
-<i>it won't be long.</i>
+178
+00:11:17,719 --> 00:11:22,120
+I'm pretty sure it won't be long.
 
-237
-00:11:19,245 --> 00:11:20,781
+179
+00:11:23,860 --> 00:11:24,877
 Sora?
 
-238
-00:11:22,683 --> 00:11:23,950
-Shiro:
+180
+00:11:27,337 --> 00:11:28,779
 Where are we?
 
-239
-00:11:23,950 --> 00:11:27,821
-( wind whistles )
-
-240
-00:11:34,194 --> 00:11:37,297
-(loud crash)
-
-241
-00:11:39,833 --> 00:11:41,802
-( roars )
-
-242
-00:11:46,673 --> 00:11:49,209
+181
+00:11:51,257 --> 00:11:52,640
 You know what, sis?
+
+182
+00:11:52,911 --> 00:11:53,608
 Hmm?
 
-243
-00:11:49,209 --> 00:11:51,011
-Sora:
-I've always thought life
-was just a game
+183
+00:11:54,085 --> 00:11:58,874
+I've always thought life was just a game
+for masochists and losers, and what happened?
 
-244
-00:11:51,011 --> 00:11:55,015
-for masochists and losers,
-and what happened?
-
-245
-00:11:55,015 --> 00:11:56,717
+184
+00:12:00,026 --> 00:12:01,569
 The game just crashed!
 
-246
-00:11:56,717 --> 00:11:58,819
+185
+00:12:01,594 --> 00:12:03,640
 Oh, what's going on?
 
-247
-00:11:58,819 --> 00:12:01,487
-Together:
-<i>This game is total crap!</i>
+186
+00:12:03,886 --> 00:12:06,144
+This game is total crap!
 
-248
-00:12:06,159 --> 00:12:09,495
-Man:
-<i>Long ago, in the</i>
-<i>far distant past,</i>
+187
+00:12:08,294 --> 00:12:11,667
+Long ago, in the far distant past,
 
-249
-00:12:09,495 --> 00:12:12,633
-<i>the gods, along with</i>
-<i>their families and creations,</i>
+188
+00:12:11,738 --> 00:12:14,768
+the gods, along with their families and creations,
 
-250
-00:12:12,633 --> 00:12:14,835
-<i>waged a seemingly</i>
-<i>never‐ending war</i>
+189
+00:12:14,768 --> 00:12:18,514
+waged a seemingly never‐ending
+war for the right to rule this world,
 
-251
-00:12:14,835 --> 00:12:16,469
-<i>for the right</i>
-<i>to rule this world,</i>
+190
+00:12:18,848 --> 00:12:22,368
+They fought for the right to become the One True God.
 
-252
-00:12:16,469 --> 00:12:20,473
-<i>They fought for the right</i>
-<i>to become the One True God.</i>
+191
+00:12:22,559 --> 00:12:25,538
+Eventually, it became clear there would be no real victor,
 
-253
-00:12:20,473 --> 00:12:23,309
-<i>Eventually, it became clear</i>
-<i>there would be no real victor,</i>
+192
+00:12:25,609 --> 00:12:31,997
+as the sky, the sea, the land and the stars
+were all destroyed in the devastating battles.
 
-254
-00:12:23,309 --> 00:12:26,780
-<i>as the sky, the sea,</i>
-<i>the land and the stars</i>
+193
+00:12:32,244 --> 00:12:36,619
+However, hidden amongst the
+wreckage, a single deity had survived.
 
-255
-00:12:26,780 --> 00:12:30,183
-<i>were all destroyed</i>
-<i>in the devastating battles.</i>
+194
+00:12:36,938 --> 00:12:39,662
+Although he never participated in the conflict,
 
-256
-00:12:30,183 --> 00:12:32,653
-<i>However,</i>
-<i>hidden amongst the wreckage,</i>
+195
+00:12:39,861 --> 00:12:41,429
+the title became his.
 
-257
-00:12:32,653 --> 00:12:34,555
-<i>a single deity</i>
-<i>had survived.</i>
+196
+00:12:41,578 --> 00:12:43,271
+His name was Tet,
 
-258
-00:12:34,555 --> 00:12:37,791
-<i>Although he never participated</i>
-<i>in the conflict,</i>
+197
+00:12:43,524 --> 00:12:46,344
+and he was known as the God of Play.
 
-259
-00:12:37,791 --> 00:12:39,359
-<i>the title became his.</i>
+198
+00:12:46,499 --> 00:12:52,936
+You creatures who have fought with violence, blood, and
+death, who built a tower of corpses that rises to the sky,
 
-260
-00:12:39,359 --> 00:12:41,161
-<i>His name was Tet,</i>
+199
+00:12:52,961 --> 00:12:55,296
+and who still call yourselves wise,
 
-261
-00:12:41,161 --> 00:12:44,364
-<i>and he was known</i>
-<i>as the God of Play.</i>
+200
+00:12:55,321 --> 00:12:56,022
+tell me this:
 
-262
-00:12:44,364 --> 00:12:46,432
-Tet:
-<i>You creatures who have</i>
-<i>fought with violence,</i>
+201
+00:12:56,050 --> 00:12:58,759
+What makes you different from wild animals?
 
-263
-00:12:46,432 --> 00:12:49,536
-<i>blood, and death,</i>
-<i>who built a tower of corpses</i>
+202
+00:12:58,784 --> 00:13:03,791
+In the face of their shattered world,
+excuses were meaningless and God spoke
 
-264
-00:12:49,536 --> 00:12:51,004
-<i>that rises to the sky,</i>
+203
+00:13:03,853 --> 00:13:05,688
+"Thou shalt not kill one another.
 
-265
-00:12:51,004 --> 00:12:53,239
-<i>and who still</i>
-<i>call yourselves wise,</i>
+204
+00:13:05,752 --> 00:13:08,994
+Murder and thievery in this
+realm is henceforth forbidden."
 
-266
-00:12:53,239 --> 00:12:53,940
-<i>tell me this:</i>
+205
+00:13:09,019 --> 00:13:14,414
+You 16 races full of greed and hubris, I
+command you to use your ingenuity and wit,
 
-267
-00:12:53,940 --> 00:12:56,309
-<i>What makes you different</i>
-<i>from wild animals?</i>
+206
+00:13:14,439 --> 00:13:18,180
+your great fortunes and power
+to build me a tower of knowledge
 
-268
-00:12:56,309 --> 00:12:58,378
-Man:
-<i>In the face</i>
-<i>of their shattered world,</i>
+207
+00:13:18,205 --> 00:13:19,658
+and to prove to me...
 
-269
-00:12:58,378 --> 00:13:01,782
-<i>excuses were meaningless</i>
-<i>and God spoke‐</i>
-
-270
-00:13:01,782 --> 00:13:03,617
-<i>"Thou shalt not kill</i>
-<i>one another.</i>
-
-271
-00:13:03,617 --> 00:13:05,686
-<i>Murder and thievery</i>
-<i>in this realm</i>
-
-272
-00:13:05,686 --> 00:13:06,553
-<i>is henceforth forbidden."</i>
-
-273
-00:13:06,553 --> 00:13:09,422
-Tet:
-<i>You 16 races full</i>
-<i>of greed and hubris,</i>
-
-274
-00:13:09,422 --> 00:13:12,092
-<i>I command you to use</i>
-<i>your ingenuity and wit,</i>
-
-275
-00:13:12,092 --> 00:13:13,894
-<i>your great fortunes</i>
-<i>and power</i>
-
-276
-00:13:13,894 --> 00:13:15,996
-<i>to build me a tower</i>
-<i>of knowledge</i>
-
-277
-00:13:15,996 --> 00:13:17,631
-<i>and to prove to me...</i>
-
-278
-00:13:17,631 --> 00:13:20,500
-Man:
+208
+00:13:19,690 --> 00:13:22,350
 Your strength of mind.
 
-279
-00:13:20,500 --> 00:13:22,135
+209
+00:13:22,531 --> 00:13:24,166
 Okay, I think I get it.
 
-280
-00:13:22,135 --> 00:13:24,337
-So everything in this world
-is decided by games,
+210
+00:13:24,191 --> 00:13:26,447
+So everything in this world is decided by games,
 
-281
-00:13:24,337 --> 00:13:26,039
-because the God of Play
-is in charge?
+211
+00:13:26,472 --> 00:13:28,144
+because the God of Play is in charge?
 
-282
-00:13:26,039 --> 00:13:27,974
-That's right,
-and by the way...
+212
+00:13:28,174 --> 00:13:30,109
+That's right, and by the way...
 
-283
-00:13:27,974 --> 00:13:29,275
+213
+00:13:30,109 --> 00:13:31,410
 Hmm? What now?
 
-284
-00:13:29,275 --> 00:13:31,077
-Do you suppose
-you could find it in your heart
+214
+00:13:31,410 --> 00:13:35,197
+Do you suppose you could find it in your
+heart to at least leave us a pair of pants?
 
-285
-00:13:31,077 --> 00:13:32,679
-to at least leave us
-a pair of pants?
+215
+00:13:35,222 --> 00:13:39,608
+Uh, Numero seis‐ Any bets made in
+accordance with the pledges must be upheld.
 
-286
-00:13:32,679 --> 00:13:36,482
-Sora:
-Uh, Numero seis‐ Any bets made
-in accordance with the pledges
+216
+00:13:40,005 --> 00:13:44,658
+So we bet everything we could offer, including our
+lives, and you in turn, bet everything you had on you,
 
-287
-00:13:36,482 --> 00:13:37,984
-must be upheld.
+217
+00:13:44,691 --> 00:13:46,281
+which just so happened to include your pants.
 
-288
-00:13:37,984 --> 00:13:39,686
-So we bet everything
-we could offer,
+218
+00:13:46,306 --> 00:13:47,749
+Okay, that's true, but still,
 
-289
-00:13:39,686 --> 00:13:41,221
-including our lives,
-and you in turn,
+219
+00:13:47,786 --> 00:13:49,800
+You can't leave us here like this!
 
-290
-00:13:41,221 --> 00:13:42,523
-bet everything
-you had on you,
+220
+00:13:49,825 --> 00:13:52,001
+Let's go, Shiro. Roger.
 
-291
-00:13:42,523 --> 00:13:44,224
-which just so happened
-to include your pants.
-
-292
-00:13:44,224 --> 00:13:45,692
-Okay, that's true,
-but still,
-
-293
-00:13:45,692 --> 00:13:47,561
-You can't leave us here
-like this!
-
-294
-00:13:47,561 --> 00:13:49,930
-Let's go, Shiro.
-(all screaming)
-Roger.
-
-295
-00:13:49,930 --> 00:13:52,298
+221
+00:13:52,406 --> 00:13:53,848
 Please, double or nothing!
 
-296
-00:13:52,298 --> 00:13:54,167
-I can't go back to
-the village in my undies.
+222
+00:13:53,873 --> 00:13:56,356
+I can't go back to the village in my undies.
 
-297
-00:13:54,167 --> 00:13:57,070
-Sora:
-<i>Huh, seems like even bandits</i>
-<i>can't rob or kill you.</i>
+223
+00:13:56,523 --> 00:13:59,156
+Huh, seems like even bandits can't rob or kill you.
 
-298
-00:13:57,070 --> 00:13:59,139
+224
+00:13:59,205 --> 00:14:00,372
 That's pretty convenient.
 
-299
-00:13:59,139 --> 00:14:02,609
-Nah, I bet they couldn't
-even if they tried.
+225
+00:14:01,274 --> 00:14:04,391
+Nah, I bet they couldn't even if they tried.
 
-300
-00:14:03,209 --> 00:14:04,177
+226
+00:14:04,843 --> 00:14:05,811
 Anyway.
 
-301
-00:14:04,177 --> 00:14:07,514
-Seems like everything comes down
-to your skill at the game.
+227
+00:14:06,337 --> 00:14:09,253
+Seems like everything comes
+down to your skill at the game.
 
-302
-00:14:12,986 --> 00:14:16,957
-( grunting )
+228
+00:14:19,092 --> 00:14:20,971
+Hey, how about you speed this up?
 
-303
-00:14:16,957 --> 00:14:18,959
-Hey, how about you
-speed this up?
+229
+00:14:20,996 --> 00:14:23,251
+Would you shut up! I'm thinking here!
 
-304
-00:14:18,959 --> 00:14:21,127
-Would you shut up!
-I'm thinking here!
+230
+00:14:23,449 --> 00:14:25,190
+I just need a second, okay?
 
-305
-00:14:21,127 --> 00:14:24,097
-I just need a second,
-okay?
+231
+00:14:26,167 --> 00:14:29,019
+Yeah, you can think all you
+want, but it won't change your hand.
 
-306
-00:14:24,097 --> 00:14:25,599
-Yeah, you can think
-all you want,
+232
+00:14:29,202 --> 00:14:32,213
+A gambling tournament to decide the next king?
 
-307
-00:14:25,599 --> 00:14:27,067
-but it won't change
-your hand.
+233
+00:14:32,387 --> 00:14:34,787
+It was the Old King's dying wish.
 
-308
-00:14:27,067 --> 00:14:30,103
-Sora:
-<i>A gambling tournament to decide</i>
-<i>the next king?</i>
+234
+00:14:34,894 --> 00:14:39,034
+Apparently, he wanted the next ruler to
+be humanity's greatest gambler or something.
 
-309
-00:14:30,103 --> 00:14:32,839
-It was the Old King's
-dying wish.
+235
+00:14:39,112 --> 00:14:42,481
+Huh, so even the ruler is decided by a game.
 
-310
-00:14:32,839 --> 00:14:34,207
-Apparently,
-he wanted the next ruler
+236
+00:14:42,760 --> 00:14:45,090
+The red‐headed girl is Stephanie Dola.
 
-311
-00:14:34,207 --> 00:14:36,977
-to be humanity's
-greatest gambler or something.
+237
+00:14:45,328 --> 00:14:47,901
+She's the granddaughter of the Former King,
 
-312
-00:14:36,977 --> 00:14:40,346
-Huh, so even the ruler
-is decided by a game.
+238
+00:14:47,965 --> 00:14:50,650
+but because of his will, she can't inherit the throne.
 
-313
-00:14:40,346 --> 00:14:42,716
-Woman:
-<i>The red‐headed girl is</i>
-<i>Stephanie Dola.</i>
+239
+00:14:50,984 --> 00:14:53,264
+So she's entered the gambling tournament as well.
 
-314
-00:14:42,716 --> 00:14:45,652
-<i>She's the granddaughter</i>
-<i>of the Former King,</i>
+240
+00:14:53,897 --> 00:14:57,824
+Hmm? Hey, Shiro, are you doing okay?
 
-315
-00:14:45,652 --> 00:14:48,421
-<i>but because of his will,</i>
-<i>she can't inherit the throne.</i>
+241
+00:14:58,259 --> 00:14:59,444
+I'm good.
 
-316
-00:14:48,421 --> 00:14:51,858
-<i>So she's entered the gambling</i>
-<i>tournament as well.</i>
+242
+00:15:01,740 --> 00:15:03,709
+Huh? What's the matter?
 
-317
-00:14:51,858 --> 00:14:56,396
-Hmm? Hey, Shiro,
-are you doing okay?
+243
+00:15:03,734 --> 00:15:06,173
+Got a crush? Yeah, right.
 
-318
-00:14:56,396 --> 00:14:58,031
-Shiro:
-<i>I'm good.</i>
-
-319
-00:14:59,733 --> 00:15:01,702
-Huh?
-What's the matter?
-
-320
-00:15:01,702 --> 00:15:04,237
-Got a crush?
-Yeah, right.
-
-321
-00:15:04,237 --> 00:15:06,707
+244
+00:15:06,339 --> 00:15:08,662
 I was just wondering if you
 were going to enter this thing.
 
-322
-00:15:06,707 --> 00:15:07,373
+245
+00:15:08,730 --> 00:15:09,748
 Who, me?
 
-323
-00:15:07,373 --> 00:15:10,443
-Oh, no, this is all I need
-right here, Kiddo.
+246
+00:15:09,773 --> 00:15:12,252
+Oh, no, this is all I need right here, Kiddo.
 
-324
-00:15:10,443 --> 00:15:12,546
+247
+00:15:12,458 --> 00:15:14,746
 And... besides...
 
-325
-00:15:12,546 --> 00:15:14,681
-<i>Kurami over there</i>
-<i>is so strong that most</i>
+248
+00:15:15,024 --> 00:15:18,881
+Kurami over there is so strong that most
+of the other players have already pulled out
 
-326
-00:15:14,681 --> 00:15:16,517
-<i>of the other players</i>
-<i>have already pulled out</i>
+249
+00:15:18,906 --> 00:15:20,719
+before they had the chance to lose.
 
-327
-00:15:16,517 --> 00:15:18,585
-<i>before they had</i>
-<i>the chance to lose.</i>
+250
+00:15:20,951 --> 00:15:23,351
+In other words, you're too scared to enter?
 
-328
-00:15:18,585 --> 00:15:21,555
-In other words,
-you're too scared to enter?
-
-329
-00:15:21,555 --> 00:15:22,589
+251
+00:15:23,602 --> 00:15:24,636
 What'd you say?
 
-330
-00:15:22,589 --> 00:15:25,125
-So, as long as you
-don't actually lose to her,
+252
+00:15:24,724 --> 00:15:27,489
+So, as long as you don't actually lose to her,
 
-331
-00:15:25,125 --> 00:15:27,127
-you can go home and tell
-all your friends
+253
+00:15:27,514 --> 00:15:29,262
+you can go home and tell all your friends
 
-332
-00:15:27,127 --> 00:15:28,428
-whatever you want,
-am I right?
+254
+00:15:29,262 --> 00:15:30,494
+whatever you want, am I right?
 
-333
-00:15:28,428 --> 00:15:30,864
-"Oh, I won because
-she was so pathetic.
+255
+00:15:30,692 --> 00:15:34,100
+"Oh, I won because she was so pathetic. I let her go."
 
-334
-00:15:30,864 --> 00:15:32,165
-<i>I let her go."</i>
-
-335
-00:15:32,165 --> 00:15:35,068
+256
+00:15:34,300 --> 00:15:37,119
 Well, aren't you something?
 
-336
-00:15:35,068 --> 00:15:37,738
-So let's play,
-Little Boy.
+257
+00:15:37,652 --> 00:15:39,773
+So let's play, Little Boy.
 
-337
-00:15:37,738 --> 00:15:39,372
-Sorry, but I don't play
-for fun.
+258
+00:15:39,798 --> 00:15:41,420
+Sorry, but I don't play for fun.
 
-338
-00:15:39,372 --> 00:15:41,141
-You got to put something
-on the line...
+259
+00:15:41,445 --> 00:15:43,071
+You got to put something on the line...
 
-339
-00:15:41,141 --> 00:15:42,776
-<i>like that bag of cash.</i>
+260
+00:15:43,349 --> 00:15:44,827
+like that bag of cash.
 
-340
-00:15:42,776 --> 00:15:44,911
-What? Do you know much
-is in here?
+261
+00:15:44,852 --> 00:15:47,043
+What? Do you know much is in here?
 
-341
-00:15:44,911 --> 00:15:46,913
-The deal is that
-we have to bet something
+262
+00:15:47,115 --> 00:15:51,484
+The deal is that we have to bet something
+of equal value or it isn't official.
 
-342
-00:15:46,913 --> 00:15:49,583
-of equal value
-or it isn't official.
+263
+00:15:51,693 --> 00:15:54,170
+Pledge three, right? I suppose that's fair.
 
-343
-00:15:49,583 --> 00:15:52,318
-Pledge three, right?
-I suppose that's fair.
-
-344
-00:15:52,318 --> 00:15:53,219
+264
+00:15:54,453 --> 00:15:55,290
 How's this?
 
-345
-00:15:53,219 --> 00:15:55,656
-You can do whatever
-you want with the two of us.
+265
+00:15:55,354 --> 00:15:58,928
+You can do whatever you want with
+the two of us. Our lives are yours.
 
-346
-00:15:55,656 --> 00:15:56,657
-Our lives are yours.
+266
+00:15:58,953 --> 00:16:01,463
+Sell us, leave us to die, your choice.
 
-347
-00:15:56,657 --> 00:15:59,392
-Sora:
-<i>Sell us, leave us to die,</i>
-<i>your choice.</i>
-
-348
-00:15:59,392 --> 00:16:00,994
+267
+00:16:01,527 --> 00:16:02,392
 Seriously?
 
-349
-00:16:00,994 --> 00:16:02,295
+268
+00:16:03,180 --> 00:16:04,405
 Why not?
 
-350
-00:16:02,295 --> 00:16:04,364
-Sora:
-We'll play a single hand
-of poker.
+269
+00:16:04,430 --> 00:16:06,294
+We'll play a single hand of poker.
 
-351
-00:16:04,364 --> 00:16:04,965
+270
+00:16:06,499 --> 00:16:07,100
 Uh...
 
-352
-00:16:04,965 --> 00:16:06,099
+271
+00:16:07,100 --> 00:16:08,088
 What do you say?
 
-353
-00:16:06,099 --> 00:16:09,169
-I'd love to show one
-of the locals how it's done.
+272
+00:16:08,307 --> 00:16:11,229
+I'd love to show one of the locals how it's done.
 
-354
-00:16:09,169 --> 00:16:10,436
+273
+00:16:11,304 --> 00:16:12,571
 Confident, huh?
 
-355
-00:16:10,436 --> 00:16:12,806
-Better watch that mouth
-of yours.
+274
+00:16:12,571 --> 00:16:14,422
+Better watch that mouth of yours.
 
-356
-00:16:12,806 --> 00:16:16,009
-All right,
-have it your way.
+275
+00:16:14,885 --> 00:16:17,417
+All right, have it your way.
 
-357
-00:16:16,009 --> 00:16:17,944
+276
+00:16:18,144 --> 00:16:20,024
 I swear by the pledges.
 
-358
-00:16:17,944 --> 00:16:20,480
+277
+00:16:20,262 --> 00:16:22,143
 I swear by the pledges.
 
-359
-00:16:22,716 --> 00:16:24,184
-Together: <i>Aschente!</i>
+278
+00:16:24,754 --> 00:16:26,222
+Aschente!
 
-360
-00:16:28,855 --> 00:16:31,525
-Woman:
-<i>Just a stupid redneck kid</i>
-<i>with more confidence</i>
+279
+00:16:31,044 --> 00:16:34,738
+Just a stupid redneck kid with
+more confidence than experience.
 
-361
-00:16:31,525 --> 00:16:33,493
-<i>than experience.</i>
+280
+00:16:35,827 --> 00:16:39,528
+A bluff like that might work on
+the backward dolts in your village...
 
-362
-00:16:33,493 --> 00:16:36,563
-<i>A bluff like that might work</i>
-<i>on the backward dolts</i>
+281
+00:16:40,926 --> 00:16:42,642
+...but not here!
 
-363
-00:16:36,563 --> 00:16:37,998
-<i>in your village...</i>
-
-364
-00:16:38,865 --> 00:16:41,001
-<i>...but not here!</i>
-
-365
-00:16:43,369 --> 00:16:44,705
+282
+00:16:45,042 --> 00:16:46,049
 Sora.
 
-366
-00:16:46,372 --> 00:16:49,610
-Oh, no, run into
-some bad luck?
+283
+00:16:48,649 --> 00:16:52,597
+Oh, no, run into some bad luck? Poor baby.
 
-367
-00:16:49,610 --> 00:16:50,544
-Poor baby.
+284
+00:16:52,654 --> 00:16:57,705
+Yeah, I started the day with a 10,000‐meter
+skydive, then walked forever under the blazing sun.
 
-368
-00:16:50,544 --> 00:16:53,747
-Yeah, I started the day
-with a 10,000‐meter skydive,
+285
+00:16:57,730 --> 00:16:59,463
+through some screwed‐up wilderness
 
-369
-00:16:53,747 --> 00:16:55,649
-<i>then walked forever</i>
-<i>under the blazing sun.</i>
+286
+00:16:59,741 --> 00:17:01,019
+definitely a bad day.
 
-370
-00:16:55,649 --> 00:16:57,217
-<i>through some screwed‐up</i>
-<i>wilderness‐</i>
-
-371
-00:16:57,217 --> 00:16:59,185
-<i>definitely a bad day.</i>
-
-372
-00:16:59,185 --> 00:17:00,353
+287
+00:17:01,320 --> 00:17:02,607
 You did what now?
 
-373
-00:17:00,353 --> 00:17:02,956
-Just forget I said anything.
-You ready?
+288
+00:17:02,632 --> 00:17:04,817
+Just forget I said anything. You ready?
 
-374
-00:17:02,956 --> 00:17:06,492
-( chuckles )
+289
+00:17:06,326 --> 00:17:08,367
 Ready... and waiting.
 
-375
-00:17:06,492 --> 00:17:07,493
-<i>How about you?</i>
+290
+00:17:08,627 --> 00:17:09,544
+How about you?
 
-376
-00:17:07,493 --> 00:17:09,462
-<i>Perhaps you'd like</i>
-<i>to draw the cards again?</i>
+291
+00:17:09,639 --> 00:17:11,394
+Perhaps you'd like to draw the cards again?
 
-377
-00:17:09,462 --> 00:17:12,365
+292
+00:17:11,601 --> 00:17:13,017
 No thanks, we're cool.
-<i>Oh.</i>
 
-378
-00:17:12,365 --> 00:17:15,736
-In that case...
-too bad, kiddo!
+293
+00:17:13,391 --> 00:17:13,763
+Oh.
 
-379
-00:17:15,736 --> 00:17:17,971
+294
+00:17:14,500 --> 00:17:17,871
+In that case... too bad, kiddo!
+
+295
+00:17:17,871 --> 00:17:19,831
 Full house, Asshole!
 
-380
-00:17:17,971 --> 00:17:20,807
-Oh, you're right.
-That is too bad.
+296
+00:17:20,106 --> 00:17:22,358
+Oh, you're right. That is too bad.
 
-381
-00:17:21,708 --> 00:17:23,510
+297
+00:17:23,843 --> 00:17:24,298
 Huh?
 
-382
-00:17:23,510 --> 00:17:24,978
-<i>( gasps )</i>
-
-383
-00:17:24,978 --> 00:17:25,946
+298
+00:17:27,113 --> 00:17:28,081
 Ro...
 
-384
-00:17:25,946 --> 00:17:28,549
+299
+00:17:28,081 --> 00:17:30,088
 Royal...
 
-385
-00:17:28,549 --> 00:17:31,718
-<i>s‐straight...</i>
+300
+00:17:30,479 --> 00:17:33,084
+s‐straight...
 
-386
-00:17:31,718 --> 00:17:35,255
+301
+00:17:33,853 --> 00:17:37,127
 f‐f‐flush?!
-( wails )
 
-387
-00:17:35,255 --> 00:17:37,257
-Oh, no way!
-No friggin' way
+302
+00:17:37,318 --> 00:17:39,392
+Oh, no way! No friggin' way
 
-388
-00:17:37,257 --> 00:17:39,192
-( shrieks )
+303
+00:17:40,178 --> 00:17:41,140
 Uh, yeah, way.
 
-389
-00:17:39,192 --> 00:17:41,962
-That's more than one
-in 6 million odds!
+304
+00:17:41,165 --> 00:17:44,049
+That's more than one in 6 million odds!
 
-390
-00:17:41,962 --> 00:17:44,264
-Yep, and you just got
-really unlucky.
+305
+00:17:44,097 --> 00:17:46,177
+Yep, and you just got really unlucky.
 
-391
-00:17:44,264 --> 00:17:46,600
+306
+00:17:46,399 --> 00:17:47,941
 But how?!
-Sora:
-<i>Pledge six‐</i>
 
-392
-00:17:46,600 --> 00:17:48,869
-All bets must be upheld,
-am I right?
+307
+00:17:47,997 --> 00:17:48,879
+Pledge six
 
-393
-00:17:48,869 --> 00:17:50,436
+308
+00:17:48,943 --> 00:17:50,675
+All bets must be upheld, am I right?
+
+309
+00:17:50,892 --> 00:17:52,008
 So pay up.
 
-394
-00:17:51,271 --> 00:17:55,275
+310
+00:17:53,566 --> 00:17:57,293
 Just... who are you people?
 
-395
-00:17:55,275 --> 00:17:58,078
+311
+00:17:57,435 --> 00:17:59,398
 Nobody special, just...
 
-396
-00:17:59,045 --> 00:18:01,214
+312
+00:18:01,076 --> 00:18:02,584
 a new player in town.
 
-397
-00:18:07,153 --> 00:18:08,755
+313
+00:18:09,200 --> 00:18:10,802
 Sora, that was mean.
 
-398
-00:18:08,755 --> 00:18:11,625
-You could have least tried
-to hide you were cheating.
+314
+00:18:10,982 --> 00:18:13,689
+You could have least tried to hide you were cheating.
 
-399
-00:18:11,625 --> 00:18:14,294
-Well, let's review pledge
-number eight, shall we?
+315
+00:18:13,872 --> 00:18:16,429
+Well, let's review pledge number eight, shall we?
 
-400
-00:18:14,294 --> 00:18:17,163
-Being caught cheating during
-a game means an instant loss.
+316
+00:18:16,494 --> 00:18:19,298
+Being caught cheating during a game means an instant loss.
 
-401
-00:18:17,163 --> 00:18:19,800
-In other words,
-if you're not caught, it's fine.
+317
+00:18:19,338 --> 00:18:21,516
+In other words, if you're not caught, it's fine.
 
-402
-00:18:19,800 --> 00:18:22,135
+318
+00:18:21,902 --> 00:18:24,089
 How much is in there?
 
-403
-00:18:22,135 --> 00:18:23,203
+319
+00:18:24,158 --> 00:18:24,836
 No clue.
 
-404
-00:18:23,203 --> 00:18:25,271
+320
+00:18:25,425 --> 00:18:27,141
 Well, just leave it to me.
 
-405
-00:18:25,271 --> 00:18:28,542
-Big Bro's an expert
-at negotiations.
+321
+00:18:27,406 --> 00:18:30,049
+Big Bro's an expert at negotiations.
 
-406
-00:18:28,542 --> 00:18:31,645
-I'll take a room.
-One bed will be just fine.
+322
+00:18:31,002 --> 00:18:33,712
+I'll take a room. One bed will be just fine.
 
-407
-00:18:31,645 --> 00:18:34,114
-How many nights
-would this get me?
+323
+00:18:33,815 --> 00:18:35,443
+How many nights would this get me?
 
-408
-00:18:34,848 --> 00:18:35,616
+324
+00:18:36,731 --> 00:18:37,699
 Just one night.
 
-409
-00:18:35,616 --> 00:18:37,551
-( chuckles )
+325
+00:18:37,751 --> 00:18:39,686
 I'm really tired.
 
-410
-00:18:37,551 --> 00:18:39,219
-Come on, dude,
-You're gonna tell me
+326
+00:18:39,964 --> 00:18:43,268
+Come on, dude, You're gonna tell me
+how many nights I can really stay here?
 
-411
-00:18:39,219 --> 00:18:41,622
-how many nights
-I can really stay here?
+327
+00:18:43,757 --> 00:18:48,201
+If you're trying to cheat someone, you should pay
+more attention to your tone and where you're looking at.
 
-412
-00:18:41,622 --> 00:18:43,256
-If you're trying
-to cheat someone,
-
-413
-00:18:43,256 --> 00:18:44,991
-you should pay
-more attention to your tone
-
-414
-00:18:44,991 --> 00:18:46,993
-and where you're looking at.
-
-415
-00:18:46,993 --> 00:18:48,461
+328
+00:18:48,798 --> 00:18:50,706
 Fine, two nights, then.
 
-416
-00:18:48,461 --> 00:18:51,431
-Man, you really
-are not good at this!
+329
+00:18:50,840 --> 00:18:53,344
+Man, you really are not good at this!
 
-417
-00:18:51,431 --> 00:18:53,834
-Listen, Pierre,
-if you're gonna lie,
+330
+00:18:53,750 --> 00:18:59,773
+Listen, Pierre, if you're gonna lie, you
+better be careful who you do it to, okay?
 
-418
-00:18:53,834 --> 00:18:57,971
-you better be careful
-who you do it to, okay?
+331
+00:19:00,066 --> 00:19:01,234
+Yeah, yeah, yeah.
 
-419
-00:18:57,971 --> 00:18:59,139
-Man: <i>Yeah, yeah, yeah.</i>
+332
+00:19:01,274 --> 00:19:03,269
+Okay, four nights, awesome.
 
-420
-00:18:59,139 --> 00:19:01,207
-Okay, four nights,
-awesome.
+333
+00:19:03,342 --> 00:19:05,424
+Hey, kid, what's your name?
 
-421
-00:19:01,207 --> 00:19:03,544
-Hey, kid,
-what's your name?
-
-422
-00:19:03,544 --> 00:19:05,546
+334
+00:19:05,487 --> 00:19:06,305
 Hmm?
 
-423
-00:19:05,546 --> 00:19:07,914
+335
+00:19:07,807 --> 00:19:09,476
 You can just leave it blank.
 
-424
-00:19:13,319 --> 00:19:15,589
-Sorry for the wait,
-Shiro.
+336
+00:19:12,287 --> 00:19:13,739
+Sorry for the wait, Shiro.
 
-425
-00:19:15,589 --> 00:19:18,058
-That girl's
-about to lose it.
+337
+00:19:14,557 --> 00:19:16,599
+That girl's about to lose it.
 
-426
-00:19:18,058 --> 00:19:19,059
-Sora:
-<i>No kidding.</i>
+338
+00:19:16,624 --> 00:19:17,798
+No kidding.
 
-427
-00:19:19,059 --> 00:19:22,328
-<i>Doesn't look like anyone taught</i>
-<i>her what "poker face" means,</i>
+339
+00:19:17,893 --> 00:19:21,182
+Doesn't look like anyone taught
+her what "poker face" means,
 
-428
-00:19:22,328 --> 00:19:23,864
-<i>unlike her opponent.</i>
+340
+00:19:21,321 --> 00:19:22,549
+unlike her opponent.
 
-429
-00:19:23,864 --> 00:19:25,398
+341
+00:19:22,807 --> 00:19:24,224
 Hmm, she's cheating.
 
-430
-00:19:25,398 --> 00:19:27,934
+342
+00:19:24,366 --> 00:19:26,425
 Think so, yeah.
 
-431
-00:19:27,934 --> 00:19:30,070
+343
+00:19:26,758 --> 00:19:27,460
 But how?
 
-432
-00:19:30,070 --> 00:19:31,838
-<i>It doesn't make sense.</i>
+344
+00:19:28,879 --> 00:19:30,597
+It doesn't make sense.
 
-433
-00:19:34,074 --> 00:19:35,642
+345
+00:19:33,017 --> 00:19:34,046
 Now wait a minute.
 
-434
-00:19:35,642 --> 00:19:38,444
-<i>Something else</i>
-<i>is going on here.</i>
+346
+00:19:34,722 --> 00:19:36,619
+Something else is going on here.
 
-435
-00:19:40,480 --> 00:19:43,449
-( laughs )
+347
+00:19:40,300 --> 00:19:41,752
 Seriously?
 
-436
-00:19:43,449 --> 00:19:45,251
-Kurami:
-You can fold
-whenever you want.
+348
+00:19:42,524 --> 00:19:44,192
+You can fold whenever you want.
 
-437
-00:19:45,251 --> 00:19:46,587
-Stephanie:
-Would you please
-shut up already!
+349
+00:19:44,217 --> 00:19:45,590
+Would you please shut up already!
 
-438
-00:19:46,587 --> 00:19:49,623
-Just be quiet and focus
-on your own cards, all right?
+350
+00:19:45,645 --> 00:19:48,147
+Just be quiet and focus on your own cards, all right?
 
-439
-00:19:55,261 --> 00:19:56,930
+351
+00:19:54,229 --> 00:19:55,424
 Finally!
 
-440
-00:19:58,264 --> 00:20:01,702
-Listen,
-that girl is cheating.
+352
+00:19:57,120 --> 00:19:59,944
+Listen, that girl is cheating.
 
-441
-00:20:01,702 --> 00:20:03,436
+353
+00:20:00,542 --> 00:20:01,081
 Uh...
 
-442
-00:20:11,311 --> 00:20:13,647
-Hey, you still playing
-or what?
+354
+00:20:10,279 --> 00:20:12,513
+Hey, you still playing or what?
 
-443
-00:20:13,647 --> 00:20:17,584
-Huh? Oh, yes,
-of course I am.
+355
+00:20:12,886 --> 00:20:15,874
+Huh? Oh, yes, of course I am.
 
-444
-00:20:17,584 --> 00:20:21,287
-Sora:
-<i>Smartphones, DSPs, Tablet PC.</i>
+356
+00:20:16,552 --> 00:20:19,981
+Smartphones, DSPs, Tablet PC.
 
-445
-00:20:21,287 --> 00:20:23,790
-I got the battery
-and the solar charger,
+357
+00:20:20,514 --> 00:20:23,859
+I got the battery and the solar
+charger, cables, and everything.
 
-446
-00:20:23,790 --> 00:20:24,891
-cables, and everything.
-
-447
-00:20:24,891 --> 00:20:27,260
-Well, all things considered,
+358
+00:20:24,299 --> 00:20:25,314
 Is this it?
 
-448
-00:20:27,260 --> 00:20:28,795
-after everything
-that happened today,
+359
+00:20:25,425 --> 00:20:29,866
+Well, all things considered, after everything that
+happened today, I'd say we're lucky to have this much.
 
-449
-00:20:28,795 --> 00:20:31,397
-I'd say we're lucky
-to have this much.
-
-450
-00:20:31,397 --> 00:20:33,900
+360
+00:20:30,215 --> 00:20:32,598
 I can't connect.
 
-451
-00:20:33,900 --> 00:20:34,901
+361
+00:20:32,797 --> 00:20:33,798
 Figures.
 
-452
-00:20:34,901 --> 00:20:39,272
-<i>This really is an</i>
-<i>honest‐to‐God fantasy world.</i>
+362
+00:20:34,236 --> 00:20:37,477
+This really is an honest‐to‐God fantasy world.
 
-453
-00:20:39,272 --> 00:20:40,807
-And the way
-she was cheating...
+363
+00:20:38,176 --> 00:20:39,550
+And the way she was cheating...
 
-454
-00:20:40,807 --> 00:20:43,276
-that was like
-its own fantasy, too.
+364
+00:20:39,638 --> 00:20:41,425
+that was like its own fantasy, too.
 
-455
-00:20:43,276 --> 00:20:48,014
-Sora, can you beat
-real magic?
+365
+00:20:42,244 --> 00:20:46,518
+Sora, can you beat real magic?
 
-456
-00:20:53,386 --> 00:20:56,422
-I guess that
-was a dumb question.
+366
+00:20:52,298 --> 00:20:54,964
+I guess that was a dumb question.
 
-457
-00:20:57,323 --> 00:20:58,859
+367
+00:20:56,235 --> 00:20:57,569
 Hey, Shiro...
 
-458
-00:20:58,859 --> 00:21:01,394
-usually, in, like,
-comics and stuff
+368
+00:20:57,912 --> 00:21:02,155
+usually, in, like, comics and stuff when
+the main characters end up in another world,
 
-459
-00:21:01,394 --> 00:21:02,996
-when the main characters
-end up in another world,
+369
+00:21:02,242 --> 00:21:04,410
+they try their best to find a way home, right?
 
-460
-00:21:02,996 --> 00:21:05,932
-they try their best
-to find a way home, right?
+370
+00:21:10,005 --> 00:21:15,452
+But why would they want to go back
+to a world if it's total... shit?
 
-461
-00:21:11,037 --> 00:21:13,306
-<i>Sora:</i>
-<i>But why would they want</i>
-<i>to go back to a world</i>
-
-462
-00:21:13,306 --> 00:21:17,277
-if it's total... shit?
-
-463
-00:21:22,348 --> 00:21:25,151
-( sighs softly )
-
-464
-00:21:25,151 --> 00:21:26,753
-( chuckles )
-
-465
-00:21:28,522 --> 00:21:31,692
-Shiro:
+371
+00:21:27,703 --> 00:21:30,628
 I thought the same thing.
 
-466
-00:21:35,261 --> 00:21:37,631
+372
+00:21:34,229 --> 00:21:36,148
 Well, then it's settled.
 
-467
-00:21:42,569 --> 00:21:45,438
-Sora:
-<i>Let the real game begin.</i>
+373
+00:21:41,567 --> 00:21:43,846
+Let the real game begin.
 
-468
-00:21:45,438 --> 00:21:47,841
-<i>( theme song plays )</i>
+374
+00:23:26,188 --> 00:23:32,000
+Shiro, as your brother, I'm really happy that
+you love me so much, but let go of me for a second.
 
-469
-00:23:16,597 --> 00:23:18,999
-<i>( taps on door )</i>
+375
+00:23:34,315 --> 00:23:35,374
+Who's there?
 
-470
-00:23:27,073 --> 00:23:29,309
-Shiro, as your brother,
-I'm really happy
+376
+00:23:35,656 --> 00:23:37,507
+Come on, man, I paid up front already.
 
-471
-00:23:29,309 --> 00:23:33,446
-that you love me so much,
-but let go of me for a second.
+377
+00:23:43,831 --> 00:23:47,485
+Would it be okay if I came in for a second?
 
-472
-00:23:34,347 --> 00:23:35,215
-<i>( footsteps )</i>
-
-473
-00:23:35,215 --> 00:23:36,382
-Sora:
-<i>Who's there?</i>
-
-474
-00:23:36,382 --> 00:23:38,952
-Come on, man,
-I paid up front already.
-
-475
-00:23:44,758 --> 00:23:49,395
-Would it be okay
-if I came in for a second?
-
-476
-00:23:49,395 --> 00:23:51,632
-Shiro:
+378
+00:23:48,606 --> 00:23:50,504
 We're gonna save the day?
 
-477
-00:23:51,632 --> 00:23:54,735
-Sora:
-<i>Sure, why not,</i>
-<i>it'll be fun, right?</i>
+379
+00:23:50,814 --> 00:23:52,912
+Sure, why not, it'll be fun, right?
 

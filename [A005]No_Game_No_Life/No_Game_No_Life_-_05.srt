@@ -1,2559 +1,1835 @@
 ﻿1
-00:00:09,843 --> 00:00:12,078
-And the first piece
-makes its move.
+00:00:09,205 --> 00:00:11,420
+And the first piece makes its move.
 
 2
-00:00:12,078 --> 00:00:13,446
+00:00:11,500 --> 00:00:12,961
 What'll you do next?
 
 3
-00:00:13,446 --> 00:00:15,081
-Man: <i>Query‐</i>
-<i>Do you, "A,"</i>
+00:00:13,164 --> 00:00:16,908
+Query... Do you, "A," desire the destruction of Imanity?
 
 4
-00:00:15,081 --> 00:00:17,450
-<i>desire the destruction</i>
-<i>of Imanity?</i>
+00:00:17,123 --> 00:00:20,379
+Or "B," have you finally decided to take action?
 
 5
-00:00:17,450 --> 00:00:20,887
-<i>Or "B," have you finally</i>
-<i>decided to take action?</i>
+00:00:20,792 --> 00:00:25,553
+Now, now, don't you dummies know that
+eavesdropping on people isn't very polite?
 
 6
-00:00:20,887 --> 00:00:24,190
-Now, now, don't you dummies know
-that eavesdropping on people
+00:00:25,624 --> 00:00:30,342
+Query... an event fluctuation was detected
+just before the new king was crowned.
 
 7
-00:00:24,190 --> 00:00:25,559
-isn't very polite?
+00:00:30,406 --> 00:00:32,870
+We assume this heralds your intent to join the battle.
 
 8
-00:00:25,559 --> 00:00:27,460
-Man: <i>Query‐</i>
-<i>an event fluctuation</i>
+00:00:33,171 --> 00:00:36,207
+Oh, you fallen gods are a serious buzzkill.
 
 9
-00:00:27,460 --> 00:00:30,597
-<i>was detected just before</i>
-<i>the new king was crowned.</i>
+00:00:36,715 --> 00:00:38,701
+You guys still think you're so hot.
 
 10
-00:00:30,597 --> 00:00:33,534
-<i>We assume this heralds</i>
-<i>your intent to join the battle.</i>
+00:00:38,812 --> 00:00:43,276
+Well, listen, Mr. High and Mighty,
+Old Deus‐ First Order of The Exceed‐
 
 11
-00:00:33,534 --> 00:00:37,137
-Oh, you fallen gods
-are a serious buzzkill.
-
-12
-00:00:37,137 --> 00:00:39,039
-You guys still think
-you're so hot.
-
-13
-00:00:39,039 --> 00:00:41,041
-Well, listen,
-Mr. High and Mighty,
-
-14
-00:00:41,041 --> 00:00:43,677
-Old Deus‐ First Order
-of The Exceed‐
-
-15
-00:00:43,677 --> 00:00:45,746
+00:00:43,355 --> 00:00:45,510
 I'm not on anyone's side.
 
+12
+00:00:45,772 --> 00:00:49,110
+So you can just keep playing your same boring games,
+
+13
+00:00:49,364 --> 00:00:50,341
+but they're coming.
+
+14
+00:00:51,324 --> 00:00:54,694
+They're coming all the way to your front door.
+
+15
+00:01:00,812 --> 00:01:04,339
+After seeing the way those two rallied
+the people of Elkia to their cause,
+
 16
-00:00:45,746 --> 00:00:49,650
-<i>So you can just keep playing</i>
-<i>your same boring games,</i>
+00:01:04,377 --> 00:01:06,364
+I felt like they were our saviors.
 
 17
-00:00:49,650 --> 00:00:51,652
-<i>but they're coming.</i>
+00:01:06,470 --> 00:01:08,089
+Well, not anymore.
 
 18
-00:00:51,652 --> 00:00:55,388
-<i>They're coming all the way</i>
-<i>to your front door.</i>
+00:01:08,240 --> 00:01:12,663
+They just delegate all their kingly duties to
+me and the ministers and then spend the whole day
 
 19
-00:00:57,157 --> 00:00:59,059
-<i>( footsteps approaching )</i>
+00:01:12,688 --> 00:01:14,468
+sitting around playing games!
 
 20
-00:01:00,761 --> 00:01:03,296
-Steph:
-<i>After seeing the way</i>
-<i>those two rallied the people</i>
-
-21
-00:01:03,296 --> 00:01:04,598
-<i>of Elkia to their cause,</i>
-
-22
-00:01:04,598 --> 00:01:07,133
-<i>I felt like</i>
-<i>they were our saviors.</i>
-
-23
-00:01:07,133 --> 00:01:08,434
-<i>Well, not anymore.</i>
-
-24
-00:01:08,434 --> 00:01:10,737
-<i>They just delegate</i>
-<i>all their kingly duties</i>
-
-25
-00:01:10,737 --> 00:01:13,139
-<i>to me and the ministers</i>
-<i>and then spend the whole day</i>
-
-26
-00:01:13,139 --> 00:01:15,075
-<i>sitting around playing games!</i>
-
-27
-00:01:17,911 --> 00:01:19,680
+00:01:17,273 --> 00:01:18,687
 Today's the day.
 
-28
-00:01:21,281 --> 00:01:25,118
-Today's the day
-I end this once and for all!
+21
+00:01:20,667 --> 00:01:24,480
+Today's the day I end this once and for all!
 
-29
-00:01:25,118 --> 00:01:27,320
-<i>( theme song plays )</i>
-
-30
-00:02:58,579 --> 00:03:01,381
+22
+00:03:02,694 --> 00:03:04,912
 Hyah! Hmm!
 
-31
-00:03:01,381 --> 00:03:03,149
-( both groaning )
-Sora:
+23
+00:03:06,843 --> 00:03:08,179
 My eyes!
 
-32
-00:03:03,149 --> 00:03:05,819
-Okay, you slackers,
-time to get out of bed
+24
+00:03:08,204 --> 00:03:11,706
+Okay, you slackers, time to get
+out of bed and do your job as king.
 
-33
-00:03:05,819 --> 00:03:07,020
-and do your job as king.
+25
+00:03:12,649 --> 00:03:13,270
+Damn it!
 
-34
-00:03:07,020 --> 00:03:08,589
-( sighs ) Damn it!
+26
+00:03:13,295 --> 00:03:16,662
+I made sure this room was hidden
+from the vile rays of the morning sun!
 
-35
-00:03:08,589 --> 00:03:10,857
-I made sure this room
-was hidden from the vile rays
+27
+00:03:16,687 --> 00:03:18,221
+It's after noon, you dope.
 
-36
-00:03:10,857 --> 00:03:12,225
-of the morning sun!
-
-37
-00:03:12,225 --> 00:03:13,860
-It's after noon,
-you dope.
-
-38
-00:03:13,860 --> 00:03:15,896
+28
+00:03:18,246 --> 00:03:20,421
 36 o'clock is too early.
 
-39
-00:03:15,896 --> 00:03:17,564
+29
+00:03:20,438 --> 00:03:21,890
 Is that watch even real?
 
-40
-00:03:17,564 --> 00:03:20,934
-<i>Ugh, you tossed my precious</i>
-<i>books all over the place.</i>
+30
+00:03:22,160 --> 00:03:25,476
+Ugh, you tossed my precious books all over the place.
 
-41
-00:03:20,934 --> 00:03:23,870
-Yeah, put them back in your
-grandpa's room for me, okay?
+31
+00:03:25,476 --> 00:03:29,141
+Yeah, put them back in your grandpa's room for me, okay?
 
-42
-00:03:23,870 --> 00:03:25,038
-( yawns )
+32
+00:03:29,580 --> 00:03:32,750
+Sora, as the new king, that room is supposed to be yours.
 
-43
-00:03:25,038 --> 00:03:28,208
-Sora, as the new king,
-that room is supposed
-to be yours.
+33
+00:03:32,750 --> 00:03:37,015
+It's been that way for many generations, so
+you can't just decide to move out of it on a whim.
 
-44
-00:03:28,208 --> 00:03:29,643
-It's been that way
-for many generations,
+34
+00:03:37,143 --> 00:03:41,218
+Yeah, but the bed's lopsided. It's hard to sleep in.
 
-45
-00:03:29,643 --> 00:03:32,713
-so you can't just decide
-to move out of it on a whim.
-
-46
-00:03:32,713 --> 00:03:36,817
-Yeah, but the bed's lopsided.
-It's hard to sleep in.
-
-47
-00:03:37,851 --> 00:03:38,785
+35
+00:03:42,055 --> 00:03:43,223
 The floor is for champs.
 
-48
-00:03:38,785 --> 00:03:41,321
-Oh, no, you are not
-going back to sleep!
+36
+00:03:43,248 --> 00:03:45,589
+Oh, no, you are not going back to sleep!
 
-49
-00:03:41,321 --> 00:03:43,256
+37
+00:03:45,806 --> 00:03:48,576
 I find it really embarrassing
-to think that
+to think that you're the new king
 
-50
-00:03:43,256 --> 00:03:44,858
-you're the new king
-who's been entrusted
+38
+00:03:48,601 --> 00:03:51,379
+who's been entrusted with the
+lives of over 3 million Imanity.
 
-51
-00:03:44,858 --> 00:03:46,893
-with the lives
-of over 3 million Imanity.
+39
+00:03:51,404 --> 00:03:55,043
+I'm embarrassing, am I? Sorry to be a disappointment.
 
-52
-00:03:46,893 --> 00:03:50,564
-I'm embarrassing, am I?
-Sorry to be a disappointment.
+40
+00:03:55,068 --> 00:03:56,751
+You're entitled to your own opinion,
 
-53
-00:03:50,564 --> 00:03:52,232
-You're entitled
-to your own opinion,
+41
+00:03:56,831 --> 00:03:57,793
+but hear this...
 
-54
-00:03:52,232 --> 00:03:53,534
-but hear this‐
-
-55
-00:03:53,534 --> 00:03:57,237
+42
+00:03:57,880 --> 00:04:01,590
 Not in this world or any other
 will Blank do any real work!
 
-56
-00:03:57,237 --> 00:03:58,438
-Don't underestimate‐
+43
+00:04:01,876 --> 00:04:03,099
+Don't underestimate...
 
-57
-00:03:58,438 --> 00:04:00,674
-Both:
+44
+00:04:03,124 --> 00:04:04,912
 The will of Humanity!
 
-58
-00:04:00,674 --> 00:04:02,142
+45
+00:04:04,937 --> 00:04:06,684
 If that's the will of humanity,
 
-59
-00:04:02,142 --> 00:04:04,344
-then we're better off
-going extinct.
+46
+00:04:06,684 --> 00:04:08,486
+then we're better off going extinct.
 
-60
-00:04:04,344 --> 00:04:05,646
+47
+00:04:08,837 --> 00:04:09,821
 That's it.
 
-61
-00:04:05,646 --> 00:04:09,049
-My patience for your shenanigans
-has finally run out.
+48
+00:04:09,869 --> 00:04:13,031
+My patience for your shenanigans has finally run out.
 
-62
-00:04:09,049 --> 00:04:11,017
+49
+00:04:13,320 --> 00:04:15,318
 Sora, I challenge you to a duel!
 
-63
-00:04:11,017 --> 00:04:12,686
+50
+00:04:15,343 --> 00:04:16,136
 Oh...
 
-64
-00:04:12,686 --> 00:04:15,055
-so you want to play
-a game with me, huh?
+51
+00:04:17,297 --> 00:04:19,505
+so you want to play a game with me, huh?
 
-65
-00:04:15,055 --> 00:04:16,890
+52
+00:04:19,597 --> 00:04:20,745
 Sure about that?
 
-66
-00:04:17,658 --> 00:04:19,492
-Yes, that's right,
-I would.
+53
+00:04:22,104 --> 00:04:23,963
+Yes, that's right, I would.
 
-67
-00:04:19,492 --> 00:04:21,528
+54
+00:04:23,988 --> 00:04:25,964
 Okay, so pledge number five‐
 
-68
-00:04:21,528 --> 00:04:24,130
-It says here that since
-we're the challenged party,
+55
+00:04:25,989 --> 00:04:28,451
+It says here that since we're the challenged party,
 
-69
-00:04:24,130 --> 00:04:25,932
-we get to set the rules
-of the game.
+56
+00:04:28,476 --> 00:04:30,486
+we get to set the rules of the game.
 
-70
-00:04:26,366 --> 00:04:26,933
+57
+00:04:30,589 --> 00:04:31,336
 Still in?
 
-71
-00:04:26,933 --> 00:04:27,901
-( hesitantly )
+58
+00:04:31,701 --> 00:04:32,443
 Yes.
 
-72
-00:04:27,901 --> 00:04:30,637
-B‐but as one of the greatest
-minds in human history,
+59
+00:04:32,630 --> 00:04:35,212
+B‐but as one of the greatest minds in human history,
 
-73
-00:04:30,637 --> 00:04:32,438
-I'm sure you would never
-choose a game
+60
+00:04:35,237 --> 00:04:36,980
+I'm sure you would never choose a game
 
-74
-00:04:32,438 --> 00:04:35,876
-where you have an advantage
-over little old me.
+61
+00:04:36,980 --> 00:04:39,621
+where you have an advantage over little old me.
 
-75
-00:04:35,876 --> 00:04:39,012
+62
+00:04:40,290 --> 00:04:43,269
 All right, fine, pick whatever
 game you think you're good at.
 
-76
-00:04:39,012 --> 00:04:40,647
+63
+00:04:43,481 --> 00:04:44,890
 And what are we playing for?
 
-77
-00:04:40,647 --> 00:04:46,286
-If I win, then you have
-to become a decent person!
+64
+00:04:45,136 --> 00:04:50,168
+If I win, then you have to become a decent person!
 
-78
-00:04:48,955 --> 00:04:50,924
-( groans )
+65
+00:04:55,466 --> 00:04:57,816
+Holy crap, if the ten pledges are absolute
 
-79
-00:04:50,924 --> 00:04:53,059
-Holy crap, if the
-ten pledges are absolute
+66
+00:04:57,841 --> 00:05:00,037
+then they can even grant crazy wishes like that.
 
-80
-00:04:53,059 --> 00:04:55,495
-then they can even grant
-crazy wishes like that.
+67
+00:05:00,037 --> 00:05:02,840
+In that case, Steph, instead of making me respectable
 
-81
-00:04:55,495 --> 00:04:58,298
-In that case, Steph,
-instead of making me respectable
+68
+00:05:02,840 --> 00:05:04,842
+just make me, like, totally satisfied IRL.
 
-82
-00:04:58,298 --> 00:05:00,300
-just make me, like,
-totally satisfied IRL.
-
-83
-00:05:00,300 --> 00:05:00,767
+69
+00:05:04,842 --> 00:05:05,452
 I‐R‐what?
 
-84
-00:05:00,767 --> 00:05:03,504
-Why do I need to be respectable
-if I can be content?
+70
+00:05:05,515 --> 00:05:08,153
+Why do I need to be respectable if I can be content?
 
-85
-00:05:03,504 --> 00:05:04,638
+71
+00:05:08,224 --> 00:05:09,180
 Go ahead, challenge me.
 
-86
-00:05:04,638 --> 00:05:07,040
-I'll do everything
-I can to lose!
+72
+00:05:09,180 --> 00:05:11,394
+I'll do everything I can to lose!
 
-87
-00:05:07,040 --> 00:05:08,408
-( shouts )
+73
+00:05:12,864 --> 00:05:15,519
+Sora, you're not allowed to lose to anyone but me.
 
-88
-00:05:08,408 --> 00:05:10,977
-Sora, you're not allowed
-to lose to anyone but me.
-
-89
-00:05:10,977 --> 00:05:12,078
+74
+00:05:15,519 --> 00:05:16,877
 Wait, darling sister,
 
-90
-00:05:12,078 --> 00:05:14,548
-would you stand between
-your brother and true happiness?
+75
+00:05:16,917 --> 00:05:19,149
+would you stand between your brother and true happiness?
 
-91
-00:05:14,548 --> 00:05:16,216
+76
+00:05:19,323 --> 00:05:20,936
 Blank can't lose a game,
 
-92
-00:05:16,216 --> 00:05:18,919
-no matter how painful
-the cost may be.
+77
+00:05:21,196 --> 00:05:23,455
+no matter how painful the cost may be.
 
-93
-00:05:18,919 --> 00:05:21,888
-( groans )
+78
+00:05:26,430 --> 00:05:29,564
+But it's impossible for me to
+lose to Steph in an honest game.
 
-94
-00:05:21,888 --> 00:05:23,924
-But it's impossible for me
-to lose to Steph
-
-95
-00:05:23,924 --> 00:05:24,925
-in an honest game.
-
-96
-00:05:24,925 --> 00:05:25,926
+79
+00:05:29,604 --> 00:05:30,468
 Whatever!
 
-97
-00:05:25,926 --> 00:05:26,960
-All right!
-Whoa! Yes?
+80
+00:05:30,468 --> 00:05:31,335
+All right! Whoa! Yes?
 
-98
-00:05:26,960 --> 00:05:28,995
-I'll bet on the tiny,
-ridiculous, remote chance,
+81
+00:05:31,360 --> 00:05:34,052
+I'll bet on the tiny, ridiculous, remote chance,
 
-99
-00:05:28,995 --> 00:05:32,398
-that somehow against the will
-of the universe, you'll win.
+82
+00:05:34,077 --> 00:05:36,325
+that somehow against the will of the universe, you'll win.
 
-100
-00:05:32,398 --> 00:05:33,700
-( laughs )
+83
+00:05:36,414 --> 00:05:40,344
+Wow, you've really gone and done it now.
 
-101
-00:05:33,700 --> 00:05:35,802
-Wow, you've really
-gone and done it now.
+84
+00:05:40,344 --> 00:05:42,577
+In that case the game I pick is...
 
-102
-00:05:35,802 --> 00:05:38,438
-In that case
-the game I pick is...
+85
+00:05:44,993 --> 00:05:46,184
+Blackjack?
 
-103
-00:05:40,140 --> 00:05:41,642
-Shiro:
-<i>Blackjack?</i>
+86
+00:05:46,295 --> 00:05:49,019
+Okay, I'll be the dealer, and you'll be the player.
 
-104
-00:05:41,642 --> 00:05:44,477
-Okay, I'll be the dealer,
-and you'll be the player.
-
-105
-00:05:44,477 --> 00:05:46,179
+87
+00:05:49,116 --> 00:05:50,339
 Is that all right, Sora?
 
-106
-00:05:46,179 --> 00:05:46,813
+88
+00:05:50,721 --> 00:05:51,355
 groans )
 
-107
-00:05:46,813 --> 00:05:49,249
-Well, at least try
-to be interested!
+89
+00:05:51,420 --> 00:05:53,859
+Well, at least try to be interested!
 
-108
-00:05:49,249 --> 00:05:50,050
-( yawns )
+90
+00:05:54,536 --> 00:05:55,940
+At least try to look awake!
 
-109
-00:05:50,050 --> 00:05:51,552
-At least try
-to look awake!
+91
+00:05:56,030 --> 00:05:59,366
+Now look here, you, blackjack is 100% a game of chance.
 
-110
-00:05:51,552 --> 00:05:54,888
-Now look here, you, blackjack
-is 100% a game of chance.
+92
+00:05:59,430 --> 00:06:02,646
+All your cheating and dirty little
+tricks won't help you this time, understand?
 
-111
-00:05:54,888 --> 00:05:56,623
-All your cheating
-and dirty little tricks
+93
+00:06:02,680 --> 00:06:03,924
+Come on! Say it with me.
 
-112
-00:05:56,623 --> 00:05:58,258
-won't help you this time,
-understand?
-
-113
-00:05:58,258 --> 00:05:59,459
-Come on!
-Say it with me.
-
-114
-00:05:59,459 --> 00:06:00,827
+94
+00:06:03,976 --> 00:06:05,045
 Aschente!
 
-115
-00:06:00,827 --> 00:06:02,295
+95
+00:06:05,070 --> 00:06:06,315
 Aschente.
 
-116
-00:06:02,295 --> 00:06:03,964
-Steph:
-<i>You fell right into my trap.</i>
+96
+00:06:06,837 --> 00:06:08,431
+You fell right into my trap.
 
-117
-00:06:03,964 --> 00:06:06,466
-<i>A game of chance?</i>
-<i>Or so I'd have you think.</i>
+97
+00:06:08,506 --> 00:06:11,250
+A game of chance? Or so I'd have you think.
 
-118
-00:06:06,466 --> 00:06:08,635
-<i>'Cause that's not</i>
-<i>how I'm going to play.</i>
+98
+00:06:11,376 --> 00:06:13,396
+'Cause that's not how I'm going to play.
 
-119
-00:06:08,635 --> 00:06:09,870
-<i>Yes, that's right.</i>
+99
+00:06:13,578 --> 00:06:14,905
+Yes, that's right.
 
-120
-00:06:09,870 --> 00:06:11,672
-<i>I've learned that</i>
-<i>you can cheat</i>
+100
+00:06:14,984 --> 00:06:18,107
+I've learned that you can cheat as
+long as your opponent doesn't find out.
 
-121
-00:06:11,672 --> 00:06:13,473
-<i>as long as your opponent</i>
-<i>doesn't find out.</i>
+101
+00:06:18,155 --> 00:06:22,811
+I've been practicing this trick in secret and I'm
+gonna use it to knock your skinny butt down a peg!
 
-122
-00:06:13,473 --> 00:06:15,341
-<i>I've been practicing</i>
-<i>this trick in secret</i>
+102
+00:06:22,850 --> 00:06:27,498
+Dearest granddaughter, the weak must use their
+wisdom to kick all the skinny butts they can.
 
-123
-00:06:15,341 --> 00:06:17,944
-<i>and I'm gonna use it to knock</i>
-<i>your skinny butt down a peg!</i>
+103
+00:06:27,577 --> 00:06:30,357
+Such is the hope of all humanity.
 
-124
-00:06:17,944 --> 00:06:20,714
-Dearest granddaughter,
-the weak must use their wisdom
+104
+00:06:31,899 --> 00:06:34,131
+Thank you, grandfather for believing in our potential.
 
-125
-00:06:20,714 --> 00:06:23,116
-to kick all
-the skinny butts they can.
+105
+00:06:34,156 --> 00:06:37,183
+And thank you, Sora, for
+teaching me how to beat you with it!
 
-126
-00:06:23,116 --> 00:06:26,486
-Such is the hope
-of all humanity.
-
-127
-00:06:26,486 --> 00:06:29,389
-Steph:
-<i>Thank you, grandfather for</i>
-<i>believing in our potential.</i>
-
-128
-00:06:29,389 --> 00:06:31,324
-<i>And thank you, Sora,</i>
-<i>for teaching me</i>
-
-129
-00:06:31,324 --> 00:06:32,959
-<i>how to beat you with it!</i>
-
-130
-00:06:32,959 --> 00:06:34,127
+106
+00:06:37,208 --> 00:06:38,032
 Hit me...
 
-131
-00:06:36,763 --> 00:06:37,764
+107
+00:06:40,844 --> 00:06:41,735
 Stand.
 
-132
-00:06:41,234 --> 00:06:43,036
+108
+00:06:45,529 --> 00:06:46,947
 Well, I've got 21.
 
-133
-00:06:43,036 --> 00:06:44,505
+109
+00:06:47,149 --> 00:06:48,376
 19 here.
 
-134
-00:06:46,372 --> 00:06:49,710
-<i>( giggles )</i>
-<i>I'm just getting started.</i>
+110
+00:06:51,738 --> 00:06:53,668
+I'm just getting started.
 
-135
-00:06:55,115 --> 00:06:57,483
-( sighs )
+111
+00:07:01,873 --> 00:07:03,837
+Well, it's time for the final round.
 
-136
-00:06:57,483 --> 00:06:59,385
-Well, it's time
-for the final round.
-
-137
-00:06:59,385 --> 00:07:00,887
+112
+00:07:03,927 --> 00:07:04,927
 Best of luck!
 
-138
-00:07:00,887 --> 00:07:03,524
-I think we know who's
-going to be winning, though.
+113
+00:07:04,952 --> 00:07:07,254
+I think we know who's going to be winning, though.
 
-139
-00:07:03,524 --> 00:07:05,058
-Blackjack is one
-of the rare games
+114
+00:07:07,740 --> 00:07:09,432
+Blackjack is one of the rare games
 
-140
-00:07:05,058 --> 00:07:07,794
-where the player has an
-advantage over the dealer.
+115
+00:07:09,457 --> 00:07:12,188
+where the player has an advantage over the dealer.
 
-141
-00:07:07,794 --> 00:07:09,462
+116
+00:07:12,240 --> 00:07:13,690
 What's that supposed to mean?
 
-142
-00:07:09,462 --> 00:07:11,364
-Sora:
-<i>The dealer has</i>
-<i>to draw another card</i>
+117
+00:07:13,979 --> 00:07:17,320
+The dealer has to draw another
+card whenever he's below 17,
 
-143
-00:07:11,364 --> 00:07:13,066
-<i>whenever he's below 17,</i>
+118
+00:07:17,608 --> 00:07:19,744
+so he has a high chance of going to bust.
 
-144
-00:07:13,066 --> 00:07:15,969
-<i>so he has a high chance</i>
-<i>of going to bust.</i>
+119
+00:07:20,398 --> 00:07:22,770
+But you haven't had that happen even once.
 
-145
-00:07:15,969 --> 00:07:18,705
-But you haven't had
-that happen even once.
+120
+00:07:22,809 --> 00:07:24,628
+That's some pretty impressive luck.
 
-146
-00:07:18,705 --> 00:07:20,574
-That's some pretty
-impressive luck.
-
-147
-00:07:22,342 --> 00:07:24,545
+121
+00:07:26,378 --> 00:07:28,658
 I'll stand this turn.
 
-148
-00:07:24,545 --> 00:07:26,012
-Steph:
-<i>Has he just given up?</i>
+122
+00:07:28,998 --> 00:07:30,198
+Has he just given up?
 
-149
-00:07:26,012 --> 00:07:27,848
-<i>He didn't even look</i>
-<i>at the cards.</i>
+123
+00:07:30,442 --> 00:07:32,066
+He didn't even look at the cards.
 
-150
-00:07:27,848 --> 00:07:30,984
-Well, looks like
-the game is over.
+124
+00:07:32,357 --> 00:07:35,005
+Well, looks like the game is over.
 
-151
-00:07:30,984 --> 00:07:32,519
+125
+00:07:35,640 --> 00:07:36,897
 Yep, sure is.
 
-152
-00:07:34,855 --> 00:07:36,089
-( gasps )
-
-153
-00:07:36,089 --> 00:07:37,490
+126
+00:07:40,567 --> 00:07:41,968
 In a natural blackjack,
 
-154
-00:07:37,490 --> 00:07:40,160
-you get back 2.5 times
-what you bet.
+127
+00:07:41,993 --> 00:07:44,303
+you get back 2.5 times what you bet.
 
-155
-00:07:40,160 --> 00:07:42,495
-That means I win.
-Yay.
+128
+00:07:44,328 --> 00:07:46,821
+That means I win. Yay.
 
-156
-00:07:42,495 --> 00:07:45,398
-But I had humanity
-on my side.
+129
+00:07:46,846 --> 00:07:50,029
+But I had humanity on my side.
 
-157
-00:07:45,398 --> 00:07:47,200
-Grandfather:
-<i>Stephanie, my dear girl‐</i>
+130
+00:07:50,054 --> 00:07:51,832
+Stephanie, my dear girl...
 
-158
-00:07:47,200 --> 00:07:48,769
+131
+00:07:51,857 --> 00:07:52,517
 Grandfather!
 
-159
-00:07:48,769 --> 00:07:51,437
-Don't you know
-if your opponent is a human,
-you're just screwed,
+132
+00:07:52,857 --> 00:07:56,250
+Don't you know if your opponent
+is a human, you're just screwed,
 
-160
-00:07:51,437 --> 00:07:52,639
-( echoes ) just screwed...
+133
+00:07:56,337 --> 00:07:57,148
+just screwed...
 
-161
-00:07:52,639 --> 00:07:54,107
+134
+00:07:57,181 --> 00:07:58,514
 Hold on! What?!
 
-162
-00:07:54,107 --> 00:07:57,043
-Oh, what a hollow victory.
+135
+00:07:58,606 --> 00:08:00,057
 I didn't think of that!
 
-163
-00:07:57,043 --> 00:07:59,980
-Truly content people are just
-an urban legend anyway.
+136
+00:08:00,082 --> 00:08:01,560
+Oh, what a hollow victory.
 
-164
-00:07:59,980 --> 00:08:02,115
-I refuse to accept this!
-How did I lose?
+137
+00:08:01,676 --> 00:08:04,610
+Truly content people are just an urban legend anyway.
 
-165
-00:08:02,115 --> 00:08:03,283
-You must have been cheating.
+138
+00:08:04,635 --> 00:08:07,921
+I refuse to accept this! How did I
+lose? You must have been cheating.
 
-166
-00:08:03,283 --> 00:08:04,751
-And what's that
-supposed to mean?
+139
+00:08:07,946 --> 00:08:09,623
+And what's that supposed to mean?
 
-167
-00:08:04,751 --> 00:08:06,953
-I thought you said that
-blackjack was a game
+140
+00:08:09,654 --> 00:08:12,269
+I thought you said that blackjack
+was a game of pure chance?
 
-168
-00:08:06,953 --> 00:08:08,021
-of pure chance?
-
-169
-00:08:08,021 --> 00:08:09,590
-( grunts )
-
-170
-00:08:09,590 --> 00:08:11,558
+141
+00:08:14,020 --> 00:08:15,446
 I used card counting.
 
-171
-00:08:11,558 --> 00:08:12,759
+142
+00:08:15,908 --> 00:08:17,369
 Card counting?
 
-172
-00:08:12,759 --> 00:08:14,427
-I don't think I know
-what that is.
+143
+00:08:17,433 --> 00:08:19,086
+I don't think I know what that is.
 
-173
-00:08:14,427 --> 00:08:16,229
-Sora: <i>You think</i>
-<i>of the cards as numbers</i>
+144
+00:08:19,157 --> 00:08:21,843
+You think of the cards as
+numbers and count them in your head.
 
-174
-00:08:16,229 --> 00:08:17,430
-<i>and count them</i>
-<i>in your head.</i>
+145
+00:08:21,899 --> 00:08:23,851
+Cards between two and six are +1,
 
-175
-00:08:17,430 --> 00:08:19,165
-<i>Cards between</i>
-<i>two and six are +1,</i>
+146
+00:08:23,876 --> 00:08:26,784
+ten and above are ‐1, and seven through nine are 0.
 
-176
-00:08:19,165 --> 00:08:20,701
-<i>ten and above are ‐1,</i>
+147
+00:08:27,002 --> 00:08:27,841
+Easy peasy.
 
-177
-00:08:20,701 --> 00:08:22,435
-<i>and seven through nine</i>
-<i>are 0.</i>
+148
+00:08:28,046 --> 00:08:32,201
+So you just count the number of cards that
+have been played so far to mathematically find
 
-178
-00:08:22,435 --> 00:08:23,504
-<i>Easy peasy.</i>
+149
+00:08:32,226 --> 00:08:35,246
+the numerical probability for what will be played next.
 
-179
-00:08:23,504 --> 00:08:25,305
-<i>So you just count</i>
-<i>the number of cards</i>
-
-180
-00:08:25,305 --> 00:08:27,373
-<i>that have been played so far</i>
-<i>to mathematically find</i>
-
-181
-00:08:27,373 --> 00:08:30,744
-<i>the numerical probability</i>
-<i>for what will be played next.</i>
-
-182
-00:08:31,712 --> 00:08:33,814
+150
+00:08:36,254 --> 00:08:38,356
 So you used math in a game?
 
-183
-00:08:33,814 --> 00:08:38,151
-I didn't know that
-was even humanly possible.
+151
+00:08:38,356 --> 00:08:40,951
+I didn't know that was even humanly possible.
 
-184
-00:08:38,151 --> 00:08:40,621
-Wait just one second!
-Isn't that cheating?
+152
+00:08:42,668 --> 00:08:45,113
+Wait just one second! Isn't that cheating?
 
-185
-00:08:40,621 --> 00:08:42,222
-No, cheating refers to
-techniques
+153
+00:08:45,138 --> 00:08:48,465
+No, cheating refers to techniques
+like the forced shuffle you were doing.
 
-186
-00:08:42,222 --> 00:08:44,558
-like the forced shuffle
-you were doing.
-
-187
-00:08:45,659 --> 00:08:46,927
+154
+00:08:50,017 --> 00:08:51,285
 You knew from the start?
 
-188
-00:08:46,927 --> 00:08:48,995
-Yep, and it made counting
-that much easier.
+155
+00:08:51,380 --> 00:08:53,448
+Yep, and it made counting that much easier.
 
-189
-00:08:48,995 --> 00:08:52,265
-Oh, impossible, he not only
-saw through my tricks,
+156
+00:08:53,537 --> 00:08:58,229
+Oh, impossible, he not only saw through
+my tricks, he used them to defeat me?!
 
-190
-00:08:52,265 --> 00:08:54,100
-he used them to defeat me?!
-
-191
-00:08:54,801 --> 00:08:55,301
+157
+00:08:58,961 --> 00:08:59,699
 Ow!
 
-192
-00:08:55,301 --> 00:08:57,437
-Hey, there,
-where you off to?
+158
+00:08:59,724 --> 00:09:01,669
+Hey, there, where you off to?
 
-193
-00:08:57,437 --> 00:08:58,505
+159
+00:09:01,764 --> 00:09:03,163
 Oh, just back to work.
 
-194
-00:08:58,505 --> 00:09:01,074
+160
+00:09:03,266 --> 00:09:05,839
 Remember all of those radical
 policies you proposed yesterday?
 
-195
-00:09:01,074 --> 00:09:02,809
-I kind of have to meet
-with the nobles
+161
+00:09:05,864 --> 00:09:09,288
+I kind of have to meet with the nobles
+who oppose them now, and they're angry.
 
-196
-00:09:02,809 --> 00:09:04,878
-who oppose them now,
-and they're angry.
+162
+00:09:09,456 --> 00:09:11,942
+Huh? That took longer than I thought.
 
-197
-00:09:04,878 --> 00:09:07,781
-Huh? That took longer
-than I thought.
+163
+00:09:12,323 --> 00:09:14,810
+I guess I'll go act like a king for once, then.
 
-198
-00:09:07,781 --> 00:09:10,216
-<i>I guess I'll go act like</i>
-<i>a king for once, then.</i>
-
-199
-00:09:10,216 --> 00:09:11,451
+164
+00:09:14,881 --> 00:09:15,589
 Huh?
 
-200
-00:09:11,451 --> 00:09:12,819
-( scoffs )
+165
+00:09:19,078 --> 00:09:21,477
+This is outrageous! You'll pay for this!
 
-201
-00:09:14,688 --> 00:09:16,990
-This is outrageous!
-You'll pay for this!
-
-202
-00:09:16,990 --> 00:09:19,492
+166
+00:09:21,532 --> 00:09:23,972
 Don't think you can humiliate
 the nobles and get away with it.
 
-203
-00:09:19,492 --> 00:09:21,394
-That's former nobles
-from now on.
+167
+00:09:23,997 --> 00:09:26,132
+That's former nobles from now on.
 
-204
-00:09:21,394 --> 00:09:21,962
+168
+00:09:26,157 --> 00:09:26,504
 Preposterous.
 
-205
-00:09:21,962 --> 00:09:24,397
-<i>Your titles, your land,</i>
-<i>money, holdings,</i>
+169
+00:09:26,504 --> 00:09:31,067
+Your titles, your land, money,
+holdings, all property of the state now.
 
-206
-00:09:24,397 --> 00:09:26,099
-<i>all property</i>
-<i>of the state now.</i>
+170
+00:09:31,161 --> 00:09:33,450
+Well, given how quickly I changed things up,
 
-207
-00:09:26,099 --> 00:09:28,969
-Well, given how quickly
-I changed things up,
+171
+00:09:33,475 --> 00:09:35,874
+people were bound to throw a hissy fit sooner or later.
 
-208
-00:09:28,969 --> 00:09:31,271
-people were bound to throw
-a hissy fit sooner or later.
+172
+00:09:35,899 --> 00:09:38,599
+Frankly, I'm surprised that it took as long as it did.
 
-209
-00:09:31,271 --> 00:09:34,575
-Frankly, I'm surprised
-that it took as long as it did.
+173
+00:09:38,893 --> 00:09:42,205
+I know you didn't like them, but
+you didn't have to be so mean about it.
 
-210
-00:09:34,575 --> 00:09:35,976
-I know you
-didn't like them,
+174
+00:09:42,230 --> 00:09:45,128
+I'd worked so hard to keep them under control peacefully.
 
-211
-00:09:35,976 --> 00:09:38,011
-but you didn't have
-to be so mean about it.
+175
+00:09:45,153 --> 00:09:47,131
+Huh? Kept them under control?
 
-212
-00:09:38,011 --> 00:09:40,747
-I'd worked so hard to keep them
-under control peacefully.
+176
+00:09:47,278 --> 00:09:50,786
+I used data from the experiments we'd
+conducted on the royal family's lands.
 
-213
-00:09:40,747 --> 00:09:42,816
-Huh? Kept them
-under control?
+177
+00:09:50,811 --> 00:09:54,750
+Then I distributed the commercial rights to
+all the noble factions that backed my family.
 
-214
-00:09:42,816 --> 00:09:44,951
-I used data from the
-experiments we'd conducted
+178
+00:09:54,832 --> 00:09:57,134
+Utilizing the success we gained from doing that,
 
-215
-00:09:44,951 --> 00:09:46,219
-on the royal family's lands.
+179
+00:09:57,159 --> 00:09:59,903
+we were able to keep the other
+major political factions in check.
 
-216
-00:09:46,219 --> 00:09:47,954
-Then I distributed
-the commercial rights
+180
+00:09:59,903 --> 00:10:04,160
+At the same time, we could quietly break
+down the smaller groups, thus whittling away
 
-217
-00:09:47,954 --> 00:09:50,290
-to all the noble factions
-that backed my family.
+181
+00:10:04,185 --> 00:10:05,485
+our opponents' power base.
 
-218
-00:09:50,290 --> 00:09:52,626
-<i>Utilizing the success</i>
-<i>we gained from doing that,</i>
+182
+00:10:05,826 --> 00:10:07,939
+If you hadn't just humiliated those guys,
 
-219
-00:09:52,626 --> 00:09:54,427
-<i>we were able to keep</i>
-<i>the other major</i>
+183
+00:10:07,964 --> 00:10:11,696
+we'd likely could have had a bloodless
+victory over the entire opposition!
 
-220
-00:09:54,427 --> 00:09:55,361
-<i>political factions in check.</i>
+184
+00:10:11,721 --> 00:10:13,514
+Uh, what's wrong with you two?
 
-221
-00:09:55,361 --> 00:09:57,931
-<i>At the same time,</i>
-<i>we could quietly break down</i>
+185
+00:10:13,539 --> 00:10:15,561
+I didn't think this was even possible,
 
-222
-00:09:57,931 --> 00:09:59,633
-<i>the smaller groups,</i>
-<i>thus whittling away</i>
+186
+00:10:15,586 --> 00:10:18,140
+but, Steph, you are actually not a humongous idiot.
 
-223
-00:09:59,633 --> 00:10:00,901
-<i>our opponents' power base.</i>
+187
+00:10:18,165 --> 00:10:20,451
+You mean you thought I was stupid this whole time?
 
-224
-00:10:00,901 --> 00:10:03,169
-If you hadn't just
-humiliated those guys,
+188
+00:10:20,566 --> 00:10:23,312
+But that can't be right. You are a Steph, aren't you?
 
-225
-00:10:03,169 --> 00:10:05,706
-we'd likely could have
-had a bloodless victory
+189
+00:10:23,337 --> 00:10:26,856
+Is it my imagination, or did you
+just use my name as a derogatory term?
 
-226
-00:10:05,706 --> 00:10:07,574
-over the entire opposition!
+190
+00:10:26,881 --> 00:10:28,603
+Shut up, Steph, you're just a Steph.
 
-227
-00:10:07,574 --> 00:10:09,275
-Uh, what's wrong
-with you two?
+191
+00:10:28,628 --> 00:10:30,239
+My God! You two are terrible!
 
-228
-00:10:09,275 --> 00:10:11,044
-I didn't think
-this was even possible,
+192
+00:10:30,264 --> 00:10:32,981
+That is possibly the most unfair insult in history!
 
-229
-00:10:11,044 --> 00:10:13,714
-but, Steph, you are actually
-not a humongous idiot.
+193
+00:10:33,134 --> 00:10:37,119
+In fact, I graduated top of my class at
+the most prestigious academy in the country,
 
-230
-00:10:13,714 --> 00:10:16,049
-You mean you thought
-I was stupid this whole time?
+194
+00:10:37,144 --> 00:10:40,600
+and I have connections with every
+major family through my former classmates.
 
-231
-00:10:16,049 --> 00:10:19,152
-But that can't be right.
-You are a Steph, aren't you?
+195
+00:10:41,688 --> 00:10:45,426
+She graduated from high school
+already and has lots of friends.
 
-232
-00:10:19,152 --> 00:10:20,153
-Is it my imagination,
-
-233
-00:10:20,153 --> 00:10:22,589
-or did you just use my name
-as a derogatory term?
-
-234
-00:10:22,589 --> 00:10:24,424
-Shut up, Steph,
-you're just a Steph.
-
-235
-00:10:24,424 --> 00:10:25,892
-My God!
-You two are terrible!
-
-236
-00:10:25,892 --> 00:10:28,895
-That is possibly the most
-unfair insult in history!
-
-237
-00:10:28,895 --> 00:10:30,697
-In fact, I graduated
-top of my class
-
-238
-00:10:30,697 --> 00:10:32,432
-at the most prestigious
-academy in the country,
-
-239
-00:10:32,432 --> 00:10:34,701
-<i>and I have connections</i>
-<i>with every major family</i>
-
-240
-00:10:34,701 --> 00:10:37,203
-through my former classmates.
-
-241
-00:10:37,203 --> 00:10:40,941
-She graduated
-from high school already
-and has lots of friends.
-
-242
-00:10:40,941 --> 00:10:44,845
+196
+00:10:45,483 --> 00:10:48,823
 You know, she's like an entitled
 rich little princess literally.
 
-243
-00:10:44,845 --> 00:10:47,147
-Shiro:
-<i>And she has big boobies, too.</i>
+197
+00:10:48,942 --> 00:10:51,016
+And she has big boobies, too.
 
-244
-00:10:47,147 --> 00:10:48,782
+198
+00:10:51,065 --> 00:10:52,955
 Sora? Shiro?
 
-245
-00:10:48,782 --> 00:10:51,818
-We didn't decide did we,
-what we were gonna make you do
+199
+00:10:52,980 --> 00:10:58,287
+We didn't decide did we, what we were gonna
+make you do for losing that game of blackjack?
 
-246
-00:10:51,818 --> 00:10:54,054
-for losing that game
-of blackjack?
+200
+00:10:58,596 --> 00:11:00,526
+You're really gonna get it now, Steph.
 
-247
-00:10:54,054 --> 00:10:56,422
-You're really gonna
-get it now, Steph.
+201
+00:11:00,964 --> 00:11:02,599
+No mercy.
 
-248
-00:10:56,422 --> 00:10:58,324
-<i>No mercy.</i>
-
-249
-00:10:58,324 --> 00:11:02,095
+202
+00:11:02,698 --> 00:11:05,879
 Wait! No!!
 
-250
-00:11:12,739 --> 00:11:15,475
-Th‐there are
-t‐too many people here.
+203
+00:11:14,036 --> 00:11:16,735
+Th‐there are t‐too many people here.
 
-251
-00:11:15,475 --> 00:11:17,043
-( gasps )
+204
+00:11:16,854 --> 00:11:17,640
 Ahh!
 
-252
-00:11:17,043 --> 00:11:19,379
-Sh‐Shiro, don't let go
-of my hand no matter what!
+205
+00:11:18,483 --> 00:11:20,930
+Sh‐Shiro, don't let go of my hand no matter what!
 
-253
-00:11:19,379 --> 00:11:20,947
+206
+00:11:20,961 --> 00:11:22,676
 You... you made me, Sora.
 
-254
-00:11:20,947 --> 00:11:23,383
-It was your idea
-to come to town, Sora.
+207
+00:11:22,701 --> 00:11:24,942
+It was your idea to come to town, Sora.
 
-255
-00:11:23,383 --> 00:11:24,184
+208
+00:11:24,982 --> 00:11:25,942
 What's going on?
 
-256
-00:11:24,184 --> 00:11:27,153
-We got something
-we need to do. Uh...
+209
+00:11:25,967 --> 00:11:28,398
+We got something we need to do. Uh...
 
-257
-00:11:29,022 --> 00:11:32,458
-Wait, why is everyone
-looking at us funny?
+210
+00:11:30,717 --> 00:11:33,435
+Wait, why is everyone looking at us funny?
 
-258
-00:11:32,458 --> 00:11:34,728
+211
+00:11:33,927 --> 00:11:35,811
 That's because...
 
-259
-00:11:34,728 --> 00:11:36,129
-you made me wear this crap!
+212
+00:11:36,207 --> 00:11:39,695
+you made me wear this crap! Of
+course they're going to stare!
 
-260
-00:11:36,129 --> 00:11:38,398
-Of course
-they're going to stare!
-
-261
-00:11:38,398 --> 00:11:39,555
+213
+00:11:39,735 --> 00:11:40,228
 Woof.
 
-262
-00:11:39,555 --> 00:11:41,267
-Couldn't you have come up
-with a more dignified
-demand than this?
+214
+00:11:40,253 --> 00:11:42,627
+Couldn't you have come up with a
+more dignified demand than this?
 
-263
-00:11:41,267 --> 00:11:42,903
+215
+00:11:42,652 --> 00:11:43,733
 Okay, Steph, now shake.
 
-264
-00:11:42,903 --> 00:11:44,938
-Oh, my God,
-I can't disobey.
+216
+00:11:44,305 --> 00:11:46,299
+Oh, my God, I can't disobey.
 
-265
-00:11:44,938 --> 00:11:46,707
+217
+00:11:46,482 --> 00:11:47,912
 That's the rule, Steph.
 
-266
-00:11:46,707 --> 00:11:48,542
-In accordance
-with the law of the pledges,
+218
+00:11:48,004 --> 00:11:51,987
+In accordance with the law of the pledges,
+you are officially our dog for the day.
 
-267
-00:11:48,542 --> 00:11:50,744
-you are officially
-our dog for the day.
-
-268
-00:11:50,744 --> 00:11:51,745
-( groans )
-
-269
-00:11:51,745 --> 00:11:54,981
+219
+00:11:53,194 --> 00:11:55,045
 Now your outfit is weird...
 
-270
-00:11:54,981 --> 00:11:58,218
-<i>but they seem more scared</i>
-<i>than anything else.</i>
+220
+00:11:56,769 --> 00:11:59,383
+but they seem more scared than anything else.
 
-271
-00:11:58,218 --> 00:11:59,185
+221
+00:11:59,458 --> 00:12:00,594
 I'll tell you why.
 
-272
-00:11:59,185 --> 00:12:00,854
-It's because the king
-of Elkia is walking around
+222
+00:12:00,619 --> 00:12:04,920
+It's because the king of Elkia is walkingaround
+with someone dressed as a Warbeast on a leash.
 
-273
-00:12:00,854 --> 00:12:03,657
-with someone dressed
-as a Warbeast on a leash.
+223
+00:12:06,158 --> 00:12:06,819
+Wait!
 
-274
-00:12:03,657 --> 00:12:05,225
-( gasps ) Wait!
+224
+00:12:06,844 --> 00:12:09,147
+You say you're dressed like a Warbeast?
 
-275
-00:12:05,225 --> 00:12:08,662
-<i>You say you're dressed</i>
-<i>like a Warbeast?</i>
-
-276
-00:12:08,662 --> 00:12:10,330
+225
+00:12:10,157 --> 00:12:11,960
 "Exceed rank number 14.
 
-277
-00:12:10,330 --> 00:12:11,932
-Their territory,
-the Eastern Federation,
+226
+00:12:12,110 --> 00:12:15,178
+Their territory, the Eastern
+Federation, is one of the largest.
 
-278
-00:12:11,932 --> 00:12:13,534
-is one of the largest.
+227
+00:12:15,304 --> 00:12:18,050
+They possess superior senses and physical abilities,
 
-279
-00:12:13,534 --> 00:12:16,169
-They possess superior senses
-and physical abilities,
+228
+00:12:18,075 --> 00:12:21,397
+as well as a sixth sense that
+allows them to read people's minds!"
 
-280
-00:12:16,169 --> 00:12:17,904
-as well as a sixth sense
-that allows them
+229
+00:12:21,460 --> 00:12:27,198
+In other words, the Eastern Federation is an
+Eden composed entirely of hot girls with animal ears!
 
-281
-00:12:17,904 --> 00:12:19,840
-to read people's minds!"
+230
+00:12:27,223 --> 00:12:29,334
+No, there are men and old people, too.
 
-282
-00:12:19,840 --> 00:12:21,441
-<i>In other words,</i>
-<i>the Eastern Federation</i>
+231
+00:12:29,359 --> 00:12:32,584
+Okay! Time to conquer the beasts of Paradise!
 
-283
-00:12:21,441 --> 00:12:25,846
-is an Eden composed entirely
-of hot girls with animal ears!
+232
+00:12:32,609 --> 00:12:33,950
+We're going after the animal girls!
 
-284
-00:12:25,846 --> 00:12:27,914
-No, there are men
-and old people, too.
-
-285
-00:12:27,914 --> 00:12:31,017
-Okay! Time to conquer
-the beasts of Paradise!
-
-286
-00:12:31,017 --> 00:12:32,653
-We're going after
-the animal girls!
-
-287
-00:12:32,653 --> 00:12:33,920
+233
+00:12:33,950 --> 00:12:35,824
 Ready, let's go!
 
-288
-00:12:33,920 --> 00:12:35,889
+234
+00:12:35,849 --> 00:12:38,257
 Wait! They're one of the three
-biggest countries
+biggest countries in the world!
 
-289
-00:12:35,889 --> 00:12:37,123
-in the world!
+235
+00:12:38,282 --> 00:12:43,485
+Silence! You and your false ears shall not stand between
+me and the joy of authentic animal‐eared goddesses!
 
-290
-00:12:37,123 --> 00:12:38,065
-Silence!
+236
+00:12:43,684 --> 00:12:48,108
+The Eden I've only dreamt of awaits its true master!
 
-291
-00:12:38,065 --> 00:12:39,760
-You and your false ears
-shall not stand between me
-
-292
-00:12:39,760 --> 00:12:42,495
-and the joy of authentic
-animal‐eared goddesses!
-
-293
-00:12:42,495 --> 00:12:44,497
-The Eden I've only dreamt of
-
-294
-00:12:44,497 --> 00:12:47,333
-awaits its true master!
-
-295
-00:12:47,701 --> 00:12:49,016
+237
+00:12:48,998 --> 00:12:49,459
 Hmm?
 
-296
-00:12:49,016 --> 00:12:50,637
-Sora, before
-you do that...
+238
+00:12:49,484 --> 00:12:51,437
+Sora, before you do that...
 
-297
-00:12:50,637 --> 00:12:51,938
+239
+00:12:52,066 --> 00:12:53,106
 Oh, that's right.
 
-298
-00:12:51,938 --> 00:12:53,473
+240
+00:12:53,463 --> 00:12:54,568
 Onward we go.
 
-299
-00:12:53,473 --> 00:12:54,307
+241
+00:12:54,651 --> 00:12:55,485
 Lead the way.
 
-300
-00:12:54,307 --> 00:12:55,389
+242
+00:12:55,549 --> 00:12:55,911
 Right.
 
-301
-00:12:55,389 --> 00:12:56,241
+243
+00:12:55,936 --> 00:12:56,704
 Wait a sec.
 
-302
-00:12:56,241 --> 00:12:56,728
-( chokes )
-
-303
-00:12:56,728 --> 00:12:58,311
+244
+00:12:58,025 --> 00:12:59,112
 I'm tied up?
 
-304
-00:12:59,312 --> 00:13:00,981
+245
+00:13:00,116 --> 00:13:01,899
 Son of a bitch.
 
-305
-00:13:02,315 --> 00:13:04,384
-( sighs )
+246
+00:13:05,538 --> 00:13:08,359
+I can't believe we didn't find a single thing anywhere.
 
-306
-00:13:04,384 --> 00:13:07,087
-I can't believe we didn't find
-a single thing anywhere.
-
-307
-00:13:07,087 --> 00:13:08,855
+247
+00:13:08,384 --> 00:13:10,012
 This kingdom is weird.
 
-308
-00:13:08,855 --> 00:13:10,256
+248
+00:13:10,037 --> 00:13:11,155
 I know, right?
 
-309
-00:13:12,392 --> 00:13:14,561
-This looks good,
-but it tastes like dookie.
+249
+00:13:13,641 --> 00:13:16,152
+This looks good, but it tastes like dookie.
 
-310
-00:13:14,561 --> 00:13:17,297
-I think there's a shortage
-of things like sugar,
+250
+00:13:16,177 --> 00:13:19,610
+I think there's a shortage of
+things like sugar, salt, and butter.
 
-311
-00:13:17,297 --> 00:13:18,364
-salt, and butter.
+251
+00:13:19,673 --> 00:13:21,834
+Is that why Steph's cookies were so good,
 
-312
-00:13:18,364 --> 00:13:20,200
-Is that why Steph's
-cookies were so good,
+252
+00:13:21,881 --> 00:13:24,002
+because they have better ingredients at the castle?
 
-313
-00:13:20,200 --> 00:13:22,803
-because they have better
-ingredients at the castle?
-
-314
-00:13:22,803 --> 00:13:23,604
+253
+00:13:24,027 --> 00:13:24,558
 Mm.
 
-315
-00:13:23,604 --> 00:13:26,840
+254
+00:13:24,694 --> 00:13:26,879
 I finally found you!
 
-316
-00:13:26,840 --> 00:13:28,575
-Oh, hey, Steph.
-Where you been?
+255
+00:13:27,763 --> 00:13:29,699
+Oh, hey, Steph. Where you been?
 
-317
-00:13:28,575 --> 00:13:30,644
-What do you mean?
-Uh, huh?
+256
+00:13:29,761 --> 00:13:31,916
+What do you mean? Uh, huh?
 
-318
-00:13:30,644 --> 00:13:33,279
-You left me tied to a lamppost
-in the middle of town.
+257
+00:13:31,941 --> 00:13:34,576
+You left me tied to a lamppost in the middle of town.
 
-319
-00:13:33,279 --> 00:13:35,381
-You're saying you just
-conveniently forgot?
+258
+00:13:34,601 --> 00:13:36,517
+You're saying you just conveniently forgot?
 
-320
-00:13:35,381 --> 00:13:36,650
+259
+00:13:36,542 --> 00:13:37,749
 Sorry about that, Steph.
 
-321
-00:13:36,650 --> 00:13:37,317
+260
+00:13:37,868 --> 00:13:38,535
 Now sit.
 
-322
-00:13:37,317 --> 00:13:38,051
-( pants )
+261
+00:13:39,401 --> 00:13:41,976
+You asked for forgiveness and then you make me sit.
 
-323
-00:13:38,051 --> 00:13:40,921
-You asked for forgiveness
-and then you make me sit.
-
-324
-00:13:40,921 --> 00:13:43,089
+262
+00:13:42,001 --> 00:13:43,946
 This is so wrong!
 
-325
-00:13:43,089 --> 00:13:44,457
-<i>I can't take this anymore.</i>
+263
+00:13:44,525 --> 00:13:45,820
+I can't take this anymore.
 
-326
-00:13:44,457 --> 00:13:46,527
-<i>I've got to do something</i>
-<i>about these two.</i>
+264
+00:13:45,924 --> 00:13:47,824
+I've got to do something about these two.
 
-327
-00:13:46,527 --> 00:13:48,228
-<i>But if I'm going to stand</i>
-<i>any chance</i>
+265
+00:13:48,227 --> 00:13:50,826
+But if I'm going to stand any
+chance of beating them in a game,
 
-328
-00:13:48,228 --> 00:13:49,329
-<i>of beating them in a game,</i>
+266
+00:13:50,882 --> 00:13:52,892
+it has to be a game based on pure luck,
 
-329
-00:13:49,329 --> 00:13:51,565
-<i>it has to be a game</i>
-<i>based on pure luck,</i>
+267
+00:13:53,059 --> 00:13:55,378
+one where they can't calculate their way into winning.
 
-330
-00:13:51,565 --> 00:13:54,267
-<i>one where they can't calculate</i>
-<i>their way into winning.</i>
+268
+00:13:55,403 --> 00:13:56,521
+I've got it.
 
-331
-00:13:54,267 --> 00:13:55,536
-<i>I've got it.</i>
+269
+00:13:56,769 --> 00:13:58,287
+I demand one more match!
 
-332
-00:13:55,536 --> 00:13:57,370
-<i>I demand one more match!</i>
-
-333
-00:13:57,370 --> 00:13:58,530
+270
+00:13:58,312 --> 00:13:59,178
 Now stand.
 
-334
-00:13:58,530 --> 00:14:00,473
-Hmm, okay, what do you want
-from me now, Steph?
+271
+00:13:59,203 --> 00:14:01,949
+Hmm, okay, what do you want from me now, Steph?
 
-335
-00:14:00,473 --> 00:14:02,442
-The same thing
-you wanted this morning
+272
+00:14:02,012 --> 00:14:06,542
+The same thing you wanted this morning
+that I didn't understand‐ The IRL.
 
-336
-00:14:02,442 --> 00:14:05,245
-that I didn't understand‐
-The IRL.
+273
+00:14:06,580 --> 00:14:08,878
+Oh, Steph, I knew you would‐
 
-337
-00:14:05,245 --> 00:14:07,581
-Oh, Steph,
-I knew you would‐ ( groans )
+274
+00:14:08,878 --> 00:14:11,514
+I will be happy to except on behalf of Blank.
 
-338
-00:14:07,581 --> 00:14:10,450
-I will be happy to except
-on behalf of Blank.
+275
+00:14:11,831 --> 00:14:14,890
+If you lose, you have to do one thing I tell you to.
 
-339
-00:14:10,450 --> 00:14:13,720
-If you lose, you have
-to do one thing I tell you to.
+276
+00:14:14,915 --> 00:14:17,752
+Sis, please, my manhood needs this.
 
-340
-00:14:13,720 --> 00:14:16,557
-Sis, please,
-my manhood needs this.
-
-341
-00:14:16,557 --> 00:14:17,423
+277
+00:14:17,777 --> 00:14:18,856
 That's fine with me.
 
-342
-00:14:17,423 --> 00:14:20,460
-We'll compete to see
-whether the next person
+278
+00:14:18,881 --> 00:14:24,663
+We'll compete to see whether the next person
+to go down that alley is a man or a woman!
 
-343
-00:14:20,460 --> 00:14:23,897
-<i>to go down that alley</i>
-<i>is a man or a woman!</i>
-
-344
-00:14:23,897 --> 00:14:25,566
+279
+00:14:25,194 --> 00:14:26,664
 Best out of ten wins.
 
-345
-00:14:25,566 --> 00:14:28,201
-Aschente!
-Aschente!
+280
+00:14:26,834 --> 00:14:28,032
+Aschente! Aschente!
 
-346
-00:14:28,201 --> 00:14:30,937
-This doesn't
-make sense!
+281
+00:14:29,685 --> 00:14:32,028
+This doesn't make sense!
 
-347
-00:14:30,937 --> 00:14:32,673
-Did you really think
-it'd be random?
+282
+00:14:32,234 --> 00:14:34,283
+Did you really think it'd be random?
 
-348
-00:14:32,673 --> 00:14:36,209
-People usually have reasons
-for going into town, you know.
+283
+00:14:34,308 --> 00:14:37,312
+People usually have reasons for going into town, you know.
 
-349
-00:14:36,209 --> 00:14:37,210
+284
+00:14:37,337 --> 00:14:37,899
 Huh?
 
-350
-00:14:37,210 --> 00:14:39,846
-What Shiro did is assessed
-the male‐to‐female ratio
+285
+00:14:38,229 --> 00:14:41,178
+What Shiro did is assessed the male‐to‐female ratio
 
-351
-00:14:39,846 --> 00:14:42,015
-by applying data
-on time‐based variables‐
+286
+00:14:41,203 --> 00:14:45,414
+by applying data on time‐based variables,
+occupations, and employment rate for this area
 
-352
-00:14:42,015 --> 00:14:44,117
-occupations, and employment
-rate for this area
+287
+00:14:45,414 --> 00:14:47,553
+to the general trends that we've observed in the past.
 
-353
-00:14:44,117 --> 00:14:46,520
-to the general trends that
-we've observed in the past.
-
-354
-00:14:46,520 --> 00:14:46,987
+288
+00:14:47,578 --> 00:14:48,259
 I rule.
 
-355
-00:14:46,987 --> 00:14:49,422
-Do you always take
-this stuff so seriously?
+289
+00:14:48,284 --> 00:14:50,719
+Do you always take this stuff so seriously?
 
-356
-00:14:49,422 --> 00:14:52,626
-But, of course, because
-when it comes to games‐
+290
+00:14:50,968 --> 00:14:53,923
+But, of course, because when it comes to games...
 
-357
-00:14:52,626 --> 00:14:54,427
-Both:
+291
+00:14:53,948 --> 00:14:55,640
 We're always serious.
 
-358
-00:14:56,162 --> 00:14:57,831
+292
+00:14:57,434 --> 00:14:59,000
 It's time to pay up, Steph.
 
-359
-00:14:57,831 --> 00:15:00,834
-<i>I think I'll take</i>
-<i>your underwear.</i>
+293
+00:14:59,096 --> 00:15:02,042
+I think I'll take your underwear.
 
-360
-00:15:00,834 --> 00:15:03,504
-( sobs )
-
-361
-00:15:03,504 --> 00:15:04,270
+294
+00:15:04,539 --> 00:15:05,674
 That's it isn't it?
 
-362
-00:15:04,270 --> 00:15:07,508
-I really am ruined
-forever now, aren't I?
+295
+00:15:05,699 --> 00:15:08,002
+I really am ruined forever now, aren't I?
 
-363
-00:15:07,508 --> 00:15:09,710
-Hey, Shiro,
-this is actually starting
+296
+00:15:08,923 --> 00:15:12,594
+Hey, Shiro, this is actually starting
+to get really depressing and sad.
 
-364
-00:15:09,710 --> 00:15:11,477
-to get really
-depressing and sad.
-
-365
-00:15:11,477 --> 00:15:13,179
+297
+00:15:12,619 --> 00:15:14,222
 I'm just 11 years old.
 
-366
-00:15:13,179 --> 00:15:15,081
-I'm a kid,
-so I don't understand.
+298
+00:15:14,405 --> 00:15:16,307
+I'm a kid, so I don't understand.
 
-367
-00:15:15,081 --> 00:15:16,983
-You seem like
-you're in a bad mood.
+299
+00:15:16,495 --> 00:15:18,350
+You seem like you're in a bad mood.
 
-368
-00:15:16,983 --> 00:15:19,219
-might want to go easy
-on Steph from now on.
+300
+00:15:18,375 --> 00:15:20,427
+might want to go easy on Steph from now on.
 
-369
-00:15:20,486 --> 00:15:21,187
+301
+00:15:21,735 --> 00:15:22,436
 Whatever.
 
-370
-00:15:21,187 --> 00:15:23,389
-I'll have you know,
-I'm just getting started.
+302
+00:15:22,605 --> 00:15:24,790
+I'll have you know, I'm just getting started.
 
-371
-00:15:23,389 --> 00:15:26,259
-As far as my skills go,
-you haven't seen anything yet.
+303
+00:15:24,821 --> 00:15:27,427
+As far as my skills go, you haven't seen anything yet.
 
-372
-00:15:26,259 --> 00:15:28,995
-On the contrary, I think
-we've both seen plenty.
+304
+00:15:27,556 --> 00:15:29,985
+On the contrary, I think we've both seen plenty.
 
-373
-00:15:28,995 --> 00:15:30,831
-( gasps )
+305
+00:15:30,212 --> 00:15:31,740
 You'll regret that one!
 
-374
-00:15:30,831 --> 00:15:32,432
+306
+00:15:31,874 --> 00:15:33,027
 Aschente!
 
-375
-00:15:48,615 --> 00:15:50,116
-( whimpers )
+307
+00:16:03,133 --> 00:16:06,516
+One, one more, I want to play one more game!
 
-376
-00:15:52,519 --> 00:15:54,420
-( wails )
+308
+00:16:06,628 --> 00:16:08,106
+You don't have much left to lose.
 
-377
-00:15:54,420 --> 00:15:55,989
-( shudders )
+309
+00:16:09,325 --> 00:16:14,056
+A temporary defeat is, uh, trivial so
+long as it leads to ultimate victory!
 
-378
-00:15:57,991 --> 00:15:59,860
-( groans )
+310
+00:16:14,081 --> 00:16:18,236
+Hey, you know, I'm starting to understand
+why Elkia ended up in such a bad state.
 
-379
-00:15:59,860 --> 00:16:01,494
-( laughs )
+311
+00:16:18,815 --> 00:16:21,740
+This time it'll be pure, 100% chance!
 
-380
-00:16:01,494 --> 00:16:05,331
-One‐ one more,
-I want to play one more game!
+312
+00:16:21,819 --> 00:16:24,456
+How many seconds until those birds fly away?
 
-381
-00:16:05,331 --> 00:16:06,967
-You don't have much
-left to lose.
+313
+00:16:26,068 --> 00:16:27,931
+Fine, I'll let you bet first.
 
-382
-00:16:06,967 --> 00:16:08,068
-( giggles )
+314
+00:16:28,065 --> 00:16:30,383
+Aschente. What's your bet?
 
-383
-00:16:08,068 --> 00:16:10,871
-A temporary defeat
-is, uh, trivial
-
-384
-00:16:10,871 --> 00:16:12,606
-so long as it leads
-to ultimate victory!
-
-385
-00:16:12,606 --> 00:16:14,908
-Hey, you know,
-I'm starting to understand
-
-386
-00:16:14,908 --> 00:16:17,210
-why Elkia ended
-up in such a bad state.
-
-387
-00:16:17,210 --> 00:16:20,480
-This time it'll be pure,
-100% chance!
-
-388
-00:16:20,480 --> 00:16:23,083
-<i>How many seconds until</i>
-<i>those birds fly away?</i>
-
-389
-00:16:23,083 --> 00:16:24,851
-( sighs )
-
-390
-00:16:24,851 --> 00:16:26,687
-Fine, I'll let you
-bet first.
-
-391
-00:16:26,687 --> 00:16:29,523
-Aschente.
-What's your bet?
-
-392
-00:16:29,523 --> 00:16:31,457
+315
+00:16:30,408 --> 00:16:32,600
 Huh? A‐aschente.
 
-393
-00:16:31,457 --> 00:16:34,795
-Uh, let's see,
-I bet 30 seconds.
+316
+00:16:32,754 --> 00:16:35,754
+Uh, let's see, I bet 30 seconds.
 
-394
-00:16:34,795 --> 00:16:38,765
-Then I'll take...
-three seconds!
+317
+00:16:36,092 --> 00:16:39,193
+Then I'll take... three seconds!
 
-395
-00:16:38,765 --> 00:16:40,601
-Hey, that's against
-the rules!
+318
+00:16:40,030 --> 00:16:44,953
+Hey, that's against the rules! I don't
+believe you stated any rules, right?
 
-396
-00:16:40,601 --> 00:16:44,170
-I don't believe you stated
-any rules, right?
+319
+00:16:46,024 --> 00:16:48,520
+Steph, just give it up, already.
 
-397
-00:16:45,005 --> 00:16:47,674
-Steph, just give
-it up, already.
-
-398
-00:16:47,674 --> 00:16:48,575
+320
+00:16:48,852 --> 00:16:49,753
 Why?
 
-399
-00:16:48,575 --> 00:16:49,475
+321
+00:16:49,778 --> 00:16:50,172
 Huh?
 
-400
-00:16:49,475 --> 00:16:52,112
-What did I ever do
-to deserve this?
+322
+00:16:51,031 --> 00:16:53,193
+What did I ever do to deserve this?
 
-401
-00:16:52,112 --> 00:16:55,348
-All I want
-is to help people
+323
+00:16:53,662 --> 00:16:56,562
+All I want is to help people
 
-402
-00:16:55,348 --> 00:16:57,017
-for the sake of Elkia.
+324
+00:16:56,760 --> 00:17:00,803
+for the sake of Elkia. Why
+can't luck be on my side even once?
 
-403
-00:16:57,017 --> 00:16:59,886
-Why can't luck be on
-my side even once?
-
-404
-00:16:59,886 --> 00:17:00,954
+325
+00:17:00,828 --> 00:17:01,770
 Steph...
 
-405
-00:17:00,954 --> 00:17:02,388
-( sighs )
+326
+00:17:04,416 --> 00:17:07,249
+'Cause nothing's decided by chance alone.
 
-406
-00:17:06,126 --> 00:17:08,995
-'Cause nothing's decided
-by chance alone.
-
-407
-00:17:08,995 --> 00:17:10,096
+327
+00:17:07,284 --> 00:17:07,789
 Huh?
 
-408
-00:17:10,096 --> 00:17:12,633
-Rules, statistics,
-emotional states,
+328
+00:17:08,369 --> 00:17:11,133
+Rules, statistics, emotional states,
 
-409
-00:17:12,633 --> 00:17:15,168
-<i>any number of invisible</i>
-<i>factors can can combine</i>
+329
+00:17:11,189 --> 00:17:13,707
+any number of invisible factors can can combine
 
-410
-00:17:15,168 --> 00:17:18,404
-<i>to produce an unpredictable</i>
-<i>but inevitable result.</i>
+330
+00:17:13,732 --> 00:17:16,639
+to produce an unpredictable but inevitable result.
 
-411
-00:17:18,404 --> 00:17:21,675
-<i>So the victor's decided</i>
-<i>before the game even begins.</i>
+331
+00:17:16,716 --> 00:17:19,649
+So the victor's decided before the game even begins.
 
-412
-00:17:21,675 --> 00:17:23,376
+332
+00:17:19,925 --> 00:17:21,626
 Luck isn't a thing.
 
-413
-00:17:23,376 --> 00:17:24,845
-For example,
-what's the probability
+333
+00:17:21,819 --> 00:17:26,228
+For example, what's the probability of drawing
+the ace of spades from a deck with no jokers?
 
-414
-00:17:24,845 --> 00:17:28,381
-<i>of drawing the ace of spades</i>
-<i>from a deck with no jokers?</i>
+334
+00:17:27,021 --> 00:17:28,817
+It's one in 52, isn't it?
 
-415
-00:17:28,381 --> 00:17:30,551
-Steph:
-<i>It's one in 52, isn't it?</i>
+335
+00:17:29,126 --> 00:17:32,678
+Normally, yes. But what if it's a brand‐new deck?
 
-416
-00:17:30,551 --> 00:17:34,588
-Sora:
-<i>Normally, yes. But what</i>
-<i>if it's a brand‐new deck?</i>
+336
+00:17:33,138 --> 00:17:35,984
+The position of the cards in a
+new deck are typically identical.
 
-417
-00:17:34,588 --> 00:17:36,422
-<i>The position of the cards</i>
-<i>in a new deck</i>
+337
+00:17:36,159 --> 00:17:39,790
+So that means If you take out the jokers
+and draw the card at the very bottom...
 
-418
-00:17:36,422 --> 00:17:37,691
-<i>are typically identical.</i>
+338
+00:17:40,790 --> 00:17:43,770
+it's the ace of spades almost 100% of the time.
 
-419
-00:17:37,691 --> 00:17:39,425
-<i>So that means</i>
-<i>If you take out the jokers</i>
-
-420
-00:17:39,425 --> 00:17:42,362
-<i>and draw the card</i>
-<i>at the very bottom...</i>
-
-421
-00:17:42,362 --> 00:17:45,799
-it's the ace of spades
-almost 100% of the time.
-
-422
-00:17:45,799 --> 00:17:46,967
+339
+00:17:43,795 --> 00:17:45,239
 Uh, hold on!
 
-423
-00:17:46,967 --> 00:17:48,869
-Oh, that's right,
-I didn't say a word
+340
+00:17:45,264 --> 00:17:48,553
+Oh, that's right, I didn't say a
+word about it being a new deck, did I?
 
-424
-00:17:48,869 --> 00:17:51,004
-about it being
-a new deck, did I?
-
-425
-00:17:51,004 --> 00:17:53,574
+341
+00:17:49,007 --> 00:17:51,577
 Rather... you didn't ask.
 
-426
-00:17:53,574 --> 00:17:55,475
-<i>You see, being in the know</i>
-<i>gives you the power</i>
+342
+00:17:52,254 --> 00:17:55,497
+You see, being in the know gives you the
+power to turn the probability of winning
 
-427
-00:17:55,475 --> 00:17:57,210
-<i>to turn the probability</i>
-<i>of winning</i>
+343
+00:17:55,522 --> 00:17:58,945
+from 1.92% to 100%.
 
-428
-00:17:57,210 --> 00:18:00,413
-<i>from 1.92% to 100%.</i>
+344
+00:17:59,032 --> 00:18:01,829
+The more knowledgeable party
+will be the inevitable victor.
 
-429
-00:18:00,413 --> 00:18:03,316
-<i>The more knowledgeable party</i>
-<i>will be the inevitable victor.</i>
+345
+00:18:01,876 --> 00:18:05,340
+This is why the Imanity keep losing over and over
 
-430
-00:18:03,316 --> 00:18:06,687
-<i>This is why the Imanity</i>
-<i>keep losing over and over</i>
+346
+00:18:05,713 --> 00:18:08,160
+and why we're at a loss for what to do next.
 
-431
-00:18:06,687 --> 00:18:09,823
-and why we're at a loss
-for what to do next.
-
-432
-00:18:09,823 --> 00:18:11,457
+347
+00:18:08,344 --> 00:18:09,794
 Uh, explain.
 
-433
-00:18:11,457 --> 00:18:13,594
-We don't have
-enough information.
+348
+00:18:10,298 --> 00:18:12,037
+We don't have enough information.
 
-434
-00:18:13,594 --> 00:18:15,562
-Before we can invade
-the animal‐girl kingdom
+349
+00:18:12,062 --> 00:18:15,764
+Before we can invade the animal‐girl
+kingdom we have to know something about them,
 
-435
-00:18:15,562 --> 00:18:18,231
-we have to know something
-about them, anything,
+350
+00:18:15,915 --> 00:18:18,433
+anything, though preferably their weakness.
 
-436
-00:18:18,231 --> 00:18:19,833
-<i>though preferably</i>
-<i>their weakness.</i>
+351
+00:18:18,458 --> 00:18:21,731
+We've heard that they have a sharp sixth
+sense but that's not too much to go off of.
 
-437
-00:18:19,833 --> 00:18:21,267
-<i>We've heard that they have</i>
-<i>a sharp sixth sense</i>
+352
+00:18:21,818 --> 00:18:23,327
+They can read minds.
 
-438
-00:18:21,267 --> 00:18:23,336
-<i>but that's not too much</i>
-<i>to go off of.</i>
+353
+00:18:23,454 --> 00:18:26,727
+If that's true, then nothing we come
+up with is gonna work against them.
 
-439
-00:18:23,336 --> 00:18:24,571
-Shiro:
-<i>They can read minds.</i>
+354
+00:18:26,752 --> 00:18:28,341
+It won't even be a real game.
 
-440
-00:18:24,571 --> 00:18:27,073
-Sora:
-<i>If that's true,</i>
-<i>then nothing we come up with</i>
+355
+00:18:28,388 --> 00:18:31,281
+I've read every book and paper
+in the palace and found nothing.
 
-441
-00:18:27,073 --> 00:18:28,308
-<i>is gonna work against them.</i>
+356
+00:18:31,306 --> 00:18:33,926
+And there's not a single
+bookstore or library in this town.
 
-442
-00:18:28,308 --> 00:18:30,076
-<i>It won't even</i>
-<i>be a real game.</i>
-
-443
-00:18:30,076 --> 00:18:31,044
-I've read every
-book and paper
-
-444
-00:18:31,044 --> 00:18:32,478
-in the palace
-and found nothing.
-
-445
-00:18:32,478 --> 00:18:35,381
-And there's not a
-single bookstore or
-library in this town.
-
-446
-00:18:35,381 --> 00:18:37,150
+357
+00:18:33,951 --> 00:18:35,579
 Do these people even care?
 
-447
-00:18:37,150 --> 00:18:39,385
-Do they want to lose
-forever?
+358
+00:18:35,604 --> 00:18:37,503
+Do they want to lose forever?
 
-448
-00:18:40,353 --> 00:18:41,622
-<i>Has he been looking</i>
-<i>for information</i>
+359
+00:18:38,957 --> 00:18:42,929
+Has he been looking for information
+about this world ever since he was coronated?
 
-449
-00:18:41,622 --> 00:18:44,891
-<i>about this world ever since</i>
-<i>he was coronated?</i>
+360
+00:18:43,148 --> 00:18:46,703
+You know what they say, only an
+idiot starts a fight he can't win.
 
-450
-00:18:44,891 --> 00:18:45,526
-You know what they say,
-
-451
-00:18:45,526 --> 00:18:49,429
-only an idiot starts
-a fight he can't win.
-
-452
-00:18:49,429 --> 00:18:51,832
-True, but we have
-to do something
-
-453
-00:18:51,832 --> 00:18:53,700
+361
+00:18:47,864 --> 00:18:51,614
+True, but we have to do something
 or we'll never get anywhere!
 
-454
-00:18:53,700 --> 00:18:55,235
-<i>Even if it means</i>
-<i>sacrificing ourselves,</i>
+362
+00:18:52,312 --> 00:18:57,325
+Even if it means sacrificing ourselves, we have
+to keep fighting for Elkia before it's too late.
 
-455
-00:18:55,235 --> 00:18:57,370
-<i>we have to keep</i>
-<i>fighting for Elkia</i>
+363
+00:18:58,358 --> 00:19:01,131
+One more screw‐up, and this kingdom is finished.
 
-456
-00:18:57,370 --> 00:18:59,740
-before it's too late.
+364
+00:19:02,220 --> 00:19:03,928
+I know you're proud of this country,
 
-457
-00:18:59,740 --> 00:19:03,610
-One more screw‐up,
-and this kingdom is finished.
+365
+00:19:03,967 --> 00:19:05,977
+but it's still on the verge of destruction.
 
-458
-00:19:03,610 --> 00:19:05,512
-I know you're proud
-of this country,
-
-459
-00:19:05,512 --> 00:19:07,781
-but it's still on
-the verge of destruction.
-
-460
-00:19:08,348 --> 00:19:10,283
+366
+00:19:06,749 --> 00:19:07,986
 Don't forget that.
 
-461
-00:19:10,984 --> 00:19:12,185
-Steph: <i>All that time,</i>
+367
+00:19:09,321 --> 00:19:10,522
+All that time,
 
-462
-00:19:12,185 --> 00:19:14,154
-<i>they weren't fooling</i>
-<i>around after all.</i>
+368
+00:19:10,665 --> 00:19:12,491
+they weren't fooling around after all.
 
-463
-00:19:14,154 --> 00:19:15,689
-<i>Rather, they were</i>
-<i>shouldering the fate</i>
+369
+00:19:12,714 --> 00:19:16,415
+Rather, they were shouldering the
+fate of 3 million Imanity and I...
 
-464
-00:19:15,689 --> 00:19:18,692
-<i>of 3 million</i>
-<i>Imanity and I...</i>
+370
+00:19:17,520 --> 00:19:20,477
+I didn't‐ I didn't even realize it.
 
-465
-00:19:18,692 --> 00:19:23,296
-I didn't‐ I didn't
-even realize it.
+371
+00:19:21,684 --> 00:19:27,092
+You know, all things considered, you really did a
+good job of keeping things in check. so far, Steph.
 
-466
-00:19:23,296 --> 00:19:25,365
-Sora: <i>You know,</i>
-<i>all things considered,</i>
+372
+00:19:29,780 --> 00:19:34,076
+I was wondering why there was so little
+resistance to all those radical reforms of ours.
 
-467
-00:19:25,365 --> 00:19:26,432
-<i>you really did a good job</i>
+373
+00:19:34,132 --> 00:19:36,048
+You really had those noblemen in line.
 
-468
-00:19:26,432 --> 00:19:29,169
-<i>of keeping things in check.</i>
-<i>so far, Steph.</i>
+374
+00:19:36,438 --> 00:19:38,511
+Good job being smart, Steph.
 
-469
-00:19:31,237 --> 00:19:33,339
-I was wondering why there
-was so little resistance
+375
+00:19:38,781 --> 00:19:40,847
+What you said seriously helped us out.
 
-470
-00:19:33,339 --> 00:19:35,441
-to all those radical
-reforms of ours.
-
-471
-00:19:35,441 --> 00:19:37,711
-You really had those
-noblemen in line.
-
-472
-00:19:37,711 --> 00:19:39,980
-Shiro:
-<i>Good job being</i>
-<i>smart, Steph.</i>
-
-473
-00:19:39,980 --> 00:19:42,115
-Sora:
-<i>What you said</i>
-<i>seriously helped us out.</i>
-
-474
-00:19:42,115 --> 00:19:44,217
+376
+00:19:41,013 --> 00:19:42,086
 So thanks for that.
 
-475
-00:19:45,151 --> 00:19:48,388
+377
+00:19:43,488 --> 00:19:46,090
 Sora... Shiro?
 
-476
-00:19:48,388 --> 00:19:49,590
+378
+00:19:46,725 --> 00:19:48,132
 Please, don't cry.
 
-477
-00:19:49,590 --> 00:19:51,758
-Let's all keep working
-hard together, right?
+379
+00:19:48,157 --> 00:19:50,428
+Let's all keep working hard together, right?
 
-478
-00:19:51,758 --> 00:19:52,726
+380
+00:19:50,507 --> 00:19:51,406
 Okay, Steph?
 
-479
-00:19:52,726 --> 00:19:55,395
-That's all I want.
-That's all I want!
+381
+00:19:51,485 --> 00:19:54,013
+That's all I want. That's all I want!
 
-480
-00:19:55,395 --> 00:19:56,963
-( howls and yelps )
+382
+00:19:55,778 --> 00:19:58,763
+That's nice, but we're still backed in a corner here,
 
-481
-00:19:56,963 --> 00:19:59,866
-That's nice,
-but we're still
-backed in a corner here,
+383
+00:19:58,788 --> 00:20:01,702
+and we don't have the key to the one exit I can find.
 
-482
-00:19:59,866 --> 00:20:04,137
-and we don't have the key
-to the one exit I can find.
+384
+00:20:02,775 --> 00:20:05,126
+What the? It's dark already?
 
-483
-00:20:04,137 --> 00:20:07,407
-What the?
-It's dark already?
+385
+00:20:09,441 --> 00:20:10,749
+Wow!
 
-484
-00:20:10,443 --> 00:20:12,412
-Shiro:
-<i>Wow!</i>
+386
+00:20:12,276 --> 00:20:13,205
+Awesome.
 
-485
-00:20:13,479 --> 00:20:15,516
-Sora:
-<i>Awesome.</i>
+387
+00:20:14,113 --> 00:20:16,055
+Laputa really exists.
 
-486
-00:20:15,516 --> 00:20:17,718
-Both:
-<i>Laputa really exists.</i>
+388
+00:20:16,598 --> 00:20:18,790
+Oh, that's the kingdom of Avant Heim.
 
-487
-00:20:17,718 --> 00:20:20,453
-Oh, that's the kingdom
-of Avant Heim.
+389
+00:20:18,951 --> 00:20:20,802
+It's one of our world's Phantasmas.
 
-488
-00:20:20,453 --> 00:20:22,355
-It's one of our
-world's Phantasmas.
+390
+00:20:20,897 --> 00:20:22,891
+You mean, the second‐ranked Exceed?
 
-489
-00:20:22,355 --> 00:20:23,924
-You mean, the
-second‐ranked Exceed?
+391
+00:20:23,018 --> 00:20:25,473
+How the hell am I supposed to play a game with that?
 
-490
-00:20:23,924 --> 00:20:27,360
-<i>How the hell am I supposed</i>
-<i>to play a game with that?</i>
-
-491
-00:20:27,360 --> 00:20:29,129
+392
+00:20:25,697 --> 00:20:27,412
 Sora, do you think‐
 
-492
-00:20:29,129 --> 00:20:29,763
+393
+00:20:27,466 --> 00:20:28,100
 Yeah.
 
-493
-00:20:29,763 --> 00:20:31,765
-The best thing would be
-for us to get one
+394
+00:20:28,230 --> 00:20:32,894
+The best thing would be for us to get one of
+those Flugel up there and bring them over to our side.
 
-494
-00:20:31,765 --> 00:20:34,935
-of those Flugel up there
-and bring them over to our side.
-
-495
-00:20:34,935 --> 00:20:37,237
+395
+00:20:33,089 --> 00:20:34,689
 But how are we gonna get to 'em?
 
-496
-00:20:38,204 --> 00:20:39,573
-Both:
+396
+00:20:36,541 --> 00:20:37,669
 Ba *se
 
-497
-00:20:41,241 --> 00:20:42,442
+397
+00:20:39,797 --> 00:20:40,837
 It's not falling.
 
-498
-00:20:42,442 --> 00:20:45,378
-I guess it's gonna take
-more than magic words.
+398
+00:20:40,862 --> 00:20:43,461
+I guess it's gonna take more than magic words.
 
-499
-00:20:45,378 --> 00:20:46,713
-If you're looking
-for a Flugel,
+399
+00:20:43,772 --> 00:20:45,264
+If you're looking for a Flugel,
 
-500
-00:20:46,713 --> 00:20:48,515
-there's one that lives
-near here.
+400
+00:20:45,289 --> 00:20:46,623
+there's one that lives near here.
 
-501
-00:20:48,515 --> 00:20:49,270
+401
+00:20:46,708 --> 00:20:47,243
 Huh?
 
-502
-00:20:49,270 --> 00:20:51,417
-About five years ago,
-it showed up at the doors
+402
+00:20:47,323 --> 00:20:51,684
+About five years ago, it showed up at
+the doors of the Elkia national library.
 
-503
-00:20:51,417 --> 00:20:53,587
-of the Elkia national library.
+403
+00:20:51,924 --> 00:20:55,990
+It defeated my grandfather in a game
+and won the library and everything in it.
 
-504
-00:20:53,587 --> 00:20:55,488
-It defeated my grandfather
-in a game
-
-505
-00:20:55,488 --> 00:20:58,058
-and won the library
-and everything in it.
-
-506
-00:20:58,058 --> 00:20:58,659
+404
+00:20:56,268 --> 00:20:57,324
 Funny, huh?
 
-507
-00:20:58,659 --> 00:21:01,227
-Oh, you had
-a library, huh?
+405
+00:20:57,349 --> 00:20:59,303
+Oh, you had a library, huh?
 
-508
-00:21:01,227 --> 00:21:04,531
+406
+00:20:59,890 --> 00:21:02,868
 You bet your knowledge away?!
 Are your heads full of shit?!
 
-509
-00:21:04,531 --> 00:21:05,599
+407
+00:21:02,903 --> 00:21:04,355
 That's humanity's only weapon!
 
-510
-00:21:05,599 --> 00:21:07,167
-Steph, sit.
-Down, girl.
+408
+00:21:04,380 --> 00:21:05,890
+Steph, sit. Down, girl.
 
-511
-00:21:07,167 --> 00:21:08,702
-( whimpers )
-
-512
-00:21:08,702 --> 00:21:10,098
+409
+00:21:06,920 --> 00:21:07,575
 Stay.
 
-513
-00:21:10,098 --> 00:21:13,439
-No, please, wait!
-People are staring at me!
+410
+00:21:07,600 --> 00:21:11,553
+No, please, wait! People are staring at me!
 
-514
-00:21:14,641 --> 00:21:17,811
-Sora:
-<i>Exceed rank six,</i>
-<i>the Flugel,</i>
+411
+00:21:13,097 --> 00:21:16,123
+Exceed rank six, the Flugel,
 
-515
-00:21:17,811 --> 00:21:19,646
-<i>They were the soldiers</i>
-<i>on the front lines,</i>
+412
+00:21:16,463 --> 00:21:20,937
+They were the soldiers on the front lines,
+created during the ancient war to kill the gods.
 
-516
-00:21:19,646 --> 00:21:22,983
-<i>created during the ancient</i>
-<i>war to kill the gods.</i>
+413
+00:21:22,924 --> 00:21:25,450
+I can't believe there was one so close.
 
-517
-00:21:24,450 --> 00:21:27,487
-<i>I can't believe</i>
-<i>there was one so close.</i>
+414
+00:21:25,824 --> 00:21:30,050
+Wait, Sora, are you two sure you really
+want to challenge a monster like that?
 
-518
-00:21:27,487 --> 00:21:28,989
-Wait, Sora,
-are you two sure
+415
+00:21:30,423 --> 00:21:33,685
+The only way we're going to
+stand a chance of saving this place
 
-519
-00:21:28,989 --> 00:21:31,758
-you really want to challenge
-a monster like that?
+416
+00:21:33,710 --> 00:21:36,459
+is if we can get a hold of the
+knowledge this god‐killer has.
 
-520
-00:21:31,758 --> 00:21:33,760
-Sora: <i>The only way we're</i>
-<i>going to stand a chance</i>
+417
+00:21:36,484 --> 00:21:38,233
+You don't have to come if you don't want to.
 
-521
-00:21:33,760 --> 00:21:35,862
-<i>of saving this place</i>
-<i>is if we can get a hold</i>
+418
+00:21:38,273 --> 00:21:39,402
+Of course
 
-522
-00:21:35,862 --> 00:21:37,964
-<i>of the knowledge</i>
-<i>this god‐killer has.</i>
+419
+00:21:39,434 --> 00:21:40,156
+I want to come.
 
-523
-00:21:37,964 --> 00:21:39,766
-Shiro:
-<i>You don't have to come</i>
-<i>if you don't want to.</i>
-
-524
-00:21:39,766 --> 00:21:41,635
-Steph:
-<i>Of course</i>
-<i>I want to come.</i>
-
-525
-00:21:41,635 --> 00:21:43,236
+420
+00:21:40,235 --> 00:21:42,231
 Steph, from what I hear
 
-526
-00:21:43,236 --> 00:21:47,073
-the Flugel supposedly only
-played one game, and that's it.
+421
+00:21:42,256 --> 00:21:45,410
+the Flugel supposedly only played one game, and that's it.
 
-527
-00:21:47,073 --> 00:21:48,542
-Is that really
-the case?
+422
+00:21:45,457 --> 00:21:46,775
+Is that really the case?
 
-528
-00:21:48,542 --> 00:21:50,844
-Yes, according
-to the records.
+423
+00:21:46,879 --> 00:21:49,095
+Yes, according to the records.
 
-529
-00:21:50,844 --> 00:21:53,079
+424
+00:21:49,181 --> 00:21:50,444
 Perfect.
 
-530
-00:21:53,079 --> 00:21:55,481
-Well, looks like
-this is it.
+425
+00:21:51,329 --> 00:21:52,861
+Well, looks like this is it.
 
-531
-00:21:55,481 --> 00:21:58,318
-Time to start
-conquering the world.
+426
+00:21:53,826 --> 00:21:56,189
+Time to start conquering the world.
 
-532
-00:22:55,475 --> 00:22:57,744
-All:
+427
+00:22:53,677 --> 00:22:55,830
 Whoa...
 
-533
-00:22:58,845 --> 00:23:00,547
-Shiro:
-<i>Neato.</i>
+428
+00:22:57,261 --> 00:22:58,372
+Neato.
 
-534
-00:23:05,586 --> 00:23:10,390
-Now then, where's this cute
-little angel of ours?
+429
+00:23:04,070 --> 00:23:08,343
+Now then, where's this cute little angel of ours?
 
-535
-00:23:15,829 --> 00:23:17,998
-( whimpers )
+430
+00:23:27,578 --> 00:23:30,162
+That's not the kind of angel I was expecting.
 
-536
-00:23:27,007 --> 00:23:29,109
-( chuckles )
+431
+00:23:30,398 --> 00:23:32,328
+That's an angel of death.
 
-537
-00:23:29,109 --> 00:23:32,212
-That's not the kind of angel
-I was expecting.
+432
+00:23:37,120 --> 00:23:39,408
+Excusez‐moi, you wee little personas.
 
-538
-00:23:32,212 --> 00:23:34,515
-<i>That's an angel of death.</i>
+433
+00:23:39,433 --> 00:23:42,007
+I'm afraid mi library is no sus library.
 
-539
-00:23:38,619 --> 00:23:40,787
-<i>Excusez‐moi,</i>
-you wee little <i>personas.</i>
-
-540
-00:23:40,787 --> 00:23:43,857
-I'm afraid mi library
-is no sus library.
-
-541
-00:23:43,857 --> 00:23:45,291
-( all groan )
-
-542
-00:23:45,291 --> 00:23:47,093
-Both:
+434
+00:23:43,509 --> 00:23:44,389
 Whoa...
 
-543
-00:23:47,093 --> 00:23:48,562
-<i>That ruined it.</i>
+435
+00:23:45,152 --> 00:23:46,621
+That ruined it.
 
-544
-00:23:48,562 --> 00:23:50,263
-( giggles )
+436
+00:23:48,721 --> 00:23:50,025
+Woe is to Steph.
 
-545
-00:23:50,263 --> 00:23:51,798
-Flugel:
-<i>Woe is to Steph.</i>
-
-546
-00:23:51,798 --> 00:23:54,500
-<i>Death should not</i>
-<i>have taken thee so young.</i>
+437
+00:23:50,303 --> 00:23:52,351
+Death should not have taken thee so young.
 
