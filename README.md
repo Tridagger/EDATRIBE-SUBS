@@ -24,7 +24,7 @@ OneDirve：http://pan.edatribe.com
 | A006 | Death Note                                                                                                          | 死亡笔记                                 | 37集 | 计划 |
 | A007 | Assassination Classroom                                                                                             | 暗杀教室                                 | 47集 | 计划 |
 | A008 | [WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/%5BA008%5DWorldEnd_What_are_you_doing_at_the_end_of_the_world_Are_you_busy_Will_you_save_us)                               | 末日时在做什么？有没有空？可以来拯救吗？ | 12集 | 完成 |
-| A009 | Sword Art Online                                                                                                    | 刀剑神域                                 | 73集 | 计划 |
+| A009 | Sword Art Online                                                                                                    | 刀剑神域                                 | 85集 | 计划 |
 | A010 | Jormungand                                                                                                          | 军火女王                                 | 24集 | 计划 |
 | A011 | [Erased](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A011]Erased)                                       | 只有我不在的街道                         | 12集 | 完成 |
 | A012 | Hyouka                                                                                                              | 冰菓                                     | 22集 | 进行 |
@@ -80,6 +80,7 @@ OneDirve：http://pan.edatribe.com
 | A062 | Akame ga Kill!                                                                                                      | 斩·赤红之瞳!                             | 24集 | 计划 |
 | A063 | A Centaur's Life                                                                                                    | 人马少女的烦恼                           | 12集 | 计划 |
 | A064 | One Punch Man | 一拳超人 | 24集 | 计划 |
+| A085 | Demon_Slayer | 鬼灭之刃 | 26集 | 计划 |
 
 
 ### **剧场版**
@@ -93,7 +94,7 @@ OneDirve：http://pan.edatribe.com
 | M006 | [My Neighbor Totoro](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M006]My_Neighbor_Totoro) | 龙猫 | 1988 | 完成 |
 | M007 | Castle in the Sky | 天空之城 | 1986 | 计划 |
 | M008 | Kiki's Delivery Service | 魔女宅急便 | 1989 | 计划 |
-| M009 | Howl's Moving Castle | 哈尔的移动城堡 | 2004 | 进行 |
+| M009 | [Howl's Moving Castle](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M009]Howl's Moving Castle) | 哈尔的移动城堡 | 2004 | 完成 |
 | M010 | Whisper of the Heart | 侧耳倾听 | 1995 | 计划 |
 | M011 | Nausicaa of the Valley of the Wind | 风之谷 | 1984 | 计划 |
 | M012 | Spirited Away | 千与千寻 | 2001 | 计划 |
