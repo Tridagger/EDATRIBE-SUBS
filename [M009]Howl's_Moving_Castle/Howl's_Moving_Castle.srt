@@ -1,20 +1,17 @@
 ﻿1
 00:02:12,799 --> 00:02:16,428
-Sophie, we closed the shop.
-You've done enough work.
+Sophie, we just closed the shop. You've done enough work.
 
 2
-00:02:16,511 --> 00:02:18,555
-Why don't you come out with us
-this time?
+00:02:16,511 --> 00:02:18,451
+Why don't you come out with us this time?
 
 3
-00:02:18,639 --> 00:02:22,601
-No, I better finish this.
-You go and have fun.
+00:02:18,639 --> 00:02:21,852
+No, I'd better finish this. You go and have fun.
 
 4
-00:02:22,684 --> 00:02:24,728
+00:02:22,684 --> 00:02:24,466
 All right, suit yourself.
 
 5
@@ -22,5020 +19,4846 @@ All right, suit yourself.
 Let's go, girls.
 
 6
-00:02:26,271 --> 00:02:27,564
-- Wait for me!
-- I'm ready.
+00:02:26,271 --> 00:02:26,700
+Wait for me!
 
 7
-00:02:27,648 --> 00:02:30,442
-- Do I look okay?
-- It's Howl's castle!
+00:02:26,725 --> 00:02:27,588
+I'm ready.
 
 8
-00:02:30,525 --> 00:02:31,485
-- Where?
-- Howl?
+00:02:27,648 --> 00:02:28,733
+Do I look okay?
 
 9
-00:02:31,568 --> 00:02:34,404
-I've never seen it close!
+00:02:28,758 --> 00:02:30,466
+Oh! It's Howl's castle!
 
 10
-00:02:34,613 --> 00:02:38,158
-Do you think Howl will go into town?
+00:02:30,525 --> 00:02:30,967
+Where?
 
 11
-00:02:44,581 --> 00:02:45,624
-He's gone.
+00:02:30,992 --> 00:02:31,509
+Howl?
 
 12
-00:02:45,707 --> 00:02:48,418
-No, he's just hiding in the fog
-from those planes.
+00:02:31,568 --> 00:02:34,638
+I've never seen it close!
 
 13
-00:02:48,502 --> 00:02:51,338
-Did you hear
-what happened to Martha?
+00:02:34,757 --> 00:02:37,076
+Do you think Howl will go into town?
 
 14
+00:02:44,581 --> 00:02:45,529
+He's gone.
+
+15
+00:02:45,675 --> 00:02:48,381
+No, he's just hiding in the fog from those planes.
+
+16
+00:02:48,502 --> 00:02:51,338
+Did you hear what happened to
+that girl Martha from south haven?
+
+17
 00:02:51,421 --> 00:02:53,382
 They say Howl tore her heart out.
 
-15
-00:02:53,465 --> 00:02:55,550
-- I'm scared to go out!
-- What?
+18
+00:02:53,465 --> 00:02:55,030
+I'm too scared to go out!
 
-16
-00:02:55,634 --> 00:02:58,011
-Don't worry,
-he only preys on pretty girls.
+19
+00:02:55,090 --> 00:02:55,609
+What?
 
-17
+20
+00:02:55,634 --> 00:02:57,969
+Don't worry, he only preys on pretty girls.
+
+21
 00:02:59,763 --> 00:03:01,223
 All right, let's go.
 
-18
-00:03:01,306 --> 00:03:05,936
+22
+00:03:01,306 --> 00:03:02,613
 You girls are mean.
+
+23
+00:03:02,994 --> 00:03:05,137
 It's not funny.
 
-19
-00:05:07,390 --> 00:05:10,143
-Hey. Looks like a little mouse
-lost its way.
+24
+00:05:07,422 --> 00:05:10,196
+Hey. Looks like a little mouse lost its way.
 
-20
-00:05:10,477 --> 00:05:12,395
+25
+00:05:10,461 --> 00:05:12,389
 Oh, no, I'm not lost.
 
-21
-00:05:12,479 --> 00:05:16,233
+26
+00:05:12,479 --> 00:05:16,248
 This little mouse looks thirsty.
 We should take her for a cup of tea.
 
-22
-00:05:16,399 --> 00:05:18,318
+27
+00:05:16,399 --> 00:05:18,370
 No, thanks, my sister's expecting me.
 
-23
-00:05:18,401 --> 00:05:20,570
+28
+00:05:18,426 --> 00:05:20,570
 She's pretty cute for a mouse.
 
-24
-00:05:20,654 --> 00:05:23,114
-How old are you? You live around here?
-
-25
-00:05:23,573 --> 00:05:25,033
-Leave me alone.
-
-26
-00:05:25,116 --> 00:05:28,161
-You see?
-Your moustache scares all the girls.
-
-27
-00:05:28,245 --> 00:05:30,997
-So? She's even cuter
-when she's scared.
-
-28
-00:05:31,081 --> 00:05:32,332
-There you are, sweetheart.
-
 29
-00:05:32,415 --> 00:05:34,918
-Sorry I'm late.
-I was looking everywhere.
+00:05:20,729 --> 00:05:23,177
+How old are you anyway? You live around here?
 
 30
-00:05:35,001 --> 00:05:36,294
-Hey, we're busy here.
+00:05:23,573 --> 00:05:24,915
+Leave me alone.
 
 31
+00:05:25,314 --> 00:05:28,205
+You see? Your moustache scares all the girls.
+
+32
+00:05:28,245 --> 00:05:30,716
+So? I think she's even cuter when she's scared.
+
+33
+00:05:31,081 --> 00:05:32,478
+There you are, sweetheart.
+
+34
+00:05:32,503 --> 00:05:34,950
+Sorry I'm late. I was looking everywhere for you.
+
+35
+00:05:35,001 --> 00:05:36,353
+Hey, we're busy here.
+
+36
 00:05:36,378 --> 00:05:37,462
 Are you really?
 
-32
-00:05:37,546 --> 00:05:40,882
-It looked to me
-like the two of you were just leaving.
+37
+00:05:37,546 --> 00:05:40,274
+It looked to me like the two of you were just leaving.
 
-33
-00:05:41,383 --> 00:05:42,551
+38
+00:05:41,383 --> 00:05:42,378
 Hup!
 
-34
-00:05:42,634 --> 00:05:44,094
+39
+00:05:42,577 --> 00:05:43,444
 Hup!
 
-35
-00:05:44,219 --> 00:05:45,303
+40
+00:05:43,556 --> 00:05:45,215
 <i>Whoa!</i>
 
-36
-00:05:48,265 --> 00:05:52,018
+41
+00:05:48,265 --> 00:05:51,809
 Don't hold it against them.
 They're actually not all that bad.
 
-37
-00:05:52,102 --> 00:05:55,564
-Where to?
-I'll be your escort this evening.
-
-38
-00:05:55,647 --> 00:05:58,108
-Oh, I'm, um, just going to the bakery.
-
-39
-00:05:58,275 --> 00:06:00,485
-Don't get alarmed,
-but I'm being followed.
-
-40
-00:06:00,569 --> 00:06:02,946
-Act normal.
-
-41
-00:06:22,883 --> 00:06:25,969
-Sorry. Looks like you're involved.
-
 42
-00:06:29,389 --> 00:06:31,057
-This way.
+00:05:52,102 --> 00:05:55,337
+Where to? I'll be your escort this evening.
 
 43
-00:06:38,315 --> 00:06:39,983
-Hold on.
+00:05:55,591 --> 00:05:58,347
+Oh, I'm, um, just going to the bakery.
 
 44
-00:06:43,904 --> 00:06:47,282
-Now, straighten your legs
-and start walking.
+00:05:58,372 --> 00:06:00,485
+Don't get alarmed, but I'm being followed.
 
 45
-00:06:51,953 --> 00:06:55,540
-See? Not so hard, is it?
+00:06:00,569 --> 00:06:01,851
+Act normal.
 
 46
-00:07:10,347 --> 00:07:12,474
-You are a natural.
+00:06:22,883 --> 00:06:25,416
+Sorry. Looks like you're involved.
 
 47
-00:07:26,363 --> 00:07:28,448
-I'll make sure to draw them off.
+00:06:29,389 --> 00:06:30,486
+This way.
 
 48
-00:07:28,531 --> 00:07:30,617
-But wait a bit
-before you head back outside.
+00:06:38,226 --> 00:06:39,271
+Hold on.
 
 49
-00:07:30,909 --> 00:07:32,577
-Okay.
+00:06:43,904 --> 00:06:46,877
+Now, straighten your legs and start walking.
 
 50
-00:07:32,911 --> 00:07:35,330
-That's my girl.
+00:06:52,008 --> 00:06:54,466
+See? Not so hard, is it?
 
 51
-00:07:43,797 --> 00:07:46,466
-Excuse me, could we trouble
-you for some more coffee?
+00:07:10,330 --> 00:07:11,728
+You are a natural.
 
 52
-00:07:46,549 --> 00:07:48,134
-- There you go.
-- Do you have Lettie-shaped cookies?
+00:07:26,363 --> 00:07:28,372
+I'll make sure I've draw them off.
 
 53
-00:07:48,218 --> 00:07:50,804
-- I'd buy those.
-- Here.
+00:07:28,531 --> 00:07:30,739
+But wait a bit before you head back outside.
 
 54
-00:07:50,887 --> 00:07:52,347
-What time do you get off?
+00:07:31,120 --> 00:07:31,757
+Okay.
 
 55
-00:07:52,430 --> 00:07:53,473
-She what?
+00:07:32,911 --> 00:07:34,482
+That's my girl.
 
 56
-00:07:55,266 --> 00:07:56,643
-- I'm here, where're you going?
-- Hey!
+00:07:43,779 --> 00:07:46,448
+Excuse me, could we trouble you for some more coffee?
 
 57
-00:08:00,313 --> 00:08:01,564
-Sophie?
+00:07:46,523 --> 00:07:47,425
+There you go.
 
 58
-00:08:02,273 --> 00:08:03,817
-- Lettie.
-- What's going on?
+00:07:47,450 --> 00:07:48,210
+Do you have any Lettie-shaped cookies?
 
 59
-00:08:03,900 --> 00:08:06,653
-Someone just told me
-you floated down onto our balcony.
+00:07:48,242 --> 00:07:49,730
+I'd like buy some those.
 
 60
-00:08:07,404 --> 00:08:09,823
-So that did happen. It wasn't a dream.
+00:07:49,952 --> 00:07:50,666
+Here.
 
 61
-00:08:09,906 --> 00:08:12,158
-Lettie, would you like to use my office?
+00:07:50,847 --> 00:07:52,405
+What time do you get off?
 
 62
-00:08:12,242 --> 00:08:15,912
-I should really get back to work.
-Thank you, though.
+00:07:52,430 --> 00:07:53,431
+She what?
 
 63
-00:08:16,788 --> 00:08:20,583
-Wow. He must have
-been a wizard, then.
+00:07:54,822 --> 00:07:56,196
+Hey! I'm over here, what're you doing?
 
 64
-00:08:20,709 --> 00:08:22,419
-But he was so kind to me.
+00:07:56,221 --> 00:07:56,935
+Hey!
 
 65
-00:08:22,919 --> 00:08:25,171
-He rescued me, Lettie.
+00:08:00,368 --> 00:08:01,416
+Sophie?
 
 66
-00:08:25,255 --> 00:08:28,341
-Of course he did.
-He was trying to steal your heart!
+00:08:02,273 --> 00:08:02,918
+Lettie.
 
 67
-00:08:28,925 --> 00:08:30,760
-You are so lucky, Sophie.
+00:08:02,943 --> 00:08:03,875
+What's going on?
 
 68
-00:08:30,844 --> 00:08:33,096
-If that wizard were Howl,
-he would have eaten it.
+00:08:03,900 --> 00:08:06,653
+Someone just told me you floated down onto our balcony.
 
 69
-00:08:33,430 --> 00:08:37,058
-No, he wouldn't.
-Howl only does that to beautiful girls.
+00:08:07,446 --> 00:08:09,757
+So that did happen. It wasn't a dream.
 
 70
-00:08:37,142 --> 00:08:38,852
-Don't give me that.
+00:08:09,782 --> 00:08:12,078
+Lettie, would you like to use my office?
 
 71
-00:08:38,977 --> 00:08:42,063
-You need to be more careful.
-It's dangerous out there.
+00:08:12,252 --> 00:08:15,215
+I should really get back to work. Thank you, though.
 
 72
-00:08:42,147 --> 00:08:46,026
-Even the Witch of the Waste
-is back on the prowl.
+00:08:16,709 --> 00:08:19,792
+Wow. He must have been a wizard, then.
 
 73
-00:08:46,568 --> 00:08:49,362
-- Are you listening?
-- Huh?
+00:08:20,929 --> 00:08:22,381
+But he was so kind to me.
 
 74
-00:08:49,529 --> 00:08:50,613
-Ugh!
+00:08:23,018 --> 00:08:25,090
+He rescued me, Lettie.
 
 75
-00:08:53,575 --> 00:08:55,827
-Lettie, the chocolate eclairs are done.
+00:08:25,255 --> 00:08:28,419
+Of course he did. He was trying to steal your heart!
 
 76
-00:08:56,119 --> 00:08:58,038
-Okay. I'll be right there.
+00:08:28,932 --> 00:08:30,819
+You are so lucky, Sophie.
 
 77
-00:08:58,121 --> 00:08:59,622
-Thanks.
+00:08:30,844 --> 00:08:33,233
+If that wizard were Howl, he would have eaten it.
 
 78
-00:09:00,999 --> 00:09:02,709
-All right. I better get going then.
+00:08:33,529 --> 00:08:37,117
+No, he wouldn't. Howl only does that to beautiful girls.
 
 79
-00:09:02,792 --> 00:09:05,211
-I just wanted to make sure
-that you were doing okay.
+00:08:37,142 --> 00:08:38,795
+Don't give me that.
 
 80
-00:09:07,297 --> 00:09:09,549
-- Hello, Lettie.
-- Hi, how are you doing?
+00:08:38,978 --> 00:08:42,077
+You need to be more careful. It's dangerous out there.
 
 81
-00:09:09,674 --> 00:09:13,553
+00:08:42,299 --> 00:08:45,208
+Even the Witch of the Waste is back on the prowl.
+
+82
+00:08:46,598 --> 00:08:47,782
+Are you listening?
+
+83
+00:08:48,219 --> 00:08:48,901
+Huh?
+
+84
+00:08:49,529 --> 00:08:50,482
+Ugh!
+
+85
+00:08:53,628 --> 00:08:56,012
+Lettie, the chocolate eclairs are done.
+
+86
+00:08:56,488 --> 00:08:58,096
+Okay. I'll be right there.
+
+87
+00:08:58,121 --> 00:08:58,919
+Thanks.
+
+88
+00:09:00,999 --> 00:09:02,767
+All right. I'd better get going then.
+
+89
+00:09:02,792 --> 00:09:05,180
+I just wanted to make sure that you were doing okay.
+
+90
+00:09:07,297 --> 00:09:08,288
+Hello, Lettie.
+
+91
+00:09:08,313 --> 00:09:09,573
+Hi, how are you doing?
+
+92
+00:09:09,838 --> 00:09:13,801
 Sophie, do you really want to spend
 the rest of your life in that hat shop?
 
-82
-00:09:14,721 --> 00:09:17,057
-The shop was just
-so important to Father.
-
-83
-00:09:17,140 --> 00:09:18,641
-And I'm the eldest, I don't mind.
-
-84
-00:09:18,725 --> 00:09:21,144
-I'm not asking
-what Father would have wanted.
-
-85
-00:09:21,227 --> 00:09:23,188
-I want to know what you want.
-
-86
-00:09:23,271 --> 00:09:24,481
-Well...
-
-87
-00:09:24,564 --> 00:09:25,607
-See you later, Lettie.
-
-88
-00:09:25,690 --> 00:09:27,859
-- Good seeing you again.
-- You, too.
-
-89
-00:09:27,984 --> 00:09:30,612
-- I better be going.
-- It's your life, Sophie.
-
-90
-00:09:30,695 --> 00:09:33,239
-- Do something for yourself for once.
-- Bye, Lettie.
-
-91
-00:10:41,057 --> 00:10:43,226
-I'm sorry,
-but the shop's closed now, ma'am.
-
-92
-00:10:43,309 --> 00:10:46,229
-I could have sworn I locked that door.
-Must have forgotten.
-
 93
-00:10:48,314 --> 00:10:53,111
-What a tacky shop.
-I've never seen such tacky little hats.
+00:09:14,721 --> 00:09:17,057
+The shop was just so important to Father.
 
 94
-00:10:53,945 --> 00:10:57,282
-Yet you're by far the tackiest thing here.
+00:09:17,108 --> 00:09:18,700
+And I'm the eldest, I don't mind.
 
 95
-00:10:58,575 --> 00:11:01,077
-I'm afraid you will have to leave now.
+00:09:18,725 --> 00:09:20,920
+I'm not asking what Father would have wanted.
 
 96
-00:11:06,749 --> 00:11:09,502
-The door's over here, ma'am.
-We're closed.
+00:09:21,155 --> 00:09:22,859
+I want to know what you want.
 
 97
-00:11:10,336 --> 00:11:14,048
-Standing up to the Witch of the Waste,
-that's plucky.
+00:09:23,160 --> 00:09:23,986
+Well...
 
 98
-00:11:14,257 --> 00:11:16,801
-The Witch of the Waste?
+00:09:24,492 --> 00:09:25,655
+See you later, Lettie.
 
 99
-00:11:23,433 --> 00:11:26,895
-The best part of that spell
-is you can't tell anyone about it.
+00:09:25,690 --> 00:09:27,084
+Good seeing you again.
 
 100
-00:11:27,020 --> 00:11:29,230
-My regards to Howl.
+00:09:27,109 --> 00:09:27,918
+You, too.
 
 101
-00:11:51,044 --> 00:11:54,422
-Oh. No.
+00:09:27,984 --> 00:09:29,270
+I'd better be going.
 
 102
-00:11:55,798 --> 00:11:56,883
-Oh!
+00:09:29,375 --> 00:09:30,670
+It's your life, Sophie.
 
 103
-00:12:15,693 --> 00:12:20,657
-That's really me, isn't it?
-I've got to stay calm.
+00:09:30,695 --> 00:09:32,553
+Do something for yourself for once. Will you?
 
 104
-00:12:37,131 --> 00:12:38,591
-I've got to stay calm!
+00:09:32,578 --> 00:09:33,354
+Bye, Lettie.
 
 105
-00:12:39,300 --> 00:12:41,678
-Now, there's no use
-panicking, Sophie. Oh!
+00:10:41,057 --> 00:10:43,302
+I'm sorry, but the shop's closed now, ma'am.
 
 106
-00:12:42,553 --> 00:12:46,891
-It's a bad dream, that's all.
-Just go inside, go to bed.
+00:10:43,366 --> 00:10:46,249
+I could have sworn I locked
+that door. Must have forgotten.
 
 107
-00:12:47,016 --> 00:12:51,020
-You're gonna be fine, Sophie.
-You're gonna be fine.
+00:10:48,314 --> 00:10:53,343
+What a tacky shop. I've never seen such tacky little hats.
 
 108
-00:12:51,187 --> 00:12:53,856
-Got to stay calm.
+00:10:54,003 --> 00:10:57,452
+Yet you're by far the tackiest thing in here.
 
 109
-00:13:03,199 --> 00:13:04,575
-Look who's here!
+00:10:58,575 --> 00:11:00,969
+I'm afraid you will have to leave now.
 
 110
-00:13:04,867 --> 00:13:07,620
-- You're back!
-- Look at you!
+00:11:06,749 --> 00:11:09,312
+The door's over here, ma'am. We're closed.
 
 111
-00:13:07,829 --> 00:13:10,957
-What do you think?
-It's all the rage in Kingsbury.
+00:11:10,296 --> 00:11:14,055
+Standing up to the Witch of the Waste, that's plucky.
 
 112
-00:13:11,040 --> 00:13:12,166
-It's gorgeous!
+00:11:14,332 --> 00:11:15,820
+The Witch of the Waste?
 
 113
-00:13:12,250 --> 00:13:15,545
-I know!
-Our customers will love it! Sophie!
+00:11:23,479 --> 00:11:26,656
+The best part of that spell is
+you can't tell anyone about it.
 
 114
-00:13:15,712 --> 00:13:17,046
-Sophie!
+00:11:26,963 --> 00:11:28,881
+My regards to Howl.
 
 115
-00:13:17,130 --> 00:13:20,049
-Your daughter
-hasn't come downstairs yet today.
+00:11:51,044 --> 00:11:54,748
+Oh. No.
 
 116
-00:13:20,133 --> 00:13:22,260
-That's strange. I wonder what's wrong.
+00:11:55,718 --> 00:11:56,803
+Oh!
 
 117
-00:13:24,679 --> 00:13:26,347
-Sophie!
+00:12:15,639 --> 00:12:19,895
+That's really me, isn't it? I've got to stay calm.
 
 118
-00:13:28,224 --> 00:13:29,559
-Sophie!
+00:12:37,136 --> 00:12:38,850
+I've got to stay calm!
 
 119
-00:13:30,727 --> 00:13:32,937
-Sophie!
+00:12:39,300 --> 00:12:41,791
+Now, there's no use panicking, Sophie. Oh!
 
 120
-00:13:33,021 --> 00:13:39,110
-Don't come in here. I've got a bad cold.
-I don't want you to catch it.
+00:12:42,143 --> 00:12:46,559
+It's a bad dream, that's all. Just go inside, go to bed.
 
 121
-00:13:40,069 --> 00:13:43,865
-You sound ghastly,
-like some 90-year-old woman.
+00:12:47,031 --> 00:12:50,475
+You're gonna be fine, Sophie. You're gonna be fine.
 
 122
-00:13:43,948 --> 00:13:46,826
-I'll just stay in bed all day, so you go on.
+00:12:51,187 --> 00:12:52,806
+Got to stay calm.
 
 123
-00:13:46,909 --> 00:13:49,620
-Well, if you insist.
+00:13:03,214 --> 00:13:04,841
+Look who's here!
 
 124
-00:13:51,748 --> 00:13:54,042
-Up we go.
+00:13:04,866 --> 00:13:05,984
+You're back! There she is!
 
 125
-00:14:04,677 --> 00:14:08,431
+00:13:06,010 --> 00:13:08,033
+Welcome to home,ma'am Look at you!
+
+126
+00:13:08,058 --> 00:13:10,766
+What do you think? It's all the rage in Kingsbury.
+
+127
+00:13:10,988 --> 00:13:12,225
+It's gorgeous!
+
+128
+00:13:12,250 --> 00:13:15,406
+I know ! Our customers will love it ! Sophie !
+
+129
+00:13:15,712 --> 00:13:17,001
+Sophie ?
+
+130
+00:13:17,066 --> 00:13:20,108
+I'm afraid your daughter hasn't
+come downstairs yet today, ma'am.
+
+131
+00:13:20,180 --> 00:13:22,342
+That's strange. I wonder what's wrong.
+
+132
+00:13:24,679 --> 00:13:26,100
+Sophie !
+
+133
+00:13:28,256 --> 00:13:29,591
+Sophie !
+
+134
+00:13:30,671 --> 00:13:32,965
+Sophie !
+
+135
+00:13:33,021 --> 00:13:39,329
+Don't come in here. I've got a bad
+cold. I don't want you to catch it.
+
+136
+00:13:40,069 --> 00:13:43,825
+You sound ghastly, like some 90-year-old woman.
+
+137
+00:13:43,940 --> 00:13:46,818
+I'll just stay in bed all day, so you go on.
+
+138
+00:13:46,860 --> 00:13:50,228
+Well, if you insist.
+
+139
+00:13:51,716 --> 00:13:53,525
+Up we go.
+
+140
+00:14:04,677 --> 00:14:08,447
 This isn't so bad, now, is it?
 You're still in pretty good shape.
 
-126
-00:14:08,514 --> 00:14:11,434
+141
+00:14:08,514 --> 00:14:10,949
 And your clothes finally suit you.
 
-127
-00:14:13,269 --> 00:14:16,064
+142
+00:14:13,269 --> 00:14:15,779
 But you can't stay here like this for long.
 
-128
+143
 00:14:26,491 --> 00:14:30,912
 Oh! Being old is worse than I thought.
 
-129
-00:14:36,501 --> 00:14:40,129
-- They say their prince is missing.
-- And they're blaming us.
+144
+00:14:36,501 --> 00:14:37,994
+They say their prince is missing.
 
-130
-00:14:40,296 --> 00:14:43,758
-Yeah, and it sounds
-like they're gonna start a war.
+145
+00:14:38,019 --> 00:14:39,924
+And they're blaming us.
 
-131
+146
+00:14:40,296 --> 00:14:43,079
+Yeah, and it sounds like they're gonna start a war.
+
+147
 00:14:44,425 --> 00:14:45,927
 Nobody wants to go to war.
 
-132
-00:14:46,010 --> 00:14:47,428
-Let's hope
-the prince turns up soon.
-
-133
-00:14:55,311 --> 00:14:57,313
-Excuse me, could you use some help?
-
-134
-00:14:57,397 --> 00:15:01,651
-I'll be fine, but thanks for offering.
-That was really kind.
-
-135
-00:15:02,318 --> 00:15:05,321
-Sure, there's room in back,
-but where are you headed?
-
-136
-00:15:05,405 --> 00:15:07,990
-Just a little ways farther
-than where you're going.
-
-137
-00:15:12,787 --> 00:15:15,331
-You're crazy
-if you do this, Grandma!
-
-138
-00:15:15,415 --> 00:15:17,792
-There's nothing but witches
-and wizards out there!
-
-139
-00:15:17,875 --> 00:15:20,253
-Thank you.
-I'll keep that in mind.
-
-140
-00:15:20,336 --> 00:15:22,463
-She's going to
-the Wastes by herself?
-
-141
-00:15:22,547 --> 00:15:25,049
-She says she's looking
-for her younger sister.
-
-142
-00:15:39,647 --> 00:15:42,567
-I'll never get there with these legs.
-
-143
-00:15:43,818 --> 00:15:47,196
-At least my teeth haven't fallen out yet.
-
-144
-00:15:54,245 --> 00:15:58,541
-That would make a nice cane.
-Up we go.
-
-145
-00:15:58,624 --> 00:16:00,710
-Oh.
-
-146
-00:16:05,423 --> 00:16:07,550
-Might be too big.
-
-147
-00:16:18,019 --> 00:16:19,854
-This is one stubborn branch.
-
 148
-00:16:21,772 --> 00:16:25,485
-You're not getting the best
-of this old lady.
+00:14:46,010 --> 00:14:47,428
+Let's hope the prince turns up soon.
 
 149
-00:16:31,824 --> 00:16:32,909
-Oh!
+00:14:55,311 --> 00:14:57,326
+Excuse me, could you use some help?
 
 150
-00:16:37,330 --> 00:16:38,956
-Just a scarecrow!
+00:14:57,501 --> 00:15:01,615
+I'll be fine, but thanks for
+offering. That was really kind.
 
 151
-00:16:39,081 --> 00:16:41,792
-I was afraid you were
-one of those blob men.
+00:15:02,318 --> 00:15:05,158
+Sure, there's room in back if
+you like, but where are you headed?
 
 152
-00:16:41,876 --> 00:16:44,921
-But how're you standing
-on your own like that?
+00:15:05,356 --> 00:15:08,105
+Just a little ways farther than where you're going.
 
 153
-00:16:47,465 --> 00:16:49,509
-You're head's a turnip.
+00:15:12,865 --> 00:15:14,835
+You're crazy if you do this, Grandma!
 
 154
-00:16:49,592 --> 00:16:53,054
-I've always hated turnips,
-ever since I was little.
+00:15:15,415 --> 00:15:17,792
+There's nothing but witches and wizards out there!
 
 155
-00:16:53,137 --> 00:16:56,098
-At least you're not upside down now.
+00:15:17,875 --> 00:15:20,253
+Thank you. I'll keep that in mind.
 
 156
-00:16:56,182 --> 00:16:57,850
-So long.
+00:15:20,304 --> 00:15:22,431
+She's going to the Wastes by herself?
 
 157
-00:17:04,607 --> 00:17:06,776
-It's too cold.
+00:15:22,488 --> 00:15:24,647
+She says she's looking for her younger sister.
 
 158
-00:17:06,859 --> 00:17:09,654
-And I can still see the town.
-I've barely moved.
+00:15:39,631 --> 00:15:41,840
+I'll never get there with these legs.
 
 159
-00:17:10,321 --> 00:17:12,073
-Hmm?
+00:15:43,778 --> 00:15:46,440
+At least my teeth haven't fallen out yet.
 
 160
-00:17:14,784 --> 00:17:16,869
-Go away! Quit following me!
+00:15:54,203 --> 00:15:58,595
+That would make a nice cane. Up we go.
 
 161
-00:17:16,953 --> 00:17:19,789
-There's no need to thank me,
-you don't owe me a thing.
+00:15:58,624 --> 00:15:59,563
+Oh.
 
 162
-00:17:20,164 --> 00:17:22,458
-I'm sure you have
-some kind of spell on you,
+00:16:05,367 --> 00:16:07,113
+Might be too big.
 
 163
-00:17:22,542 --> 00:17:25,169
-and I've had more than enough
-of witches and spells.
+00:16:17,926 --> 00:16:20,030
+This is one stubborn branch.
 
 164
-00:17:25,545 --> 00:17:29,340
-So, just go find some field
-and stand in it!
+00:16:21,938 --> 00:16:24,845
+You're not getting the best of this old lady.
 
 165
-00:17:49,360 --> 00:17:52,780
-Thank you, this cane is perfect,
-it's just what I need.
+00:16:31,824 --> 00:16:32,488
+Oh!
 
 166
-00:17:52,863 --> 00:17:54,824
-If you'd like to do me one more favor,
+00:16:37,384 --> 00:16:39,020
+Just a scarecrow!
 
 167
-00:17:54,907 --> 00:17:57,410
-you could run off
-and find me a place to stay.
+00:16:39,081 --> 00:16:41,443
+I was afraid you were one of those blob men.
 
 168
-00:18:07,003 --> 00:18:10,923
-I seem to have become
-quite cunning in my old age.
+00:16:41,876 --> 00:16:44,938
+But how're you standing on your own like that?
 
 169
-00:18:22,226 --> 00:18:24,478
-A battleship! Oh!
+00:16:47,568 --> 00:16:49,427
+Your head's a turnip.
 
 170
-00:18:25,688 --> 00:18:28,524
-Why do you get so cold
-when you're old?
+00:16:49,544 --> 00:16:52,962
+I've always hated turnips, ever since I was little.
 
 171
-00:18:28,608 --> 00:18:33,321
-I'm fatter than ever,
-yet the wind blows right through me.
+00:16:53,113 --> 00:16:55,529
+At least you're not upside down now.
 
 172
-00:18:47,126 --> 00:18:52,214
-Someone's got a fire going.
-Maybe there's a cabin nearby.
+00:16:56,182 --> 00:16:57,126
+So long.
 
 173
-00:19:11,233 --> 00:19:13,944
-You turnip-head! That's Howl's castle!
+00:17:04,496 --> 00:17:06,190
+It's too cold.
 
 174
-00:19:14,362 --> 00:19:18,074
-That is not what I meant
-when I asked for a place to stay.
+00:17:06,859 --> 00:17:09,908
+And I can still see the town. I've barely moved.
 
 175
-00:19:28,709 --> 00:19:32,088
-Look at that. They call this a castle?
+00:17:11,509 --> 00:17:12,149
+Hmm?
 
 176
-00:19:42,431 --> 00:19:43,641
-Ah!
+00:17:14,784 --> 00:17:16,928
+Go away! Quit following me!
 
 177
-00:19:52,274 --> 00:19:54,443
-Is that the way in?
+00:17:16,953 --> 00:17:19,789
+There's no need to thank me, you don't owe me a thing.
 
 178
-00:19:56,570 --> 00:19:58,864
-Slow down!
+00:17:20,164 --> 00:17:22,517
+I'm sure you have some kind of spell on you,
 
 179
-00:20:00,616 --> 00:20:02,785
-For heaven's sake.
+00:17:22,542 --> 00:17:25,169
+and I've had more than enough of witches and spells.
 
 180
-00:20:03,452 --> 00:20:06,706
-Make up your mind.
-Are you gonna let me in or not?
+00:17:25,481 --> 00:17:28,659
+So, just go find some field and stand in it!
 
 181
-00:20:06,789 --> 00:20:08,249
-<i>Whoa!</i>
+00:17:49,351 --> 00:17:52,699
+Thank you, this cane is perfect, it's just what I need.
 
 182
-00:20:10,334 --> 00:20:13,254
-Oh, my shawl!
+00:17:52,807 --> 00:17:54,882
+If you'd like to do me one more favor,
 
 183
-00:20:24,890 --> 00:20:27,977
-It's nice and warm in there,
-so I'm going in.
+00:17:54,907 --> 00:17:57,710
+you could run off and find me a place to stay.
 
 184
-00:20:28,060 --> 00:20:30,312
-Oh, my shawl, thank you.
+00:18:07,984 --> 00:18:11,216
+I seem to become quite cunning in my old age.
 
 185
-00:20:30,396 --> 00:20:34,483
+00:18:22,186 --> 00:18:24,438
+A battleship! Oh!
+
+186
+00:18:25,655 --> 00:18:28,529
+Why do you get so cold when you're old?
+
+187
+00:18:28,608 --> 00:18:32,542
+I'm fatter than ever, yet the wind blows right through me.
+
+188
+00:18:47,099 --> 00:18:51,553
+Someone's got a fire going. Maybe there's a cabin nearby.
+
+189
+00:19:11,233 --> 00:19:14,077
+You turnip-head! That's Howl's castle!
+
+190
+00:19:14,269 --> 00:19:18,074
+That is not what I meant when I asked for a place to stay.
+
+191
+00:19:28,709 --> 00:19:32,017
+Look at that. They call this a castle?
+
+192
+00:19:42,248 --> 00:19:43,156
+Ah!
+
+193
+00:19:52,274 --> 00:19:53,890
+Is that the way in?
+
+194
+00:19:56,546 --> 00:19:57,998
+Slow down!
+
+195
+00:20:00,520 --> 00:20:02,533
+For heaven's sake.
+
+196
+00:20:03,510 --> 00:20:06,617
+Make up your mind. Are you gonna let me in or not?
+
+197
+00:20:06,702 --> 00:20:07,951
+<i>Whoa!</i>
+
+198
+00:20:10,328 --> 00:20:12,504
+Oh, my shawl!
+
+199
+00:20:24,795 --> 00:20:27,838
+It's nice and warm in there, so I'm going in.
+
+200
+00:20:27,894 --> 00:20:30,312
+Oh, my shawl, thank you.
+
+201
+00:20:30,337 --> 00:20:34,583
 I'm sure Howl won't eat the heart
 of a shriveled, old lady like me.
 
-186
-00:20:37,153 --> 00:20:38,946
-It's been a pleasure meeting you.
+202
+00:20:37,153 --> 00:20:39,004
+It's been a pleasure of meeting you.
 
-187
-00:20:39,029 --> 00:20:41,741
-Even if you are
-my least favorite vegetable.
+203
+00:20:39,029 --> 00:20:41,892
+Even if you are my least favorite vegetable.
 
-188
-00:20:42,032 --> 00:20:44,952
+204
+00:20:42,032 --> 00:20:44,227
 Take care, Turnip-head.
 
-189
-00:21:14,190 --> 00:21:15,357
+205
+00:21:13,935 --> 00:21:15,372
 Ah.
 
-190
-00:21:26,744 --> 00:21:29,079
-There we go.
+206
+00:21:26,744 --> 00:21:28,189
+Here we go.
 
-191
-00:21:31,207 --> 00:21:32,792
+207
+00:21:31,207 --> 00:21:32,414
 What a dump.
 
-192
-00:21:32,875 --> 00:21:35,711
-When I think castle,
-this is not what I picture.
+208
+00:21:32,850 --> 00:21:36,005
+When I think castle, this is not what I picture.
 
-193
+209
 00:21:44,345 --> 00:21:48,974
-Well, one nice thing about getting old
-is nothing frightens you.
+Well, one nice thing about
+getting old is nothing frightens you.
 
-194
-00:21:58,400 --> 00:22:01,362
-I don't envy you, lady.
-That is one bad curse.
+210
+00:21:58,435 --> 00:22:01,362
+I don't envy you, lady. That is one bad curse.
 
-195
-00:22:01,570 --> 00:22:04,990
+211
+00:22:01,570 --> 00:22:05,107
 Curses are tough. You're gonna have
 a hard time getting rid of that one.
 
-196
-00:22:06,033 --> 00:22:07,535
+212
+00:22:06,033 --> 00:22:07,545
 The fire spoke!
 
-197
-00:22:07,618 --> 00:22:10,287
-The curse won't allow you
-to talk about it, right?
+213
+00:22:07,618 --> 00:22:10,255
+Let me guess,the curse won't
+allow you to talk about it, right?
 
-198
-00:22:10,412 --> 00:22:11,914
+214
+00:22:10,708 --> 00:22:12,075
 Are you Howl?
 
-199
-00:22:12,206 --> 00:22:15,793
-No, I'm an extremely powerful
-fire demon named Calcifer.
+215
+00:22:12,206 --> 00:22:15,610
+No, I'm an extremely powerful fire demon named Calcifer.
 
-200
-00:22:15,918 --> 00:22:17,419
+216
+00:22:15,791 --> 00:22:17,478
 I just like to do that once in a while.
 
-201
+217
 00:22:17,503 --> 00:22:21,799
-A fire demon. Well, then,
-you should be able to break my curse.
+A fire demon. Well, then, you
+should be able to break my curse.
 
-202
-00:22:22,049 --> 00:22:23,175
+218
+00:22:22,159 --> 00:22:23,256
 Maybe, maybe not.
 
-203
-00:22:23,259 --> 00:22:26,011
+219
+00:22:23,304 --> 00:22:26,011
 Listen, if you can find a way
 to break the spell that's on me,
 
-204
-00:22:26,095 --> 00:22:28,806
-then I'll break the spell that's on you,
-you got it?
+220
+00:22:26,095 --> 00:22:28,754
+then I'll break the spell that's on you, you got it?
 
-205
-00:22:29,223 --> 00:22:32,226
-If you're a demon,
-how do I know I can trust you?
+221
+00:22:29,223 --> 00:22:32,153
+If you're a demon, how do I know I can trust you?
 
-206
+222
 00:22:32,309 --> 00:22:34,520
 You promise to help me if I help you?
 
-207
-00:22:34,603 --> 00:22:38,607
-I don't know, lady.
-Demons don't make promises.
+223
+00:22:34,603 --> 00:22:37,564
+I don't know, lady. Demons don't make promises.
 
-208
-00:22:38,774 --> 00:22:40,693
+224
+00:22:38,774 --> 00:22:40,791
 Then go find someone else.
 
-209
-00:22:40,901 --> 00:22:42,778
+225
+00:22:40,901 --> 00:22:42,878
 Come on! You should feel sorry for me!
 
-210
-00:22:42,903 --> 00:22:46,699
+226
+00:22:42,903 --> 00:22:46,828
 That spell keeps me stuck in this castle,
 and Howl treats me like I'm his slave.
 
-211
-00:22:46,782 --> 00:22:49,702
-It burns me up. Got to keep
-the water hot, the rooms warm,
+227
+00:22:46,853 --> 00:22:49,775
+It burns me up. "You got to keep
+the water hot, the rooms warm,"
 
-212
-00:22:49,785 --> 00:22:52,037
--keep the castle moving.
-- Oh, that's rough.
+228
+00:22:49,800 --> 00:22:50,905
+"Keep the castle moving."
 
-213
-00:22:52,121 --> 00:22:53,622
-You ever try to move a castle?
+229
+00:22:50,930 --> 00:22:51,355
+Oh, that's rough.
 
-214
+230
+00:22:51,380 --> 00:22:53,622
+Come on! You ever try to move a castle?
+
+231
 00:22:53,789 --> 00:22:56,959
-If you can figure out how
-to break this thing I'm in with Howl,
+If you can figure out how to
+break this thing I'm in with Howl,
 
-215
-00:22:57,042 --> 00:22:58,544
+232
+00:22:57,030 --> 00:22:58,587
 then you can break my spell.
 
-216
-00:22:58,627 --> 00:23:01,922
-After that, I can easily
-break the spell that's on you.
+233
+00:22:58,627 --> 00:23:01,280
+After that, I can easily break the spell that's on you.
 
-217
-00:23:02,006 --> 00:23:05,843
+234
+00:23:02,006 --> 00:23:05,133
 All right, it's a deal.
 
-218
-00:23:07,136 --> 00:23:09,680
+235
+00:23:07,120 --> 00:23:09,664
 Hey, lady? Lady?
 
-219
-00:23:10,806 --> 00:23:15,519
-Hello? Lady? Hello? Hey, hey!
-Lady? Lady?
+236
+00:23:10,806 --> 00:23:15,167
+Hello? Lady? Hello? Hey, hey! Lady? Lady?
 
-220
-00:23:15,603 --> 00:23:20,482
-Hey, let me get over there.
-Some big help you're gonna be.
+237
+00:23:15,586 --> 00:23:20,347
+Hey, let me get over there. Some big help you're gonna be.
 
-221
-00:24:14,620 --> 00:24:16,497
+238
+00:24:14,620 --> 00:24:16,463
 Hey, who's this lady?
 
-222
-00:24:16,580 --> 00:24:20,459
-- Porthaven door.
-- How'd she get in here?
+239
+00:24:16,580 --> 00:24:17,822
+Porthaven door.
 
-223
-00:24:27,091 --> 00:24:29,343
+240
+00:24:17,887 --> 00:24:19,442
+How'd she get in here?
+
+241
+00:24:27,091 --> 00:24:28,286
 Stand by.
 
-224
-00:24:33,764 --> 00:24:34,974
+242
+00:24:33,764 --> 00:24:35,023
 Mr. Mayor, good day.
 
-225
+243
 00:24:35,057 --> 00:24:36,308
 Good afternoon, sir.
 
-226
-00:24:36,392 --> 00:24:39,019
-Would the great
-Wizard Jenkins be at home?
-
-227
-00:24:39,395 --> 00:24:41,605
-I am afraid that my master
-is out at the moment.
-
-228
-00:24:41,689 --> 00:24:43,983
-I speak for him in his absence.
-
-229
-00:24:44,274 --> 00:24:48,821
-An invitation from His Majesty the King.
-The time for war is upon us.
-
-230
-00:24:49,238 --> 00:24:53,659
-His Majesty requires that every witch
-and wizard aid our homeland.
-
-231
-00:24:53,742 --> 00:24:56,912
-Wizard Jenkins must report
-to the palace immediately.
-
-232
-00:24:56,996 --> 00:24:59,039
-- That is all.
-- War...
-
-233
-00:25:00,374 --> 00:25:03,168
-I can't believe it's come to this.
-
-234
-00:25:03,293 --> 00:25:05,337
-And what do you think
-you're doing here, Grandma?
-
-235
-00:25:05,671 --> 00:25:07,506
-Calcifer said that I could come in.
-
-236
-00:25:07,589 --> 00:25:11,093
-I did not. She just wandered in here
-from the Wastes.
-
-237
-00:25:11,427 --> 00:25:14,054
-She's from the Wastes?
-
-238
-00:25:14,138 --> 00:25:16,056
-How do we know that she's not a witch?
-
-239
-00:25:16,181 --> 00:25:18,267
-Do you think I'd let a witch in here?
-
-240
-00:25:18,434 --> 00:25:21,353
-Porthaven door again!
-
-241
-00:25:21,854 --> 00:25:24,106
-Must be a customer.
-
-242
-00:25:25,774 --> 00:25:27,776
-Stand by.
-
-243
-00:25:29,945 --> 00:25:31,196
-Yes, my dear child?
-
 244
-00:25:31,280 --> 00:25:33,323
-My mom sent me to pick up a spell.
+00:24:36,366 --> 00:24:39,019
+Would the great Wizard Jenkins be at home?
 
 245
-00:25:33,866 --> 00:25:36,493
-- Ah, yes, do come in.
-- Okay.
+00:24:39,395 --> 00:24:41,605
+I am afraid that my master is out at the moment.
 
 246
-00:25:37,619 --> 00:25:41,415
-Just keep quiet
-and don't cause any trouble, Grandma.
+00:24:41,633 --> 00:24:43,681
+I speak for him in his absence.
 
 247
-00:25:56,764 --> 00:25:58,223
-It's not the Wastes.
+00:24:44,274 --> 00:24:49,213
+An invitation from His Majesty the
+King. The time for war is upon us.
 
 248
-00:25:58,307 --> 00:26:01,894
-Excuse me, Granny,
-are you a witch, too?
+00:24:49,238 --> 00:24:53,518
+His Majesty requires that every
+witch and wizard aid our homeland.
 
 249
-00:26:01,977 --> 00:26:05,064
-That's right.
-I'm the scariest witch of them all.
+00:24:53,710 --> 00:24:56,971
+Wizard Jenkins must report to the palace immediately.
 
 250
-00:26:06,231 --> 00:26:09,151
+00:24:56,996 --> 00:24:57,833
+That is all.
+
+251
+00:24:57,858 --> 00:24:59,063
+War...
+
+252
+00:25:00,334 --> 00:25:03,178
+I can't believe it's come to this.
+
+253
+00:25:03,293 --> 00:25:05,522
+And what do you think you're doing here, Grandma?
+
+254
+00:25:05,671 --> 00:25:07,611
+Calcifer said that I could come in.
+
+255
+00:25:07,636 --> 00:25:11,210
+I did not. She just wandered in here from the Wastes.
+
+256
+00:25:11,427 --> 00:25:13,212
+She's from the Wastes?
+
+257
+00:25:14,201 --> 00:25:16,145
+How do we know that she's not a witch?
+
+258
+00:25:16,264 --> 00:25:18,267
+Do you think I'd let a witch in here?
+
+259
+00:25:19,164 --> 00:25:21,197
+Porthaven door again!
+
+260
+00:25:21,889 --> 00:25:23,184
+Must be a customer.
+
+261
+00:25:25,868 --> 00:25:27,243
+Stand by.
+
+262
+00:25:29,945 --> 00:25:31,255
+Yes, my dear child?
+
+263
+00:25:31,280 --> 00:25:33,608
+My mom sent me to pick up a spell.
+
+264
+00:25:33,866 --> 00:25:35,713
+Ah, yes, do come in.
+
+265
+00:25:35,738 --> 00:25:36,517
+Okay.
+
+266
+00:25:37,619 --> 00:25:40,202
+Just keep quiet and don't cause any trouble, Grandma.
+
+267
+00:25:56,764 --> 00:25:58,231
+It's not the Wastes.
+
+268
+00:25:58,307 --> 00:26:01,066
+Excuse me, Granny, are you a witch, too?
+
+269
+00:26:01,977 --> 00:26:05,831
+That's right. I'm the scariest witch of them all.
+
+270
+00:26:06,207 --> 00:26:09,184
 Dust your ship with this powder
 and the winds will favor it.
 
-251
-00:26:09,234 --> 00:26:10,944
+271
+00:26:09,234 --> 00:26:10,122
 Thanks.
 
-252
-00:26:12,905 --> 00:26:14,907
+272
+00:26:12,905 --> 00:26:14,525
 Farewell, child.
 
-253
-00:26:16,492 --> 00:26:18,452
+273
+00:26:16,480 --> 00:26:18,448
 Quit telling lies to our customers.
 
-254
-00:26:18,535 --> 00:26:20,913
-What about you?
-You're wearing a disguise.
+274
+00:26:18,535 --> 00:26:20,971
+What about you? You're wearing a disguise.
 
-255
-00:26:20,996 --> 00:26:23,123
+275
+00:26:20,996 --> 00:26:23,104
 I have to. I'm practicing my magic.
 
-256
-00:26:23,248 --> 00:26:25,125
+276
+00:26:24,638 --> 00:26:25,125
 Hmm?
 
-257
-00:26:25,250 --> 00:26:27,336
+277
+00:26:25,250 --> 00:26:27,475
 It's the Kingsbury door!
 
-258
+278
 00:26:28,837 --> 00:26:29,922
 Stand by.
 
-259
-00:26:35,135 --> 00:26:38,263
-Would this be the residence
-of the great Wizard Pendragon?
-
-260
-00:26:38,347 --> 00:26:39,389
-It Is.
-
-261
-00:26:39,473 --> 00:26:42,226
-I bear an invitation
-from His Majesty the King.
-
-262
-00:26:42,309 --> 00:26:45,020
-Please inform Mr. Pendragon
-that all witches and wizards
-
-263
-00:26:45,104 --> 00:26:47,397
-are required to report
-for duty at the palace.
-
-264
-00:26:47,856 --> 00:26:50,651
-I will inform him right away.
-
-265
-00:27:04,581 --> 00:27:07,751
-This is the royal city, isn't it?
-
-266
-00:27:07,876 --> 00:27:11,380
-Move it, Grandma,
-or you'll lose your nose.
-
-267
-00:27:15,259 --> 00:27:17,678
-And stop wandering around!
-
-268
-00:27:53,922 --> 00:27:57,259
-Leave it alone, Grandma.
-I'm getting angry.
-
-269
-00:27:57,467 --> 00:28:00,470
-- This is a magic house, isn't it?
-- Oh!
-
-270
-00:28:00,637 --> 00:28:03,056
-So, tell me,
-where does the black one lead?
-
-271
-00:28:03,140 --> 00:28:04,641
-Only Master Howl knows that.
-
-272
-00:28:05,100 --> 00:28:08,437
-I need some breakfast. I'm starved.
-
-273
-00:28:17,404 --> 00:28:19,323
-Don't you want to have
-some bacon and eggs?
-
-274
-00:28:20,115 --> 00:28:23,827
-Yeah, but we can't use the fire.
-Master Howl's not here.
-
-275
-00:28:26,872 --> 00:28:29,082
-Don't worry, I can cook.
-
-276
-00:28:29,166 --> 00:28:33,378
-It doesn't matter.
-Calcifer only obeys Master Howl.
-
-277
-00:28:33,462 --> 00:28:35,923
-That's right, lady.
-I'm not taking orders from you.
-
-278
-00:28:37,132 --> 00:28:40,135
-Oh, there's my hat.
-
 279
-00:28:41,011 --> 00:28:42,721
-That's better.
+00:26:35,135 --> 00:26:38,263
+Good day. Would this be the
+residence of the great Wizard Pendragon?
 
 280
-00:28:42,804 --> 00:28:45,724
-All right, Calcifer. Let's get cooking.
+00:26:38,399 --> 00:26:39,389
+It Is.
 
 281
-00:28:45,807 --> 00:28:49,394
-I don't cook!
-I'm a scary and powerful fire demon!
+00:26:39,473 --> 00:26:42,029
+I bear an invitation from His Majesty the King.
 
 282
-00:28:51,396 --> 00:28:54,191
-How would you like a bucket
-of cold water in your face?
+00:26:42,261 --> 00:26:45,079
+Please inform Mr. Pendragon that all witches and wizards
 
 283
-00:28:54,274 --> 00:28:57,736
-Or maybe I should tell Howl about
-our bargain?
+00:26:45,104 --> 00:26:47,590
+are required to report for duty at the palace.
 
 284
-00:28:57,819 --> 00:29:02,824
-Oh! Stupid me!
-I never should have let her in here.
+00:26:47,856 --> 00:26:49,800
+I will inform him right away.
 
 285
-00:29:03,033 --> 00:29:05,744
-So, what'll it be?
+00:27:04,610 --> 00:27:07,429
+This is the royal city, isn't it?
 
 286
-00:29:08,205 --> 00:29:11,458
-That's right. That's a good fire.
+00:27:07,804 --> 00:27:10,480
+Move in, Grandma, or you'll lose your nose.
 
 287
-00:29:13,168 --> 00:29:16,421
-Here's another curse.
-May all your bacon burn.
+00:27:15,367 --> 00:27:17,233
+And stop wandering around!
 
 288
-00:29:16,505 --> 00:29:18,799
-Calcifer's doing what she says.
+00:27:53,922 --> 00:27:56,638
+Leave it alone, Grandma. I'm getting angry.
 
 289
-00:29:18,882 --> 00:29:21,760
-I think I'd like some tea, too.
-Do you have a kettle?
+00:27:57,578 --> 00:27:59,794
+This is a magic house, isn't it?
 
 290
-00:29:21,843 --> 00:29:24,388
-- Sure.
-- Hey, what are you doing?
+00:27:59,915 --> 00:28:00,494
+Oh!
 
 291
-00:29:24,554 --> 00:29:26,932
-Don't get the kettle!
-Who's side are you on, anyway?
+00:28:00,637 --> 00:28:03,115
+So, tell me, where does the black one lead?
 
 292
-00:29:27,015 --> 00:29:28,058
-<i>Mark), what are you doing?</i>
+00:28:03,140 --> 00:28:04,831
+Only Master Howl knows that.
 
 293
-00:29:28,141 --> 00:29:29,393
-Huh?
+00:28:05,100 --> 00:28:07,866
+I need some breakfast. I'm starved.
 
 294
-00:29:32,187 --> 00:29:34,731
-Master Howl,
-the king's messengers were here.
+00:28:17,404 --> 00:28:19,942
+Don't you want to have some bacon and eggs?
 
 295
-00:29:34,815 --> 00:29:36,775
-They said you have to report
-to the palace
+00:28:20,115 --> 00:28:23,827
+Yeah, but we can't use the fire. Master Howl's not here.
 
 296
-00:29:36,858 --> 00:29:39,361
-as both Pendragon and Jenkins.
+00:28:26,872 --> 00:28:28,904
+Don't worry, I can cook.
 
 297
-00:29:49,746 --> 00:29:53,125
-Calcifer? You're being so obedient.
+00:28:29,166 --> 00:28:33,378
+It doesn't matter if you can cook,
+Calcifer only obeys Master Howl.
 
 298
-00:29:53,333 --> 00:29:55,085
-Not on purpose. She bullied me.
+00:28:33,462 --> 00:28:36,085
+That's right, lady. I'm not taking any orders from you.
 
 299
-00:29:55,460 --> 00:29:58,422
-Not just anybody can do that.
+00:28:37,132 --> 00:28:38,867
+Oh, there's my hat.
 
 300
+00:28:40,900 --> 00:28:42,188
+That's better.
+
+301
+00:28:42,804 --> 00:28:45,782
+All right, Calcifer. Let's get cooking.
+
+302
+00:28:45,807 --> 00:28:49,345
+I don't cook! I'm a scary and powerful fire demon!
+
+303
+00:28:51,396 --> 00:28:54,225
+How would you like a bucket of cold water in your face?
+
+304
+00:28:54,274 --> 00:28:57,736
+Or maybe I should tell Howl about our bargain?
+
+305
+00:28:57,819 --> 00:29:02,781
+Oh! Stupid me! I never should have let her in here.
+
+306
+00:29:03,043 --> 00:29:04,697
+So, what'll it be?
+
+307
+00:29:08,209 --> 00:29:11,544
+That's right. That's a good fire.
+
+308
+00:29:13,168 --> 00:29:16,421
+Here's another curse. May all your bacon burn.
+
+309
+00:29:16,715 --> 00:29:19,049
+Calcifer's doing what she says.
+
+310
+00:29:19,074 --> 00:29:21,830
+I think I'd like some tea, too. Do you have a kettle?
+
+311
+00:29:21,855 --> 00:29:22,569
+Sure.
+
+312
+00:29:22,712 --> 00:29:24,468
+Hey, what are you doing?
+
+313
+00:29:24,493 --> 00:29:26,932
+Don't get the kettle! Who's side are you on, anyway?
+
+314
+00:29:26,962 --> 00:29:28,613
+Michael, what are you doing?
+
+315
+00:29:28,638 --> 00:29:29,186
+Huh?
+
+316
+00:29:32,224 --> 00:29:34,789
+Master Howl, the king's messengers were here.
+
+317
+00:29:34,815 --> 00:29:36,766
+They said you have to report to the palace
+
+318
+00:29:36,858 --> 00:29:39,197
+as both Pendragon and Jenkins.
+
+319
+00:29:49,718 --> 00:29:53,086
+Calcifer? You're being so obedient.
+
+320
+00:29:53,333 --> 00:29:55,349
+Not on purpose. She bullied me.
+
+321
+00:29:55,460 --> 00:29:57,891
+Not just anybody can do that.
+
+322
 00:29:58,630 --> 00:30:00,340
 And you are who?
 
-301
-00:30:01,008 --> 00:30:03,677
-Uh, you can just
-call me Grandma Sophie.
-
-302
-00:30:03,760 --> 00:30:06,388
-I'm your new cleaning lady.
-I just started work today.
-
-303
-00:30:06,596 --> 00:30:08,098
-Give that to me.
-
-304
-00:30:08,390 --> 00:30:09,433
-Oh!
-
-305
-00:30:11,852 --> 00:30:15,147
-Hand me two more slices of that bacon
-and six more of those eggs.
-
-306
-00:30:28,702 --> 00:30:32,581
-Mmm. Mmm. Mmm. Mmm.
-
-307
-00:30:32,664 --> 00:30:35,542
-Mmm.
-
-308
-00:30:35,625 --> 00:30:38,545
-Yummy.
-
-309
-00:30:45,635 --> 00:30:48,096
-So, then, who hired you to clean?
-
-310
-00:30:48,263 --> 00:30:53,018
-Uh, Calcifer did.
-He's disgusted by how dirty it is in here.
-
-311
-00:30:53,560 --> 00:30:54,603
-Hmm.
-
-312
-00:30:54,686 --> 00:30:57,105
-<i>Mark), get the plates.</i>
-
-313
-00:30:59,566 --> 00:31:02,903
-Wait a second, you're all gonna eat
-while I do all the work?
-
-314
-00:31:02,986 --> 00:31:05,614
-Come have
-some breakfast, Sophie.
-
-315
-00:31:10,118 --> 00:31:12,954
-Take a seat. Hmm.
-
-316
-00:31:26,593 --> 00:31:27,844
-Which do you want?
-
-317
-00:31:27,928 --> 00:31:30,097
-You only get one
-'cause the rest are dirty.
-
-318
-00:31:32,808 --> 00:31:35,102
-Looks like I've got
-my work cut out for me.
-
-319
-00:31:37,229 --> 00:31:39,689
-- Bread, Markl?
-- Thanks.
-
-320
-00:31:40,982 --> 00:31:43,777
-- Sophie?
-- Yes, thank you.
-
-321
-00:31:44,986 --> 00:31:48,907
-- So, friends, enjoy. Bon appétit.
-- Bon appétit.
-
-322
-00:31:48,990 --> 00:31:51,451
-I can't remember the last time
-we had a real breakfast.
-
 323
-00:31:58,125 --> 00:32:01,586
-Even the manners are a mess
-in this house.
+00:30:01,008 --> 00:30:03,735
+Uh, you can just call me Grandma Sophie.
 
 324
-00:32:01,837 --> 00:32:05,006
-So, what do you have hidden
-in your pocket, Sophie?
+00:30:03,760 --> 00:30:06,678
+I'm your new cleaning lady. I just started work today.
 
 325
-00:32:05,507 --> 00:32:07,134
-Huh? Oh...
+00:30:06,734 --> 00:30:07,981
+Give that to me.
 
 326
-00:32:16,476 --> 00:32:18,728
-- What is this?
-- Give it to me.
-
-327
-00:32:18,854 --> 00:32:19,938
-Hmm.
-
-328
-00:32:20,522 --> 00:32:21,606
+00:30:08,390 --> 00:30:09,403
 Oh!
 
+327
+00:30:11,852 --> 00:30:15,712
+Hand me two more slices of that
+bacon and six more of those eggs.
+
+328
+00:30:28,702 --> 00:30:32,270
+Mmm. Mmm. Mmm. Mmm.
+
 329
-00:32:25,527 --> 00:32:28,613
-Scorch marks.
-Howl, can you read them?
+00:30:32,325 --> 00:30:35,281
+Mmm.
 
 330
-00:32:28,697 --> 00:32:32,075
-That is ancient sorcery.
-And quite powerful, too.
+00:30:35,781 --> 00:30:36,568
+Yummy.
 
 331
-00:32:32,409 --> 00:32:33,952
-It's from the Witch of the Waste?
+00:30:45,753 --> 00:30:48,096
+So, then, who hired you to clean?
 
 332
-00:32:34,619 --> 00:32:37,038
-"You who swallowed a falling star,
+00:30:48,263 --> 00:30:53,018
+Uh, Calcifer did. He's disgusted
+by how dirty it is in here.
 
 333
-00:32:37,122 --> 00:32:40,959
-"O heartless man,
-your heart shall soon belong to me."
+00:30:53,560 --> 00:30:54,341
+Hmm.
 
 334
-00:32:41,042 --> 00:32:42,752
-That can't be good for the table.
+00:30:54,686 --> 00:30:56,390
+Michael, get the plates.
 
 335
-00:32:56,266 --> 00:32:58,351
-Wow! It's gone!
+00:30:59,566 --> 00:31:02,477
+Wait a second, you're all gonna
+eat while I do all the work?
 
 336
-00:32:58,435 --> 00:33:01,021
-The mark may be gone,
-but the spell is still there.
+00:31:03,000 --> 00:31:04,725
+Come have some breakfast, Sophie.
 
 337
-00:33:01,271 --> 00:33:04,900
-Excuse me, my friends,
-please continue your meal.
+00:31:10,118 --> 00:31:11,592
+Take a seat.
 
 338
-00:33:05,150 --> 00:33:09,070
-Calcifer, move the castle
-60 miles to the west.
+00:31:12,695 --> 00:31:13,130
+Hmm.
 
 339
-00:33:13,492 --> 00:33:16,495
-And while you're at it,
-make hot water for my bath.
+00:31:26,599 --> 00:31:27,599
+Which do you want?
 
 340
-00:33:16,578 --> 00:33:19,664
-Fine. Like moving the castle
-isn't hard enough?
+00:31:27,920 --> 00:31:30,030
+You only get one 'cause the rest are dirty.
 
 341
-00:33:19,748 --> 00:33:22,167
-You're not working for
-the Witch of the Waste, are you?
+00:31:32,808 --> 00:31:35,313
+Looks like I've got my work cut out for me.
 
 342
-00:33:23,460 --> 00:33:28,006
-I would never work for that witch!
-She's the one who...
+00:31:37,260 --> 00:31:38,357
+Bread, Michael?
 
 343
-00:33:31,259 --> 00:33:34,596
-I'm actually a...
+00:31:38,523 --> 00:31:39,420
+Thanks.
 
 344
-00:33:39,017 --> 00:33:42,437
-If I ever get my hands on that witch,
-I'm going to wring her fat neck!
+00:31:40,982 --> 00:31:41,803
+Sophie?
 
 345
-00:33:42,562 --> 00:33:45,440
-Finish your breakfast!
+00:31:41,899 --> 00:31:43,765
+Yes, thank you.
 
 346
-00:33:48,068 --> 00:33:50,237
-I've had enough of this!
+00:31:44,986 --> 00:31:47,770
+So, friends, enjoy. Bon appétit.
 
 347
-00:33:51,530 --> 00:33:53,865
-You bugs better run
-before I bite your heads off!
+00:31:47,875 --> 00:31:48,826
+Bon appétit.
 
 348
-00:33:54,533 --> 00:33:58,453
-I'm sick of being treated
-like some timid little old lady.
+00:31:48,990 --> 00:31:51,854
+I can't remember the last time we had a real breakfast.
 
 349
-00:34:03,124 --> 00:34:05,544
-Hello, sir, is my potion ready?
+00:31:58,100 --> 00:32:00,768
+Even the manners are a mess in this house.
 
 350
-00:34:05,627 --> 00:34:09,089
-Come back later.
-There's a witch on a rampage in there.
+00:32:01,837 --> 00:32:04,962
+So, what do you have hidden in your pocket, Sophie?
 
 351
-00:34:15,804 --> 00:34:18,682
-Sophie, please!
+00:32:05,443 --> 00:32:07,385
+Huh? Oh...
 
 352
-00:34:18,765 --> 00:34:21,851
-Sophie! Please help me. I'm going out!
+00:32:16,515 --> 00:32:17,801
+What is this?
 
 353
-00:34:22,561 --> 00:34:25,730
-Please, get me some firewood, quick!
+00:32:17,826 --> 00:32:18,666
+Give it to me.
 
 354
-00:34:25,814 --> 00:34:29,150
-Hey, please help me.
-Wait, what are you doing?
+00:32:18,854 --> 00:32:19,478
+Hmm.
 
 355
-00:34:29,234 --> 00:34:31,820
-Don't! I'll fall! You crazy lady with tongs!
+00:32:20,124 --> 00:32:21,035
+Oh!
 
 356
-00:34:31,903 --> 00:34:33,405
-- You'll be fine.
-- I'll fall! Help!
+00:32:26,215 --> 00:32:28,613
+Scorch marks. Howl, can you read them?
 
 357
-00:34:33,488 --> 00:34:34,906
-I'm just sweeping out the ashes.
+00:32:28,697 --> 00:32:32,118
+That is an ancient sorcery. And quite powerful, too.
 
 358
-00:34:34,990 --> 00:34:39,995
-No, I'm not fine!
-Please! I'm going out!
+00:32:32,451 --> 00:32:34,294
+it's from the Witch of the Waste?
 
 359
-00:34:42,872 --> 00:34:44,791
-Please. I'm falling.
+00:32:34,684 --> 00:32:37,011
+"You who swallowed a falling star,
 
 360
-00:34:46,251 --> 00:34:48,587
-Help, I'm falling!
+00:32:37,074 --> 00:32:40,911
+"Or heartless man, your heart shall soon belong to me."
 
 361
-00:34:51,965 --> 00:34:56,928
-Sophie, hurry up, please.
-Hurry, please.
+00:32:41,040 --> 00:32:42,598
+That can't be good for the table.
 
 362
-00:34:59,139 --> 00:35:00,473
-<i>Whoa!</i>
+00:32:56,486 --> 00:32:58,168
+Wow! It's gone!
 
 363
-00:35:18,992 --> 00:35:23,330
-I'd appreciate it
-if you didn't torment my friend.
+00:32:58,347 --> 00:33:01,132
+The mark may be gone, but the spell is still there.
 
 364
-00:35:27,042 --> 00:35:30,003
-Master Howl, are you going out now?
+00:33:01,339 --> 00:33:04,152
+Excuse me, my friends, please continue your meal.
 
 365
-00:35:32,047 --> 00:35:37,218
-Markl, make sure the cleaning lady
-doesn't get carried away while I'm gone.
+00:33:05,248 --> 00:33:08,593
+Calcifer, move the castle 60 miles to the west.
 
 366
+00:33:13,589 --> 00:33:16,462
+And while you're at it, make hot water for my bath.
+
+367
+00:33:16,514 --> 00:33:19,174
+Fine. Like moving the castle isn't hard enough?
+
+368
+00:33:19,724 --> 00:33:22,321
+You're not working for the Witch of the Waste, are you?
+
+369
+00:33:23,460 --> 00:33:27,946
+I would never work for that witch! She's the one who...
+
+370
+00:33:31,212 --> 00:33:34,444
+I'm actually a...
+
+371
+00:33:38,929 --> 00:33:42,437
+If I ever get my hands on that
+witch, I'm going to wring her fat neck!
+
+372
+00:33:42,527 --> 00:33:44,553
+Finish your breakfast!
+
+373
+00:33:47,973 --> 00:33:49,471
+I've had enough of this!
+
+374
+00:33:51,490 --> 00:33:53,928
+You bugs better run before I bite your heads off!
+
+375
+00:33:54,555 --> 00:33:58,504
+I'm sick of being treated like some timid little old lady.
+
+376
+00:34:02,986 --> 00:34:05,544
+Hello, sir, is my potion ready?
+
+377
+00:34:05,608 --> 00:34:08,992
+Come back later. There's a witch on a rampage in there.
+
+378
+00:34:15,804 --> 00:34:17,564
+Sophie, please!
+
+379
+00:34:18,605 --> 00:34:21,005
+Sophie! Please help me. I'm going out!
+
+380
+00:34:22,561 --> 00:34:25,596
+Please, get me some firewood, quick!
+
+381
+00:34:25,814 --> 00:34:28,870
+Hey, please help me. Wait, what are you doing?
+
+382
+00:34:28,895 --> 00:34:31,878
+Don't! I'll fall! You crazy lady with tongs!
+
+383
+00:34:31,903 --> 00:34:32,851
+You'll be fine.
+
+384
+00:34:32,876 --> 00:34:33,463
+I'll fall! Help!
+
+385
+00:34:33,493 --> 00:34:34,965
+I'm just sweeping out the ashes.
+
+386
+00:34:34,990 --> 00:34:39,425
+No, I'm not fine! Please! I'm going out!
+
+387
+00:34:43,208 --> 00:34:44,791
+Please. I'm falling.
+
+388
+00:34:46,140 --> 00:34:48,419
+Help, I'm falling!
+
+389
+00:34:52,018 --> 00:34:56,649
+Sophie, hurry up, please. Hurry, please.
+
+390
+00:34:58,930 --> 00:35:00,176
+<i>Whoa!</i>
+
+391
+00:35:18,827 --> 00:35:22,345
+I'd appreciate it if you didn't torment my friend.
+
+392
+00:35:27,065 --> 00:35:29,345
+Master Howl, are you going out now?
+
+393
+00:35:32,063 --> 00:35:36,409
+Michael, make sure the cleaning lady
+doesn't get carried away while I'm gone.
+
+394
 00:35:41,181 --> 00:35:43,350
 Sophie, what did you do now?
 
-367
-00:35:43,558 --> 00:35:45,852
+395
+00:35:43,606 --> 00:35:45,600
 She almost smothered me!
 
-368
+396
 00:35:45,977 --> 00:35:49,064
 If I die, Howl dies, too, I hope you know.
 
-369
+397
 00:35:49,189 --> 00:35:51,524
 Oh, be quiet. You're all right.
 
-370
-00:35:51,608 --> 00:35:54,486
-Now quit bothering me,
-I've got a job to do.
+398
+00:35:51,647 --> 00:35:54,134
+Now quit bothering me, I've got a job to do.
 
-371
-00:35:56,071 --> 00:35:57,530
+399
+00:35:56,112 --> 00:35:57,582
 Wait, you can't come up here!
 
-372
-00:35:57,614 --> 00:36:00,617
-Whatever you don't want me to clean,
-better hide it now.
+400
+00:35:57,614 --> 00:36:00,649
+Whatever you don't want me to clean, better hide it now.
 
-373
-00:36:01,117 --> 00:36:04,079
+401
+00:36:01,578 --> 00:36:03,349
 Save my room for last, okay?
 
-374
-00:36:07,207 --> 00:36:09,918
-These little outbursts
-seem to be giving me some energy.
+402
+00:36:07,207 --> 00:36:09,993
+These little outbursts seem to be giving me some energy.
 
-375
-00:36:13,505 --> 00:36:15,840
+403
+00:36:13,584 --> 00:36:15,221
 What a mess.
 
-376
-00:36:25,350 --> 00:36:26,434
+404
+00:36:25,350 --> 00:36:26,342
 Oh!
 
-377
-00:36:33,108 --> 00:36:34,401
+405
+00:36:33,108 --> 00:36:34,161
 Oh!
 
-378
-00:36:52,127 --> 00:36:56,297
+406
+00:36:52,206 --> 00:36:56,690
 Incredible! Calcifer! Calcifer!
 
-379
-00:36:56,715 --> 00:36:58,925
+407
+00:36:56,715 --> 00:36:59,107
 Are you the one moving the castle?
 
-380
-00:36:59,008 --> 00:37:01,219
-Of course. No one
-else does any work around here.
+408
+00:36:59,139 --> 00:37:01,219
+Of course I am. No one else does any work around here.
 
-381
-00:37:01,302 --> 00:37:02,804
+409
+00:37:01,302 --> 00:37:03,166
 I am thoroughly impressed!
 
-382
-00:37:03,138 --> 00:37:06,891
-You are a first-class fire demon.
-I like your spark.
+410
+00:37:03,191 --> 00:37:06,536
+You are a first-class fire demon. I like your spark.
 
-383
-00:37:09,060 --> 00:37:12,814
+411
+00:37:08,762 --> 00:37:13,162
 She likes my spark! Ha-ha!
 
-384
-00:37:19,070 --> 00:37:21,573
+412
+00:37:19,070 --> 00:37:20,814
 Ah! Not ready! Not ready!
 
-385
-00:37:53,480 --> 00:37:54,939
+413
+00:37:53,656 --> 00:37:54,998
 It's beautiful.
 
-386
-00:37:55,023 --> 00:37:57,650
+414
+00:37:55,023 --> 00:37:56,890
 Yeah. It's called Star Lake.
 
-387
-00:38:02,113 --> 00:38:03,948
+415
+00:38:02,113 --> 00:38:04,007
 Hey, what's that stick doing in there?
 
-388
-00:38:04,032 --> 00:38:08,203
-Oh, dear. Give me a hand, Markl.
+416
+00:38:04,032 --> 00:38:07,505
+Oh, dear. Give me a hand, Michael.
 
-389
-00:38:15,168 --> 00:38:16,628
+417
+00:38:14,751 --> 00:38:16,545
 It's a scarecrow.
 
-390
+418
 00:38:16,711 --> 00:38:18,922
 Yep, I've been calling him Turnip-head.
 
-391
-00:38:19,005 --> 00:38:21,925
-Somehow he always manages
-to get stuck upside down.
+419
+00:38:19,005 --> 00:38:22,138
+Somehow he always manages to get stuck upside down.
 
-392
+420
 00:38:30,642 --> 00:38:34,979
 He keeps following me everywhere.
 Seems to have taken a liking to me.
 
-393
-00:38:35,063 --> 00:38:37,649
-That's weird. Are you sure
-you're not a witch, Sophie?
+421
+00:38:35,128 --> 00:38:37,649
+That's weird. Are you sure you're not a witch, Sophie?
 
-394
-00:38:37,732 --> 00:38:41,444
-Oh, yes! I'm the worst kind
-of witch ever, the kind that cleans.
+422
+00:38:37,732 --> 00:38:41,477
+Oh, yes! I'm the worst kind of
+witch ever, the kind that cleans.
 
-395
-00:39:10,473 --> 00:39:13,560
+423
+00:39:10,338 --> 00:39:13,544
 Quit pulling so hard, Turnip-head!
 
-396
-00:39:22,986 --> 00:39:25,029
+424
+00:39:22,986 --> 00:39:24,812
 I think he likes doing the laundry.
 
-397
-00:39:25,113 --> 00:39:27,949
+425
+00:39:25,042 --> 00:39:27,719
 Looks like he'll have it dry in no time.
 
-398
-00:39:29,909 --> 00:39:34,247
+426
+00:39:30,030 --> 00:39:34,223
 I bet he's some kind of demon.
 Calcifer doesn't seem to mind him at all.
 
-399
-00:39:34,330 --> 00:39:37,667
+427
+00:39:34,330 --> 00:39:36,975
 You're right. He probably is a demon.
 
-400
-00:39:38,501 --> 00:39:42,589
-But he led me here,
-So maybe he's the good kind.
+428
+00:39:38,501 --> 00:39:41,599
+But he led me here, So maybe he's the good kind.
 
-401
-00:40:24,213 --> 00:40:26,341
-We got all the laundry
-put away, Sophie.
+429
+00:40:24,181 --> 00:40:26,309
+We got all the laundry put away, Sophie.
 
-402
-00:40:26,424 --> 00:40:27,926
-Oh, thank you, Markl.
+430
+00:40:26,384 --> 00:40:27,886
+Oh, thank you, Michael.
 
-403
-00:40:28,009 --> 00:40:32,180
+431
+00:40:27,953 --> 00:40:31,406
 When you're old, all you want
 to do is stare at the scenery.
 
-404
-00:40:32,597 --> 00:40:36,517
-It's so strange,
-I've never felt so peaceful before.
+432
+00:40:32,597 --> 00:40:36,434
+It's so strange, I've never felt so peaceful before.
 
-405
-00:41:54,971 --> 00:41:56,264
+433
+00:41:54,939 --> 00:41:56,026
 Whew.
 
-406
-00:41:56,347 --> 00:41:59,267
+434
+00:41:56,283 --> 00:41:58,932
 You okay? I mean, you smell terrible.
 
-407
-00:42:16,617 --> 00:42:18,828
-You shouldn't keep flying around
-like that.
+435
+00:42:16,564 --> 00:42:18,558
+You shouldn't keep flying around like that.
 
-408
-00:42:18,911 --> 00:42:22,290
-Soon you won't be able
-to turn back into a human.
+436
+00:42:18,847 --> 00:42:21,696
+Soon you won't be able to turn back into a human.
 
-409
-00:42:26,335 --> 00:42:29,130
-Isn't this great?
-Sophie put these here for me.
+437
+00:42:26,335 --> 00:42:29,275
+Isn't this great? Sophie put these here for me.
 
-410
-00:42:31,799 --> 00:42:33,676
+438
+00:42:31,814 --> 00:42:33,691
 This war is terrible.
 
-411
-00:42:33,760 --> 00:42:36,512
+439
+00:42:33,760 --> 00:42:36,561
 They've bombed from the southern
 coast to the northern border.
 
-412
-00:42:36,596 --> 00:42:37,972
+440
+00:42:36,596 --> 00:42:37,992
 It's all in flames now.
 
-413
-00:42:38,056 --> 00:42:40,683
+441
+00:42:38,056 --> 00:42:40,557
 I can't stand the fire in gunpowder.
 
-414
+442
 00:42:40,767 --> 00:42:43,519
-Those dopey guys
-have absolutely no manners.
+Those dopey guys have absolutely no manners.
 
-415
-00:42:44,228 --> 00:42:46,230
+443
+00:42:44,277 --> 00:42:46,231
 My own kind attacked me today.
 
-416
-00:42:46,314 --> 00:42:47,857
-- Who, the Witch of the Waste?
-- No,
+444
+00:42:46,314 --> 00:42:47,566
+Who, the Witch of the Waste?
 
-417
-00:42:47,940 --> 00:42:51,277
-some hack wizards who turned
+445
+00:42:47,591 --> 00:42:51,315
+No, some hack wizards who turned
 themselves into monsters for the king.
 
-418
-00:42:51,652 --> 00:42:54,530
-Those wizards are going
-to regret doing that.
+446
+00:42:51,823 --> 00:42:54,484
+Those wizards are going to regret doing that.
 
-419
+447
 00:42:54,655 --> 00:42:57,075
 They'll never change back into humans.
 
-420
+448
 00:42:57,283 --> 00:43:00,286
-After the war,
-they won't recall they ever were human.
+After the war, they won't recall they ever were human.
 
-421
-00:43:00,369 --> 00:43:03,372
-Hey, aren't you supposed
-to report to the king, too?
+449
+00:43:00,369 --> 00:43:03,140
+Hey, aren't you supposed to report to the king, too?
 
-422
-00:43:03,664 --> 00:43:06,667
-I'm tired.
-Make some hot water for my bath.
+450
+00:43:03,592 --> 00:43:06,595
+I'm tired. Make some hot water for my bath.
 
-423
-00:43:06,793 --> 00:43:08,669
+451
+00:43:06,768 --> 00:43:08,852
 What? Not again.
 
-424
-00:43:41,577 --> 00:43:42,787
-- Is Howl back?
-- Yes.
+452
+00:43:41,577 --> 00:43:42,571
+Is Howl back?
 
-425
-00:43:42,870 --> 00:43:45,206
-He's wasting all my hot water again.
+453
+00:43:42,596 --> 00:43:44,740
+Yes. He's wasting all my hot water again.
 
-426
-00:43:50,211 --> 00:43:51,796
+454
+00:43:50,176 --> 00:43:51,828
 I don't know why we're doing this.
 
-427
-00:43:51,879 --> 00:43:53,714
-Master Howl hardly eats.
+455
+00:43:51,879 --> 00:43:53,759
+Master Howl hardly eats anything.
 
-428
-00:43:53,881 --> 00:43:54,924
+456
+00:43:53,881 --> 00:43:54,640
 Too bad.
 
-429
-00:43:55,007 --> 00:43:57,301
-- Good morning.
-- Good morning.
+457
+00:43:54,903 --> 00:43:55,833
+Good morning.
 
-430
+458
+00:43:55,858 --> 00:43:56,673
+Good morning.
+
+459
 00:43:59,387 --> 00:44:03,391
-Don't you love early morning markets?
-And just look at the water!
+Don't you love early morning
+markets? And just look at the water!
 
-431
-00:44:03,516 --> 00:44:06,769
-I've never seen the ocean before!
-It's beautiful!
+460
+00:44:03,516 --> 00:44:06,693
+I've never seen the ocean before! It's beautiful!
 
-432
-00:44:06,936 --> 00:44:08,229
+461
+00:44:06,936 --> 00:44:08,409
 It always looks like that.
 
-433
-00:44:17,405 --> 00:44:20,491
-- Hmm. I hate potatoes.
-- Pay up.
+462
+00:44:17,553 --> 00:44:19,509
+Hmm. I hate potatoes.
 
-434
-00:44:20,575 --> 00:44:23,411
-- Thanks, have a nice day.
-- Come again.
+463
+00:44:19,534 --> 00:44:20,294
+Pay up.
 
-435
-00:44:25,246 --> 00:44:27,748
-All our fish
-were caught fresh this morning.
+464
+00:44:20,575 --> 00:44:22,106
+Thanks, have a nice day.
 
-436
-00:44:29,584 --> 00:44:31,627
+465
+00:44:22,439 --> 00:44:23,679
+Thank you. Come again.
+
+466
+00:44:25,246 --> 00:44:27,628
+All our fish were caught fresh this morning.
+
+467
+00:44:29,582 --> 00:44:31,489
 Hmm, I hate fish.
 
-437
+468
 00:44:31,711 --> 00:44:33,629
 One of our ships is in the harbor!
 
-438
+469
 00:44:33,713 --> 00:44:34,964
 It looks like it's on fire!
 
-439
-00:44:35,047 --> 00:44:37,091
+470
+00:44:35,047 --> 00:44:37,058
 Looks like there's been a serious battle.
 
-440
-00:44:37,300 --> 00:44:39,927
-What happened?
-Sorry, lady, we're closed.
+471
+00:44:37,297 --> 00:44:39,696
+What happened? Sorry, lady, we're closed.
 
-441
-00:44:40,094 --> 00:44:41,470
+472
+00:44:40,094 --> 00:44:41,602
 The ship, it's sinking!
 
-442
-00:45:04,410 --> 00:45:06,370
+473
+00:45:04,437 --> 00:45:06,384
 Come on, Sophie, let's get a better look.
 
-443
-00:45:06,454 --> 00:45:10,124
-No, I've seen all I can take.
-Let's go home.
+474
+00:45:06,454 --> 00:45:09,370
+No, I've seen all I can take. Let's go home.
 
-444
-00:45:10,291 --> 00:45:12,835
-I can't believe it.
-It's our most advanced battleship.
+475
+00:45:10,291 --> 00:45:12,937
+I can't believe this. That's
+almost the advanced battleship.
 
-445
-00:45:16,631 --> 00:45:19,342
+476
+00:45:17,443 --> 00:45:19,389
 The witch's henchmen are here.
 
-446
-00:45:19,425 --> 00:45:21,469
-- What?
-- Quiet down.
+477
+00:45:19,425 --> 00:45:19,930
+What?
 
-447
-00:45:21,552 --> 00:45:24,430
+478
+00:45:19,955 --> 00:45:21,025
+Quiet down.
+
+479
+00:45:21,527 --> 00:45:23,861
 They're only a few feet away.
 
-448
-00:45:29,644 --> 00:45:30,686
+480
+00:45:29,644 --> 00:45:30,559
 He's gone.
 
-449
-00:45:30,770 --> 00:45:33,314
-I don't understand why
-no one else seemed to notice him.
+481
+00:45:30,698 --> 00:45:33,443
+I don't understand why no one else seemed to notice him.
 
-450
+482
 00:45:39,195 --> 00:45:40,988
 Look! There they are!
 
-451
+483
 00:45:41,239 --> 00:45:43,032
-That plane!
-That's what dropped the bombs!
+That plane! That's what dropped the bombs!
 
-452
-00:45:43,115 --> 00:45:45,076
+484
+00:45:43,059 --> 00:45:45,145
 Look, Sophie. It's the enemy's airship!
 
-453
-00:45:50,831 --> 00:45:52,833
+485
+00:45:50,831 --> 00:45:52,853
 Sophie! Wait up! Sophie!
 
-454
-00:45:53,084 --> 00:45:55,878
-Ignore the flyers.
-They're enemy propaganda.
+486
+00:45:53,236 --> 00:45:55,878
+Ignore the flyers. They're enemy propaganda.
 
-455
-00:46:00,925 --> 00:46:02,426
+487
+00:46:00,783 --> 00:46:02,426
 Sophie, are you okay?
 
-456
-00:46:08,641 --> 00:46:10,768
+488
+00:46:08,537 --> 00:46:10,545
 I just need a glass of water.
 
-457
-00:46:10,851 --> 00:46:12,520
+489
+00:46:10,692 --> 00:46:11,722
 I'll get it.
 
-458
-00:46:27,451 --> 00:46:32,415
+490
+00:46:27,479 --> 00:46:32,598
 Sophie! You sabotaged me! Look!
 Look what you've done to my hair!
 
-459
-00:46:32,623 --> 00:46:34,250
+491
+00:46:32,623 --> 00:46:34,141
 Look!
 
-460
-00:46:34,333 --> 00:46:37,295
-- What a pretty color.
-- It's hideous!
+492
+00:46:34,333 --> 00:46:35,604
+What a pretty color.
 
-461
-00:46:37,378 --> 00:46:40,381
-You completely ruined
-my magic potions in the bathroom.
+493
+00:46:35,898 --> 00:46:37,264
+It's hideous!
 
-462
-00:46:41,465 --> 00:46:44,135
-I just organized things, Howl,
-nothing's ruined.
+494
+00:46:37,338 --> 00:46:40,624
+You completely ruined my magic potions in the bathroom.
 
-463
-00:46:44,260 --> 00:46:46,053
+495
+00:46:41,531 --> 00:46:44,200
+I just organized things, Howl, nothing's ruined.
+
+496
+00:46:44,260 --> 00:46:45,773
 Wrong! Wrong!
 
-464
-00:46:46,178 --> 00:46:49,932
-I specifically ordered you
-not to get carried away!
+497
+00:46:46,156 --> 00:46:49,396
+I specifically ordered you not to get carried away!
 
-465
-00:46:50,182 --> 00:46:54,895
-Now I'm repulsive.
-I can't live like this.
+498
+00:46:50,182 --> 00:46:54,466
+Now I'm repulsive. I can't live like this.
 
-466
-00:46:56,355 --> 00:46:58,232
+499
+00:46:56,355 --> 00:46:58,359
 Come on, it's not that bad.
 
-467
-00:47:06,282 --> 00:47:09,076
-You should look at it now.
-This shade is even better.
+500
+00:47:06,226 --> 00:47:09,305
+You should look at it now. This shade is even better.
 
-468
-00:47:09,410 --> 00:47:11,078
+501
+00:47:09,512 --> 00:47:10,569
 I give up.
 
-469
-00:47:11,162 --> 00:47:14,040
-I see no point in living
-if I can't be beautiful.
+502
+00:47:11,083 --> 00:47:14,437
+I see no point in living if I can't be beautiful.
 
-470
-00:47:25,760 --> 00:47:28,721
+503
+00:47:25,760 --> 00:47:28,477
 Howl, cut it out. Howl, no, stop it.
 
-471
+504
 00:47:28,804 --> 00:47:30,681
 He's calling the Spirits of Darkness.
 
-472
-00:47:30,765 --> 00:47:34,310
-I saw him do this once before
-when a girl dumped him.
+505
+00:47:30,765 --> 00:47:33,919
+I saw him do this once before when a girl dumped him.
 
-473
-00:47:37,104 --> 00:47:42,068
+506
+00:47:37,140 --> 00:47:41,848
 Now, Howl, you're all right.
 We'll just dye your hair back again.
 
-474
-00:47:42,151 --> 00:47:44,945
+507
+00:47:42,253 --> 00:47:44,383
 Okay? Oh!
 
-475
-00:47:53,621 --> 00:47:55,748
+508
+00:47:53,671 --> 00:47:55,881
 Fine! So, you think you've got it bad?
 
-476
-00:47:55,831 --> 00:47:59,460
-I've never once been beautiful
-in my entire life!
+509
+00:47:55,951 --> 00:47:59,113
+I've never once been beautiful in my entire life!
 
-477
-00:48:00,586 --> 00:48:03,089
+510
+00:48:00,623 --> 00:48:03,370
 I've had enough of this place!
 
-478
+511
 00:48:42,294 --> 00:48:45,881
-Thank you, Turnip-head.
-How did you get to be so kind?
+Thank you, Turnip-head. How did you get to be so kind?
 
-479
-00:48:45,965 --> 00:48:49,176
-Sophie, get back inside,
-we need your help! Howl's in trouble!
+512
+00:48:45,917 --> 00:48:49,235
+Sophie, get back inside, we
+need your help! Howl's in trouble!
 
-480
-00:48:49,343 --> 00:48:51,470
-Howl, cut it out! I'm gonna drown!
+513
+00:48:49,358 --> 00:48:51,626
+Howl, cut it out, cut it out! I'm gonna drown!
 
-481
-00:48:51,554 --> 00:48:55,057
-I'm drowning here, Howl. Sophie!
-Sophie, help him, please!
+514
+00:48:51,651 --> 00:48:55,057
+I'm drowning here, Howl. Sophie! Sophie, help him, please!
 
-482
-00:48:55,182 --> 00:48:57,726
+515
+00:48:55,194 --> 00:48:56,950
 Sophie! Do something!
 
-483
-00:48:59,478 --> 00:49:02,064
-- Such drama.
-- Is he dead?
+516
+00:48:59,478 --> 00:49:00,716
+Such drama.
 
-484
-00:49:02,148 --> 00:49:04,984
-No, he's fine.
-He's just throwing a tantrum.
+517
+00:49:01,121 --> 00:49:02,224
+Is he dead?
 
-485
-00:49:05,067 --> 00:49:08,028
-- Come on. Give me a hand.
-- Okay.
+518
+00:49:02,249 --> 00:49:04,984
+No, he's fine. He's just throwing a tantrum.
 
-486
-00:49:11,407 --> 00:49:14,118
-- Get the hot water running.
-- Right.
+519
+00:49:05,045 --> 00:49:06,579
+Come on. Give me a hand.
 
-487
-00:49:14,285 --> 00:49:16,912
+520
+00:49:07,483 --> 00:49:08,083
+Okay.
+
+521
+00:49:11,407 --> 00:49:13,388
+Get the hot water running.
+
+522
+00:49:13,427 --> 00:49:14,038
+Right.
+
+523
+00:49:14,285 --> 00:49:16,708
 Come on, Howl, you can still walk.
 
-488
-00:49:28,382 --> 00:49:31,385
-- Get him cleaned up, Markl.
-- I will.
+524
+00:49:28,382 --> 00:49:30,063
+Get him cleaned up, Michael.
 
-489
-00:49:33,095 --> 00:49:34,930
+525
+00:49:30,088 --> 00:49:30,896
+I will.
+
+526
+00:49:33,114 --> 00:49:34,782
 Now I have to mop again.
 
-490
-00:49:44,023 --> 00:49:46,650
-This says they've landed
-on the coast already.
+527
+00:49:43,967 --> 00:49:46,517
+This says they've landed on the coast already.
 
-491
-00:49:46,734 --> 00:49:47,776
-- Where?
-- North.
+528
+00:49:46,734 --> 00:49:47,439
+Where?
 
-492
-00:49:58,120 --> 00:50:01,040
+529
+00:49:47,496 --> 00:49:48,106
+North.
+
+530
+00:49:58,284 --> 00:50:00,421
 Howl, I'm coming in.
 
-493
-00:50:08,005 --> 00:50:11,008
-I brought you some warm milk.
-Want a sip?
+531
+00:50:08,005 --> 00:50:10,463
+I brought you some warm milk. Want a sip?
 
-494
-00:50:13,594 --> 00:50:17,932
+532
+00:50:13,690 --> 00:50:17,780
 I'll leave it here for you, then.
 Try to drink it before it gets cold.
 
-495
-00:50:21,352 --> 00:50:23,437
+533
+00:50:21,352 --> 00:50:23,184
 Sophie, wait.
 
-496
-00:50:31,237 --> 00:50:33,239
+534
+00:50:31,237 --> 00:50:32,694
 Do you want some milk?
 
-497
-00:50:43,541 --> 00:50:46,293
-The Witch of the Waste
-is trying to find my castle.
+535
+00:50:43,541 --> 00:50:46,121
+The Witch of the Waste is trying to find my castle.
 
-498
-00:50:47,586 --> 00:50:50,965
+536
+00:50:48,974 --> 00:50:51,159
 I saw her henchmen at the harbor.
 
-499
-00:50:51,423 --> 00:50:53,759
+537
+00:50:51,445 --> 00:50:53,859
 I am such a big coward, all I do is hide.
 
-500
-00:50:54,051 --> 00:50:57,763
-And all of this magic
-is just to keep everybody away.
+538
+00:50:54,129 --> 00:50:57,569
+And all of this magic is just to keep everybody away.
 
-501
-00:50:57,888 --> 00:50:59,723
+539
+00:50:57,888 --> 00:50:59,873
 I can't stand how scared I am.
 
-502
-00:51:01,308 --> 00:51:04,812
-Howl, why is the Witch of the Waste
-trying to hunt you down?
+540
+00:51:01,438 --> 00:51:05,134
+Howl, why is the Witch of the
+Waste trying to hunt you down?
 
-503
-00:51:05,479 --> 00:51:08,899
-She was once quite beautiful,
-so I decided to pursue her.
+541
+00:51:05,479 --> 00:51:09,114
+She was once quite beautiful, so I decided to pursue her.
 
-504
-00:51:09,275 --> 00:51:13,153
-Then I realized she wasn't.
-So, as usual, I ran away.
+542
+00:51:09,312 --> 00:51:13,483
+Then I realized she wasn't. So, as usual, I ran away.
 
-505
-00:51:15,990 --> 00:51:19,118
+543
+00:51:16,050 --> 00:51:19,244
 I can't run much longer, though.
 I have to report to the palace,
 
-506
-00:51:19,201 --> 00:51:21,745
+544
+00:51:19,300 --> 00:51:21,992
 as both Pendragon and Jenkins.
 
-507
-00:51:21,829 --> 00:51:24,123
-How many aliases
-do you have, anyway?
+545
+00:51:22,032 --> 00:51:24,408
+How many aliases do you have, anyway?
 
-508
-00:51:24,582 --> 00:51:27,668
-- As many as I need to keep my freedom.
-- Hmm.
+546
+00:51:24,582 --> 00:51:26,680
+As many as I need to keep my freedom.
 
-509
-00:51:28,377 --> 00:51:32,172
-- Just refuse the king's invitation.
-- See that?
+547
+00:51:26,958 --> 00:51:27,817
+Hmm.
 
-510
-00:51:32,298 --> 00:51:35,509
-That's the oath I took when
-I entered the Royal Sorcery Academy.
+548
+00:51:28,421 --> 00:51:30,629
+Just refuse the king's invitation.
 
-511
-00:51:35,634 --> 00:51:38,721
-I must report to the palace
-whenever summoned.
+549
+00:51:30,748 --> 00:51:31,677
+See that?
 
-512
-00:51:39,054 --> 00:51:41,724
-You know, Howl,
-I think that you should see the king.
+550
+00:51:32,281 --> 00:51:35,492
+That's the oath I took when I
+entered the Royal Sorcery Academy.
 
-513
-00:51:42,099 --> 00:51:43,809
+551
+00:51:35,578 --> 00:51:38,145
+I must report to the palace whenever summoned.
+
+552
+00:51:39,054 --> 00:51:41,974
+You know, Howl, I think that you should see the king.
+
+553
+00:51:42,099 --> 00:51:42,960
 What?
 
-514
+554
 00:51:44,101 --> 00:51:47,646
 Give him a piece of your mind.
 Tell him this war is pointless.
 
-515
-00:51:47,730 --> 00:51:49,565
+555
+00:51:47,730 --> 00:51:49,751
 And you refuse to take part, huh?
 
-516
-00:51:51,734 --> 00:51:54,445
-You obviously don't know
-what these people are like.
-
-517
-00:51:55,070 --> 00:51:56,572
-But he's our king.
-
-518
-00:51:56,697 --> 00:52:00,534
-He should want to hear
-what all his citizens have to say.
-
-519
-00:52:00,868 --> 00:52:04,496
-I got it!
-Why don't you go to the palace for me?
-
-520
-00:52:04,788 --> 00:52:05,873
-Huh?
-
-521
-00:52:06,290 --> 00:52:08,667
-Just say
-that you're Pendragon's mother,
-
-522
-00:52:08,792 --> 00:52:10,711
-and your son is such a cowardly wizard,
-
-523
-00:52:10,878 --> 00:52:12,421
-he's too afraid to show his face.
-
-524
-00:52:12,546 --> 00:52:15,466
-Maybe then Madame Suliman
-will finally give up on me.
-
-525
-00:52:15,799 --> 00:52:17,926
-Who's Madame Suliman?
-
-526
-00:52:21,263 --> 00:52:22,640
-You're wearing that hat?
-
-527
-00:52:22,723 --> 00:52:25,142
-After all the magic I used
-to make your dress pretty?
-
-528
-00:52:25,225 --> 00:52:28,354
-- Take care of him, Markl.
-- Mmm-hmm.
-
-529
-00:52:28,604 --> 00:52:30,230
-Good luck.
-
-530
-00:52:37,780 --> 00:52:40,658
-This charm will
-guarantee your safe return.
-
-531
-00:52:42,534 --> 00:52:45,579
-Don't worry.
-I'll follow behind you in disguise.
-
-532
-00:52:45,788 --> 00:52:47,331
-Now. Off you go.
-
-533
-00:52:54,963 --> 00:52:58,300
-Why do I feel like
-this is not going to work?
-
-534
-00:53:06,600 --> 00:53:08,811
-I wonder what Howl
-disguised himself as.
-
-535
-00:53:08,894 --> 00:53:10,354
-Surely not a crow.
-
-536
-00:53:17,069 --> 00:53:19,613
-Can't be a pigeon,
-he's too flamboyant for that.
-
-537
-00:53:25,869 --> 00:53:27,204
-That could be him.
-
-538
-00:53:38,465 --> 00:53:41,802
-Look how far I still have to go.
-
-539
-00:53:50,644 --> 00:53:53,605
-Come on! Step right up!
-
-540
-00:54:23,260 --> 00:54:26,430
-Howl? You disguised yourself
-as an old dog?
-
-541
-00:54:32,060 --> 00:54:35,230
-You couldn't think
-of something a bit more useful?
-
-542
-00:54:35,314 --> 00:54:37,608
-Do you know how hard it is
-to do things when you're old?
-
-543
-00:54:40,736 --> 00:54:44,031
-Look who's here.
-The tacky little girl from the hat shop.
-
-544
-00:54:44,406 --> 00:54:45,866
-The Witch of the Waste.
-
-545
-00:54:45,949 --> 00:54:49,119
-Thank you for handing
-my scorching love note to Howl.
-
-546
-00:54:51,413 --> 00:54:53,582
-How's he doing, by the way?
-
-547
-00:54:53,665 --> 00:54:55,375
-He's acting like a big baby.
-
-548
-00:54:55,459 --> 00:54:58,879
-And he's working me to the bone
-as his cleaning lady.
-
-549
-00:54:59,338 --> 00:55:01,340
-How delightful.
-
-550
-00:55:02,508 --> 00:55:06,303
-So, tell me, what business
-do you have here at the palace?
-
-551
-00:55:06,553 --> 00:55:09,306
-Job hunting.
-I'm sick of working for Howl.
-
-552
-00:55:09,431 --> 00:55:11,016
-And what about yourself?
-
-553
-00:55:11,225 --> 00:55:14,019
-I received a royal invitation.
-
-554
-00:55:14,186 --> 00:55:18,941
-That idiot Suliman finally realized
-how much she needs my powers.
-
-555
-00:55:19,233 --> 00:55:20,317
-If you're so great,
-
 556
-00:55:20,400 --> 00:55:22,653
-why don't you break the spell
-you put on me?
+00:51:51,757 --> 00:51:54,534
+You obviously don't know what these people are like.
 
 557
-00:55:22,861 --> 00:55:24,238
-I'm sorry, dear.
+00:51:55,038 --> 00:51:56,540
+But he's our king.
 
 558
-00:55:24,404 --> 00:55:28,617
-My talent lies in casting spells,
-not breaking them.
+00:51:56,697 --> 00:51:59,983
+He should want to hear what all his citizens have to say.
 
 559
-00:55:28,826 --> 00:55:30,828
-Bye, Granny.
+00:52:01,065 --> 00:52:04,632
+I got it! Why don't you go to the palace for me?
 
 560
-00:55:31,453 --> 00:55:35,874
-Now, just wait a minute!
-You get back here right now!
+00:52:04,788 --> 00:52:05,600
+Huh?
 
 561
-00:55:36,083 --> 00:55:38,961
-If I didn't have you to worry about,
-I would have clobbered her.
+00:52:06,218 --> 00:52:08,595
+Just say that you're Pendragon's mother,
 
 562
-00:55:56,812 --> 00:55:58,188
-What on earth is wrong with you two?
+00:52:08,792 --> 00:52:12,616
+and your son is such a cowardly
+wizard, he's too afraid to show his face.
 
 563
-00:55:58,564 --> 00:55:59,606
-Sorry, ma'am.
+00:52:12,656 --> 00:52:15,466
+Maybe then Madame Suliman will finally give up on me.
 
 564
-00:55:59,690 --> 00:56:01,900
-Vehicles are prohibited
-beyond this point.
+00:52:15,775 --> 00:52:17,415
+Who's Madame Suliman?
 
 565
+00:52:21,245 --> 00:52:22,644
+You're wearing that hat?
+
+566
+00:52:22,723 --> 00:52:25,170
+After all the magic I used to make your dress pretty?
+
+567
+00:52:25,195 --> 00:52:26,600
+Take care of him, Michael.
+
+568
+00:52:26,625 --> 00:52:27,323
+Mmm-hmm.
+
+569
+00:52:28,604 --> 00:52:29,626
+Good luck.
+
+570
+00:52:37,780 --> 00:52:40,743
+This charm will guarantee your safe return.
+
+571
+00:52:42,534 --> 00:52:45,763
+Don't worry. I'll follow behind you in disguise.
+
+572
+00:52:45,874 --> 00:52:47,400
+Now. Off you go.
+
+573
+00:52:54,963 --> 00:52:58,126
+Why do I feel like this is not going to work?
+
+574
+00:53:06,582 --> 00:53:08,811
+I wonder what Howl disguised himself as.
+
+575
+00:53:08,836 --> 00:53:10,354
+Surely not a crow.
+
+576
+00:53:17,060 --> 00:53:19,656
+Can't be a pigeon, he's too flamboyant for that.
+
+577
+00:53:25,797 --> 00:53:27,132
+That could be him.
+
+578
+00:53:38,465 --> 00:53:41,171
+Look how far I still have to go.
+
+579
+00:53:50,644 --> 00:53:53,002
+Come on! Step right up!
+
+580
+00:54:23,260 --> 00:54:26,430
+Howl? You disguised yourself as an old dog?
+
+581
+00:54:31,989 --> 00:54:34,807
+You couldn't think of something a bit more useful?
+
+582
+00:54:35,250 --> 00:54:37,748
+Do you know how hard it is to do things when you're old?
+
+583
+00:54:40,736 --> 00:54:44,120
+Look who's here. The tacky little girl from that hat shop.
+
+584
+00:54:44,374 --> 00:54:45,572
+Witch of the Waste.
+
+585
+00:54:45,901 --> 00:54:49,071
+Thank you for handing my scorching love note to Howl.
+
+586
+00:54:51,365 --> 00:54:53,263
+How's he doing, by the way?
+
+587
+00:54:53,625 --> 00:54:55,401
+He's acting like a big baby.
+
+588
+00:54:55,443 --> 00:54:58,863
+And he's working me to the bone as his cleaning lady.
+
+589
+00:54:59,338 --> 00:55:00,890
+How delightful.
+
+590
+00:55:02,508 --> 00:55:06,325
+So, tell me, what business do you have here at the palace?
+
+591
+00:55:06,497 --> 00:55:09,034
+Job hunting. I'm sick of working for Howl.
+
+592
+00:55:09,383 --> 00:55:10,968
+And what about yourself?
+
+593
+00:55:11,185 --> 00:55:13,452
+I received a royal invitation.
+
+594
+00:55:14,247 --> 00:55:18,854
+That idiot Suliman finally
+realized how much she needs my powers.
+
+595
+00:55:19,233 --> 00:55:22,619
+If you're so great, why don't
+you break this spell you put on me?
+
+596
+00:55:22,829 --> 00:55:24,279
+I'm sorry, dear.
+
+597
+00:55:24,388 --> 00:55:28,458
+My talent lies in casting spells, not breaking them.
+
+598
+00:55:28,730 --> 00:55:30,325
+Bye, Granny.
+
+599
+00:55:31,526 --> 00:55:34,966
+Now, just wait a minute! You get back here right now!
+
+600
+00:55:35,976 --> 00:55:39,152
+If I didn't have you to worry
+about, I would have clobbered her.
+
+601
+00:55:56,756 --> 00:55:58,420
+What on earth is wrong with you two?
+
+602
+00:55:58,564 --> 00:55:59,539
+Sorry, ma'am.
+
+603
+00:55:59,626 --> 00:56:01,959
+Vehicles are prohibited beyond this point.
+
+604
 00:56:01,984 --> 00:56:03,735
 You must continue on foot.
 
-566
-00:56:03,902 --> 00:56:05,237
+605
+00:56:03,902 --> 00:56:05,100
 That Suliman.
 
-567
-00:56:05,320 --> 00:56:09,783
-Using her magic to force me
-to climb all those godforsaken stairs.
-
-568
-00:56:20,544 --> 00:56:24,965
-Come on, Howl.
-We can do this, just act natural.
-
-569
-00:56:35,017 --> 00:56:36,184
-Oh!
-
-570
-00:56:48,655 --> 00:56:51,283
-Howl, why are you so heavy?
-
-571
-00:57:01,001 --> 00:57:05,172
-Wait. Help. I can't make it.
-
-572
-00:57:05,505 --> 00:57:07,507
-What'd you say?
-
-573
-00:57:07,591 --> 00:57:11,136
-You suddenly remembered how
-to break the spell you put on me?
-
-574
-00:57:11,511 --> 00:57:15,974
-I told you. I don't know how.
-
-575
-00:57:16,308 --> 00:57:18,518
-Then start studying.
-
-576
-00:57:23,315 --> 00:57:25,108
-I don't get it.
-
-577
-00:57:25,233 --> 00:57:28,695
-Where does she get all that energy?
-
-578
-00:57:35,786 --> 00:57:38,246
-I have to rest a bit.
-
-579
-00:57:45,003 --> 00:57:49,007
-Why don't you just give up?
-You're killing yourself.
-
-580
-00:57:49,091 --> 00:57:54,429
-I've waited for 50 years now
-to be invited here.
-
-581
-00:57:54,554 --> 00:57:59,267
-Ever since that Suliman
-banished me to live in the Wastes.
-
-582
-00:57:59,393 --> 00:58:00,936
-Well, good luck, then.
-
-583
-00:58:01,019 --> 00:58:04,856
-Too bad I'm not younger,
-or I'd lend you a hand.
-
-584
-00:58:05,065 --> 00:58:06,942
-Come on, Howl.
-
-585
-00:58:07,818 --> 00:58:12,614
-You cold-hearted old hag.
-Next time, I'll turn you senile, too.
-
-586
-00:58:33,593 --> 00:58:36,096
-Almost there!
-
-587
-00:58:36,263 --> 00:58:39,057
-Honored guest, please follow me.
-
-588
-00:58:39,141 --> 00:58:41,685
-You should go help her
-get up these stairs.
-
-589
-00:58:41,768 --> 00:58:45,063
-I am strictly forbidden
-to offer such assistance.
-
-590
-00:58:45,147 --> 00:58:48,525
-That's so rude.
-The king himself invited her.
-
-591
-00:58:48,608 --> 00:58:51,111
-Come on! Let's go!
-
-592
-00:58:51,945 --> 00:58:55,532
-Don't give up now!
-Are you a witch or aren't you?
-
-593
-00:58:57,617 --> 00:58:59,745
-Just shut up.
-
-594
-00:59:02,122 --> 00:59:04,332
-What happened?
-You look so much older.
-
-595
-00:59:05,667 --> 00:59:09,087
-Mrs. Pendragon
-and the Witch of the Waste!
-
-596
-00:59:10,380 --> 00:59:14,384
-Pull yourself together.
-Isn't this what you've been waiting for?
-
-597
-00:59:17,220 --> 00:59:20,557
-Mrs. Pendragon
-and the Witch of the Waste!
-
-598
-00:59:20,640 --> 00:59:24,561
-Your name's Pendragon?
-Why does that name sound so familiar?
-
-599
-00:59:24,644 --> 00:59:27,272
-Uh, because that was
-the name of my tacky hat shop,
-
-600
-00:59:27,355 --> 00:59:29,983
--don't you remember?
-- Is that what it was?
-
-601
-00:59:30,150 --> 00:59:32,986
-Wait in here, please.
-
-602
-00:59:39,159 --> 00:59:42,662
-A chair! It's mine!
-
-603
-00:59:53,423 --> 00:59:56,510
-Howl, get back here.
-
-604
-01:00:02,349 --> 01:00:03,391
-Oh!
-
-605
-01:00:03,892 --> 01:00:05,477
-This way please, ma'am.
-
 606
-01:00:13,693 --> 01:00:14,820
-Huh?
+00:56:05,192 --> 00:56:09,485
+Using her magic to force me to
+climb all those godforsaken stairs.
 
 607
-01:00:43,974 --> 01:00:46,268
-Thank you, Madame Suliman.
+00:56:20,544 --> 00:56:24,766
+Come on, Howl. We can do this, just act natural.
 
 608
-01:00:46,560 --> 01:00:48,603
-Madame Suliman.
+00:56:35,017 --> 00:56:36,015
+Oh!
 
 609
-01:01:05,871 --> 01:01:07,914
-So, you are Howl's mother, are you?
+00:56:48,655 --> 00:56:51,397
+Howl, why are you so heavy?
 
 610
-01:01:08,582 --> 01:01:11,001
-Yes, I'm Mrs. Pendragon.
+00:57:01,018 --> 00:57:05,093
+Wait. Help. I can't make it.
 
 611
-01:01:11,376 --> 01:01:13,920
-You must be tired. Please have a seat.
+00:57:05,449 --> 00:57:06,857
+What'd you say?
 
 612
-01:01:14,129 --> 01:01:15,797
-Thank you.
+00:57:07,551 --> 00:57:11,441
+You suddenly remembered how to
+break the spell you put on me?
 
 613
-01:01:25,182 --> 01:01:28,935
-I am Madame Suliman,
-His Majesty's head sorceress.
+00:57:11,536 --> 00:57:15,135
+I told you. I don't know how.
 
 614
-01:01:29,686 --> 01:01:30,770
-Hmm.
+00:57:16,201 --> 00:57:18,153
+Then start studying.
 
 615
-01:01:35,108 --> 01:01:36,484
-That's not your dog, is it?
+00:57:23,267 --> 00:57:24,344
+I don't get it.
 
 616
-01:01:36,943 --> 01:01:42,324
-His name is Heen. He's my errand dog.
-I had him escort you here.
+00:57:25,233 --> 00:57:28,206
+Where does she get all that energy?
 
 617
-01:01:44,284 --> 01:01:45,327
-Oh.
+00:57:35,570 --> 00:57:37,556
+I have to rest a bit.
 
 618
-01:01:46,620 --> 01:01:48,830
-I take it Howl won't be joining us?
+00:57:45,003 --> 00:57:49,085
+Why don't you just give up? You're killing yourself.
 
 619
-01:01:50,290 --> 01:01:53,210
-He's such a lazy son,
-he sent me instead.
+00:57:49,125 --> 00:57:54,019
+I've waited for 50 years now to be invited here.
 
 620
-01:01:53,293 --> 01:01:56,338
-I'm afraid the king would
-find him completely useless.
+00:57:54,537 --> 00:57:59,470
+Ever since that Suliman banished me to live in the Wastes.
 
 621
-01:01:57,672 --> 01:02:00,217
-I am very sorry to hear that.
+00:57:59,549 --> 00:58:00,884
+Well, good luck, then.
 
 622
-01:02:00,300 --> 01:02:04,054
-Howl was the last apprentice
-I ever took on.
+00:58:01,019 --> 00:58:04,348
+Too bad I'm not younger, or I'd lend you a hand.
 
 623
-01:02:04,554 --> 01:02:07,641
-I'd never seen such a gifted student.
+00:58:05,056 --> 00:58:06,376
+Come on, Howl.
 
 624
-01:02:07,807 --> 01:02:10,310
-I was so thrilled
-to have finally found someone
+00:58:07,818 --> 00:58:12,713
+You cold-hearted old hag. Next
+time, I'll turn you senile, too.
 
 625
-01:02:10,393 --> 01:02:12,896
-talented enough to replace me.
+00:58:33,648 --> 00:58:35,785
+Almost there!
 
 626
-01:02:13,980 --> 01:02:16,816
-Then, one day,
-his heart was stolen by a demon.
+00:58:36,263 --> 00:58:38,590
+Honored guest, please follow me.
 
 627
-01:02:16,900 --> 01:02:19,194
-He never returned
-to complete his apprenticeship.
+00:58:39,141 --> 00:58:41,641
+You should go help her get up these stairs.
 
 628
-01:02:19,277 --> 01:02:20,278
-And from that day forward,
+00:58:41,768 --> 00:58:44,905
+I am strictly forbidden to offer such assistance.
 
 629
-01:02:20,362 --> 01:02:24,157
-he has been using his magic
-for entirely selfish reasons.
+00:58:45,147 --> 00:58:48,289
+Why? That's so rude. The king himself invited her.
 
 630
-01:02:25,784 --> 01:02:27,661
-- Mrs. Pendragon.
-- Yes?
+00:58:48,608 --> 00:58:51,523
+Come on! Let's go!
 
 631
-01:02:27,786 --> 01:02:29,746
-That boy is extremely dangerous.
+00:58:51,993 --> 00:58:55,532
+Don't give up now! Are you a witch or aren't you?
 
 632
-01:02:29,829 --> 01:02:32,666
-His powers are far too great
-for someone without a heart.
+00:58:57,608 --> 00:58:59,045
+Just shut up.
 
 633
-01:02:35,043 --> 01:02:36,544
-If he stays selfish,
+00:59:02,122 --> 00:59:04,735
+What happened? You look so much older.
 
 634
-01:02:36,628 --> 01:02:39,506
-I'm afraid he'll end up
-just like the Witch of the Waste.
+00:59:05,667 --> 00:59:08,820
+Mrs. Pendragon and the Witch of the Waste!
 
 635
-01:02:39,589 --> 01:02:40,924
-Send her in.
+00:59:10,316 --> 00:59:13,563
+Pull yourself together. Isn't
+this what you've been waiting for?
 
 636
-01:02:46,972 --> 01:02:48,640
-What on earth happened to you?
+00:59:17,220 --> 00:59:20,563
+Mrs. Pendragon and the Witch of the Waste!
 
 637
-01:02:50,517 --> 01:02:53,645
-I just restored her
-to the age she actually is.
+00:59:20,640 --> 00:59:24,615
+Your name's Pendragon? Why
+does that name sound so familiar?
 
 638
-01:02:53,728 --> 01:02:55,563
-All her powers are gone now.
+00:59:24,805 --> 00:59:27,411
+Uh, because that was the name of my tacky hat shop,
 
 639
-01:02:55,897 --> 01:02:59,943
+00:59:27,436 --> 00:59:28,500
+don't you remember?
+
+640
+00:59:28,637 --> 00:59:30,065
+Is that what it was?
+
+641
+00:59:30,150 --> 00:59:32,503
+Wait in here, please.
+
+642
+00:59:39,095 --> 00:59:42,165
+A chair! It's mine!
+
+643
+00:59:53,513 --> 00:59:55,743
+Howl, get back here.
+
+644
+01:00:02,465 --> 01:00:03,346
+Oh!
+
+645
+01:00:03,919 --> 01:00:05,308
+This way please, ma'am.
+
+646
+01:00:13,502 --> 01:00:14,456
+Huh?
+
+647
+01:00:43,974 --> 01:00:45,649
+Thank you, Madame Suliman.
+
+648
+01:00:46,528 --> 01:00:47,682
+Madame Suliman.
+
+649
+01:01:05,797 --> 01:01:08,052
+So, you are Howl's mother, are you?
+
+650
+01:01:08,645 --> 01:01:11,143
+Yes, I'm Mrs. Pendragon.
+
+651
+01:01:11,383 --> 01:01:13,947
+You must be tired. Please have a seat.
+
+652
+01:01:14,033 --> 01:01:15,139
+Thank you.
+
+653
+01:01:25,340 --> 01:01:29,050
+I am Madame Suliman, His Majesty's head sorceress.
+
+654
+01:01:29,686 --> 01:01:30,457
+Hmm.
+
+655
+01:01:35,057 --> 01:01:36,622
+That's not your dog, is it?
+
+656
+01:01:36,943 --> 01:01:42,612
+His name is Heen. He's my errand
+dog. I had him escort you here.
+
+657
+01:01:44,331 --> 01:01:45,374
+Oh.
+
+658
+01:01:46,620 --> 01:01:48,976
+I take it Howl won't be joining us?
+
+659
+01:01:50,290 --> 01:01:53,210
+He's such a lazy son, he sent me instead.
+
+660
+01:01:53,282 --> 01:01:56,546
+I'm afraid the king would find him completely useless.
+
+661
+01:01:57,639 --> 01:01:59,836
+I am very sorry to hear that.
+
+662
+01:02:00,236 --> 01:02:03,332
+Howl was the last apprentice I ever took on.
+
+663
+01:02:04,554 --> 01:02:07,147
+I'd never seen such a gifted student.
+
+664
+01:02:07,807 --> 01:02:12,699
+I was so thrilled to have finally found
+someone talented enough to replace me.
+
+665
+01:02:13,980 --> 01:02:16,831
+Then, one day, his heart was stolen by a demon.
+
+666
+01:02:16,966 --> 01:02:19,178
+He never returned to complete his apprenticeship.
+
+667
+01:02:19,277 --> 01:02:24,004
+And from that day forward, he has been
+using his magic for entirely selfish reasons.
+
+668
+01:02:25,784 --> 01:02:27,127
+Mrs. Pendragon.
+
+669
+01:02:27,152 --> 01:02:27,611
+Yes?
+
+670
+01:02:27,786 --> 01:02:29,822
+That boy is extremely dangerous.
+
+671
+01:02:29,877 --> 01:02:32,840
+His powers are far too great for someone without a heart.
+
+672
+01:02:35,143 --> 01:02:36,597
+If he stays selfish,
+
+673
+01:02:36,628 --> 01:02:39,506
+I'm afraid he'll end up just like the Witch of the Waste.
+
+674
+01:02:39,608 --> 01:02:40,704
+Send her in.
+
+675
+01:02:46,925 --> 01:02:48,736
+What on earth happened to you?
+
+676
+01:02:50,517 --> 01:02:53,504
+I just restored her to the age she actually is.
+
+677
+01:02:53,671 --> 01:02:55,618
+All her powers are gone now.
+
+678
+01:02:55,897 --> 01:03:00,170
 Once, she, too, was a magnificent
 sorcerer with so much promise.
 
-640
-01:03:00,402 --> 01:03:03,280
-But then she fell prey
-to a demon of greed,
+679
+01:03:00,488 --> 01:03:06,225
+But then she fell prey to a demon of
+greed, who slowly consumed her, body and soul.
 
-641
-01:03:03,363 --> 01:03:06,449
-who slowly consumed her,
-body and soul.
+680
+01:03:06,550 --> 01:03:12,349
+Our kingdom can no longer afford to turn a
+blind eye to these disreputable witches and wizards.
 
-642
-01:03:06,574 --> 01:03:09,869
-Our kingdom can no longer
-afford to turn a blind eye
+681
+01:03:12,435 --> 01:03:16,543
+If Howl reports to me and vows to
+use his magic to serve the kingdom,
 
-643
-01:03:09,953 --> 01:03:12,330
-to these disreputable
-witches and wizards.
+682
+01:03:16,576 --> 01:03:19,063
+I will show him how to break from his demon.
 
-644
-01:03:12,414 --> 01:03:13,915
-If Howl reports to me
+683
+01:03:19,671 --> 01:03:23,401
+If not, I'll strip him of all his powers. Just like her.
 
-645
-01:03:13,999 --> 01:03:16,459
-and vows to use his magic
-to serve the kingdom,
-
-646
-01:03:16,543 --> 01:03:19,337
-I will show him
-how to break from his demon.
-
-647
-01:03:19,671 --> 01:03:23,466
-If not, I'll strip him of all his powers.
-Just like her.
-
-648
-01:03:24,592 --> 01:03:26,511
+684
+01:03:24,575 --> 01:03:26,141
 That is enough!
 
-649
+685
 01:03:27,053 --> 01:03:30,974
-Now I understand why Howl was
-so concerned about coming to see you.
+Now I understand why Howl was so
+concerned about coming to see you.
 
-650
-01:03:31,057 --> 01:03:32,267
+686
+01:03:31,088 --> 01:03:32,084
 It's a trap.
 
-651
-01:03:32,392 --> 01:03:35,478
-You lure people here
-with an invitation from the king,
+687
+01:03:32,328 --> 01:03:35,414
+You lure people here with an invitation from the king,
 
-652
-01:03:35,562 --> 01:03:38,273
-and then you strip them
-of all their powers.
+688
+01:03:35,541 --> 01:03:38,218
+and then you strip them of all their powers.
 
-653
+689
 01:03:38,440 --> 01:03:40,567
 Howl would never be so heartless.
 
-654
+690
 01:03:40,692 --> 01:03:42,652
 He may be selfish and cowardly,
 
-655
-01:03:42,736 --> 01:03:44,863
-and sometimes
-he's hard to understand,
+691
+01:03:42,736 --> 01:03:44,900
+and sometimes he's hard to understand,
 
-656
-01:03:44,946 --> 01:03:48,325
-but his intentions are good.
-He just wants to be free.
+692
+01:03:44,946 --> 01:03:48,404
+but his intentions are good. He just wants to be free.
 
-657
-01:03:48,575 --> 01:03:51,453
-Howl won't come here.
-He doesn't need your help.
+693
+01:03:48,527 --> 01:03:51,240
+Howl won't come here. He doesn't need your help.
 
-658
-01:03:51,536 --> 01:03:54,122
-He can fix his problem
-with his demon on his own.
+694
+01:03:51,487 --> 01:03:54,188
+He can fix his problem with his demon on his own.
 
-659
-01:03:54,247 --> 01:03:56,291
+695
+01:03:54,247 --> 01:03:55,777
 I am certain of it.
 
-660
-01:03:56,916 --> 01:03:59,753
-Now I understand.
-You're in love with Howl.
+696
+01:03:56,908 --> 01:03:59,745
+Now I understand. You're in love with Howl.
 
-661
-01:03:59,836 --> 01:04:03,465
+697
+01:04:00,520 --> 01:04:03,363
 Howl? Did you say Howl's coming?
 
-662
-01:04:03,590 --> 01:04:06,593
-I want his heart,
-his heart belongs to me!
+698
+01:04:03,526 --> 01:04:06,416
+I want his heart, his heart belongs to me!
 
-663
-01:04:06,843 --> 01:04:08,845
+699
+01:04:06,892 --> 01:04:08,886
 Stop that, just calm down.
 
-664
-01:04:08,928 --> 01:04:11,431
+700
+01:04:08,928 --> 01:04:11,214
 Howl is not coming here, okay?
 
-665
-01:04:12,015 --> 01:04:14,309
+701
+01:04:12,015 --> 01:04:13,811
 Oh, I think he will.
 
-666
-01:04:14,392 --> 01:04:18,438
-I now know his weakness,
-Mrs. Pendragon.
+702
+01:04:14,392 --> 01:04:17,641
+I now know his weakness, Mrs. Pendragon.
 
-667
-01:04:24,402 --> 01:04:27,113
-- Your Majesty.
-- As you were.
+703
+01:04:24,402 --> 01:04:25,595
+Your Majesty.
 
-668
-01:04:27,197 --> 01:04:28,990
+704
+01:04:25,620 --> 01:04:26,579
+As you were.
+
+705
+01:04:27,157 --> 01:04:28,950
 So, then, how are you feeling?
 
-669
-01:04:29,074 --> 01:04:30,241
+706
+01:04:28,975 --> 01:04:30,322
 I'm fine, thank you.
 
-670
-01:04:30,367 --> 01:04:31,701
+707
+01:04:30,367 --> 01:04:31,617
 Thought I'd drop by,
 
-671
-01:04:31,785 --> 01:04:33,787
-rather than sit through
-a dull war meeting.
+708
+01:04:31,729 --> 01:04:33,976
+rather than sit through a dull war meeting.
 
-672
-01:04:34,162 --> 01:04:37,624
-- What an honor.
-- Who are your guests?
+709
+01:04:34,122 --> 01:04:35,708
+What an honor.
 
-673
-01:04:37,707 --> 01:04:40,085
+710
+01:04:35,813 --> 01:04:37,400
+Who are your guests?
+
+711
+01:04:37,674 --> 01:04:40,094
 This is Howl's mother, Mrs. Pendragon.
 
-674
-01:04:40,168 --> 01:04:41,294
+712
+01:04:40,168 --> 01:04:41,015
 Ah.
 
-675
-01:04:45,507 --> 01:04:46,716
+713
+01:04:45,499 --> 01:04:46,708
 Thanks for coming.
 
-676
-01:04:46,800 --> 01:04:50,053
-But I've decided not
-to use magic to win this war.
+714
+01:04:46,800 --> 01:04:49,921
+But I've decided not to use magic to win this war.
 
-677
-01:04:50,303 --> 01:04:52,639
-We have tried using
-Madame Suliman's magic
+715
+01:04:50,357 --> 01:04:55,196
+We have tried using Madame Suliman's magic
+to shield our palace from the enemy's bombs.
 
-678
-01:04:52,722 --> 01:04:55,141
-to shield our palace
-from the enemy's bombs.
+716
+01:04:55,284 --> 01:04:57,753
+But the bombs fall on civilian homes instead.
 
-679
-01:04:55,308 --> 01:04:57,894
-But the bombs fall
-on civilian homes instead.
+717
+01:04:57,850 --> 01:05:00,615
+That's the problem with magic. Right, Suliman?
 
-680
-01:04:57,977 --> 01:05:00,730
-That's the problem with magic.
-Right, Suliman?
-
-681
-01:05:00,814 --> 01:05:02,857
+718
+01:05:00,773 --> 01:05:03,061
 You're so eloquent today, Your Majesty.
 
-682
-01:05:03,149 --> 01:05:04,818
+719
+01:05:03,117 --> 01:05:04,746
 Suliman!
 
-683
-01:05:07,487 --> 01:05:09,072
+720
+01:05:07,471 --> 01:05:09,056
 I've got a new battle plan.
 
-684
-01:05:09,155 --> 01:05:11,658
-This time we're going
-to beat them to a pulp.
+721
+01:05:09,081 --> 01:05:11,189
+This time we're going to beat them to a pulp.
 
-685
-01:05:11,741 --> 01:05:14,369
+722
+01:05:11,762 --> 01:05:12,368
 Um...
 
-686
+723
 01:05:14,702 --> 01:05:17,080
-Suliman, that's the best double
-you've made of me yet.
+Suliman, that's the best double you've made of me yet.
 
-687
+724
 01:05:17,163 --> 01:05:18,915
 Ha! Keep up the good work.
 
-688
-01:05:18,998 --> 01:05:20,083
+725
+01:05:18,998 --> 01:05:20,169
 Your Majesty.
 
-689
-01:05:20,625 --> 01:05:23,002
-- Get my generals assembled.
-- Sir.
+726
+01:05:20,593 --> 01:05:22,591
+- Get my generals assembled. - Sir.
 
-690
-01:05:26,339 --> 01:05:29,342
+727
+01:05:26,274 --> 01:05:28,733
 So nice to see you again, Howl.
 
-691
-01:05:29,426 --> 01:05:31,469
+728
+01:05:29,466 --> 01:05:31,509
 You're looking well, Madame Suliman.
 
-692
-01:05:31,594 --> 01:05:33,972
-Rather weak disguise.
-Didn't I teach you better?
+729
+01:05:31,570 --> 01:05:33,984
+Rather weak disguise. Didn't I teach you better?
 
-693
-01:05:34,055 --> 01:05:35,849
+730
+01:05:34,055 --> 01:05:35,890
 I'm not trying to outwit you.
 
-694
-01:05:35,974 --> 01:05:38,685
-I kept my oath,
-I reported when summoned.
+731
+01:05:35,925 --> 01:05:38,416
+I kept my oath, I reported when summoned.
 
-695
-01:05:38,768 --> 01:05:40,395
+732
+01:05:38,744 --> 01:05:40,546
 Now Mother and I will go.
 
-696
-01:05:40,603 --> 01:05:42,397
+733
+01:05:40,603 --> 01:05:42,174
 I'm afraid not.
 
-697
-01:06:03,793 --> 01:06:05,962
-Whatever you do, don't look down.
+734
+01:06:03,793 --> 01:06:06,121
+Now whatever you do, don't look down.
 
-698
-01:06:06,379 --> 01:06:10,675
-It's time to show your mother
-what you really are, Howl.
+735
+01:06:06,440 --> 01:06:09,958
+It's time to show your mother what you really are, Howl.
 
-699
-01:06:54,511 --> 01:06:55,595
+736
+01:06:54,322 --> 01:06:55,115
 Oh!
 
-700
-01:07:04,604 --> 01:07:07,106
+737
+01:07:04,604 --> 01:07:06,913
 Stop, Howl, it's a trap!
 
-701
-01:07:19,452 --> 01:07:21,412
+738
+01:07:19,332 --> 01:07:20,375
 Hold on.
 
-702
-01:07:28,628 --> 01:07:31,297
+739
+01:07:28,595 --> 01:07:30,533
 Sophie, sit up here.
 
-703
-01:07:32,090 --> 01:07:35,093
-Did you have to bring
-those two with you?
+740
+01:07:32,090 --> 01:07:34,482
+Did you have to bring those two with you?
 
-704
-01:07:36,886 --> 01:07:38,763
+741
+01:07:36,933 --> 01:07:38,810
 Nice doggie.
 
-705
-01:07:39,305 --> 01:07:42,809
-Hmm. I can't believe
-you work for Suliman.
+742
+01:07:39,305 --> 01:07:42,228
+Hmm. I can't believe you work for Suliman.
 
-706
-01:07:43,393 --> 01:07:45,311
+743
+01:07:43,393 --> 01:07:45,256
 I guess it's too late to toss him.
 
-707
-01:07:45,436 --> 01:07:47,480
-- Sophie. Take the wheel.
-- What?
+744
+01:07:45,436 --> 01:07:46,733
+Sophie. Take the wheel.
 
-708
-01:07:47,647 --> 01:07:50,984
-- I can't fly, are you kidding?
-- They're gaining on us.
+745
+01:07:46,758 --> 01:07:47,504
+What?
 
-709
+746
+01:07:47,647 --> 01:07:49,276
+I can't fly, are you kidding?
+
+747
+01:07:49,365 --> 01:07:50,944
+They're gaining on us.
+
+748
 01:07:55,780 --> 01:07:59,409
-I'll distract them, then you can
-fly back to my castle in the Wastes.
+I'll distract them, then you can fly
+this thing back to my castle in the Wastes.
 
-710
-01:07:59,492 --> 01:08:01,160
+749
+01:07:59,468 --> 01:08:01,261
 How? I don't know the way.
 
-711
+750
 01:08:01,286 --> 01:08:04,163
-Hey, don't worry. The ring that
-I gave you will guide you back home.
+Hey, don't worry. The ring that I
+gave you will guide you back home.
 
-712
-01:08:04,247 --> 01:08:06,874
-All you have to do
-is summon Calcifer with your heart.
+751
+01:08:04,247 --> 01:08:06,699
+All you have to do is summon Calcifer with your heart.
 
-713
-01:08:07,000 --> 01:08:08,793
+752
+01:08:06,936 --> 01:08:08,026
 Calcifer?
 
-714
-01:08:12,005 --> 01:08:14,007
+753
+01:08:11,862 --> 01:08:12,761
 It's glowing.
 
-715
-01:08:14,215 --> 01:08:17,135
+754
+01:08:14,215 --> 01:08:17,251
 Just keep following that light
 and you should be there before dark.
 
-716
-01:08:17,218 --> 01:08:20,847
-I can't. Why did you make me
+755
+01:08:17,276 --> 01:08:20,764
+I can't do this. Why did you make me
 come here if you were coming yourself?
 
-717
-01:08:20,930 --> 01:08:23,224
-Knowing you'd be there
-gave me the courage to show up.
+756
+01:08:20,898 --> 01:08:23,283
+Knowing you'd be there gave me the courage to show up.
 
-718
-01:08:23,308 --> 01:08:26,060
-That woman terrifies me,
-I can't face her on my own.
+757
+01:08:23,308 --> 01:08:26,197
+That woman terrifies me, I can't face her on my own.
 
-719
-01:08:26,519 --> 01:08:31,274
-You saved me, Sophie.
-I was in big trouble back there.
+758
+01:08:26,618 --> 01:08:30,621
+You saved me, Sophie. I was in big trouble back there.
 
-720
-01:08:31,524 --> 01:08:34,485
+759
+01:08:31,551 --> 01:08:33,514
 Oh! Don't let go!
 
-721
-01:08:40,700 --> 01:08:43,411
-- Wow. You're good.
-- Are you nuts?
+760
+01:08:40,700 --> 01:08:41,975
+Wow. You're good.
 
-722
-01:08:44,871 --> 01:08:46,664
+761
+01:08:42,000 --> 01:08:43,135
+Are you nuts?
+
+762
+01:08:44,871 --> 01:08:46,479
 We've got a good lead now.
 
-723
-01:08:46,748 --> 01:08:49,792
-I can give you five minutes
-of invisibility, so use it wisely.
+763
+01:08:46,716 --> 01:08:49,982
+I can give you five minutes of
+invisibility, so use it wisely.
 
-724
-01:08:53,713 --> 01:08:56,674
-- Howl!
-- Good luck!
+764
+01:08:53,713 --> 01:08:55,005
+Howl!
 
-725
-01:08:57,383 --> 01:08:58,384
+765
+01:08:55,109 --> 01:08:56,777
+Good luck!
+
+766
+01:08:57,383 --> 01:08:58,516
 Oh!
 
-726
-01:09:06,976 --> 01:09:09,479
+767
+01:09:06,976 --> 01:09:08,606
 No, not now.
 
-727
-01:09:09,604 --> 01:09:12,899
-Oh, thank you.
-That was the most fun I've had in ages.
+768
+01:09:09,555 --> 01:09:13,041
+Oh, thank you. That was the most fun I've had in ages.
 
-728
-01:09:13,066 --> 01:09:15,985
+769
+01:09:13,066 --> 01:09:15,684
 I suppose Howl thinks he's evaded me.
 
-729
-01:09:16,110 --> 01:09:19,280
-Hmm. I bet his mother
-can help me find him.
+770
+01:09:16,110 --> 01:09:19,403
+Hmm. I bet his mother can help me find him.
 
-730
-01:09:36,547 --> 01:09:37,548
+771
+01:09:36,781 --> 01:09:37,548
 Go!
 
-731
-01:09:39,967 --> 01:09:41,052
+772
+01:09:39,927 --> 01:09:40,776
 Huh?
 
-732
-01:10:10,123 --> 01:10:13,376
-Almost there.
-That's my hometown below us.
+773
+01:10:10,082 --> 01:10:13,166
+Almost there. That's my hometown below us.
 
-733
-01:10:15,795 --> 01:10:19,340
-Don't try to be cute, dog.
-I'm still not going to trust you.
+774
+01:10:15,795 --> 01:10:19,489
+Don't try to be cute, dog. I'm
+still not going to trust you.
 
-734
-01:10:43,281 --> 01:10:45,324
+775
+01:10:43,281 --> 01:10:45,471
 The castle is coming to meet us!
 
-735
-01:10:50,079 --> 01:10:52,373
+776
+01:10:50,079 --> 01:10:52,817
 Sophie! Here!
 
-736
-01:10:52,582 --> 01:10:56,377
-Markl, help me!
-How am I supposed to land this thing?
+777
+01:10:52,842 --> 01:10:56,426
+Michael, help me! How am I supposed to land this thing?
 
-737
-01:11:08,639 --> 01:11:10,850
+778
+01:11:08,567 --> 01:11:09,703
 Sophie!
 
-738
-01:11:11,017 --> 01:11:13,102
+779
+01:11:11,038 --> 01:11:12,379
 Nice doggie.
 
-739
-01:11:14,645 --> 01:11:15,730
-Markl!
+780
+01:11:14,527 --> 01:11:15,730
+Michael !
 
-740
-01:11:16,022 --> 01:11:17,940
+781
+01:11:16,082 --> 01:11:17,940
 I'm home.
 
-741
-01:11:18,191 --> 01:11:19,817
+782
+01:11:18,111 --> 01:11:19,443
 Are you hurt?
 
-742
-01:11:19,901 --> 01:11:21,027
+783
+01:11:19,845 --> 01:11:20,921
 <i>Whoa!</i>
 
-743
-01:11:21,235 --> 01:11:23,279
--I missed you.
-- missed you, too.
+784
+01:11:21,235 --> 01:11:22,288
+I missed you.
 
-744
-01:11:23,362 --> 01:11:25,448
+785
+01:11:22,313 --> 01:11:23,319
+I missed you, too.
+
+786
+01:11:23,362 --> 01:11:25,226
 Thanks for coming to meet us.
 
-745
-01:11:55,228 --> 01:11:58,397
-Oh, this is bad.
-You've gone too far, Howl.
+787
+01:11:55,402 --> 01:11:58,587
+Oh, this is bad. You've gone too far, Howl.
 
-746
-01:12:17,166 --> 01:12:19,710
+788
+01:12:17,157 --> 01:12:19,251
 I wonder if Howl's back home.
 
-747
-01:13:14,098 --> 01:13:15,975
+789
+01:13:14,011 --> 01:13:14,972
 Howl?
 
-748
-01:14:17,370 --> 01:14:19,080
+790
+01:14:17,338 --> 01:14:19,522
 Howl, is that you?
 
-749
-01:14:22,333 --> 01:14:24,460
-Are you in pain?
-Tell me what's happening.
+791
+01:14:22,333 --> 01:14:24,640
+Are you in pain? Tell me what's happening.
 
-750
-01:14:25,503 --> 01:14:27,421
+792
+01:14:25,503 --> 01:14:27,062
 Go away.
 
-751
+793
 01:14:27,546 --> 01:14:29,340
 No, I'm not going away.
 
-752
-01:14:29,423 --> 01:14:31,759
-I'm going to help you break
-the spell that you're under.
+794
+01:14:29,423 --> 01:14:32,115
+I'm going to help you break the spell that you're under.
 
-753
-01:14:32,969 --> 01:14:36,347
-You... You can't
-even break your own spell.
+795
+01:14:32,989 --> 01:14:36,373
+You... You can't even break your own spell.
 
-754
-01:14:36,430 --> 01:14:41,477
-- But you don't understand. I love you.
-- You're too late.
+796
+01:14:36,430 --> 01:14:38,965
+But you don't understand. I love you.
 
-755
-01:14:45,064 --> 01:14:47,233
+797
+01:14:38,990 --> 01:14:40,752
+You're too late.
+
+798
+01:14:45,000 --> 01:14:46,685
 Howl! No!
 
-756
-01:14:59,453 --> 01:15:01,247
+799
+01:14:59,453 --> 01:15:01,305
 Calcifer, did Howl just get in?
 
-757
-01:15:01,330 --> 01:15:03,040
+800
+01:15:01,330 --> 01:15:02,870
 Yeah, and he looks terrible.
 
-758
-01:15:03,165 --> 01:15:05,751
-You better figure out how
-to break the spell on us quick.
+801
+01:15:03,165 --> 01:15:05,809
+You better figure out how to break the spell on us quick.
 
-759
-01:15:06,085 --> 01:15:08,421
-Howl's running out of time,
-I hope you realize that.
+802
+01:15:06,044 --> 01:15:08,646
+Howl's running out of time, I hope you realize that.
 
-760
-01:15:08,671 --> 01:15:11,048
-You mean he'll become a monster.
-Is that it?
+803
+01:15:08,671 --> 01:15:11,158
+You mean he'll become a monster. Is that it?
 
-761
-01:15:11,132 --> 01:15:15,052
-I can't tell you details of the curse, lady.
-You should know that by now.
+804
+01:15:11,206 --> 01:15:14,819
+I can't tell you details of the
+curse, lady. You should know that by now.
 
-762
-01:15:16,846 --> 01:15:19,098
-Do you know
-what Madame Suliman said?
+805
+01:15:16,846 --> 01:15:18,815
+Do you know what Madame Suliman said?
 
-763
-01:15:19,181 --> 01:15:22,226
-She said that Howl's heart
-was stolen by a demon.
+806
+01:15:19,140 --> 01:15:22,185
+She said that Howl's heart was stolen by a demon.
 
-764
-01:15:22,309 --> 01:15:24,020
+807
+01:15:22,309 --> 01:15:24,078
 Tell me now. What do you know?
 
-765
-01:15:24,103 --> 01:15:27,314
-I'm so sorry, but that would
-be confidential information.
+808
+01:15:24,103 --> 01:15:27,355
+I'm so sorry, but that would be confidential information.
 
-766
-01:15:27,398 --> 01:15:30,067
-What if I dump a bucket
-of water on you?
+809
+01:15:27,398 --> 01:15:29,874
+What if I dump a bucket of water on you?
 
-767
-01:15:30,151 --> 01:15:32,737
+810
+01:15:30,103 --> 01:15:32,846
 If you drown me, then Howl will die, too!
 
-768
-01:15:52,465 --> 01:15:55,968
-Hi, Turnip-head.
-This isn't gonna be easy.
+811
+01:15:52,465 --> 01:15:55,903
+Hi, Turnip-head. This isn't gonna be easy.
 
-769
-01:15:59,138 --> 01:16:01,557
+812
+01:15:59,455 --> 01:16:01,703
 Okay. Ready!
 
-770
-01:16:01,807 --> 01:16:05,227
-Calcifer, open it wider.
+813
+01:16:01,807 --> 01:16:05,374
+All right! Calcifer, open it wider.
 
-771
-01:16:05,811 --> 01:16:08,189
+814
+01:16:05,882 --> 01:16:08,050
 Here we go!
 
-772
-01:16:20,618 --> 01:16:23,871
+815
+01:16:20,538 --> 01:16:23,311
 I said move!
 
-773
-01:16:23,996 --> 01:16:25,164
+816
+01:16:23,828 --> 01:16:24,535
 Ow!
 
-774
-01:16:25,498 --> 01:16:26,916
+817
+01:16:25,402 --> 01:16:26,872
 Oh! Oh!
 
-775
-01:16:46,977 --> 01:16:51,398
-If I just hang a little curtain here,
-maybe Howl won't notice.
+818
+01:16:47,030 --> 01:16:50,842
+If I just hang a little curtain
+here, maybe Howl won't notice.
 
-776
-01:16:53,192 --> 01:16:55,653
+819
+01:16:53,192 --> 01:16:55,790
 Come on in, it's time to eat.
 
-777
-01:17:01,492 --> 01:17:03,828
+820
+01:17:01,492 --> 01:17:03,498
 Here. Want some more?
 
-778
-01:17:04,703 --> 01:17:07,456
-Don't feed her!
-That's the Witch of the Waste!
+821
+01:17:04,802 --> 01:17:07,272
+Don't feed her! That's the Witch of the Waste!
 
-779
-01:17:07,540 --> 01:17:09,125
+822
+01:17:07,540 --> 01:17:09,050
 Oh, she's all right.
 
-780
-01:17:09,208 --> 01:17:11,836
-She keeps staring at me.
-It's freaking me out.
+823
+01:17:09,208 --> 01:17:11,665
+She keeps staring at me. It's freaking me out.
 
-781
-01:17:11,919 --> 01:17:14,213
+824
+01:17:11,903 --> 01:17:13,976
 What a pretty fire.
 
-782
-01:17:16,841 --> 01:17:19,135
-- Howl! Hello.
-- Good morning, everyone.
+825
+01:17:16,841 --> 01:17:18,212
+Howl! Hello.
 
-783
-01:17:19,218 --> 01:17:20,344
+826
+01:17:18,237 --> 01:17:19,193
+Good morning, everyone.
+
+827
+01:17:19,249 --> 01:17:20,375
 Glad you're home.
 
-784
-01:17:20,427 --> 01:17:22,513
-Master Howl,
-we can keep this dog, can't we?
+828
+01:17:20,403 --> 01:17:22,691
+Master Howl, we can keep this dog, can't we?
 
-785
-01:17:22,888 --> 01:17:25,808
-The Witch of the Waste
-and Suliman's dog at my table.
+829
+01:17:22,864 --> 01:17:25,711
+The Witch of the Waste and Suliman's dog at my table.
 
-786
-01:17:25,891 --> 01:17:28,519
-What possessed you
-to let them in the house, Calcifer?
+830
+01:17:25,891 --> 01:17:28,611
+What possessed you to let them in the house, Calcifer?
 
-787
-01:17:28,769 --> 01:17:30,104
+831
+01:17:28,769 --> 01:17:30,145
 I didn't let them in.
 
-788
-01:17:30,187 --> 01:17:32,731
-Sophie crash-landed her plane
-into my face.
+832
+01:17:30,187 --> 01:17:33,083
+Sophie crash-landed her plane into my face.
 
-789
-01:17:35,609 --> 01:17:37,570
+833
+01:17:35,664 --> 01:17:37,570
 I knew she'd make a great pilot.
 
-790
-01:17:38,070 --> 01:17:41,198
-Looks like we have yet
-another addition to the family.
+834
+01:17:38,202 --> 01:17:41,029
+Looks like we have yet another addition to the family.
 
-791
-01:17:41,740 --> 01:17:45,035
-Hmm, you've got quite
-a nasty spell on you, too.
+835
+01:17:41,740 --> 01:17:45,073
+Hmm, you've got quite a nasty spell on you, too.
 
-792
-01:17:45,703 --> 01:17:47,997
-It seems everyone in this family's
-got problems.
+836
+01:17:45,789 --> 01:17:48,021
+Seems everyone in this family's got problems.
 
-793
+837
 01:17:48,080 --> 01:17:50,416
 What a handsome man.
 
-794
-01:17:50,875 --> 01:17:54,003
-So, we've got a lot of work to do.
-We're moving.
-
-795
-01:17:54,420 --> 01:17:55,921
-- Moving?
-- That's good.
-
-796
-01:17:56,005 --> 01:17:58,591
-I'm sick of being stuck out here
-in the middle of nowhere.
-
-797
-01:17:58,799 --> 01:18:02,428
-Madame Suliman is hot on our trail,
-so we're gonna have to hurry.
-
-798
-01:18:02,511 --> 01:18:05,181
-I'm afraid your spell
-is too strong for this move.
-
-799
-01:18:05,264 --> 01:18:06,765
-You're gonna have to stay behind.
-
-800
-01:18:12,813 --> 01:18:14,565
-There. All done.
-
-801
-01:18:15,191 --> 01:18:18,485
-All right, Calcifer, line her up.
-
-802
-01:18:31,957 --> 01:18:35,628
-There. That should do it.
-Sit tight for a second.
-
-803
-01:18:38,839 --> 01:18:41,300
-Be gentle with me, please.
-
-804
-01:18:44,136 --> 01:18:45,638
-On my mark.
-
-805
-01:19:30,182 --> 01:19:32,893
-Moving's done. You can get down now.
-
-806
-01:19:35,062 --> 01:19:37,398
-This is great, Master Howl! It's huge!
-
-807
-01:19:37,648 --> 01:19:40,818
-Oh, what a pretty fire.
-
-808
-01:19:54,707 --> 01:19:57,501
-- But this is...
-- I added on a bathroom,
-
-809
-01:19:57,584 --> 01:20:00,379
-since our family seems to keep growing.
-
-810
-01:20:00,462 --> 01:20:02,631
-Come over here, Sophie.
-
-811
-01:20:06,218 --> 01:20:08,512
-I added another bedroom, too.
-
-812
-01:20:08,595 --> 01:20:09,722
-Have a look.
-
-813
-01:20:16,228 --> 01:20:17,313
-Oh.
-
-814
-01:20:19,940 --> 01:20:21,692
-Why'd you do this?
-
-815
-01:20:21,900 --> 01:20:25,070
-So we'd have a room that suited you.
-Do you like it?
-
-816
-01:20:26,739 --> 01:20:30,034
-Of course.
-It's perfect for a cleaning lady.
-
-817
-01:20:30,117 --> 01:20:33,120
-I got you some new clothes, too.
-But you can open them later.
-
-818
-01:20:34,413 --> 01:20:36,248
-Come on, Sophie. Look at this.
-
-819
-01:20:37,124 --> 01:20:41,211
-- All right, a courtyard!
-- That shop's ours, too.
-
-820
-01:20:41,420 --> 01:20:43,005
-Heen! Come on!
-
-821
-01:20:43,297 --> 01:20:47,885
-See that new color on the dial?
-There's a new portal.
-
-822
-01:20:50,054 --> 01:20:52,806
-It's a present for you. Come see.
-
-823
-01:21:01,857 --> 01:21:03,025
-Oh!
-
-824
-01:21:17,956 --> 01:21:20,459
-You like it? It's my secret garden.
-
-825
-01:21:20,542 --> 01:21:22,628
-It's incredible.
-
-826
-01:21:23,837 --> 01:21:27,091
-Did you use your magic to make this?
-
-827
-01:21:27,216 --> 01:21:30,302
-Only a little,
-just to help the flowers grow.
-
-828
-01:21:38,769 --> 01:21:41,313
-This place is gorgeous, Howl!
-
-829
-01:21:41,480 --> 01:21:43,315
-It's like a dream.
-
-830
-01:22:06,588 --> 01:22:08,507
-Sophie?
-
-831
-01:22:08,632 --> 01:22:13,053
-It all seems so familiar,
-yet I know I've never been here before.
-
-832
-01:22:13,178 --> 01:22:15,472
-I feel so at home.
-
-833
-01:22:15,597 --> 01:22:18,016
-- Come with me.
-- Okay.
-
-834
-01:22:25,190 --> 01:22:27,693
-Look there.
-
-835
-01:22:31,697 --> 01:22:33,240
-What a cute cottage.
-
-836
-01:22:33,323 --> 01:22:35,492
-That was my secret hideaway.
-
-837
-01:22:35,701 --> 01:22:38,745
-I spent a lot of time here
-by myself when I was young.
-
 838
-01:22:41,331 --> 01:22:42,708
-You were alone?
+01:17:50,875 --> 01:17:54,178
+So, we've got a lot of work to do. We're moving.
 
 839
-01:22:42,916 --> 01:22:47,296
-My uncle, who was a wizard,
-gave me this place as my private study.
+01:17:54,481 --> 01:17:55,347
+Moving?
 
 840
-01:22:47,379 --> 01:22:50,299
-Now you can come here
-whenever you like.
+01:17:55,372 --> 01:17:56,020
+That's good.
 
 841
-01:22:53,719 --> 01:22:55,053
-What's the matter?
+01:17:56,045 --> 01:17:58,707
+I'm sick of being stuck out here in the middle of nowhere.
 
 842
-01:22:55,137 --> 01:22:57,306
-It's... You're scaring me.
+01:17:58,882 --> 01:18:02,330
+Madame Suliman is hot on our
+trail, so we're gonna have to hurry.
 
 843
-01:22:57,389 --> 01:22:59,558
-I have this weird feeling
-that you're going to leave.
+01:18:02,558 --> 01:18:05,181
+I'm afraid your spell is too strong for this move.
 
 844
-01:23:02,144 --> 01:23:07,608
-Howl, tell me what's going on. Please.
-I don't care if you're a monster.
+01:18:05,300 --> 01:18:06,890
+You're gonna have to stay behind.
 
 845
-01:23:12,988 --> 01:23:16,825
-I'm setting things up so that
-all of you can live comfortably.
+01:18:12,788 --> 01:18:14,661
+There. All done.
 
 846
-01:23:16,909 --> 01:23:18,869
-With all the flowers
-you've got in this valley,
+01:18:15,143 --> 01:18:18,266
+All right, Calcifer, line her up.
 
 847
-01:23:18,952 --> 01:23:21,371
-you could easily open up a flower shop.
+01:18:31,957 --> 01:18:35,039
+There. That should do it. Sit tight for a second.
 
 848
-01:23:21,580 --> 01:23:24,374
-Right? I'm sure you'd be good at it.
+01:18:38,839 --> 01:18:40,998
+Be gentle with me, please.
 
 849
-01:23:24,458 --> 01:23:26,710
-So, you are going away?
+01:18:44,167 --> 01:18:45,669
+On my mark.
 
 850
-01:23:28,003 --> 01:23:31,173
-Please, Howl,
-I know I can be of help to you.
+01:19:30,070 --> 01:19:32,705
+Moving's done. You can get down now.
 
 851
-01:23:31,256 --> 01:23:35,469
+01:19:35,062 --> 01:19:37,534
+This is great, Master Howl! It's huge!
+
+852
+01:19:37,623 --> 01:19:40,720
+Oh, what a pretty fire.
+
+853
+01:19:54,707 --> 01:19:55,927
+But this is...
+
+854
+01:19:56,016 --> 01:19:57,493
+I added on a bathroom,
+
+855
+01:19:57,584 --> 01:19:59,827
+since our family seems to keep growing.
+
+856
+01:20:00,390 --> 01:20:01,876
+Come over here, Sophie.
+
+857
+01:20:06,218 --> 01:20:08,137
+I added another bedroom, too.
+
+858
+01:20:08,595 --> 01:20:09,639
+Have a look.
+
+859
+01:20:16,330 --> 01:20:17,036
+Oh.
+
+860
+01:20:19,908 --> 01:20:21,755
+Why'd you do this?
+
+861
+01:20:21,900 --> 01:20:25,259
+So we'd have a room that suited you. Do you like it?
+
+862
+01:20:26,667 --> 01:20:29,962
+Of course. It's perfect for a cleaning lady.
+
+863
+01:20:30,061 --> 01:20:33,425
+I got you some new clothes,
+too. But you can open them later.
+
+864
+01:20:34,357 --> 01:20:36,588
+Come on, Sophie. Look at this.
+
+865
+01:20:37,124 --> 01:20:38,749
+All right, a courtyard!
+
+866
+01:20:38,774 --> 01:20:40,775
+That shop's ours, too.
+
+867
+01:20:41,308 --> 01:20:42,649
+Heen! Come on!
+
+868
+01:20:43,297 --> 01:20:46,775
+See that new color on the dial? There's a new portal.
+
+869
+01:20:50,054 --> 01:20:52,542
+It's a present for you. Come see.
+
+870
+01:21:01,857 --> 01:21:02,649
+Oh!
+
+871
+01:21:17,956 --> 01:21:19,833
+You like it? It's my secret garden.
+
+872
+01:21:20,422 --> 01:21:22,135
+It's incredible.
+
+873
+01:21:23,813 --> 01:21:26,777
+Did you use your magic to make this?
+
+874
+01:21:27,216 --> 01:21:29,995
+Only a little, just to help the flowers grow.
+
+875
+01:21:38,769 --> 01:21:41,117
+This place is gorgeous, Howl!
+
+876
+01:21:41,480 --> 01:21:42,935
+It's like a dream.
+
+877
+01:22:06,588 --> 01:22:07,255
+Sophie?
+
+878
+01:22:08,632 --> 01:22:12,578
+It all seems so familiar, yet I
+know I've never been here before.
+
+879
+01:22:13,178 --> 01:22:15,247
+I feel so at home.
+
+880
+01:22:15,597 --> 01:22:16,362
+Come with me.
+
+881
+01:22:16,387 --> 01:22:17,123
+Okay.
+
+882
+01:22:25,190 --> 01:22:26,038
+Look there.
+
+883
+01:22:31,783 --> 01:22:33,298
+What a cute cottage.
+
+884
+01:22:33,323 --> 01:22:35,325
+That was my secret hideaway.
+
+885
+01:22:35,701 --> 01:22:38,661
+I spent a lot of time here by myself when I was young.
+
+886
+01:22:41,299 --> 01:22:42,676
+You were alone?
+
+887
+01:22:42,860 --> 01:22:47,146
+My uncle, who was a wizard, gave
+me this place as my private study.
+
+888
+01:22:47,300 --> 01:22:49,650
+Now you can come here whenever you like.
+
+889
+01:22:53,719 --> 01:22:54,711
+What's the matter?
+
+890
+01:22:55,213 --> 01:22:57,357
+It's... You're scaring me.
+
+891
+01:22:57,389 --> 01:22:59,891
+I have this weird feeling that you're going to leave.
+
+892
+01:23:02,144 --> 01:23:07,608
+Howl, tell me what's going on.
+Please. I don't care if you're a monster.
+
+893
+01:23:12,988 --> 01:23:16,648
+I'm setting things up so that all of
+you can live a comfortable life. Sophie
+
+894
+01:23:16,909 --> 01:23:21,279
+With all the flowers you've got in this
+valley, you could easily open up a flower shop.
+
+895
+01:23:21,580 --> 01:23:24,004
+Right? I'm sure you'd be good at it.
+
+896
+01:23:24,458 --> 01:23:26,363
+So, you are going away.
+
+897
+01:23:28,003 --> 01:23:30,837
+Please, Howl, I know I can be of help to you.
+
+898
+01:23:31,240 --> 01:23:35,261
 Even though I'm not pretty,
 and all I'm good at is cleaning.
 
-852
-01:23:35,594 --> 01:23:38,639
+899
+01:23:35,554 --> 01:23:37,875
 Sophie! Sophie, you're beautiful!
 
-853
-01:23:42,267 --> 01:23:46,188
-Well, the nice thing about being old
-is you've got nothing much to lose.
+900
+01:23:42,559 --> 01:23:46,534
+Well, the nice thing about being
+old is you've got nothing much to lose.
 
-854
-01:23:48,899 --> 01:23:49,983
+901
+01:23:48,903 --> 01:23:49,371
 Hmm?
 
-855
-01:23:59,660 --> 01:24:02,579
-- What is that thing doing out here?
-- A battleship?
+902
+01:23:59,660 --> 01:24:01,570
+What is that thing doing out here?
 
-856
-01:24:02,663 --> 01:24:04,289
+903
+01:24:01,595 --> 01:24:02,627
+A battleship?
+
+904
+01:24:02,652 --> 01:24:04,627
 Still looking for more cities to burn.
 
-857
-01:24:04,581 --> 01:24:06,542
+905
+01:24:04,652 --> 01:24:06,600
 Is it the enemy's or one of ours?
 
-858
+906
 01:24:06,625 --> 01:24:08,293
 What difference does it make?
 
-859
-01:24:20,639 --> 01:24:22,474
+907
+01:24:20,694 --> 01:24:22,465
 Those stupid murderers.
 
-860
-01:24:29,022 --> 01:24:32,276
-We can't just let them
-fly off with all those bombs.
+908
+01:24:29,022 --> 01:24:32,015
+We can't just let them fly off with all those bombs.
 
-861
-01:24:48,000 --> 01:24:51,086
+909
+01:24:47,984 --> 01:24:50,908
 What's happening? What did you do?
 
-862
-01:24:51,169 --> 01:24:53,797
-Just messed with it.
-It won't crash, though.
+910
+01:24:51,097 --> 01:24:53,449
+Just messed with it. It won't crash, though.
 
-863
-01:24:55,340 --> 01:24:56,383
+911
+01:24:55,291 --> 01:24:56,206
 Oh!
 
-864
-01:24:57,384 --> 01:24:58,510
+912
+01:24:57,384 --> 01:24:58,415
 Howl!
 
-865
+913
 01:24:58,594 --> 01:25:01,013
 Uh-oh. Here they come.
 
-866
-01:25:10,397 --> 01:25:13,734
-Those things are Suliman's henchmen.
-Let's go.
+914
+01:25:10,469 --> 01:25:13,282
+Those things are Suliman's henchmen. Let's go.
 
-867
-01:25:13,859 --> 01:25:16,945
+915
+01:25:13,720 --> 01:25:16,054
 Faster! We need to take off!
 
-868
-01:25:30,042 --> 01:25:31,376
+916
+01:25:29,813 --> 01:25:31,370
 All right, you're going in.
 
-869
-01:25:31,460 --> 01:25:33,920
+917
+01:25:31,395 --> 01:25:33,855
 No! Don't let go!
 
-870
-01:25:42,554 --> 01:25:44,514
+918
+01:25:42,482 --> 01:25:44,231
 Sophie, what happened?
 
-871
-01:25:44,640 --> 01:25:47,225
+919
+01:25:44,569 --> 01:25:47,719
 Oh! I'm too old to be treated like this!
 
-872
-01:25:57,319 --> 01:26:00,572
-- Uh, good night, Sophie.
-- Good night, Markl.
+920
+01:25:57,317 --> 01:25:58,922
+Uh, good night, Sophie.
 
-873
+921
+01:25:59,011 --> 01:26:00,343
+Good night, Michael.
+
+922
 01:26:02,574 --> 01:26:04,826
-Oh, don't worry
-about Master Howl, Sophie.
+Oh, don't worry about Master Howl, Sophie.
 
-874
-01:26:04,910 --> 01:26:07,079
-Sometimes he likes
-to go away for days on end.
+923
+01:26:04,910 --> 01:26:07,353
+Sometimes he likes to go away for days on end.
 
-875
-01:26:07,621 --> 01:26:09,581
+924
+01:26:07,621 --> 01:26:09,616
 Thank you. That's good to know.
 
-876
-01:26:09,748 --> 01:26:12,292
-- Need anything else?
-- No, I'm fine.
+925
+01:26:09,739 --> 01:26:10,936
+Need anything else?
 
-877
-01:26:12,376 --> 01:26:14,503
+926
+01:26:10,961 --> 01:26:12,307
+No, I'm fine.
+
+927
+01:26:12,332 --> 01:26:14,152
 Well. Good night, then.
 
-878
-01:26:14,586 --> 01:26:15,754
+928
+01:26:14,665 --> 01:26:15,833
 You're in love.
 
-879
-01:26:18,799 --> 01:26:22,010
-Don't deny it.
-You've been sighing all day.
+929
+01:26:18,775 --> 01:26:22,097
+Don't deny it. You've been sighing all day.
 
-880
-01:26:32,187 --> 01:26:35,440
+930
+01:26:33,404 --> 01:26:35,231
 Hmm. Just as I thought.
 
-881
-01:26:35,649 --> 01:26:38,068
+931
+01:26:35,506 --> 01:26:37,677
 Have you ever been in love before?
 
-882
-01:26:38,151 --> 01:26:41,238
+932
+01:26:38,103 --> 01:26:41,190
 Of course I have. I'm still in love.
 
-883
-01:26:42,447 --> 01:26:45,701
-Strapping, young men
-are so difficult to deal with.
+933
+01:26:42,272 --> 01:26:45,415
+Strapping, young men are so difficult to deal with.
 
-884
-01:26:45,784 --> 01:26:48,370
+934
+01:26:45,752 --> 01:26:48,586
 But their hearts, I just adore.
 
-885
-01:26:48,745 --> 01:26:50,205
+935
+01:26:48,745 --> 01:26:49,905
 You're terrible.
 
-886
-01:26:50,288 --> 01:26:52,916
+936
+01:26:50,288 --> 01:26:52,478
 And they're so cute, too.
 
-887
-01:26:56,670 --> 01:26:57,879
+937
+01:26:56,670 --> 01:26:57,850
 What's that?
 
-888
-01:26:57,963 --> 01:26:59,506
+938
+01:26:57,963 --> 01:26:59,915
 It's an air raid siren.
 
-889
-01:27:00,632 --> 01:27:01,633
+939
+01:27:00,663 --> 01:27:01,664
 Air raid?
 
-890
-01:27:02,801 --> 01:27:04,386
+940
+01:27:02,785 --> 01:27:04,370
 It's a long way's off.
 
-891
-01:27:04,469 --> 01:27:06,972
-But you better not
-go outside tonight, dear.
+941
+01:27:04,395 --> 01:27:07,010
+But you better not go outside tonight, dear.
 
-892
-01:27:07,973 --> 01:27:12,477
-I'm sure Suliman's henchmen
-are looking everywhere for this place.
+942
+01:27:07,973 --> 01:27:12,395
+I'm sure Suliman's henchmen are
+looking everywhere for this place.
 
-893
-01:27:15,772 --> 01:27:17,816
+943
+01:27:15,700 --> 01:27:17,227
 What a good fire.
 
-894
-01:27:17,983 --> 01:27:20,026
+944
+01:27:17,911 --> 01:27:19,954
 He keeps this house so well hidden.
 
-895
+945
 01:27:55,145 --> 01:27:57,731
-- Sophie, there's a strange lady here!
-- Hmm?
+Sophie, there's a strange lady in here!
 
-896
-01:28:05,363 --> 01:28:06,364
+946
+01:28:05,371 --> 01:28:06,328
 Mother?
 
-897
-01:28:06,615 --> 01:28:08,533
+947
+01:28:06,583 --> 01:28:08,139
 Sophie!
 
-898
-01:28:11,244 --> 01:28:14,039
-Thank goodness you're here!
-I searched everywhere for you!
+948
+01:28:11,220 --> 01:28:14,347
+Thank goodness you're here! I searched everywhere for you!
 
-899
+949
 01:28:14,372 --> 01:28:17,292
 Oh, my, look at your face, you're so old!
 
-900
-01:28:17,375 --> 01:28:20,128
-Everyone's saying
-it's my fault that you left!
-
-901
-01:28:20,545 --> 01:28:24,758
-You'll forgive me,
-oh, won't you? Oh, Sophie!
-
-902
-01:28:24,841 --> 01:28:26,134
-Mother.
-
-903
-01:28:28,637 --> 01:28:31,389
-I barely recognize the place.
-
-904
-01:28:31,515 --> 01:28:34,851
-Who is that woman?
-Huh? The landlady?
-
-905
-01:28:35,060 --> 01:28:38,271
-Oh! I forgot to tell you!
-I got married again!
-
-906
-01:28:38,396 --> 01:28:41,149
-He's such a nice man,
-and he's filthy rich, too,
-
-907
-01:28:41,233 --> 01:28:43,193
-so we can all live together again!
-
-908
-01:28:43,401 --> 01:28:45,904
-You won't have
-to work as a cleaning lady.
-
-909
-01:28:46,279 --> 01:28:49,741
-That's all right, Mother.
-I actually like living here.
-
-910
-01:28:49,866 --> 01:28:52,410
-Really? I forgot!
-
-911
-01:28:52,786 --> 01:28:55,413
-I've got a car waiting. I've gotta run.
-
-912
-01:28:56,122 --> 01:28:58,375
-Sophie, I'm so glad I found you.
-
-913
-01:29:13,598 --> 01:29:17,227
-A peeping bug?
-Can't Suliman do better than that?
-
-914
-01:29:17,310 --> 01:29:19,020
-Open wide, Cal.
-
-915
-01:29:28,113 --> 01:29:30,740
-I hope you and your new husband
-will be very happy.
-
-916
-01:29:30,866 --> 01:29:34,786
-- Thank you, Sophie. Bye.
-- Bye, Mother.
-
-917
-01:29:37,455 --> 01:29:40,542
-I did what I was told.
-Now take me to my husband.
-
-918
-01:29:40,750 --> 01:29:43,962
-Yes, ma'am. I'm sure
-Madame Suliman will be very pleased.
-
-919
-01:29:46,131 --> 01:29:47,924
-Forgive me, Sophie.
-
-920
-01:29:51,970 --> 01:29:53,305
-Wow. Look at all of them.
-
-921
-01:29:53,805 --> 01:29:57,309
-If they keep leaving at this rate,
-the town will soon be empty.
-
-922
-01:29:57,392 --> 01:30:00,312
-- Do you want to leave, too, Sophie?
-- What?
-
-923
-01:30:00,687 --> 01:30:02,898
-That lady said she wants you
-to live with her now.
-
-924
-01:30:03,023 --> 01:30:06,651
-Yes, well, at least
-she cared enough to visit.
-
-925
-01:30:06,943 --> 01:30:09,154
-Don't leave, Sophie.
-
-926
-01:30:09,613 --> 01:30:12,282
-I love you. You have to stay.
-
-927
-01:30:13,491 --> 01:30:17,662
-On, I love you, too, Markl. I'll stay.
-
-928
-01:30:17,746 --> 01:30:19,664
-- Really?
-- Mmm-hmm.
-
-929
-01:30:19,789 --> 01:30:21,458
-Because we're a family now.
-
-930
-01:30:21,666 --> 01:30:23,418
-Yes, we're a family.
-
-931
-01:30:23,752 --> 01:30:25,670
-Thank you, Sophie.
-
-932
-01:30:33,386 --> 01:30:36,264
-I'll never let Suliman get a hold of Howl.
-
-933
-01:30:53,323 --> 01:30:55,325
-But the newspaper says we won.
-
-934
-01:30:55,408 --> 01:30:59,204
-Only idiots believe
-what they read in the paper.
-
-935
-01:30:59,371 --> 01:31:03,041
-That's so strange.
-I can't get Calcifer going.
-
-936
-01:31:03,708 --> 01:31:07,379
-Do you have to keep smoking that?
-It smells terrible.
-
-937
-01:31:07,545 --> 01:31:10,298
-Don't deny an old witch
-her pleasures, young lady.
-
-938
-01:31:10,632 --> 01:31:12,550
-<i>Mark), will you
-crack a window, please?</i>
-
-939
-01:31:12,634 --> 01:31:14,219
-Mmm-hmm.
-
-940
-01:31:16,221 --> 01:31:18,974
-I wouldn't open that window,
-If ll were you, dear.
-
-941
-01:31:20,433 --> 01:31:23,603
-Calcifer's too weak right now
-to protect this place.
-
-942
-01:31:23,687 --> 01:31:25,563
-Suliman's henchmen could get in.
-
-943
-01:31:27,065 --> 01:31:28,692
-<i>Mark!!</i>
-
-944
-01:31:39,160 --> 01:31:41,204
-Get back!
-
-945
-01:31:46,751 --> 01:31:49,129
-Markl, get back inside.
-I'm going to check on the shop.
-
-946
-01:31:49,212 --> 01:31:50,213
-Mmm-hmm.
-
-947
-01:32:08,106 --> 01:32:09,649
-There are bombs falling on us!
-
-948
-01:32:09,733 --> 01:32:13,403
-Why can't you put out
-some fires instead?
-
-949
-01:32:37,052 --> 01:32:39,054
-Howl! No!
-
 950
-01:32:41,765 --> 01:32:42,849
-Oh!
+01:28:17,375 --> 01:28:20,222
+Everyone's saying it's my fault that you left!
 
 951
-01:32:51,483 --> 01:32:52,984
-This is exciting.
+01:28:20,545 --> 01:28:24,816
+You'll forgive me, oh, won't you? Oh, Sophie!
 
 952
-01:33:06,372 --> 01:33:07,999
-Howl!
+01:28:24,841 --> 01:28:25,663
+Mother.
 
 953
-01:33:09,584 --> 01:33:11,795
-I'm sorry, Sophie.
-I should've gotten here sooner.
+01:28:28,796 --> 01:28:31,389
+I barely recognize the place.
 
 954
-01:33:12,337 --> 01:33:15,465
-You're alive! Oh, thank goodness!
+01:28:31,491 --> 01:28:34,691
+Who is that woman? Huh? The landlady?
 
 955
+01:28:34,905 --> 01:28:38,106
+Oh! I forgot to tell you! I got married again!
+
+956
+01:28:38,396 --> 01:28:41,208
+He's such a nice man, and he's filthy rich, too,
+
+957
+01:28:41,233 --> 01:28:43,287
+so we can all live together again!
+
+958
+01:28:43,401 --> 01:28:46,076
+You won't have to work as a cleaning lady any more.
+
+959
+01:28:46,355 --> 01:28:49,579
+That's all right, Mother. I actually like living here.
+
+960
+01:28:49,866 --> 01:28:52,591
+Really? Oh! I forgot!
+
+961
+01:28:52,754 --> 01:28:54,942
+I've got a car waiting. I've gotta run.
+
+962
+01:28:56,106 --> 01:28:58,470
+Sophie, I'm so glad I found you.
+
+963
+01:29:13,479 --> 01:29:16,927
+A peeping bug? Can't Suliman do better than that?
+
+964
+01:29:17,261 --> 01:29:19,221
+Open wide, Cal.
+
+965
+01:29:27,931 --> 01:29:30,740
+I hope you and your new husband will be very happy.
+
+966
+01:29:30,866 --> 01:29:33,102
+Thank you, Sophie. Bye.
+
+967
+01:29:33,158 --> 01:29:34,198
+Bye, Mother.
+
+968
+01:29:37,455 --> 01:29:40,542
+I did what I was told. Now take me to my husband.
+
+969
+01:29:40,742 --> 01:29:43,980
+Yes, ma'am. I'm sure Madame
+Suliman will be very pleased with you.
+
+970
+01:29:45,972 --> 01:29:47,765
+Forgive me, Sophie.
+
+971
+01:29:51,941 --> 01:29:53,568
+Wow. Look at all of them.
+
+972
+01:29:53,805 --> 01:29:57,191
+If they keep leaving at this
+rate, the town will soon be empty.
+
+973
+01:29:57,392 --> 01:29:59,090
+Do you want to leave, too, Sophie?
+
+974
+01:29:59,272 --> 01:30:00,336
+What?
+
+975
+01:30:00,687 --> 01:30:02,974
+That lady said she wants you to live with her now.
+
+976
+01:30:03,047 --> 01:30:06,795
+Yes, well, at least she cared enough to visit.
+
+977
+01:30:06,943 --> 01:30:08,631
+Don't leave, Sophie.
+
+978
+01:30:09,604 --> 01:30:11,945
+I love you. You have to stay.
+
+979
+01:30:13,491 --> 01:30:17,347
+On, I love you, too, Michael. I'll stay.
+
+980
+01:30:17,746 --> 01:30:18,507
+Really?
+
+981
+01:30:18,761 --> 01:30:19,570
+Mmm-hmm.
+
+982
+01:30:19,789 --> 01:30:21,271
+Because we're a family now.
+
+983
+01:30:21,666 --> 01:30:23,702
+Yes, we're a family.
+
+984
+01:30:23,752 --> 01:30:25,132
+Thank you, Sophie.
+
+985
+01:30:33,237 --> 01:30:36,645
+I'll never let Suliman get a hold of Howl.
+
+986
+01:30:53,234 --> 01:30:55,325
+But the newspaper says we won.
+
+987
+01:30:55,408 --> 01:30:58,716
+Only idiots believe what they read in the paper.
+
+988
+01:30:59,371 --> 01:31:02,854
+That's so strange. I can't get Calcifer going.
+
+989
+01:31:03,745 --> 01:31:07,153
+Do you have to keep smoking that? It smells terrible.
+
+990
+01:31:07,521 --> 01:31:10,393
+Don't deny an witcher pleasures, young lady.
+
+991
+01:31:10,632 --> 01:31:12,643
+Michael, will you crack a window, please?
+
+992
+01:31:12,682 --> 01:31:13,468
+Mmm-hmm.
+
+993
+01:31:16,250 --> 01:31:19,499
+I wouldn't open that window, If ll were you, dear.
+
+994
+01:31:20,433 --> 01:31:23,575
+Calcifer's too weak right now to protect this place.
+
+995
+01:31:23,600 --> 01:31:25,862
+Suliman's henchmen could get in.
+
+996
+01:31:27,009 --> 01:31:27,968
+Michael!!
+
+997
+01:31:38,833 --> 01:31:39,766
+Get back!
+
+998
+01:31:46,776 --> 01:31:49,649
+Michael, get back inside. I'm going to check on the shop.
+
+999
+01:31:49,674 --> 01:31:50,276
+Mmm-hmm.
+
+1000
+01:32:08,106 --> 01:32:09,641
+There are bombs falling on us!
+
+1001
+01:32:09,733 --> 01:32:12,612
+Why can't you put out some fires instead?
+
+1002
+01:32:36,901 --> 01:32:38,409
+Howl! No!
+
+1003
+01:32:41,669 --> 01:32:42,548
+Oh!
+
+1004
+01:32:51,729 --> 01:32:53,071
+This is exciting.
+
+1005
+01:33:06,372 --> 01:33:07,453
+Howl!
+
+1006
+01:33:09,584 --> 01:33:11,997
+I'm sorry, Sophie. I should've gotten here sooner.
+
+1007
+01:33:12,361 --> 01:33:15,588
+You're alive! Oh, thank goodness!
+
+1008
 01:33:32,190 --> 01:33:34,484
 Master Howl!! Sophie! You're okay!
 
-956
-01:33:36,945 --> 01:33:40,365
+1009
+01:33:36,905 --> 01:33:40,233
 Calcifer. You hang in there, now.
 
-957
-01:33:44,702 --> 01:33:49,249
+1010
+01:33:44,746 --> 01:33:49,075
 Tell me, was that cigar a gift
 from Madame Suliman by any chance?
 
-958
-01:33:49,374 --> 01:33:52,585
-Howl, she fed me something gross.
-I feel sick.
+1011
+01:33:49,341 --> 01:33:52,587
+Howl, she fed me something gross. I feel sick.
 
-959
-01:33:52,710 --> 01:33:55,547
+1012
+01:33:52,670 --> 01:33:55,605
 Why, if it isn't Howl.
 
-960
-01:33:55,839 --> 01:34:00,051
-I think you and I need to have
-a nice, long, heart-to-heart chat.
+1013
+01:33:55,839 --> 01:33:59,897
+I think you and I need to have a
+nice, long, heart-to-heart chat.
 
-961
-01:34:00,218 --> 01:34:05,014
-There's nothing I'd like more than that,
-but right now there's a war going on.
+1014
+01:34:00,185 --> 01:34:04,170
+There's nothing I'd like more than
+that, but right now there's a war going on.
 
-962
-01:34:05,390 --> 01:34:09,018
-How unlike you, Howl,
-not running away anymore.
+1015
+01:34:05,390 --> 01:34:08,740
+How unlike you, Howl, not running away anymore.
 
-963
-01:34:09,102 --> 01:34:11,187
+1016
+01:34:09,121 --> 01:34:10,543
 Until later, then.
 
-964
-01:34:11,396 --> 01:34:14,649
-Stay here. Calcifer will protect you
-from the henchmen.
+1017
+01:34:11,552 --> 01:34:14,508
+Stay here. Calcifer will protect you from the henchmen.
 
-965
-01:34:14,732 --> 01:34:16,526
+1018
+01:34:14,732 --> 01:34:16,423
 I'll stand guard out front.
 
-966
-01:34:18,194 --> 01:34:22,490
-No, wait! Howl! Don't go out there.
-It's too dangerous.
+1019
+01:34:18,194 --> 01:34:22,517
+No, wait! Howl! Don't go out there. It's too dangerous.
 
-967
-01:34:22,782 --> 01:34:24,325
+1020
+01:34:22,758 --> 01:34:24,209
 Another wave's coming.
 
-968
-01:34:24,409 --> 01:34:26,286
-And Calcifer's too weak
-to stop the bombs.
+1021
+01:34:24,409 --> 01:34:26,370
+And Calcifer's too weak to stop the bombs.
 
-969
-01:34:26,411 --> 01:34:28,746
+1022
+01:34:26,411 --> 01:34:28,769
 Let's run! Don't fight them, Howl.
 
-970
-01:34:28,913 --> 01:34:31,708
-Sorry. I've had enough
-of running away, Sophie.
+1023
+01:34:28,913 --> 01:34:31,820
+Sorry. I've had enough of running away, Sophie.
 
-971
-01:34:32,417 --> 01:34:36,588
-Now I've got something
-I want to protect. It's you.
+1024
+01:34:32,368 --> 01:34:35,906
+Now I've got something I want to protect. It's you.
 
-972
-01:34:41,551 --> 01:34:43,094
+1025
+01:34:41,551 --> 01:34:42,759
 Come back!
 
-973
-01:34:57,901 --> 01:34:58,943
+1026
+01:34:57,750 --> 01:34:58,292
 Hmm!
 
-974
-01:36:07,095 --> 01:36:08,513
+1027
+01:36:07,095 --> 01:36:08,542
 There's where we are, at the shop.
 
-975
-01:36:13,017 --> 01:36:14,352
+1028
+01:36:13,017 --> 01:36:14,493
 Looks like Howl's in trouble.
 
-976
-01:36:23,695 --> 01:36:24,862
+1029
+01:36:23,671 --> 01:36:24,790
 Howl, look out!
 
-977
-01:36:34,539 --> 01:36:36,708
+1030
+01:36:34,539 --> 01:36:36,612
 What's going on? Turnip!
 
-978
-01:36:40,461 --> 01:36:42,505
-- Markl, I need your help.
-- Huh?
+1031
+01:36:40,461 --> 01:36:41,824
+Michael, I need your help.
 
-979
-01:36:42,588 --> 01:36:45,466
+1032
+01:36:41,880 --> 01:36:42,442
+Huh?
+
+1033
+01:36:42,617 --> 01:36:45,622
 Are you crazy? I can't move
 the portals without Howl's help.
 
-980
-01:36:45,591 --> 01:36:49,012
-Try. If we don't break away,
-Howl will keep protecting the hat shop.
+1034
+01:36:45,647 --> 01:36:49,012
+You have to try. If we don't break away,
+Howl will keep protecting that hat shop.
 
-981
-01:36:49,095 --> 01:36:51,014
-I'd preferred him as a coward.
+1035
+01:36:49,070 --> 01:36:50,989
+I've preferred him as a coward.
 
-982
-01:36:51,097 --> 01:36:54,392
-- Okay, we have to go now.
-- Are we going for a stroll?
+1036
+01:36:51,097 --> 01:36:52,740
+Okay, we have to go now.
 
-983
+1037
+01:36:52,877 --> 01:36:54,416
+Are we going for a stroll?
+
+1038
 01:36:54,475 --> 01:36:56,769
-We can't do that.
-It'll make us too vulnerable!
+We can't do that. It'll make us too vulnerable!
 
-984
+1039
 01:36:56,853 --> 01:36:58,146
 We already are.
 
-985
+1040
 01:36:58,229 --> 01:37:00,565
-If we don't move quick,
-Howl doesn't have a chance.
+And if we don't move quick, Howl doesn't have a chance.
 
-986
-01:37:00,648 --> 01:37:03,276
-Sophie! They're about
-to bomb the hat shop!
+1041
+01:37:00,590 --> 01:37:03,334
+Sophie! They're about to bomb the hat shop!
 
-987
-01:37:03,359 --> 01:37:05,528
+1042
+01:37:03,359 --> 01:37:05,418
 Quick. Help her get outside, okay?
 
-988
-01:37:05,611 --> 01:37:07,196
+1043
+01:37:05,443 --> 01:37:05,982
 Right.
 
-989
-01:37:08,740 --> 01:37:10,408
+1044
+01:37:08,835 --> 01:37:10,408
 You're coming with us. Hop on.
 
-990
-01:37:10,491 --> 01:37:12,160
+1045
+01:37:10,451 --> 01:37:12,306
 I can't! It's impossible!
 
-991
-01:37:12,243 --> 01:37:14,370
-No one but Howl
-can take me out of this hearth.
+1046
+01:37:12,331 --> 01:37:14,445
+No one but Howl can take me out of this hearth.
 
-992
-01:37:14,495 --> 01:37:17,415
-There's no time to lose.
+1047
+01:37:14,495 --> 01:37:17,320
+There's no time to lose,Calcifer.
 We have to try something.
 
-993
-01:37:17,498 --> 01:37:19,334
+1048
+01:37:17,498 --> 01:37:19,378
 Oh! Don't do this! No, no!
 
-994
+1049
 01:37:19,417 --> 01:37:21,753
-Help, help, crazy lady with a shovel!
+Help, help, crazy lady with a shovel! Don't...
 
-995
-01:37:21,836 --> 01:37:24,922
-If you take me out that door,
-the castle could collapse.
+1050
+01:37:21,992 --> 01:37:24,981
+If you take me out that door, the castle could collapse.
 
-996
-01:37:25,006 --> 01:37:26,090
+1051
+01:37:25,006 --> 01:37:25,805
 Good!
 
-997
-01:37:29,594 --> 01:37:31,346
-- We're ready.
-- Okay, step back.
+1052
+01:37:29,594 --> 01:37:30,519
+We're ready.
 
-998
-01:37:31,429 --> 01:37:33,890
+1053
+01:37:30,544 --> 01:37:31,404
+Okay, step back.
+
+1054
+01:37:31,429 --> 01:37:33,815
 Make sure I go out last, Sophie.
 
-999
-01:37:34,098 --> 01:37:37,769
-I don't know what'll happen,
+1055
+01:37:34,089 --> 01:37:37,516
+I don't know what's gonna happen,
 but I'm sure it won't be good.
 
-1000
-01:38:06,089 --> 01:38:10,343
-I told you it would collapse.
-Rain! Rain!
+1056
+01:38:06,089 --> 01:38:10,241
+I told you it would collapse. Rain! Rain!
 
-1001
-01:38:12,929 --> 01:38:14,347
+1057
+01:38:12,929 --> 01:38:14,404
 That ship's headed for town!
 
-1002
+1058
 01:38:14,430 --> 01:38:15,973
-Markl, look after her, okay?
+Michael, look after her, okay?
 
-1003
-01:38:16,057 --> 01:38:18,101
-Turnip-head,
-help me find a way back in.
+1059
+01:38:16,001 --> 01:38:17,884
+Turnip-head, help me find a way back in.
 
-1004
-01:38:18,935 --> 01:38:21,479
+1060
+01:38:18,934 --> 01:38:21,745
 Don't you worry, now, ma'am,
-I'll take good care of you.
+I'm gonna take good care of you.
 
-1005
-01:38:24,607 --> 01:38:26,484
-Markl, here's a way in!
+1061
+01:38:24,551 --> 01:38:26,428
+Michael, here's a way in!
 
-1006
-01:38:37,662 --> 01:38:39,414
-The roof's leaking.
-Don't let me get wet!
+1062
+01:38:37,598 --> 01:38:39,400
+The roof's leaking. Don't let me get wet!
 
-1007
-01:38:39,497 --> 01:38:40,665
+1063
+01:38:39,495 --> 01:38:40,704
 Hold on for a second.
 
-1008
-01:38:40,748 --> 01:38:43,209
+1064
+01:38:40,748 --> 01:38:43,165
 It's wet here, Sophie! Ah!
 
-1009
-01:38:44,293 --> 01:38:47,422
+1065
+01:38:44,293 --> 01:38:47,280
 Too damp, too damp, very damp here!
 
-1010
-01:38:47,672 --> 01:38:48,798
+1066
+01:38:47,695 --> 01:38:48,821
 Hurry! Hurry!
 
-1011
-01:38:49,006 --> 01:38:50,675
+1067
+01:38:48,926 --> 01:38:50,133
 Hurry, please!
 
-1012
-01:38:57,849 --> 01:38:59,517
-<i>Mark), hurry, get inside.</i>
+1068
+01:38:57,944 --> 01:38:59,612
+Michael, hurry, get inside.
 
-1013
-01:38:59,851 --> 01:39:01,519
+1069
+01:38:59,851 --> 01:39:01,469
 The castle's a wreck.
 
-1014
-01:39:01,853 --> 01:39:05,273
-Told you we should have stayed put.
-Howl and I could have handled it.
+1070
+01:39:01,853 --> 01:39:05,299
+Told you we should have stayed
+put. Howl and I could have handled it.
 
-1015
-01:39:07,608 --> 01:39:10,445
-We have to tell Howl
-we're not attached to the hat shop now.
+1071
+01:39:07,608 --> 01:39:10,630
+We have to tell Howl we're not
+attached to the hat shop now.
 
-1016
-01:39:10,736 --> 01:39:12,780
+1072
+01:39:10,736 --> 01:39:12,775
 Move the castle and take us to Howl.
 
-1017
-01:39:12,864 --> 01:39:14,532
+1073
+01:39:12,911 --> 01:39:14,364
 Ah! What?
 
-1018
-01:39:14,866 --> 01:39:18,536
-I know you can do it.
-I've never seen a fire with more spark.
+1074
+01:39:14,866 --> 01:39:18,774
+I know you can do it. I've
+never seen a fire with more spark.
 
-1019
+1075
 01:39:18,870 --> 01:39:22,623
 But there's no chimney here,
 and I keep getting dripped on.
 
-1020
-01:39:22,707 --> 01:39:24,125
+1076
+01:39:22,707 --> 01:39:24,183
 And the wood's all damp.
 
-1021
-01:39:24,208 --> 01:39:28,921
+1077
+01:39:24,208 --> 01:39:28,847
 They say that the best blaze brightest
 when circumstances are at their worst.
 
-1022
-01:39:29,005 --> 01:39:31,549
+1078
+01:39:29,022 --> 01:39:31,223
 Yeah, but no one really believes that.
 
-1023
-01:39:31,632 --> 01:39:32,800
+1079
+01:39:31,632 --> 01:39:32,859
 Come on, let's be honest.
 
-1024
-01:39:32,884 --> 01:39:36,471
-- Oh! What a pretty fire.
-- Why don't you have a seat.
+1080
+01:39:32,884 --> 01:39:35,348
+Oh! What a pretty fire.
 
-1025
+1081
+01:39:35,373 --> 01:39:36,800
+Why don't you have a seat.
+
+1082
 01:39:36,846 --> 01:39:39,557
-All right.
-I need something of yours, Sophie.
+All right. I need something of yours, Sophie.
 
-1026
-01:39:39,682 --> 01:39:40,808
+1083
+01:39:39,820 --> 01:39:40,782
 Why's that?
 
-1027
-01:39:40,892 --> 01:39:43,478
-I can't do it by myself.
-How about your eyes?
+1084
+01:39:40,807 --> 01:39:43,611
+I can't do it by myself. How about your eyes?
 
-1028
-01:39:43,686 --> 01:39:46,564
+1085
+01:39:43,686 --> 01:39:45,987
 Huh? How about this?
 
-1029
+1086
 01:40:09,003 --> 01:40:10,296
 Ah!
 
-1030
+1087
 01:40:36,280 --> 01:40:37,823
 Ah!
 
-1031
-01:40:51,837 --> 01:40:54,465
+1088
+01:40:51,837 --> 01:40:54,621
 Thanks, Calcifer. You're fantastic!
 
-1032
-01:40:54,799 --> 01:40:57,802
+1089
+01:40:54,727 --> 01:40:57,926
 Imagine what I could've done
 with your eyes. Or your heart.
 
-1033
-01:40:58,135 --> 01:41:00,930
+1090
+01:40:58,079 --> 01:41:00,874
 That's it! You've got Howl's heart!
 
-1034
-01:41:03,474 --> 01:41:05,309
+1091
+01:41:03,449 --> 01:41:04,910
 I found it!
 
-1035
-01:41:17,446 --> 01:41:20,241
-I can see Howl down there.
-Looks like he's trapped!
-
-1036
-01:41:25,580 --> 01:41:27,707
-Calcifer, hurry!
-
-1037
-01:41:28,124 --> 01:41:31,377
-- No!
-- Put it back!
-
-1038
-01:41:31,711 --> 01:41:33,838
-Let go!
-
-1039
-01:41:34,171 --> 01:41:36,465
-Howl's heart, it's mine!
-
-1040
-01:41:47,602 --> 01:41:49,103
-Put it back now!
-
-1041
-01:41:51,272 --> 01:41:52,773
-It's hot! Ah!
-
-1042
-01:41:52,857 --> 01:41:54,942
-- It's burning me!
-- Let go!
-
-1043
-01:41:55,026 --> 01:41:57,028
-You're catching on fire!
-
-1044
-01:41:57,903 --> 01:42:04,327
-No, it's mine. It's mine! It's mine!
-
-1045
-01:42:13,794 --> 01:42:15,004
-Ah!
-
-1046
-01:42:17,506 --> 01:42:19,675
-Sophie!
-
-1047
-01:42:22,762 --> 01:42:26,098
-- Sophie!
-- Sophie ruined it!
-
-1048
-01:42:26,223 --> 01:42:28,225
-My heart's ruined!
-
-1049
-01:43:11,852 --> 01:43:15,815
-Heen, what have I done?
-I poured water on Calcifer!
-
-1050
-01:43:17,858 --> 01:43:20,903
-What if I killed Howl, too?
-
-1051
-01:43:47,179 --> 01:43:50,141
-It's moving. Is Howl still alive?
-
-1052
-01:43:50,307 --> 01:43:52,601
-Can you lead me to him?
-
-1053
-01:44:13,664 --> 01:44:16,083
-The front door.
-
-1054
-01:45:33,577 --> 01:45:35,704
-Heen.
-
-1055
-01:46:10,197 --> 01:46:12,199
-That's Howl.
-
-1056
-01:46:29,800 --> 01:46:32,970
-I know where I am.
-I'm in Howl's childhood.
-
-1057
-01:46:56,285 --> 01:46:58,078
-Oh!
-
-1058
-01:47:51,340 --> 01:47:54,093
-Howl! Calcifer!
-
-1059
-01:47:55,177 --> 01:47:57,179
-It's me, Sophie!
-
-1060
-01:47:57,262 --> 01:47:59,890
-I know how to help you now.
-
-1061
-01:48:00,099 --> 01:48:03,727
-Find me in the future!
-
-1062
-01:48:35,259 --> 01:48:38,595
-Sorry, Heen. I'm trying to hurry.
-
-1063
-01:48:38,762 --> 01:48:41,098
-I just can't seem to stop crying.
-
-1064
-01:49:05,039 --> 01:49:06,749
-Howl.
-
-1065
-01:49:12,755 --> 01:49:15,799
-I'm sorry. Did I come too late?
-
-1066
-01:49:15,924 --> 01:49:18,761
-I didn't mean to make you wait this long.
-
-1067
-01:49:22,806 --> 01:49:25,768
-I need you to take me to Calcifer
-if you can.
-
-1068
-01:50:28,872 --> 01:50:31,708
-- He's dead?
-- No, Markl.
-
-1069
-01:50:36,004 --> 01:50:37,506
-Howl needs that back now.
-
-1070
-01:50:37,589 --> 01:50:41,385
-Don't look at me. I don't have it.
-I don't know what you're talking about.
-
-1071
-01:50:41,552 --> 01:50:42,678
-Please.
-
-1072
-01:50:44,513 --> 01:50:46,807
-Please give it back.
-
-1073
-01:50:49,059 --> 01:50:51,854
-You really want it that badly?
-
-1074
-01:50:52,062 --> 01:50:54,148
-Yes.
-
-1075
-01:50:54,231 --> 01:50:55,566
-All right, then.
-
-1076
-01:50:55,691 --> 01:50:58,527
-- You'd better take good care of it.
-- Okay.
-
-1077
-01:50:58,610 --> 01:51:00,612
-Here, dear.
-
-1078
-01:51:01,155 --> 01:51:04,074
-Thank you, you have a big heart.
-
-1079
-01:51:19,214 --> 01:51:20,883
-Calcifer.
-
-1080
-01:51:22,342 --> 01:51:24,720
-Sophie, I'm so tired.
-
-1081
-01:51:24,803 --> 01:51:28,390
-If I give Howl back his heart,
-what will happen to you?
-
-1082
-01:51:28,473 --> 01:51:31,101
-I'll be okay if you do it. I think.
-
-1083
-01:51:31,476 --> 01:51:35,856
-You dumped water on me,
-and Howl and I both survived.
-
-1084
-01:51:35,939 --> 01:51:38,192
-I better try then.
-
-1085
-01:51:40,777 --> 01:51:44,031
-It's so warm and fluttering like a bird.
-
-1086
-01:51:44,114 --> 01:51:46,617
-It's still just the heart of a child.
-
-1087
-01:51:47,492 --> 01:51:50,537
-Please, help Calicifer live.
-
-1088
-01:51:50,621 --> 01:51:53,916
-And please help Howl
-take back his heart.
-
-1089
-01:52:05,719 --> 01:52:08,764
-I'm alive! I'm alive!
-Look, I'm free!
-
-1090
-01:52:08,847 --> 01:52:13,101
-Free! Free! I'm alive!
-
-1091
-01:52:14,478 --> 01:52:16,688
-He moved! See?
-
 1092
-01:52:21,401 --> 01:52:23,070
-It can't stand without Calcifer!
+01:41:17,382 --> 01:41:20,776
+I can see Howl down there. Looks like he's trapped!
 
 1093
-01:52:37,918 --> 01:52:39,002
-Turnip!
+01:41:25,580 --> 01:41:27,267
+Calcifer, hurry!
 
 1094
-01:52:51,682 --> 01:52:53,267
-His pole snapped!
+01:41:28,124 --> 01:41:29,723
+No!
 
 1095
-01:52:53,350 --> 01:52:55,435
-Are you all right?
-We'll get you a new pole, okay?
+01:41:30,310 --> 01:41:31,556
+Put it back!
 
 1096
-01:52:57,980 --> 01:53:00,857
-You saved us, Turnip.
+01:41:31,655 --> 01:41:33,400
+Let go!
 
 1097
-01:53:07,990 --> 01:53:09,616
-Thank you, Sophie.
+01:41:33,951 --> 01:41:36,833
+Howl's heart, it's mine!
 
 1098
-01:53:10,409 --> 01:53:12,995
-I'm the prince missing
-from the neighboring kingdom.
+01:41:47,562 --> 01:41:49,274
+Put it back now!
 
 1099
-01:53:13,078 --> 01:53:15,205
-Somehow I got that blasted spell on me.
+01:41:51,272 --> 01:41:52,429
+It's hot! Ah!
 
 1100
-01:53:15,539 --> 01:53:19,001
-I know that spell.
-A kiss from your true love breaks it.
+01:41:52,857 --> 01:41:53,787
+It's burning me!
 
 1101
-01:53:19,084 --> 01:53:21,295
-That's right. If it weren't for Sophie,
+01:41:53,812 --> 01:41:54,851
+Let go!
 
 1102
-01:53:21,378 --> 01:53:23,547
-I would have been a scarecrow
-for the rest of my life.
+01:41:55,001 --> 01:41:56,948
+You're catching on fire!
 
 1103
-01:53:23,755 --> 01:53:26,091
-My, what a
-strapping young man you are.
+01:41:57,921 --> 01:42:04,059
+No, it's mine. It's mine! It's mine!
 
 1104
-01:53:26,174 --> 01:53:28,593
-What's going on?
-What am I doing here?
+01:42:13,794 --> 01:42:14,943
+Ah!
 
 1105
-01:53:28,719 --> 01:53:32,222
-I feel terrible,
-like there's a weight on my chest.
+01:42:17,506 --> 01:42:19,291
+Sophie!
 
 1106
+01:42:22,762 --> 01:42:24,391
+Sophie!
+
+1107
+01:42:24,416 --> 01:42:26,122
+Sophie ruined it!
+
+1108
+01:42:26,223 --> 01:42:28,124
+My heart's ruined!
+
+1109
+01:43:11,826 --> 01:43:15,708
+Heen, what have I done? I poured water on Calcifer!
+
+1110
+01:43:17,858 --> 01:43:20,236
+What if I killed Howl, too?
+
+1111
+01:43:47,179 --> 01:43:49,871
+It's moving. Is Howl still alive?
+
+1112
+01:43:50,243 --> 01:43:51,762
+Can you lead me to him?
+
+1113
+01:44:13,664 --> 01:44:15,161
+The front door.
+
+1114
+01:45:33,577 --> 01:45:34,468
+Heen.
+
+1115
+01:46:10,197 --> 01:46:11,442
+That's Howl.
+
+1116
+01:46:29,800 --> 01:46:32,822
+I know where I am. I'm in Howl's childhood.
+
+1117
+01:46:56,285 --> 01:46:57,246
+Oh!
+
+1118
+01:47:51,391 --> 01:47:53,948
+Howl! Calcifer!
+
+1119
+01:47:55,081 --> 01:47:56,933
+It's me, Sophie!
+
+1120
+01:47:57,206 --> 01:47:59,595
+I know how to help you now.
+
+1121
+01:48:00,099 --> 01:48:03,004
+Find me in the future!
+
+1122
+01:48:35,341 --> 01:48:37,938
+Sorry, Heen. I'm trying to hurry.
+
+1123
+01:48:38,762 --> 01:48:40,639
+I just can't seem to stop crying.
+
+1124
+01:49:05,039 --> 01:49:05,984
+Howl.
+
+1125
+01:49:12,755 --> 01:49:15,455
+I'm sorry. Did I come too late?
+
+1126
+01:49:15,836 --> 01:49:18,179
+I didn't mean to make you wait this long.
+
+1127
+01:49:22,781 --> 01:49:25,831
+I need you to take me to Calcifer if you can.
+
+1128
+01:50:28,872 --> 01:50:30,003
+He's dead?
+
+1129
+01:50:30,272 --> 01:50:31,653
+No, Michael.
+
+1130
+01:50:35,972 --> 01:50:37,532
+Howl needs that back now.
+
+1131
+01:50:37,557 --> 01:50:41,092
+Don't look at me. I don't have it. I
+don't know what you're talking about.
+
+1132
+01:50:41,663 --> 01:50:42,789
+Please.
+
+1133
+01:50:44,513 --> 01:50:45,946
+Please give it back.
+
+1134
+01:50:49,078 --> 01:50:51,854
+You really want it that badly?
+
+1135
+01:50:52,062 --> 01:50:52,938
+Yes.
+
+1136
+01:50:54,231 --> 01:50:55,355
+All right, then.
+
+1137
+01:50:55,740 --> 01:50:57,421
+You'd better take good care of it.
+
+1138
+01:50:57,446 --> 01:50:58,412
+Okay.
+
+1139
+01:50:58,523 --> 01:50:59,714
+Here, dear.
+
+1140
+01:51:01,075 --> 01:51:03,218
+Thank you, you have a big heart.
+
+1141
+01:51:19,214 --> 01:51:20,333
+Calcifer.
+
+1142
+01:51:22,342 --> 01:51:24,623
+Sophie, I'm so tired.
+
+1143
+01:51:24,755 --> 01:51:28,284
+If I give Howl back his heart, what will happen to you?
+
+1144
+01:51:28,473 --> 01:51:31,176
+I'll be okay if you do it. I think.
+
+1145
+01:51:31,396 --> 01:51:35,283
+I mean,you dumped water on me,
+and Howl and I both survived.
+
+1146
+01:51:35,859 --> 01:51:37,500
+I better try then.
+
+1147
+01:51:40,777 --> 01:51:43,856
+It's so warm and fluttering like a bird.
+
+1148
+01:51:44,114 --> 01:51:46,463
+It's still just the heart of a child.
+
+1149
+01:51:47,576 --> 01:51:50,221
+Please, help Calicifer live.
+
+1150
+01:51:50,676 --> 01:51:53,160
+And please help Howl take back his heart.
+
+1151
+01:52:05,679 --> 01:52:08,822
+I'm alive! I'm alive! Look, I'm free!
+
+1152
+01:52:08,847 --> 01:52:12,880
+Free! Free! I'm alive!
+
+1153
+01:52:14,533 --> 01:52:16,486
+He moved! See?
+
+1154
+01:52:21,369 --> 01:52:23,279
+It can't stand without Calcifer!
+
+1155
+01:52:37,918 --> 01:52:39,208
+Turnip!
+
+1156
+01:52:51,764 --> 01:52:53,257
+His pole snapped!
+
+1157
+01:52:53,350 --> 01:52:55,703
+Are you all right? We'll get you a new pole, okay?
+
+1158
+01:52:57,980 --> 01:52:59,796
+You saved us, Turnip.
+
+1159
+01:53:07,990 --> 01:53:09,440
+Thank you, Sophie.
+
+1160
+01:53:10,409 --> 01:53:12,888
+I'm the prince who's being
+missing from the neighboring kingdom.
+
+1161
+01:53:13,078 --> 01:53:15,461
+Somehow I got that blasted spell put on me.
+
+1162
+01:53:15,539 --> 01:53:18,933
+I know that spell. A kiss from your true love breaks this.
+
+1163
+01:53:19,084 --> 01:53:23,660
+That's right. If it weren't for Sophie, I
+would be a scarecrow for the rest of my life.
+
+1164
+01:53:23,755 --> 01:53:26,091
+My, what a strapping young man you are.
+
+1165
+01:53:26,174 --> 01:53:28,593
+What's going on? What am I doing here?
+
+1166
+01:53:28,663 --> 01:53:32,455
+I feel terrible, like there's a weight on my chest.
+
+1167
 01:53:32,806 --> 01:53:35,058
 A heart's a heavy burden.
 
-1107
-01:53:35,350 --> 01:53:39,062
-Wow! Sophie,
-your hair looks just like starlight.
+1168
+01:53:35,350 --> 01:53:38,898
+Wow! Sophie, your hair looks just like starlight.
 
-1108
-01:53:39,146 --> 01:53:40,522
+1169
+01:53:39,146 --> 01:53:40,312
 It's beautiful.
 
-1109
-01:53:40,605 --> 01:53:43,233
+1170
+01:53:40,605 --> 01:53:43,157
 You think so? So do I!
 
-1110
-01:53:45,152 --> 01:53:47,779
-It looks like your true love
-is in love with someone else.
+1171
+01:53:45,027 --> 01:53:47,779
+Looks like your true love is in love with someone else.
 
-1111
-01:53:47,863 --> 01:53:51,533
-You should go home anyway,
-and tell your king to stop this dumb war.
+1172
+01:53:47,823 --> 01:53:51,571
+You should go home anyway, and
+tell your king to stop this dumb war.
 
-1112
-01:53:51,658 --> 01:53:53,243
+1173
+01:53:51,642 --> 01:53:53,462
 Yes, that's exactly what I'll do.
 
-1113
-01:53:53,618 --> 01:53:56,830
-One thing you can always count on
-is that hearts change.
+1174
+01:53:53,577 --> 01:53:56,544
+One thing you can always count on is that hearts change.
 
-1114
-01:53:56,913 --> 01:53:59,541
-So as soon as this war is over,
-I shall return.
+1175
+01:53:56,838 --> 01:53:59,587
+So as soon as this war is over, I shall return.
 
-1115
-01:53:59,875 --> 01:54:02,294
+1176
+01:53:59,867 --> 01:54:02,286
 I love it when you talk like that.
 
-1116
-01:54:02,419 --> 01:54:04,921
-I'll look forward to your return, big boy.
+1177
+01:54:02,419 --> 01:54:04,783
+I look forward to your return, big boy.
 
-1117
-01:54:11,762 --> 01:54:15,557
-There you are.
-You should have checked in earlier.
+1178
+01:54:11,800 --> 01:54:15,295
+There you are. You should have checked in earlier.
 
-1118
-01:54:15,640 --> 01:54:17,601
+1179
+01:54:15,607 --> 01:54:17,568
 What on earth were you up to?
 
-1119
-01:54:20,645 --> 01:54:23,065
+1180
+01:54:20,628 --> 01:54:22,873
 Howl found his true love.
 
-1120
-01:54:23,148 --> 01:54:25,359
+1181
+01:54:23,068 --> 01:54:24,931
 You little traitor.
 
-1121
-01:54:30,155 --> 01:54:33,950
+1182
+01:54:31,645 --> 01:54:33,488
 The game is over.
 
-1122
-01:54:34,117 --> 01:54:37,996
-Get me the Prime Minister
-and the Minister of Defense.
+1183
+01:54:34,061 --> 01:54:37,198
+Get me the Prime Minister and the Minister of Defense.
 
-1123
-01:54:38,163 --> 01:54:39,539
-It's time to put an end
+1184
+01:54:38,163 --> 01:54:41,235
+It's time to put an end to this idiotic war.
 
-1124
-01:54:39,623 --> 01:54:41,625
--to this idiotic war.
-- Yes, ma'am.
+1185
+01:54:41,260 --> 01:54:41,798
+Yes, ma'am.
 
-1125
-01:54:42,459 --> 01:54:44,628
+1186
+01:54:42,427 --> 01:54:44,237
 Hey, it's Calcifer!
 
-1126
-01:54:44,711 --> 01:54:47,255
+1187
+01:54:44,655 --> 01:54:47,010
 You didn't have to come back, Calcifer.
 
-1127
+1188
 01:54:49,800 --> 01:54:53,136
-I Kind of missed you guys.
-And it looks like it's gonna rain.
+I Kind of missed you guys. And
+it looks like it's gonna rain.
 
-1128
-01:54:53,261 --> 01:54:56,223
+1189
+01:54:53,253 --> 01:54:55,265
 I missed you, too, Calcifer.
 
-1129
-01:54:56,306 --> 01:54:57,974
+1190
+01:54:56,306 --> 01:54:57,211
 Wow!
 
