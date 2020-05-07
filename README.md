@@ -80,7 +80,7 @@ OneDirve：http://pan.edatribe.com
 | A062 | Akame ga Kill!                                                                                                      | 斩·赤红之瞳!                             | 24集 | 计划 |
 | A063 | A Centaur's Life                                                                                                    | 人马少女的烦恼                           | 12集 | 计划 |
 | A064 | One Punch Man | 一拳超人 | 24集 | 计划 |
-| A085 | Demon_Slayer | 鬼灭之刃 | 26集 | 计划 |
+| A085 | Demon Slayer | 鬼灭之刃 | 26集 | 计划 |
 
 
 ### **剧场版**
@@ -94,7 +94,7 @@ OneDirve：http://pan.edatribe.com
 | M006 | [My Neighbor Totoro](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M006]My_Neighbor_Totoro) | 龙猫 | 1988 | 完成 |
 | M007 | Castle in the Sky | 天空之城 | 1986 | 计划 |
 | M008 | Kiki's Delivery Service | 魔女宅急便 | 1989 | 计划 |
-| M009 | [Howl's Moving Castle](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M009]Howl's Moving Castle) | 哈尔的移动城堡 | 2004 | 完成 |
+| M009 | [Howl's Moving Castle](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M009]Howl's_Moving_Castle) | 哈尔的移动城堡 | 2004 | 完成 |
 | M010 | Whisper of the Heart | 侧耳倾听 | 1995 | 计划 |
 | M011 | Nausicaa of the Valley of the Wind | 风之谷 | 1984 | 计划 |
 | M012 | Spirited Away | 千与千寻 | 2001 | 计划 |
