@@ -97,7 +97,7 @@ OneDirve：http://pan.edatribe.com
 | M009 | [Howl's Moving Castle](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M009]Howl's_Moving_Castle) | 哈尔的移动城堡 | 2004 | 完成 |
 | M010 | Whisper of the Heart | 侧耳倾听 | 1995 | 计划 |
 | M011 | Nausicaa of the Valley of the Wind | 风之谷 | 1984 | 计划 |
-| M012 | Spirited Away | 千与千寻 | 2001 | 计划 |
+| M012 | Spirited Away | 千与千寻 | 2001 | 进行 |
 | M013 | The Wind Rises | 起风了 | 2013 | 计划 |
 | M014 | Princess Mononoke | 幽灵公主 | 1997 | 计划 |
 | M015 | Ponyo | 悬崖上的金鱼姬 | 2008 | 计划 |
