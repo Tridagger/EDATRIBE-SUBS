@@ -80,7 +80,7 @@ OneDirve：http://pan.edatribe.com
 | A062 | Akame ga Kill!                                                                                                      | 斩·赤红之瞳!                             | 24集 | 计划 |
 | A063 | A Centaur's Life                                                                                                    | 人马少女的烦恼                           | 12集 | 计划 |
 | A064 | One Punch Man | 一拳超人 | 24集 | 计划 |
-| A085 | Demon Slayer | 鬼灭之刃 | 26集 | 计划 |
+| A065 | Demon Slayer | 鬼灭之刃 | 26集 | 计划 |
 
 
 ### **剧场版**
