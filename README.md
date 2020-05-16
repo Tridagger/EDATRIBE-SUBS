@@ -81,6 +81,7 @@ OneDirve：http://pan.edatribe.com
 | A063 | A Centaur's Life                                                                                                    | 人马少女的烦恼                           | 12集 | 计划 |
 | A064 | One Punch Man | 一拳超人 | 24集 | 计划 |
 | A065 | Demon Slayer | 鬼灭之刃 | 26集 | 计划 |
+| A066 | Inuyasha | 犬夜叉 | 193集 | 计划 |
 
 
 ### **剧场版**
