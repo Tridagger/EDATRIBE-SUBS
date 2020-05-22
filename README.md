@@ -82,7 +82,8 @@ OneDirve：http://pan.edatribe.com
 | A064 | One Punch Man | 一拳超人 | 24集 | 计划 |
 | A065 | Demon Slayer | 鬼灭之刃 | 26集 | 计划 |
 | A066 | Inuyasha | 犬夜叉 | 193集 | 计划 |
-
+| A067 | The Quintessential Quintuplets | 五等分的新娘 | 12集 | 计划 |
+| A068 | Snow White with the Red Hair | 赤发白雪姬 | 24集 | 计划 |
 
 ### **剧场版**
 | 序号 | 英文名                                                                         | 中文名       | 上映年份 | 状态 |
