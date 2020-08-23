@@ -8,7 +8,7 @@
 #### 相关视频资源下载地址
 百度网盘：https://pan.baidu.com/s/1T31fPYdHuxWP1O-LypMUJQ 提取码：8luy (压缩包解压密码：www.edatribe.com)
 
-OneDirve：http://pan.edatribe.com
+OneDirve：https://down.edatribe.com/home/2
 
 两种下载方式各有利弊，百度网盘稳定，但非会员会被限速，而且下载后需要在电脑上解压。OneDirve 不限速，而且可以在线预览，但服务器在国外，服务器连接不稳定。
 
