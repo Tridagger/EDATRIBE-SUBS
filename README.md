@@ -5,34 +5,34 @@
 英配部落目前收集了许多英配动画，但绝大多数的动画都使用的sub版字幕，对很多英语基础差的小伙伴们很不友好。所以本项目的目标就是收集和制作与英配动画的台词相一致的字幕，提升观看体验。
 
 字幕制作是一项非常耗时耗力的工作，一个人的力量是有限的，希望能够汇聚大家的力量将此项目进行下去，让更多的英配动画有字幕适配。
+
 #### 相关视频资源下载地址
-百度网盘：https://pan.baidu.com/s/1T31fPYdHuxWP1O-LypMUJQ 提取码：8luy (压缩包解压密码：www.edatribe.com)
 
 OneDirve：https://down.edatribe.com/home/2
 
-两种下载方式各有利弊，百度网盘稳定，但非会员会被限速，而且下载后需要在电脑上解压。OneDirve 不限速，而且可以在线预览，但服务器在国外，服务器连接不稳定。
+
 
 ### **TV 动画**
 
 | 序号 | 英文名                                                                                                              | 中文名                                   | 集数 | 状态 |
 | ---- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---- | ---- |
-| A001 | [Teasing Master Takagi san](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A001]Teasing_Master_Takagi-san) | 擅长捉弄的高木同学                       | 12集 | 完成 |
-| A002 | [Puella Magi Madoka Magica](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A002]Puella_Magi_Madoka_Magica) | 魔法少女小圆                             | 12集 | 完成 |
-| A003 | [Fate/Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A003]Fate_Zero)                                 | 命运之夜前传                             | 25集 | 完成 |
-| A004 | [No-Rin](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A004]No-Rin)                                       | 农林                                     | 12集 | 完成 |
-| A005 | [No Game No Life](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A005]No_Game_No_Life)                                                                                                     | 游戏人生                                 | 12集 | 完成 |
+| A001 | Teasing Master Takagi san | 擅长捉弄的高木同学                       | 12集 | 完成 |
+| A002 | Puella Magi Madoka Magica | 魔法少女小圆                             | 12集 | 完成 |
+| A003 | Fate/Zero | 命运之夜前传                             | 25集 | 完成 |
+| A004 | No-Rin | 农林                                     | 12集 | 完成 |
+| A005 | No Game No Life | 游戏人生                                 | 12集 | 完成 |
 | A006 | Death Note                                                                                                          | 死亡笔记                                 | 37集 | 计划 |
 | A007 | Assassination Classroom                                                                                             | 暗杀教室                                 | 47集 | 计划 |
-| A008 | [WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/%5BA008%5DWorldEnd_What_are_you_doing_at_the_end_of_the_world_Are_you_busy_Will_you_save_us)                               | 末日时在做什么？有没有空？可以来拯救吗？ | 12集 | 完成 |
+| A008 | WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us? | 末日时在做什么？有没有空？可以来拯救吗？ | 12集 | 完成 |
 | A009 | Sword Art Online                                                                                                    | 刀剑神域                                 | 85集 | 计划 |
 | A010 | Jormungand                                                                                                          | 军火女王                                 | 24集 | 计划 |
-| A011 | [Erased](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A011]Erased)                                       | 只有我不在的街道                         | 12集 | 完成 |
-| A012 | Hyouka                                                                                                              | 冰菓                                     | 22集 | 进行 |
+| A011 | Erased | 只有我不在的街道                         | 12集 | 完成 |
+| A012 | Hyouka                                                                                                              | 冰菓                                     | 22集 | 完成 |
 | A013 | The Devil Is a Part-Timer!                                                                                          | 打工吧！魔王大人                         | 13集 | 计划 |
-| A014 | Nichijou: My Ordinary Life                                                                                          | 日常                                     | 26集 | 进行 |
-| A015 | A Certain Scientific Railgun                                                                                        | 某科学超电磁炮                           | 48集 | 进行 |
+| A014 | Nichijou: My Ordinary Life                                                                                          | 日常                                     | 26集 | 计划 |
+| A015 | A Certain Scientific Railgun                                                                                        | 某科学超电磁炮                           | 48集 | 计划 |
 | A016 | Ouran High School Host Club                                                                                         | 樱兰高校男公关部                         | 26集 | 计划 |
-| A017 | Parasyte: The Maxim                                                                                                 | 寄生兽：生命的准则                       | 24集 | 进行 |
+| A017 | Parasyte: The Maxim                                                                                                 | 寄生兽：生命的准则                       | 24集 | 计划 |
 | A018 | Charlotte                                                                                                           | 夏洛特                                   | 13集 | 计划 |
 | A019 | DARLING in the FRANXX                                                                                               |                                          | 24集 | 计划 |
 | A020 | Good Luck Girl!                                                                                                     | 贫乏神来了!                              | 13集 | 计划 |
@@ -56,7 +56,7 @@ OneDirve：https://down.edatribe.com/home/2
 | A038 | Shakugan no Shana                                                                                                   | 灼眼的夏娜                               | 76集 | 计划 |
 | A039 | Dragon Ball: Z                                                                                                      | 龙珠Z                                    | 291集 | 计划 |
 | A040 | Rurouni Kenshin                                                                                                     | 浪客剑心                                 | 94集 | 计划 |
-| A041 | [Classroom of the Elite](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[A041]Classroom_of_the_Elite)                                                                                              | 实力至上主义的教室                       | 12集 | 完成 |
+| A041 | Classroom of the Elite | 实力至上主义的教室                       | 12集 | 完成 |
 | A042 | Absolute Duo                                                                                                        | 绝对双刃                                 | 12集 | 计划 |
 | A043 | A Sister's All You Need                                                                                             | 如果有妹妹就好了                         | 12集 | 计划 |
 | A044 | The Melancholy of Haruhi Suzumiya                                                                                   | 凉宫春日的忧郁                           | 28集 | 计划 |
@@ -84,29 +84,48 @@ OneDirve：https://down.edatribe.com/home/2
 | A066 | Inuyasha | 犬夜叉 | 193集 | 计划 |
 | A067 | The Quintessential Quintuplets | 五等分的新娘 | 12集 | 计划 |
 | A068 | Snow White with the Red Hair | 赤发白雪姬 | 24集 | 计划 |
-| A069 | Attack On Titan | 进击的巨人 | 59集 | 计划 |
+| A069 | Attack On Titan | 进击的巨人 | 59集 | 进行 |
+| A070 | Blood Blockade Battlefront | 血界战线 | 25集 | 计划 |
+| A071 | Tokyo Magnitude 8.0 | 东京地震8.0 | 11集 | 计划 |
+| A072 | Pretty Guardian Sailor Moon Crystal | 美少女战士Crystal | 39集 | 计划 |
+| A073 | Digimon Adventure | 数码宝贝大冒险 | 54集 | 计划 |
+| A074 | Digimon Adventure 02 | 数码宝贝大冒险02 | 50集 | 计划 |
+| A075 | ID INVADED | 异度侵入 | 13集 | 计划 |
+| A076 | Is It Wrong to Try to Pick Up Girls in a Dungeon? | 在地下城寻求邂逅是否搞错了什么？ | 13集 | 计划 |
+| A077 | Cardcaptor Sakura Clear Card-hen | 魔卡少女樱 透明牌篇 | 22集 | 计划 |
+| A078 | Miss Kobayashi's Dragon Maid | 小林家的龙女仆 | 13集 | 计划 |
 
 ### **剧场版**
 | 序号 | 英文名                                                                         | 中文名       | 上映年份 | 状态 |
 | ---- | ------------------------------------------------------------------------------ | ------------ | -------- | ---- |
-| M001 | [Your Name.](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M001]Your_Name) | 你的名字     | 2016     | 完成 |
-| M002 | [No Game No Life: Zero](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M002]No_Game_No_Life_Zero)      | 游戏人生Zero | 2017     | 完成 |
-| M003 | [Sword Art Online: Ordinal Scale](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M003]Sword_Art_Online_Ordinal_Scale)  | 刀剑神域：序列之争 | 2017 | 完成 |
+| M001 | Your Name. | 你的名字     | 2016     | 完成 |
+| M002 | No Game No Life: Zero | 游戏人生Zero | 2017     | 完成 |
+| M003 | Sword Art Online: Ordinal Scale | 刀剑神域：序列之争 | 2017 | 完成 |
 | M004 | Shakugan no Shana: The Movie | 灼眼的夏娜剧场版 | 2007 | 计划 |
-| M005 | [A Silent Voice](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M005]A_Silent_Voice) | 声之形 | 2016 | 完成 |
-| M006 | [My Neighbor Totoro](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M006]My_Neighbor_Totoro) | 龙猫 | 1988 | 完成 |
-| M007 | Castle in the Sky | 天空之城 | 1986 | 计划 |
-| M008 | Kiki's Delivery Service | 魔女宅急便 | 1989 | 计划 |
-| M009 | [Howl's Moving Castle](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M009]Howl's_Moving_Castle) | 哈尔的移动城堡 | 2004 | 完成 |
+| M005 | A Silent Voice | 声之形 | 2016 | 完成 |
+| M006 | My Neighbor Totoro | 龙猫 | 1988 | 完成 |
+| M007 | Castle in the Sky | 天空之城 | 1986 | 完成 |
+| M008 | Kiki's Delivery Service | 魔女宅急便 | 1989 | 完成 |
+| M009 | Howl's Moving Castle | 哈尔的移动城堡 | 2004 | 完成 |
 | M010 | Whisper of the Heart | 侧耳倾听 | 1995 | 计划 |
 | M011 | Nausicaa of the Valley of the Wind | 风之谷 | 1984 | 计划 |
-| M012 | Spirited Away | 千与千寻 | 2001 | 进行 |
+| M012 | Spirited Away | 千与千寻 | 2001 | 完成 |
 | M013 | The Wind Rises | 起风了 | 2013 | 计划 |
 | M014 | Princess Mononoke | 幽灵公主 | 1997 | 计划 |
 | M015 | Ponyo | 悬崖上的金鱼姬 | 2008 | 计划 |
 | M016 | Porco Rosso | 红猪 | 1992 | 计划 |
 | M017 | A Certain Magical Index - Movie | 魔法的禁书目录：恩底弥翁的奇迹 | 2013 | 计划 |
-| M018 | [Maquia: When the Promised Flower Blooms](https://github.com/Tridagger/EDATRIBE-SUBS/tree/master/[M018]Maquia_When_the_Promised_Flower_Blooms) | 朝花夕誓 - 于离别之朝束起约定之花 | 2018 | 完成 |
+| M018 | Maquia: When the Promised Flower Blooms | 朝花夕誓 - 于离别之朝束起约定之花 | 2018 | 完成 |
+| M019 | Ne Zha | 哪吒之魔童降世 | 2019 | 完成 |
+| M020 | White Snake | 白蛇：缘起 | 2019 | 完成 |
+| M021 | The Disappearance of Haruhi Suzumiya | 凉宫春日的消失 | 2010 | 完成 |
+| M022 | Weathering With You | 天气之子 | 2019 | 完成 |
+| M023 | Fairy Tail - Phoenix Priestess | 妖精的尾巴 -凤凰的巫女- | 2012 | 计划 |
+| M024 | Naruto - Ninja Clash in the Land of Snow | 火影忍者：大活剧！雪姬忍法帖！！ | 2004 | 完成 |
+| M025 | Naruto - Legend of the Stone of Gelel | 火影忍者：大激突！幻之地底遗迹完成 | 2005 | 计划 |
+| M026 | Big Fish and Begonia | 大鱼海棠 | 2016 | 完成 |
+| M027 | K-On! The Movie | 轻音少女！剧场版 | 2011 | 完成 | 
+| M028 | One Piece 3D2Y | 海贼王特别篇3D2Y跨越艾斯之死 | 2014 | 完成 | 
 
 ### 字幕制作说明
 #### 详细解释
